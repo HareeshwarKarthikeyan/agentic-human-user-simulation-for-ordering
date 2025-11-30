@@ -4,6 +4,18 @@
 
 This repository contains the supplementary materials for the paper "Agentic Persona Control and Task State Tracking for Realistic User Simulation in Interactive Scenarios" submitted to the Workshop on Scaling Environments for Agents. The codebase implements a three-agent architecture for simulating realistic human users in conversational ordering scenarios, achieving superior task completion accuracy and persona adherence compared to single-agent baselines.
 
+## Repository Structure
+
+```
+├── agents/                 # Core agent implementations
+├── experiments/           # Experiment configurations (exp1-5)
+├── evaluations/          # Evaluation scripts and results
+├── test_case_generation/ # Test data and generation prompts
+├── paper/               # Research paper draft
+└── scripts/            # Utility scripts for running simulations
+```
+
+
 ## Architecture 
 
 Our multi-agent framework employs structured collaboration between specialized agents to achieve realistic user simulation:
@@ -135,17 +147,6 @@ Our multi-agent architecture demonstrates:
 - Statistically significant improvements (p < 0.01) across all metrics
 - State tracking agent contributes most to performance gains
 
-## Repository Structure
-
-```
-├── agents/                 # Core agent implementations
-├── experiments/           # Experiment configurations (exp1-5)
-├── evaluations/          # Evaluation scripts and results
-├── test_case_generation/ # Test data and generation prompts
-├── paper/               # Research paper draft
-└── scripts/            # Utility scripts for running simulations
-```
-
 ## Citation
 
 If you use this code in your research, please cite:
@@ -161,5 +162,5 @@ If you use this code in your research, please cite:
 
 ## Contact
 
-For questions about reproducing results or implementation details, please open an issue on GitHub.
+For questions about reproducing results or implementation details, please open an issue on GitHub or contact the author.
 
