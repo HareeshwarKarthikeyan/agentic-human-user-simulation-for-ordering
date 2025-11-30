@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+4413ad29-9d1e-440c-a186-924072cd57cb,"Hey there! I'd like to place an order for a Caesar Salad with grilled chicken and a small Fresh Orange Juice, please.",3319,3.635055
+4a3fac27-d796-44c7-9bab-6cf8d6352da6,"Hi, it's Diana Walsh here. Could I please have the Caesar Salad with grilled chicken? And for the Fresh Orange Juice, I'll take it without pulp, please. Thanks!",3395,2.877672
+71417909-4b3d-4f86-9e06-82461a602e57,"Thanks for confirming, but I just want to make sure that the Orange Juice is marked as small. Other than that, everything looks perfect. I won't need anything else. I'll be picking it up in about 20 minutes.",2391,3.721109
+275d8e07-f10d-4365-9a6e-1cc4ce4221c5,exit,2151,4.144564

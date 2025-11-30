@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+0c244104-b132-4178-9395-a006ee94ef23,Hi there! I'm looking to order a Portobello Mushroom Burger. Could you tell me more about the ingredients and preparation methods to make sure there is no cross-contamination with animal products?,2186,3.630695
+2e2e03ca-3288-4d9c-a7c4-a4b8d389ef55,"I'll go with the vegan cheese on the Portobello Mushroom Burger. For the side, I'll have the sweet potato fries. Could you confirm those details for me?",2496,2.869268
+a76b8b73-33c9-461f-89c0-2c099dd7c670,The name for the order is Alex Turner. Can you confirm the total price for the Portobello Mushroom Burger with vegan cheese and sweet potato fries?,2441,3.790121
+2e3350a9-1849-479b-a7fb-ac289552baa1,"No, I'll skip the drink for now. Thanks for confirming everything else!",2612,3.657251
+5e12b882-17c1-4357-9f5e-a6f4e4fcae13,exit,2544,1.129891

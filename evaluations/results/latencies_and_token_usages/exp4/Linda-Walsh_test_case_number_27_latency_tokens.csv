@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+29bcee43-ae9e-4658-a1dc-531d4491fbd4,"Hi there! I'd like to place an order for a Chicken Parmesan, please.",2092,3.798182
+b337c3c6-eeed-4ae0-ad38-fdcb52ade1d6,"I'd like the Chicken Parmesan with angel hair pasta, please. No need for extra sauce or cheese. Thank you!",2210,3.002888
+03d2d081-649a-437e-ab17-532ed2349bd2,"Sure, you can put the name as Linda Walsh for the order. 
+
+Oh, and what's the total price for that?",2093,0.880535
+f5d82b41-a99c-4b09-931f-a5d64427a79f,exit,3588,3.319334

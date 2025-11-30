@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+aa3393a6-e760-44bb-a9a7-7c15f63dafcb,Hey there! This is Robert Kim. I'd like to place an order for some Fish and Chips. Can you help me with that?,3084,3.212223
+c7c3c68a-0669-4d3b-be81-4b9001e0840f,"Hey there! That sounds just like what I want. I'm all good with the classic beer-battered cod—no extras needed. Just the Fish and Chips, please. How much will that be?",2091,1.972136
+20907f3d-248d-437b-8be5-52242751c2f5,"Yes, that's correct. The name is Robert Kim. The order looks all set with the Fish and Chips. Thank you!",2012,3.262495
+0781301a-583e-4a5c-98fc-b996feb4e543,exit,2057,2.278597

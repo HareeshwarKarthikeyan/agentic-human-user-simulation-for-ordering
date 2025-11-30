@@ -1,0 +1,15 @@
+.env
+
+
+tmp_saved*.tex
+paper/draft/tmp_saved_input_draft.tex
+
+# Python cache files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# macOS files
+.DS_Store
+

@@ -1,0 +1,11 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+bfb50ea4-067e-42bc-a250-dcbb5be03cfb,"Hi! I'm Priya. I'm ordering for a kids' soccer team celebration and I need to make sure it's kid-friendly with mild spice. I'll be getting started with three Kids Chicken Tenders, each with honey mustard, French fries, and apple juice, please. Also, could I get a large Margherita Pizza? 
+
+Could you let me know the total cost and if there are any bulk ordering discounts available? Thanks! ",2176,2.074418
+c5ae4042-cbb1-4675-8f34-91ab2295fb46,Hey there! Priya here. That order sounds just right for the kids' soccer team celebration. Sticking with the thin crust for the large Margherita Pizza is perfect. Can you confirm the total cost for me? Thank you!,2587,5.513837
+90cc5170-1be4-4ab6-9d19-239a1ec5cf0f,"Hello, my name is Priya Patel. It looks like the order wasn't fully processed yet. Could you please add 3 Kids Chicken Tenders with honey mustard, French fries, and apple juice to the order as well? And make sure the Margherita Pizza is a large size, please.
+
+Also, I'm wondering if you offer any discounts for bulk orders like this? Let me know the updated total when you can. Thanks!",3986,6.720582
+ea542f3c-72bb-4997-8e61-8db0b57d7952,"Hey, it looks like we need to make an adjustment here. Could you please add a large Margherita Pizza with a thin crust to the order? It seems like it hasn't been included yet. The Kids Chicken Tenders with honey mustard, French fries, and apple juice sound perfect, though. Thanks!",2271,3.175586
+0a4fa870-20ab-49c8-89f9-8d0fe81b84b6,"Yes, that's correct. The name for the order is Priya Patel. Please go ahead and get it started.",2341,3.997547
+fa1b2401-cc9d-4cf5-9ddf-405a653dd0b0,exit,3983,8.058287

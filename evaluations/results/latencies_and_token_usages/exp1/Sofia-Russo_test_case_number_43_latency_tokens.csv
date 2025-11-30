@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+1ba5503f-d911-48a2-b909-807af4849ac3,"Hi there! I’d like to place an order for a Filet Mignon cooked medium rare, please. And I’d also like a 9oz glass of House Red Wine with that. How much will that be?",1166,1.047842025756836
+4fb8be3d-9b4c-4f1f-a7a4-82b9e4ac4a90,"Yes, it's Sofia Russo. Can you please confirm the order details? That’s one Filet Mignon medium rare and one 9oz glass of House Red Wine.",1324,1.0299410820007324
+748cfd12-4af2-4fa1-8671-141cc3018fee,"Yes, that sounds perfect. I’ll be there in about 20 minutes. ",1424,0.650446891784668
+1c179dbf-19a9-4384-a3a5-6f13152e4c5a,exit,1519,0.46732020378112793

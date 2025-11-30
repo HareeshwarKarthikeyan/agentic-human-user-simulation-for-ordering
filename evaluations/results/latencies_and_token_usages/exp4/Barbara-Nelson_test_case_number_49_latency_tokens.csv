@@ -1,0 +1,9 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+63e6e023-f81b-46df-a7da-227cf382df7e,"Hi there! My name is Barbara Nelson, and I'm looking to place an order today. Could you tell me a bit about your menu options, especially any specials or unique dishes you might have today?",2468,3.545479
+6fe99492-7281-4e9a-9623-dd0f3139e8e0,"Hi, thanks for the options! I'm actually interested in ordering a Caesar Salad, but I'd like to add salmon to it, have the dressing on the side, and also request no croutons. Could you help me with that?",2987,2.979294
+50e09760-2c8b-4ff3-a9d5-3ea3aa9d5d7a,"Oh, nothing additional for drinks right now, but I appreciate the offer. I still have a few more items to add to the order. Could you tell me about your vegetable stir fry options, please?",2930,3.305975
+85f4392d-bb71-43de-bbec-121a69659ea3,"Great, I'd like to add a Vegetable Stir Fry with tofu as the protein, and I'd prefer it with brown rice. Could you make it mild on the spice, please?",4994,3.601487
+f4b556fe-237b-4e80-8352-42b02faeb9f5,"I'm actually considering ordering for a corporate event, so I'd like to also add a **Portobello Mushroom Burger** with vegan cheese and a side salad, please. 
+
+Could you give me an updated total and let me know about the pickup timing for everything?",3564,2.943782
+e0d28ff0-ac62-4841-95f9-f7356079ce60,exit,6697,3.609088

@@ -1,0 +1,31 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+0ccbc8f6-8fe0-4914-a7d2-82a4814b1cf3,assistant,Hello! Thank you for calling The Garden Bistro. How can I assist you today?,order_taking_llm,2025-08-30T05:28:12.363636+00:00,,,,,,-1.0
+a8c9e05b-5b9d-4080-ae5f-a6e077e1dea8,agent,"Hi there! I'd like to place an order for a Portobello Mushroom Burger with French Fries and a French Onion Soup, please.",guest_simulation_llm,2025-08-30T05:28:13.349593+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1087, ""num_response_tokens"": 27, ""total_tokens"": 1114}",985.7168197631836
+ee0ec747-9525-4099-9838-90bed1fc1b04,assistant,"Great choice! The Portobello Mushroom Burger comes with roasted red peppers, arugula, and balsamic glaze. Just to confirm, you'd like that with French Fries, correct? 
+
+And for the French Onion Soup, would you like to upgrade to a bowl size for an additional $3.00?",order_taking_llm,2025-08-30T05:28:14.588297+00:00,,,,,,-1.0
+96fb2aa4-e2a5-4e33-9ae8-8e0a6a912bfa,agent,"Yes, I’d like the Portobello Mushroom Burger with French Fries, and the French Onion Soup, but just the regular size, please. What’s the total for that?",guest_simulation_llm,2025-08-30T05:28:15.979769+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1201, ""num_response_tokens"": 36, ""total_tokens"": 1237}",1390.9060955047607
+8865f062-bc2d-44ec-9cab-23341912352f,assistant,"Alright, let me recap your order:
+
+- **Portobello Mushroom Burger** with French Fries
+- **French Onion Soup** (regular size)
+
+The prices are as follows:
+- Portobello Mushroom Burger: $13.99
+- French Fries: included
+- French Onion Soup: $8.99
+
+So, the total comes to **$22.98**. 
+
+Can I get your name for the order?",order_taking_llm,2025-08-30T05:28:17.924376+00:00,,,,,,-1.0
+ca190045-e59d-4dac-8f2a-eb4a7d1e9805,agent,Sure! It's Jessica Martinez.,guest_simulation_llm,2025-08-30T05:28:18.918777+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1349, ""num_response_tokens"": 6, ""total_tokens"": 1355}",993.859052658081
+b9f00452-65e3-4d9c-8ba2-b221b40709da,assistant,"Thank you, Jessica! Your order is:
+
+- **Portobello Mushroom Burger** with French Fries
+- **French Onion Soup** (regular size)
+
+The total is **$22.98**. Your order will be ready for pickup in 20 minutes.
+
+Thank you for choosing The Garden Bistro! If you need anything else, just let us know. Have a great day!",order_taking_llm,2025-08-30T05:28:20.454907+00:00,,,,,,-1.0
+a7a23d25-6beb-45c1-a517-43451936535d,agent,exit,guest_simulation_llm,2025-08-30T05:28:21.282137+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1457, ""num_response_tokens"": 1, ""total_tokens"": 1458}",826.8051147460938
+a2c197f9-dc10-4ccc-8d07-5fd218b7af1c,system,"{""guest_persona"": {""full_name"": ""Jessica Martinez"", ""order_size"": 2, ""order_complexity"": ""medium"", ""guest_bio"": ""A vegetarian college student on a budget who carefully reviews prices and portion sizes. Often asks about meat-free options and substitutions. Likes to know about daily specials and combo deals.""}, ""target_order"": {""order_items"": [{""name"": ""Portobello Mushroom Burger"", ""quantity"": 1, ""base_price"": 13.99, ""modifiers"": [{""modifier_type_name"": ""Side Choice"", ""modifier_option_name"": ""French Fries"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 13.99}, {""name"": ""French Onion Soup"", ""quantity"": 1, ""base_price"": 8.99, ""modifiers"": [], ""item_total_price"": 8.99}], ""order_total_price"": 22.98, ""reasoning"": ""Jessica Martinez selected an affordable portobello burger with fries and French onion soup for a Thursday lunch, getting filling vegetarian options under budget.""}}",test_case_info,2025-08-30T05:28:21.282343+00:00,,,,,,-1.0

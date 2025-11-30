@@ -1,0 +1,22 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+e16b9dc1-c5e8-4d75-b06a-8dddb8c4c475,"Hi there! I'd like to quickly place an order for the Grilled Chicken Sandwich, and I'd like it with French Fries on the side. Also, could I get a Medium Coca-Cola to go with that, please?",3335,3.092148
+b62137fb-d960-4cf9-b68b-08f0b427c82b,"Hi, it's Diana Walsh. That order sounds perfect. Can you confirm if that's all set and the price for me?",3218,4.122056
+d6a1fbbc-b6ea-4856-8d68-c1d70ff7985f,"Hi! It looks like the Grilled Chicken Sandwich is missing from my order. Could you please add that with French Fries? I'm good with the Medium Coca-Cola, and I won't need anything else. Thanks! ",3642,6.077219
+32ccbe61-7442-4421-9c0e-4b9ee6c3fa7f,"Yes, that sounds perfect! Can you please add the Grilled Chicken Sandwich with French Fries and the Medium Coca-Cola to my order?",3473,5.418868
+61d207f7-86d4-4226-81b3-cb3592f479e2,"Yes, that order looks perfect! I'll pick it up in about 20 minutes. Thanks!",2214,3.567785
+e5292f7f-70c2-4bde-8204-d4ce1eaf8a80,"It looks like the order amount total and item details weren't exactly matching what I've got here. Can we go over the order again? I wanted to confirm the prices, as my total seems to differ from the $19.98 mentioned:
+
+1. **Grilled Chicken Sandwich** with French Fries - $14.99
+2. **Medium Coca-Cola** - $4.99
+
+Total: $19.98
+
+Could we confirm these details and adjust, just to be sure everything is good to go? Thanks!",2340,2.990992
+74647cb0-b20f-456a-ad54-19578aa778b7,"Hi there! I just wanted to make sure about my order. I need a Grilled Chicken Sandwich with French Fries and a Medium Coca-Cola. Looks like there might be some mix-up, can you help make sure I have these exact items in the order? Thank you!",2270,3.546469
+3663ea5e-f45b-419e-845c-f186a2deb52f,"Hey! Actually, I think there's a slight mistake. Could you please add the **Grilled Chicken Sandwich** with French Fries and a **Medium Coca-Cola** to my order? Thanks!",3523,6.465189
+1519cbf2-6adc-412a-a7aa-00422a5217ed,"It looks like the order is almost set, but there's a small detail regarding the Coca-Cola. It should be listed as just ""Coca-Cola"" with the ""Medium"" size as a modifier. 
+
+Could you please correct that? Once that's done, I'm ready to go ahead with the order for pickup in 20 minutes!",2177,2.898331
+0be7f62c-47e9-498e-96c8-5d3dfdf28711,"Looks like we're right on track with the order! The **Grilled Chicken Sandwich with French Fries** and a **Medium Coca-Cola** is what I wanted. The total sounds good to me at **$19.98**, and being ready in 20 minutes is perfect. Go ahead and finalize it!",2192,3.000972
+93c127c9-dae2-41b9-8beb-650e8ee0b3a0,"It seems like my order hasn't been placed yet, could you please confirm a **Grilled Chicken Sandwich** with **French Fries** and a **Medium Coca-Cola** for me? Thanks!",2192,3.097275
+a26ea456-a3f5-48bb-8b00-1de5a74bdf02,exit,2107,3.793512

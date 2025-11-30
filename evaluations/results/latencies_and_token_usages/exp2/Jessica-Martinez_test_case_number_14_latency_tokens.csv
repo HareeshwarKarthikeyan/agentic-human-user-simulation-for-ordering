@@ -1,0 +1,9 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+ba09aa57-0b23-4cb9-8e02-db01c383c503,"Hi there! I'd like to place an order for pick-up. Could I get a Portobello Mushroom Burger with French Fries and a French Onion Soup, please? Thanks!",2097,1.199202
+7d8921bf-9b54-420e-96ee-58d044def140,"Alright, let me confirm my order in line with my budget! 
+
+I'd like the Portobello Mushroom Burger just as it is, without any cheese, please. And yes, I'll have the French Onion Soup in a bowl size. Could you let me know the total cost of my order?",2282,0.694442
+c45e0930-ecc6-4fac-9d1f-31479337b227,"Thanks! But I just want to stick to my order, so no drinks for now. Could you confirm if the French Onion Soup is priced correctly? I was under the impression it's $8.99, not an additional $3.00.",2524,0.789922
+711dd050-4229-4aa1-ba89-cf4ad5b4c66d,"Great, that sounds perfect! Please go ahead and get that all set for me. Thanks!",2653,0.83747
+6743f423-3a68-446f-9719-dd30629d5bfc,Sure thing! My name is Jessica Martinez. Thanks for confirming my order.,2581,0.723827
+9551d5cb-cd37-4525-958c-e9d7e3ac665b,exit,2662,0.655619

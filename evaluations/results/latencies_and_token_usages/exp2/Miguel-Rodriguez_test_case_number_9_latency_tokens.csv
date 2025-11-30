@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+08600930-1a92-413e-97f4-c4ee1e2ea8e3,"Hey there! I'd like to place an order for some dinner. I'm a fan of trying out different combinations, so I have a few customizations in mind. Can I start with a Spaghetti Carbonara? I'd love to add some shrimp to that, and extra Parmesan would be great too. Oh, and can't forget the garlic bread on the side!",2378,1.133293
+195b112f-9956-463b-9071-0579de6f4493,"Sure thing, you can put the order under Miguel Rodriguez. 
+
+Also, I’d like to add a couple more items to my order. Could I please get a Caesar Salad with salmon, but without croutons? And for dessert, a Chocolate Lava Cake with strawberry ice cream, plus an extra scoop of ice cream. Could you confirm those and let me know the total for everything?",2869,0.7597
+36513501-db8b-4935-a908-e1e0a508388d,Thanks for confirming the order! Everything looks perfect. I'll pick it up around 6:30 PM. Appreciate it!,3514,0.76429
+bed58ce9-1a34-4973-8f75-3f82b1941dbd,exit,3240,0.759213

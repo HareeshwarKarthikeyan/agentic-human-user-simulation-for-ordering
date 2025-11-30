@@ -1,0 +1,8 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+a7311ae0-3b23-4726-88fb-c539db705a06,"Hi there, I’d like to place an order for a Ribeye Steak cooked Medium Rare, please.",1282,0.9257328510284424
+a6bd98b5-f60b-43c0-8113-3a04351ef71c,"No sauce for me, and I don't need the mashed potatoes or vegetables. Just the Ribeye Steak cooked Medium Rare, please.",1386,0.8178420066833496
+54a15284-8708-4149-8673-fc5943ccc1a6,"Actually, yes. I also want a Caesar Salad with grilled chicken, but no croutons, please.",1474,1.1366498470306396
+a0e282d3-4702-4ec6-87a9-fb4b1b347f73,"No dressing on the side, just the salad as is. Thanks!",1562,0.716015100479126
+f19c7aa5-2fb6-41dc-9b3b-269ae5c2f809,"Actually, before we finish, I’d also like a large Cappuccino with skim milk, please.",1705,0.821876049041748
+f8c8c13b-7ade-4252-be49-2fdfd60fc746,The name is Marcus James.,1859,0.6105051040649414
+0a98f6ad-833d-4c44-bff7-51637402ae2c,exit,1982,0.5612328052520752

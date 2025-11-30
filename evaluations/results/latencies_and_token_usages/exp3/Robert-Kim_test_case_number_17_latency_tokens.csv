@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+f445594c-7021-49da-a7b7-dce0063ed260,"Hi there, this is Robert Kim. I'd like to place an order for a Classic Burger cooked medium with American cheese and French fries on the side, please.",2065,2.144551
+32feda46-58d0-4e51-8e92-aa90785d93db,"Hi there, you've got it spot on with my order! And no, thanks, I won't be needing any drinks or dessert. Just sticking to my Classic Burger and fries today. Appreciate the confirmation.",2249,2.915038
+c7ea7d9a-78ee-48ad-933a-e4a3938ce9c6,"Hi, I'm Robert Kim. Just want to make sure that my current order status is updated. Could you please add a Classic Burger cooked medium with American cheese and French fries on the side to my order? And I’d like to confirm the total at $17.49. I'll pick it up in about 20 minutes.",3485,5.738674
+11945fd4-9e8c-4e96-afce-9c89eeb8582a,exit,2241,4.360107

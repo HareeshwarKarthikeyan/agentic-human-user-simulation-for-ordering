@@ -1,0 +1,38 @@
+You are an expert food industry analyst who has studied restaurant goers. You must read the data/menu.json and data/personas.json files thoroughly and understand them first. Then generate me target order test cases for these personas. 
+Imagine that each of the provided 20 personas come to the restaurant at three different times of the week. So you must generate 60 target order test cases in total. You must also provide the reasoning for why this target order in each case.
+Here are an examples following the data structure for you to generate each test case. 
+
+'''
+{
+    "guest_persona": {
+    "full_name": "Sarah Johnson",
+    "order_size": 1,
+    "order_complexity": "simple",
+    "guest_bio": "A busy professional who values quick service and familiar menu items. Prefers straightforward orders without many customizations. Often orders during lunch breaks and appreciates efficiency."
+    },
+    "target_order": {
+    "order_items": [
+        {
+        "name": "Margherita Pizza",
+        "quantity": 1,
+        "base_price": 16.99,
+        "modifiers": [
+        {
+            "modifier_type_name": "Size",
+            "modifier_option_name": "Medium 14\"",
+            "is_required": true,
+            "price": 4.00
+        },
+        ],
+        "item_total_price": 20.99
+        }
+    ],
+    "order_total_price": 20.99,
+    "reasoning": "Sarah Johnson chose Supreme Pizza for a straightforward, efficient meal that aligns with their preference for quick service."
+    },
+},
+
+'''
+
+You must strictly follow the above data structure for each of the 60 orders you create. Each item in the order should be ACCURATE as per the menu and the persona. Do not cook up any new items or personalitites.
+Provide me your 60 orders in a order_test_cases.json file

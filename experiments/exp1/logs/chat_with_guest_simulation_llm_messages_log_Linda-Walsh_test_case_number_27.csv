@@ -1,0 +1,16 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+0ccdb16d-af87-4b1d-b6e9-b0f17b3c701b,assistant,Hello! Thank you for calling The Garden Bistro. How can I help you today?,order_taking_llm,2025-08-30T05:32:02.756596+00:00,,,,,,-1.0
+c025e24b-633e-4199-ab85-c319e0e7de53,agent,"Hi there! I’d like to order a Chicken Parmesan, please.",guest_simulation_llm,2025-08-30T05:32:03.492645+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1007, ""num_response_tokens"": 14, ""total_tokens"": 1021}",735.4609966278076
+2c140d8b-858b-4a21-bfe7-e6e39dc62be2,assistant,"Great choice! The Chicken Parmesan comes with breaded chicken breast, marinara sauce, and melted mozzarella over spaghetti. 
+
+Would you like to add any extra sauce or cheese to that? Also, can I get your name for the order?",order_taking_llm,2025-08-30T05:32:04.817858+00:00,,,,,,-1.0
+2d91270c-9673-46da-aa64-a673869ffee8,agent,"No, thank you. Just the Chicken Parmesan is fine. My name’s Linda Walsh. What’s the total?",guest_simulation_llm,2025-08-30T05:32:05.624191+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1094, ""num_response_tokens"": 23, ""total_tokens"": 1117}",805.7448863983154
+7102a351-6a33-408c-9340-11085ec912ab,assistant,"Thanks, Linda! The Chicken Parmesan is $22.99. Just to confirm, that’s one Chicken Parmesan with no extra sauce or cheese, right?
+
+Your total comes to $22.99. Would you like anything else with that?",order_taking_llm,2025-08-30T05:32:06.842941+00:00,,,,,,-1.0
+3192baa4-da96-40de-9152-ab8d84e9252c,agent,"No, that's all I need. Just the Chicken Parmesan for $22.99. Can you confirm my order?",guest_simulation_llm,2025-08-30T05:32:07.534006+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1190, ""num_response_tokens"": 23, ""total_tokens"": 1213}",690.3266906738281
+637754ac-3df5-4b9e-92b7-f73eef0d2a26,assistant,"Absolutely, Linda! Just to confirm, you have one Chicken Parmesan with no extra sauce or cheese for a total of $22.99. 
+
+Thank you for your order! It will be ready for pickup in 20 minutes. Have a great day!",order_taking_llm,2025-08-30T05:32:09.131471+00:00,,,,,,-1.0
+474f974f-949b-4ba7-83da-bb5bfc41210f,agent,exit,guest_simulation_llm,2025-08-30T05:32:09.750414+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1289, ""num_response_tokens"": 1, ""total_tokens"": 1290}",618.3340549468994
+8a256a12-61ff-44ce-9cc8-399c7f421ccb,system,"{""guest_persona"": {""full_name"": ""Linda Walsh"", ""order_size"": 1, ""order_complexity"": ""simple"", ""guest_bio"": ""An elderly regular customer who knows exactly what she wants. Orders quickly with no fuss but expects familiar service. Doesn't like new technology or complicated ordering processes.""}, ""target_order"": {""order_items"": [{""name"": ""Chicken Parmesan"", ""quantity"": 1, ""base_price"": 22.99, ""modifiers"": [], ""item_total_price"": 22.99}], ""order_total_price"": 22.99, ""reasoning"": ""Linda Walsh ordered Chicken Parmesan for a Saturday dinner, her weekend treat that she orders exactly the same way every time.""}}",test_case_info,2025-08-30T05:32:09.750559+00:00,,,,,,-1.0

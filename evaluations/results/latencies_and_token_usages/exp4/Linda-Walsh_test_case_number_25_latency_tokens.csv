@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+42df760b-4cb1-47f4-bb8f-ecf8e72e0cff,"Hi there! I'd like to order one French Onion Soup, please. Could you confirm the price for me?",2068,3.636469
+4049f811-3a2b-4d9d-b8f4-5dfd83cd32bc,"No, thank you. I'll stick with the regular size for the French Onion Soup. Can you confirm if my order is all set and the total price, please?",2161,3.570718
+856bec78-5d1a-4674-9dc3-924f30be0ced,"Sure, the name is Linda Walsh.",1799,0.711317
+ed988f6f-f002-4c47-83d8-a720399b20c7,exit,1824,1.021928

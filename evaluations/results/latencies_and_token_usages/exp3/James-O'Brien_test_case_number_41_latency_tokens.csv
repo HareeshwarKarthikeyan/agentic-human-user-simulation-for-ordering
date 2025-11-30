@@ -1,0 +1,15 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+e682706d-064c-4ee1-9242-a0028e02ba6a,Hey there! I'm looking to place an order for my crew. Can I get three orders of the Baby Back Ribs with French Fries as the side?,3329,4.206944
+29e35262-3151-4b24-b7b8-e4552d1ef503,"Hi, this is James. Yes, I'm all set with the ribs and fries. For the sauce, let's go with Honey BBQ, please. 
+
+I also need three Grilled Chicken Sandwiches with French Fries. Can we add those to the order too?",3658,5.9666
+f0646112-527b-4c7e-85b7-a85d6a06e7d4,"Hey, it's James O'Brien here! Just sticking with my usual today — no cheese or extra toppings, thanks. Just want to make sure we're square on the order: I need those three orders of Baby Back Ribs with Honey BBQ sauce and French Fries, and three Grilled Chicken Sandwiches each with French Fries. If you could confirm that all items are added correctly, I'd appreciate it!",2374,3.808968
+16fd51a0-597a-4eb0-b76c-6067c31f3eac,"Hey there! I'd like to place an order for:
+
+- Three orders of Baby Back Ribs with Honey BBQ sauce and French Fries.
+- Three Grilled Chicken Sandwiches, each with French Fries.
+
+Could you add those for me? Thanks!",4779,6.817398
+c2461d1f-ef2e-433f-9614-58fba5080a28,"Looks like there might be a mix-up. I haven't fully placed my order yet. Can we add three orders of Baby Back Ribs, each with French Fries on the side, and three Grilled Chicken Sandwiches, also with French Fries? My name's James O'Brien, and I'm a construction foreman ordering for my crew, so I need those reliable portions. Can you confirm that's all set before we finalize anything?",2157,1.791157
+0211219e-55e4-4902-8d34-9759d1141202,"Sounds perfect, thank you for confirming the order! I'll swing by to pick it up at 6 PM. Appreciate it!",2273,3.994314
+82c9c927-58b8-4502-b9f4-9725636e7205,exit,3331,4.401872

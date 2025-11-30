@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+5db8c1d0-48fc-4d72-9ecd-0c02d1fb508a,"Hey there! I'm looking to order a couple of things. Could you tell me if you have a Portobello Mushroom Burger on the menu, and if it comes with a side? ",2259,3.886009
+50adf28e-5079-4fb4-af46-2518deb0ae1b,"The Portobello Mushroom Burger sounds pretty great! I'll take it with a side of French fries. 
+
+Also, I'm interested in adding a bowl of French Onion Soup to my order. Could you give me the price for the burger with the fries and the soup?",2392,2.500602
+93d343da-af48-4f72-ab1f-372a89b091f0,"The name for the order is Jessica Martinez. And I'm good without a drink, thanks! Everything looks great.",3958,4.207584
+2d45e1f1-568f-4d3a-b2a6-b283d9e45ff7,exit,2415,4.097429

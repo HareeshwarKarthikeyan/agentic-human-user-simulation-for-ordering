@@ -1,0 +1,15 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+3345e7bd-8501-4bcc-9555-98e088200382,"Hi there! My name's Carlos Mendez, and I've got a particular order in mind. I’d like to order one Fettuccine Alfredo with a Protein Add-on of Lobster and some Mushrooms as additional Vegetables. And to go with that, a Margarita—On the Rocks—with Mango flavor, a Sugar Rim, and upgraded to Premium Tequila. Could you get started on that for me, please?",3707,4.30077
+4a8f903e-72bb-41d7-9c60-74b5a879784f,"Hey there! It's Carlos Mendez, the chef who loves to dive into the details of menu items. Your confirmation sounds mostly spot on, but let's make sure everything aligns perfectly with what we're aiming for:
+
+1. **Fettuccine Alfredo** should be priced at $16.99. It comes with a Protein Add-on of **Lobster** for an additional $12.00 and **Mushrooms** for $3.00, making it a total of $31.99.
+
+2. **Margarita On the Rocks** should be priced at $10.99. It's got the **Mango** flavor for an extra $2.00, a **Sugar Rim**, and an upgrade to **Premium Tequila** for $3.00, bringing the total to $15.99.
+
+Can you confirm these prices and modifications are correct? And no, I’m all set with the drinks and appetizer for now. Thanks for checking, though!",2696,4.569183
+03ea2cf7-3715-4641-abaf-c1b89e17c760,"It looks like my order is mostly correct, but I just want to confirm that the Fettuccine Alfredo has added mushrooms. Also, the Margarita should be under the name Carlos Mendez. Everything else looks great. Could you confirm that for me?",2690,4.608002
+ce56136a-861b-4c9e-969e-0aed6797e189,"Hey, can we adjust the order a bit? I still need to add the **Fettuccine Alfredo** with the lobster add-on and mushrooms to make it complete. Can you include that for me? Everything sounds great otherwise!",2632,3.846672
+68ff90ab-401e-4c54-97ee-ac6fe1d22e31,"Hey, it's Carlos Mendez here. Just wanted to confirm my complete order. It looks like the Margarita was listed a bit differently. Can we ensure it's a ""Margarita On the Rocks"" with Mango flavor, a Sugar rim, and a Premium Tequila upgrade? And for the Fettuccine Alfredo, can we make sure to include both the Lobster add-on and Mushrooms?
+
+Thank you for your help with this! Could you verify the corrected order for me before we finalize?",2773,3.560407
+b1269002-3b7d-4203-b265-0b4e592cac47,exit,2698,4.787784

@@ -1,0 +1,9 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+08e762f0-aab5-4fd0-ab66-fd017bc26510,Hi there! I’m looking to place an order for my family. Can you tell me about your gluten-free pizza options? I'm particularly interested in a Margherita Pizza.,2335,3.348456
+7dd6a13b-5bb9-41af-a8f8-e2351047ae50,"Hey, thanks for explaining the gluten-free option! Yeah, I'd like the Margherita Pizza with a gluten-free crust. I'll take a large, 18"" size, please. Could you confirm how well the gluten-free crust holds up? My family has some dietary needs, so I just want to make sure.",2574,2.917094
+eb2a7b22-edf7-43eb-9b87-82bc83ef4380,"Yes, that's correct! I'll have the large gluten-free Margherita Pizza. I think I'll skip the extra toppings this time. Could you also tell me about any salad options you might have? I'm trying to put together a nice mix for the family.",2657,3.032875
+0fef2bdd-89b1-4716-af00-135631e148fd,"Yes, I'd like to add the Caesar Salad to my order, please. However, can you hold the croutons? Just trying to keep it allergen-friendly for the family. No protein add-ons for this salad, thanks!",2835,2.945614
+a565183a-6c67-42fe-81d5-33d185661809,"Hey, thanks for the offer, but I think we'll skip adding drinks this time. Just making sure everything aligns with the family's choices. Can you confirm my complete order now, including the prices for each item as you've mentioned?",3123,3.72747
+1bf0657f-7517-4438-903d-67d6129484b0,The name for the order is David Thompson. Thanks for confirming the details! I'll see you in about 20 minutes.,1893,0.641926
+2fc89965-d3df-4165-8544-f65886f7ced8,"Hey, it looks like I forgot to order the Fresh Orange Juice! Could you please add two small Fresh Orange Juices to my order? Thanks!",3272,3.649979
+b3478909-5e65-4b91-83e9-3ad64f4f995f,exit,3537,3.155549

@@ -1,0 +1,46 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+72e1ff02-9307-44da-8501-b850d3b543e7,assistant,Hello! Thank you for calling The Garden Bistro. How can I assist you today?,order_taking_llm,2025-08-30T05:32:10.962411+00:00,,,,,,-1.0
+a7311ae0-3b23-4726-88fb-c539db705a06,agent,"Hi there, I’d like to place an order for a Ribeye Steak cooked Medium Rare, please.",guest_simulation_llm,2025-08-30T05:32:11.888394+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1261, ""num_response_tokens"": 21, ""total_tokens"": 1282}",925.7328510284424
+7f0faa97-8050-425b-b836-2621d0ade3ee,assistant,"Great choice! Our Ribeye Steak is a fantastic meal. Would you like any sauce with that? We have options like Béarnaise, Peppercorn, or Chimichurri. Also, it'll come with mashed potatoes and seasonal vegetables. Does that sound good?",order_taking_llm,2025-08-30T05:32:13.524116+00:00,,,,,,-1.0
+a6bd98b5-f60b-43c0-8113-3a04351ef71c,agent,"No sauce for me, and I don't need the mashed potatoes or vegetables. Just the Ribeye Steak cooked Medium Rare, please.",guest_simulation_llm,2025-08-30T05:32:14.342622+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1360, ""num_response_tokens"": 26, ""total_tokens"": 1386}",817.8420066833496
+a95bd490-fdda-4fc7-9e7e-469df20642eb,assistant,"Got it! So, just the Ribeye Steak cooked Medium Rare, no sauce, and skipping the sides. Would you like to add anything else to your order, like a drink or perhaps a dessert?",order_taking_llm,2025-08-30T05:32:15.463785+00:00,,,,,,-1.0
+54a15284-8708-4149-8673-fc5943ccc1a6,agent,"Actually, yes. I also want a Caesar Salad with grilled chicken, but no croutons, please.",guest_simulation_llm,2025-08-30T05:32:16.600729+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1452, ""num_response_tokens"": 22, ""total_tokens"": 1474}",1136.6498470306396
+afa42d10-3153-4305-bf31-8d366befaa1b,assistant,"Perfect! That’ll be a Ribeye Steak cooked Medium Rare, no sauce, and a Caesar Salad with grilled chicken and no croutons. 
+
+Just to confirm, are you interested in having the Caesar Salad with the dressing on the side?",order_taking_llm,2025-08-30T05:32:18.031027+00:00,,,,,,-1.0
+a0e282d3-4702-4ec6-87a9-fb4b1b347f73,agent,"No dressing on the side, just the salad as is. Thanks!",guest_simulation_llm,2025-08-30T05:32:18.747361+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1548, ""num_response_tokens"": 14, ""total_tokens"": 1562}",716.015100479126
+7a3adc85-83de-438e-b92e-edad5bec34d7,assistant,"Alright, so we have a Ribeye Steak cooked Medium Rare with no sauce, and a Caesar Salad with grilled chicken, no croutons, and no dressing on the side. 
+
+Now, let me calculate your total... 
+
+The Ribeye Steak is $42.99 and the Caesar Salad with grilled chicken is $12.99 plus $6.00 for the chicken. That brings your total to $61.98. 
+
+What name should I put on this order for you?",order_taking_llm,2025-08-30T05:32:21.407132+00:00,,,,,,-1.0
+f19c7aa5-2fb6-41dc-9b3b-269ae5c2f809,agent,"Actually, before we finish, I’d also like a large Cappuccino with skim milk, please.",guest_simulation_llm,2025-08-30T05:32:22.229245+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1685, ""num_response_tokens"": 20, ""total_tokens"": 1705}",821.876049041748
+768b11ed-69f1-487c-a542-e12d94c752de,assistant,"No problem! So just to recap, your order now includes:
+
+- A Ribeye Steak cooked Medium Rare, no sauce
+- A Caesar Salad with grilled chicken, no croutons, and no dressing on the side
+- A large Cappuccino with skim milk
+
+Let me calculate the total again... 
+
+The Ribeye Steak is $42.99, the Caesar Salad is $12.99 plus $6 for the chicken, and the large Cappuccino is $6.99. 
+
+That brings your new total to $69.97. 
+
+And what name should I put on this order for you?",order_taking_llm,2025-08-30T05:32:24.586223+00:00,,,,,,-1.0
+f8c8c13b-7ade-4252-be49-2fdfd60fc746,agent,The name is Marcus James.,guest_simulation_llm,2025-08-30T05:32:25.197032+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1853, ""num_response_tokens"": 6, ""total_tokens"": 1859}",610.5051040649414
+1906f788-3cee-4d42-aba2-4b76982de3ff,assistant,"Thank you, Marcus! So just to confirm, your order is:
+
+- A Ribeye Steak cooked Medium Rare, no sauce
+- A Caesar Salad with grilled chicken, no croutons, and no dressing on the side
+- A large Cappuccino with skim milk
+
+Your total comes to $69.97. 
+
+Your order will be ready for pickup in 20 minutes. 
+
+Thank you for choosing The Garden Bistro! If you need anything else, just let us know!",order_taking_llm,2025-08-30T05:32:27.399285+00:00,,,,,,-1.0
+0a98f6ad-833d-4c44-bff7-51637402ae2c,agent,exit,guest_simulation_llm,2025-08-30T05:32:27.961223+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1981, ""num_response_tokens"": 1, ""total_tokens"": 1982}",561.2328052520752
+d4913841-7912-4550-8956-cbbb99ee8fd1,system,"{""guest_persona"": {""full_name"": ""Marcus James"", ""order_size"": 3, ""order_complexity"": ""medium"", ""guest_bio"": ""A fitness trainer who counts macros and needs specific nutritional modifications. Asks about protein content, cooking methods, and portion weights. Often requests double protein or no carbs.""}, ""target_order"": {""order_items"": [{""name"": ""Ribeye Steak"", ""quantity"": 1, ""base_price"": 42.99, ""modifiers"": [{""modifier_type_name"": ""Temperature"", ""modifier_option_name"": ""Medium Rare"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 42.99}, {""name"": ""Caesar Salad"", ""quantity"": 1, ""base_price"": 12.99, ""modifiers"": [{""modifier_type_name"": ""Protein Add-on"", ""modifier_option_name"": ""Grilled Chicken"", ""is_required"": false, ""price"": 6.0}, {""modifier_type_name"": ""Special Request"", ""modifier_option_name"": ""No Croutons"", ""is_required"": false, ""price"": 0.0}], ""item_total_price"": 18.99}, {""name"": ""Cappuccino"", ""quantity"": 1, ""base_price"": 4.99, ""modifiers"": [{""modifier_type_name"": ""Size"", ""modifier_option_name"": ""Large"", ""is_required"": true, ""price"": 2.0}, {""modifier_type_name"": ""Milk Choice"", ""modifier_option_name"": ""Skim Milk"", ""is_required"": false, ""price"": 0.0}], ""item_total_price"": 6.99}], ""order_total_price"": 68.97, ""reasoning"": ""Marcus James ordered post-workout meal on Tuesday: ribeye for protein, Caesar salad with chicken (no croutons for low carb), and skim milk cappuccino for controlled macros.""}}",test_case_info,2025-08-30T05:32:27.961451+00:00,,,,,,-1.0

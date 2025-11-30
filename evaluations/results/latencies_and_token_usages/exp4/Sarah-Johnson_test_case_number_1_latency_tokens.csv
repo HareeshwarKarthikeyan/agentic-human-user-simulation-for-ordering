@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+eb11befd-cbf6-4a24-a7ab-699dc7331e9a,Hey there! I'd like to place an order for a Grilled Chicken Sandwich with French Fries on the side. Can you help me with that?,2144,3.132433
+c3491e8e-1506-4fda-bdaa-28d1d3d0c7aa,"No cheese or additional toppings for me, just the Grilled Chicken Sandwich with French Fries on the side. That'll be all, thanks! Could you also let me know the price for that?",2293,3.08347
+4c03aacd-b41e-4b47-814e-84e11ed62130,Sure! The name for the order is Sarah Johnson.,2241,0.962673
+1470d9f1-0ac8-4c09-9a80-db42c890c23f,exit,2485,3.113897

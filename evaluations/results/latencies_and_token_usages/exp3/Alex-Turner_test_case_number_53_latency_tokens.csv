@@ -1,0 +1,44 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+84de594d-8bde-42e2-8373-4c9b1cab0720,"Hey there! I'd like to order a Portobello Mushroom Burger. Could you please make sure it's topped with vegan cheese? Also, I'd like to have sweet potato fries on the side. 
+
+And just to clarify, are there any animal products used in the preparation or cooking processes for these items?",3043,2.528586
+15d23d15-7694-4c30-8888-bcb79bd10187,"Hi, it's Alex Turner here! Thanks for confirming the order details for the Portobello Mushroom Burger. Appreciate you making sure everything is vegan-friendly.
+
+As for a drink, I'm good without one today, just the burger and the fries, please. Also, could you confirm the total price for the order? Thanks!",2305,2.980074
+a8babe62-68e1-4cba-9688-897e2fc6afd6,"It looks like everything's all set with the order for the Portobello Mushroom Burger with vegan cheese and sweet potato fries. However, I noticed there's a small price discrepancy, probably a misunderstanding. The total should be $18.49 including the vegan cheese modifier. Could you confirm that for me? Also, could you please ensure there's no cross-contamination with animal products during preparation? Thanks a bunch!",2360,4.359285
+a03b0441-0a0b-492f-99b7-8627059c96eb,"Hey, thanks for getting back to me. I just want to confirm a few things to make sure everything is right. 
+
+So, I'm looking for the Portobello Mushroom Burger with vegan cheese and sweet potato fries. I noticed there's a little difference in the price you mentioned for the vegan cheese. I believe it should be $2.50 for the vegan cheese topping, according to what I know. 
+
+Anyway, could you make the necessary adjustments? Thank you for noting the cross-contamination concerns too. Once we get everything sorted out, I'll confirm and we can proceed.",3861,5.710922
+10482941-35cc-4c48-bf1a-99fe86411b39,"Hey, I noticed something I need to clarify with you.
+
+The Portobello Mushroom Burger with vegan cheese should have the cheese topping at $2.50, but I see it's been marked down to $2.00, which is nice. However, my target order shows the vegan cheese topping as $2.50, and it includes sweet potato fries as a required side, not an add-on. This makes the total for that meal $18.49.
+
+Can we make sure it's all correct according to my target order:
+
+- **Portobello Mushroom Burger with vegan cheese ($13.99 + $2.50)**
+- **Sweet Potato Fries (included as a side choice, $2.00)**
+
+Total should be **$18.49** with everything considered for the burger meal.
+
+I appreciate your efforts to ensure no cross-contamination with animal products. Could you please update that for me? Thanks!",2553,3.309456
+d1656e9f-873c-4c63-a2e4-b3ba779cc57e,"Hey, thanks! Just to confirm, I'm ordering the Portobello Mushroom Burger with vegan cheese and Sweet Potato Fries on the side. The total is $18.49. Please make sure there's no cross-contamination with animal products. Once that's good, we can go ahead, and I'd appreciate it if you could confirm when it's all set.",2312,2.922601
+6f8d62ca-e0b6-47f1-8b55-fca7512762eb,"Hi, it's Alex Turner here. It seems like there might be some confusion because I haven't placed my order yet. Let me get that order in.
+
+I'll have the **Portobello Mushroom Burger with vegan cheese**, and I'd like the **Sweet Potato Fries** as a side. Total should be **$18.49**. Also, if you could note the precaution for cross-contamination, I'd really appreciate it.
+
+Can you confirm all this is added to the order? Thanks!",2298,3.121949
+7acb3230-7b37-4c38-b2e0-b79722e7b317,"Hey there! Thanks for confirming, but it looks like my order hasn't been placed yet. I'd like to go ahead and place an order for:
+
+- **Portobello Mushroom Burger with vegan cheese** 
+  - Including Sweet Potato Fries as the side.
+
+Could you please ensure there’s no cross-contamination with animal products during the preparation? I'll wait for confirmation to ensure it’s all set, thanks!",2281,3.124217
+0c9fd7f0-4a02-4a5f-b3d1-47daf22a5aec,"Sure, my name is Alex Turner. Please go ahead and place the order with the details I provided. Thanks!",2163,3.46976
+4ff762c7-c59b-4a82-bb3d-014635ba7eb2,"It looks like we need to make a small adjustment. The Sweet Potato Fries should have been added as a required side with a price included in the Portobello Mushroom Burger, bringing the total to $18.49 for the burger and fries together.
+
+Could you please ensure it's set up that way for my order to match?",2374,3.517006
+d0650aac-1e85-447d-b9bc-786880303f07,"Hi there! Just going through my order here. Could you make sure one Portobello Mushroom Burger with vegan cheese and Sweet Potato Fries is placed for me? I’d like to confirm there's no cross-contamination with animal products in any of the preparation. Once we've confirmed that, I'll be good to go!",2348,3.266156
+68df59c4-2baf-4f2c-89db-a75901ba4fa0,"Yes, that's correct. My name is Alex Turner. Your confirmation of the order looks good! Please proceed to finalize the order. Thanks!",2199,3.692551
+357c1545-4c9c-4156-91b3-4fc11359bdfc,exit,3586,6.651772

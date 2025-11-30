@@ -1,0 +1,8 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+04489e38-2d8f-4918-a130-0da176dba93e,"Hey there! I'm looking to place an order, but I've got a few specific needs. Can you tell me about the Ribeye Steak you folks have? I'm particularly interested in how it's cooked and the portion size.",2401,5.277737
+f440030f-5e0f-4047-84bb-818f21e884ec,"I’d like to place an order for the Ribeye Steak cooked Medium Rare. 
+
+Also, can you add a Caesar Salad with Grilled Chicken and no croutons, and a large Cappuccino with skim milk? Could you tell me a bit about the protein content in those? ",2567,3.48224
+7df1ed15-6d7b-4937-a691-4035a9e0ed6f,"Actually, that's perfect! I'm all set with those items. Can you confirm everything is all set and maybe let me know the total price before we finish up? Thanks a ton!",2818,6.127078
+cedf62f9-8527-4018-8412-d7bd48b91f47,"Sure thing! The name for the order is Marcus James. Thanks for confirming everything, and I'll be by in about 20 minutes for the pickup!",4600,7.827098
+832847ac-847c-47aa-97b0-7af8f9b6751c,exit,2691,3.509593

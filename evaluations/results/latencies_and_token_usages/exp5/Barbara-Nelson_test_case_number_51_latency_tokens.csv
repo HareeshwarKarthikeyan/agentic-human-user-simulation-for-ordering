@@ -1,0 +1,10 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+f1cf8365-1db5-4704-866f-aa588ddf30dd,"Hi! I'd like to place an order for pick-up. Here's what I need:
+
+- One Chicken Parmesan with Penne pasta and an extra sauce.
+- One Fettuccine Alfredo, add grilled chicken and broccoli.
+- One large decaf Cappuccino.
+
+Could you please confirm this order and its total price for me? Thanks!",2452,3.256604
+f0a22ac3-cf07-44ea-b202-da899bcced6a,"The name for the order is Barbara Nelson. Everything looks perfect, no need to add anything else. Thanks for confirming!",2796,5.122798
+5031c668-c7a4-4348-ac8c-0fe6e26d4912,exit,2554,4.299214

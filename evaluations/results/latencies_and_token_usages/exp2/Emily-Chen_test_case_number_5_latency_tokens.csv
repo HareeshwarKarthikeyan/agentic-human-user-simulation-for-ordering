@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+2143a11b-96bb-43d8-99cd-61221b329a73,"Hi there! I'd like to place an order for a Caesar Salad with grilled shrimp and dressing on the side. Also, I'd like a small cappuccino with almond milk. Can you help me with that?",2205,1.166674
+b1f3b420-301c-48e6-9f87-1e011364922f,"No, thanks! I'm just going to stick with the Caesar Salad and the cappuccino. Can you confirm the total price for me?",2336,0.872407
+d54a7874-74c9-475b-bb75-c8d8d64daff9,"Hi, my name is Emily Chen! Just a quick note—my cappuccino is supposed to have almond milk, so I think the total should include that modification as well. Can you check on that for me, please?",2599,0.794193
+16619aba-6679-4aa2-88ad-29c9bb8673ce,"Yes, that looks perfect. Let's go ahead with that total of $26.73. Thanks for adjusting the cappuccino with almond milk for me!",2832,0.768781
+e39763a6-af3f-4f8c-8e8b-6b605575261a,exit,2734,0.60102

@@ -1,0 +1,24 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+cbc1e129-1936-4b7b-bbfe-f71be08567c8,"Hi there! I'm David. I'm placing an order for my family's dinner. We have some dietary preferences, so I'd like to start with two Kids Chicken Tenders meals with ketchup, apple slices, and apple juice.",2417,1.258088
+ea596310-edb9-481f-bd51-d9f8542367af,"Hey there! Yes, you've got the kids' meals just right. I'd like to add a couple of adult meals as well. I'll take one Classic Burger with medium well, cheddar cheese, a gluten-free bun, and a side salad. Also, a Grilled Chicken Sandwich with avocado and a fruit cup on the side.
+
+Could you confirm that all of this is gluten-free and check on any allergen information, please? Thanks!",2667,0.821983
+cdeda5c1-6f1b-428a-bd29-4fb8c32b2943,"Thanks for confirming all the details! The order sounds just right. We've got everything we need, so no additional drinks or appetizers are necessary today. Could you please confirm the total price and finalise the order? Thanks!",2964,0.858504
+2ac33e2d-3200-4f44-a57a-5dff36e7a7d2,"That's great, thanks for breaking it down. But I noticed a slight error in the total. The correct total should be $56.96, considering the modifications to the burger and chicken sandwich. Can we correct that? The name is David Thompson. Thanks!",3170,0.862839
+77625de0-245b-4516-90f1-6dd257bede15,"I just noticed that the total should be slightly adjusted. The correct total for the order, considering the gluten-free bun and side modifications, should be $56.96. Could you confirm if that's the amount reflected in the final bill? If everything is good to go, I'm all set to complete the order. Thank you!",3480,0.653806
+6cea682f-c67c-4a40-aa00-121ec58f5ff9,"Hi, thanks for your patience. It seems like we should indeed adjust the total. Let's go through it again:
+
+- **Kids Chicken Tenders** (2 x $8.99) = $17.98
+- **Classic Burger** (base price $15.99 + $1.50 for cheddar cheese + $2.00 for gluten-free bun) = $19.49
+- **Grilled Chicken Sandwich** (base price $14.99 + $2.50 for avocado + $2.00 for fruit cup) = $19.49
+
+Here's the corrected total:
+
+- Kids Meals: $17.98
+- Classic Burger: $19.49
+- Grilled Chicken Sandwich: $19.49
+
+**Total**: $56.96
+
+This seems to be the correct breakdown and matches the total of $56.96 we talked about before. If you're ready, I'll finalize this order for you!",3983,0.621942
+a8fddcfc-a409-4694-8d05-e4d9eeab831d,exit,3907,0.734454

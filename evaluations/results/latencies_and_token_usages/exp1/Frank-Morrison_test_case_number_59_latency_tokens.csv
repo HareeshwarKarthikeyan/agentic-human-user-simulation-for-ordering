@@ -1,0 +1,13 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+30248708-42ae-4727-af73-b1da69aca929,"Hi! I'd like to place an order for a few things, please. 
+
+Can I get one medium Margherita Pizza, one Spaghetti Carbonara, and two Apple Pies à la mode?",1202,0.9558670520782471
+e0902259-ad35-43f6-840f-58a54760c24a,"It's Frank Morrison. And yes, I want the medium Margherita Pizza with the regular crust, please. The Apple Pies should be à la mode with ice cream on both. Can you confirm the total for me?",1355,0.9913980960845947
+bf28b741-1037-45ff-866c-515176cdb874,"No, that's everything I need. So, to confirm, I'm ordering:
+
+- 1 medium Margherita Pizza
+- 1 Spaghetti Carbonara
+- 2 Apple Pies à la mode
+
+For a total of **$59.96**. Please go ahead and place the order.",1606,1.2043142318725586
+faf9f78b-43a3-4f75-8bf9-5450108adf99,exit,1716,0.562952995300293

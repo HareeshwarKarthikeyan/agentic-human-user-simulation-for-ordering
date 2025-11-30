@@ -1,0 +1,31 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+48d4253d-380a-4580-9d03-1570c8c6604e,assistant,Hello! Thank you for calling The Garden Bistro. How can I help you today?,order_taking_llm,2025-08-30T05:37:13.890573+00:00,,,,,,-1.0
+2380fc01-c4d3-4a27-964a-0e77a7a0d6cf,agent,"Hi! I'd like to order a small Margherita pizza with thin crust, please. Just to clarify, no cheese to keep it vegan.",guest_simulation_llm,2025-08-30T05:37:14.719199+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1085, ""num_response_tokens"": 29, ""total_tokens"": 1114}",828.3967971801758
+40e699cb-f4cf-41e5-ba3f-3c9e9d599e58,assistant,"Great choice with the Margherita pizza! However, I want to mention that the pizza typically comes with fresh mozzarella, so it wouldn't be entirely vegan if that's what you're looking for.
+
+Would you like to keep the Margherita pizza with just the tomatoes and basil, or would you prefer to look at another option? We do have a Portobello Mushroom Burger that could be a nice vegan option if you’d like!",order_taking_llm,2025-08-30T05:37:16.333617+00:00,,,,,,-1.0
+7a650646-ee39-45ea-afc0-a57938648ac0,agent,"No, I really just want the small Margherita pizza, but please make sure it’s without any cheese for that vegan option. Just the tomatoes and basil, with the thin crust. Can you confirm that?",guest_simulation_llm,2025-08-30T05:37:17.235723+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1224, ""num_response_tokens"": 43, ""total_tokens"": 1267}",901.5369415283203
+8b2aeda8-4114-435f-b4c3-f70a94ba4863,assistant,"Absolutely! I'll go ahead and place the order for a small Margherita pizza with thin crust and no cheese, just tomatoes and basil. 
+
+Let me confirm that: 
+- **Small Margherita Pizza**
+  - Crust Type: Thin Crust
+  - No Cheese
+
+Is there anything else you’d like to add to your order today, perhaps a drink?",order_taking_llm,2025-08-30T05:37:18.895575+00:00,,,,,,-1.0
+3ee37f6b-cd7d-4702-a24a-6bf6c5ceb0f7,agent,"Nope, that’s all I want. Can you just confirm the total for the pizza?",guest_simulation_llm,2025-08-30T05:37:19.810467+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1368, ""num_response_tokens"": 19, ""total_tokens"": 1387}",914.6342277526855
+50956862-00c4-45db-bbd4-631026212d7d,assistant,"Sure thing! The base price for the small Margherita pizza with thin crust is $16.99, and since there's no cheese, there won't be any extra charge for that. 
+
+So, your total comes to **$16.99**. 
+
+May I have your name for the order, please?",order_taking_llm,2025-08-30T05:37:21.304077+00:00,,,,,,-1.0
+971bf41e-ca30-42af-a9a6-86b7c62af546,agent,It's Alex Turner.,guest_simulation_llm,2025-08-30T05:37:21.824158+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1475, ""num_response_tokens"": 4, ""total_tokens"": 1479}",519.5891857147217
+5bfca4b8-c4bf-430f-94bb-9faec4ef6860,assistant,"Thank you, Alex! 
+
+So, we have one small Margherita pizza with thin crust and no cheese for a total of **$16.99**. 
+
+Your order will be ready for pickup in about 20 minutes. 
+
+Thank you for choosing The Garden Bistro! Have a great day!",order_taking_llm,2025-08-30T05:37:23.124025+00:00,,,,,,-1.0
+c8a4b8f0-53f3-4921-8212-15a0f8b15d12,agent,exit,guest_simulation_llm,2025-08-30T05:37:23.749499+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1565, ""num_response_tokens"": 1, ""total_tokens"": 1566}",625.2419948577881
+4345ee2f-40b7-4f50-8616-10e905780432,system,"{""guest_persona"": {""full_name"": ""Alex Turner"", ""order_size"": 1, ""order_complexity"": ""medium"", ""guest_bio"": ""A vegan activist who thoroughly questions ingredients and preparation methods. Ensures no cross-contamination with animal products. Often educates staff about vegan options and suggests menu improvements.""}, ""target_order"": {""order_items"": [{""name"": ""Margherita Pizza"", ""quantity"": 1, ""base_price"": 16.99, ""modifiers"": [{""modifier_type_name"": ""Size"", ""modifier_option_name"": ""Small 10\"""", ""is_required"": true, ""price"": 0.0}, {""modifier_type_name"": ""Crust Type"", ""modifier_option_name"": ""Thin Crust"", ""is_required"": false, ""price"": 0.0}], ""item_total_price"": 16.99}], ""order_total_price"": 16.99, ""reasoning"": ""Alex Turner ordered small Margherita pizza with thin crust for a Saturday dinner, requesting no cheese to make it vegan, focusing on tomato and basil flavors.""}}",test_case_info,2025-08-30T05:37:23.749566+00:00,,,,,,-1.0

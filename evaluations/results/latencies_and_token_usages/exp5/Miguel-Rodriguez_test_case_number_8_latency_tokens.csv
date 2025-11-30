@@ -1,0 +1,9 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+00232509-d699-496c-a986-f68c785d9f3a,"Hi there! I'm looking to place an order, and I'm pretty excited about it. Could you tell me more about your Margherita Pizza options, especially the large size and any crust types you might have? I'm always on the lookout for something tasty!",2504,4.290772
+a971a2ff-a2a0-4bf1-8da7-b8dcbcbe60f9,"The Margherita Pizza sounds great! I'll go for the large size with **thick crust**, please. Could you also tell me about the extra toppings you offer?",2683,2.569854
+34f3928d-58cd-4a63-9042-2b0f20d46756,"Ooh, those toppings sound delicious! But I'm actually looking to add Italian Sausage and Mushrooms to my large Margherita Pizza. Could you make that happen for me? Thanks!",2617,3.148557
+8e63b385-382a-4afb-bbac-e376ab30cc39,"Hey, it's Miguel Rodriguez here. Thanks for confirming part of the order!
+
+Now, I also want to get some Buffalo Wings with Honey Garlic sauce and Blue Cheese dipping sauce. Could you make that a Double Order, please? And also a pitcher of Draft Beer to go with it. What would that bring the total to after adding these?",4448,7.364071
+d092c8e0-2095-4b10-8951-2b249234bda7,Great! Everything looks perfect. I'm all set for pickup. Thanks for confirming the order details!,3231,5.629193
+c88db23a-6225-484b-84a6-e36db0397e16,exit,2616,3.374757

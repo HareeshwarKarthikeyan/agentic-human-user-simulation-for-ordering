@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+131603e0-8d1f-4ea4-8561-16ff00afd950,"Hi there! This is Thomas. I'm looking to place an order for pickup. Could you add an order for Fish and Chips with an extra piece of fish? Also, do you have parking available where I can quickly get in and out? I'm a bit on a time crunch.",2082,1.129961
+480dfb8d-212c-4f9c-a587-c9d56ee81e3d,"Hey, thanks for getting back to me. I'll go with the regular cod for the extra piece, please. That should keep me going on the road. And appreciate the info about the parking spots!",2342,1.045503
+34c9edf5-d1f5-49df-8c70-c847fe6a6d13,"Hey there, it's Thomas Wright. I'll take tartar sauce with that, please. Can you let me know the total price for everything before we wrap up? Thanks!",2348,0.707139
+ff124d99-713a-4260-a7a9-40d845f93ea4,"No drinks for me, thanks! Just the Fish and Chips with the extra cod and tartar sauce. Appreciate your help on this order!",2628,0.771405
+437e851b-f5be-4eea-ae4d-19580b5e382e,exit,2683,0.594886

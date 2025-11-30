@@ -1,0 +1,9 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+f02e48bf-fa07-4c9a-8c9b-934efa2e273a,Hey there! I'm Miguel. I'm planning a little family gathering and would love to explore some delicious options from your menu. Let's start with a Margherita Pizza – can you tell me about the sizes and crust types available? I'm thinking something large and maybe with a thicker crust.,2485,3.575475
+9a1c6ceb-450c-44d7-9a1e-3e8bb4402051,"That sounds great! Yes, let's go with the large Margherita Pizza on thick crust. By the way, can I add some extra toppings as well? I'm thinking of Italian sausage and mushrooms.",2780,3.275472
+e9106a2a-9711-4404-a616-a4bf5f2aa779,"Hey! The name's Miguel Rodriguez. Thanks for adding that pizza to my order.
+
+As for drinks, I was wondering if you could tell me a bit about your beer options. Also, I'm thinking about getting some wings — what kind of sauces do you have?",2995,3.807567
+7e8ff225-17fc-4856-b764-00a239f11550,"For the wings, I'll go with the Honey Garlic sauce. As for the beer, I'm thinking a pitcher would be great for sharing. Could you tell me how much that would be?",3152,2.907895
+e5558d71-7e21-45a1-8d3f-fb20de6feb56,"It looks like the order summary isn't quite matching up with what I'm aiming for. Along with the Margherita Pizza with Italian Sausage and Mushrooms on thick crust and the Buffalo Wings with Honey Garlic sauce, I also need to have blue cheese dipping sauce and ensure it's a double order of wings. And for the beer, it's noted there's a price difference. Could we review and make sure everything lines up before finalizing?",3398,3.174353
+2fcf5fe0-c8cd-4a94-8149-df928c74f6da,exit,3851,3.128816

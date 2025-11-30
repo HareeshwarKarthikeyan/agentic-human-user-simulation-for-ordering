@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+11bac8ab-0964-4fb3-8c01-90195fbb9434,"Hi there, I’d like to order a Chicken Parmesan, please.",1023,0.8443820476531982
+7b96261c-5497-4696-b16d-e795e5cfed9f,"No extra sauce or cheese, just the regular Chicken Parmesan. I don't need a pasta choice. Just the chicken, please. How much is it?",1111,0.913475751876831
+acce0c83-a61f-4af7-b1a2-b8c39706e888,It's Kevin Liu.,1190,0.4823179244995117
+a5b40057-dcd2-4fbe-aab0-619689ad05b3,"No, just the Chicken Parmesan, thanks.",1270,0.7171709537506104
+c67cb95e-a299-4f50-b2c6-86ca1d4c9af7,exit,1341,0.41045093536376953

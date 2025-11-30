@@ -1,0 +1,6 @@
+Experiment,BVS Score,Est. Transition Rate,Interpretation
+Exp1,0.218,~4.4%,Too static (robotic)
+Exp2,0.485,~9.7%,Low variance (somewhat static)
+Exp3,0.689,~13.8%,Moderate variance
+Exp4,0.000,~0.0%,Too static (robotic)
+Exp5,0.839,~16.8%,Good variance (realistic)

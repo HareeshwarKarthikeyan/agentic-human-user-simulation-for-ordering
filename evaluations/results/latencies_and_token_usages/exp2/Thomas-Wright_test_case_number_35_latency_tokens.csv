@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+8b44a6c3-ca7b-40d5-a078-52a48e13579c,Hi there! I'm Thomas. I'm on the road and looking to place a quick pick-up order. Can I get a half rack of Baby Back Ribs with French fries? And could you also let me know about the parking situation and how quick the service usually is? Thanks!,2113,1.336994
+bbf46897-13a2-4166-967c-54edc9e3a652,"Nope, just the half rack of Baby Back Ribs with French fries will do for me. Thanks for confirming the order and the parking info! Could you tell me the total price for that?",2459,0.888629
+310b052b-a8f1-456c-b693-12d7419d3c1d,"Yes, it's Thomas Wright. But I think there might be a mix-up with the price. You mentioned $28.99, but could you check that? My order is just the half rack of Baby Back Ribs with French fries. Thanks!",2398,0.600865
+d5a564c6-b096-4e79-a280-a9f1a2a3e487,"I believe there might still be a misunderstanding with the price. The half rack of Baby Back Ribs with French fries should total $20.99. Could we confirm that? Also, I don't have any special requests for the kitchen. Thanks!",2623,0.945832
+57c5a6d6-8e3c-42aa-9039-6f74db758995,"Yes, it's Thomas Wright. Thank you for confirming the correct price at $20.99. ",2500,0.633785
+387ca32a-7a62-4a3d-a705-ffe12ded7f92,exit,2795,1.027603

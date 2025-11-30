@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+43d6f716-befd-4441-a396-b43401f250dc,Hi there! I'd like to place an order for a Vegetable Stir Fry with tofu and a small Coca-Cola. Could you let me know if there are any specials or combo deals that might affect my order?,2164,1.141015
+4a4d1610-5d0c-49f1-a0ca-47aa41d2cab3,"Yes, that's correct! I just want the Vegetable Stir Fry with tofu and a small Coca-Cola. I'm on a bit of a budget today, so I'll skip anything extra like an appetizer or dessert. Could you confirm the total price for me?",2424,1.490454
+06590ab7-cec5-4292-b7aa-f2e1fcbc39eb,"Sure, my name is Jessica Martinez. Thank you for confirming the total!",2501,0.757526
+50ec016d-b4ee-44dc-ae9d-4d7274fd99ef,"Yes, picking up in about 20 minutes sounds perfect. Thank you!",2481,0.687308
+ef80bd3a-3619-41ea-a295-2c8783d6331a,exit,2479,0.648342

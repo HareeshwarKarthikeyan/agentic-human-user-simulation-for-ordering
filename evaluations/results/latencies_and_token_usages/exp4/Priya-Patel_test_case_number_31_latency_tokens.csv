@@ -1,0 +1,22 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+93272381-a7cd-4dcf-8296-7da25ca59748,"Hey there! I'm Priya Patel. I'm planning a little celebration for my kids' soccer team, and I need to place an order. Could you help me get more details on your menu first? I'm particularly interested in options that are mild on spice and suitable for kids.",2301,3.629709
+1d593f55-b591-4795-9424-08a0e7b8a1bb,"Thanks for the recommendations! I’ll go with the Kids Chicken Tenders, but I need 3 of those. Let’s do honey mustard for the sauce and French fries on the side. Oh, and could we add apple juice for the drink? 
+
+Also, I’d like to order a large Margherita Pizza. Could you let me know the total cost for this order, and if there’s any discount available for bulk orders?",2819,3.09787
+1f9e869c-61cd-4a03-8893-46e791de6ff7,"Hmm, I might be a little confused here. I want to make sure I’ve got everything right for the kids' soccer team celebration. Can you confirm that the order includes exactly 3 Kids Chicken Tenders with honey mustard sauce and French fries, and 1 Large Margherita Pizza? Also, is there any chance of a discount for a bulk order or for a team event? It'd help a lot.",2201,2.875933
+0701366c-e269-4b5b-9f8b-dee718b49d6c,"Oh, wait a second, I'm confused. The total should be $51.96 because we have 3 kids' meals, each with apple juice as well, and the large pizza. Can you double-check that for me, please?",3174,2.942624
+3b59ddac-291a-4b85-96c1-3c95be0b12cd,"It seems there was a little mix-up earlier! Here's how the order should actually add up:
+
+- **3 Kids Chicken Tenders** with honey mustard, French fries, and apple juice: $26.97
+- **1 Large Margherita Pizza** for 16.99 (Actually, it's priced higher in my target list with modifiers)
+
+Let's ensure everything adds up to $51.96:
+
+- The chicken tenders align with your total for this part.
+- The price for the Large Margherita Pizza should be more than mentioned due to its size modifier; hence, it seems there was a price oversight when mentioning $16.99.
+
+I believe an update or rechecking should align the order total to $51.96.
+
+Would you like me to fix anything or confirm the order with this clarity?",3690,3.053955
+46bd19b5-6ea2-4b1c-af87-b136acdec388,"Yes, please proceed with the order for $51.96. My name for the order is Priya Patel.",3872,3.541041
+b05d22f5-2ae0-425f-ae81-488a058161fa,exit,4847,4.356941

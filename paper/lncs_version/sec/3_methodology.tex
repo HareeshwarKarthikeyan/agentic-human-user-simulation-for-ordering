@@ -1,0 +1,87 @@
+\section{Methodology}
+
+Our methodology employs a three-agent architecture comprising a User Agent, State Tracking Agent, and Message Attributes Generation Agent (subsections \ref{subsec:user_agent}-\ref{subsec:msg_attr_gen}) that collaborate through structured protocols and strict behavioral rules. The system operates under defined constraints and conversation rules (subsection \ref{subsec:protocol}) to ensure reliable simulation with persona adherence and task completion accuracy.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=\textwidth]{Architecture Figure.jpg}
+\caption{\textbf{Multi-agent architecture for human user simulation} showing the three-agent framework: (1) \textbf{User Agent} serves as the primary orchestrator that generates simulated user responses by receiving input messages and invoking the two sub-agents in sequence, (2) \textbf{State Tracking Agent} maintains structured task state representation by tracking current confirmed items against target goals, and (3) \textbf{Message Attributes Generation Agent} determines behavioral characteristics (mood, execution style, exploration patterns) based on persona biography and current state.}
+\label{fig:architecture}
+\end{figure}
+
+
+\subsection{User Agent}
+\label{subsec:user_agent}
+
+The User Agent serves as the primary orchestrator responsible for generating simulated user responses in the  conversation~\cite{Zhang2025AgentOrchestra,Dang2025MultiAgentCollaboration}. It receives the input messages and generates contextually appropriate responses to achieve task completion, using tool calls to fetch persona info and invoke the State Tracking and Message Attributes Generation agents as needed.
+
+The user agent's response is generated as:
+\begin{equation}
+    r_t = f_{user}(m_t, s_t, a_t)
+\end{equation}
+where $r_t$ is the response at turn $t$, $m_t$ is the input message, $s_t$ is the task state from the State Tracking Agent,and $a_t$ is the behavioral attributes from the Message Attributes Generation Agent.
+
+\subsection{State Tracking Agent}
+\label{subsec:state_tracking}
+
+The State Tracking Agent maintains a structured representation of the current state by parsing input messages to identify task items confirmed towards achieving the target state~\cite{Xu2024ChainOfThoughtDST,Mehri2025GoalAlignment}. The agent maintains two critical data structures:
+\begin{itemize}
+    \item $\mathcal{T}_{current}$   : A list of confirmed task items towards achieving the target task state
+    \item $\mathcal{T}_{target}$    : The desired final task state that the user aims to achieve.
+\end{itemize}
+
+This agent uses its tools to add, remove or clear task items in the state. It updates the task state at turn $t$, as:
+\begin{equation}
+    s_t = f_{stateTracking}(input\_message) = \{\mathcal{T}_{current}, \mathcal{T}_{target}\} 
+\end{equation}
+
+\subsection{Message Attributes Generation Agent}
+\label{subsec:msg_attr_gen}
+
+The Message Attributes Generation Agent determines the behavioral characteristics for each user response~\cite{Feng2025EmotionallyIntelligent,WangChiu2023HumanoidAgents}, while using its tool to access the persona biography and the current task state. It outputs a structured set of behavioral attributes, $a_t$:
+\begin{equation}
+    a_t = \{mood\_tone, task\_execution_\_style, exploration\_style, task\_completion\_status\}
+\end{equation}
+
+\begin{itemize}
+    \item $mood\_tone$ $\in$ \{casual, frustrated, confused, enthusiastic\}
+    \item $task\_execution\_style$ $\in$ \{one-by-one, all-at-once\}
+    \item $exploration\_style$ $\in$ \{explores, does-not-explore\}
+    \item $task\_completion\_status$ $\in$ \{complete, incomplete\}
+\end{itemize}
+
+This agent's decisions are conditioned as:
+\begin{equation}
+    a_t = f_{msgAttrGen}(p_{bio}, s_t)
+\end{equation}
+where $p_{bio}$ is the persona biography, and $s_t$ is the current task state.
+
+\subsection{Protocol}
+\label{subsec:protocol}
+
+\subsubsection{Baseline instructions}
+
+Each agent operates with specialized system instructions that define its role and constraints. The User Agent receives instructions to maintain persona consistency while working toward task completion. The State Tracking Agent focuses solely on accurate state extraction from input messages. The Message Attributes Generation Agent balances persona traits with appropriate behavioral variation.
+
+\subsubsection{Critical constraints}
+
+To ensure reliable simulation, our agent instructions enforce critical constraints covering~\cite{Raza2024TRiSM}
+\begin{enumerate}
+    \item \textbf{Tool Invocation State}: The User Agent must invoke sub-agents in a specific sequence (State Tracking → Message Attributes Generation)~\cite{Tran2025MultiAgentCollaboration}
+    \item \textbf{State Consistency}: State updates must be monotonic (task completion items are only added or removed, never implicitly modified, while keeping the execution within the bounds of $\mathcal{T}_{target}$)
+    \item \textbf{Persona Boundaries}: Behavioral attributes must remain within persona-appropriate ranges
+\end{enumerate}
+
+\subsubsection{Conversation rules}
+
+The simulation follows structured conversation rules that govern the interaction flow: beginning with initial greeting and state intent expression, proceeding through progressive state building guided by the $task\_execution\_style$ attribute, handling clarification requests from the input, confirming state details before completion, and concluding with appropriate conversation closure once the stateing process is finished.
+
+\subsubsection{Exit gating}
+
+The simulation terminates when the Message Attributes Generation Agent determines state completion ($task\_completion\_status = true$)~\cite{Zhang2025AgentOrchestra}. This decision is based on:
+\begin{equation}
+    task\_completion\_status = \begin{cases}
+        true & \text{if } \mathcal{T}_{current} \supseteq \mathcal{T}_{target} \\
+        false & \text{otherwise}
+    \end{cases}
+\end{equation}

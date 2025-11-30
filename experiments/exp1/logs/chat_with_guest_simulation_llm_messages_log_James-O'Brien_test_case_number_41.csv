@@ -1,0 +1,33 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+a3fee25a-cc00-4dc4-85e4-6a993a3f3068,assistant,Hello! Thank you for calling The Garden Bistro. How can I assist you today?,order_taking_llm,2025-08-30T05:34:45.333057+00:00,,,,,,-1.0
+c9f7ad59-a93f-45d8-99e8-4167545665c7,agent,"Hi there! I’d like to place an order for pick-up. I need three Baby Back Ribs with French Fries, and three Grilled Chicken Sandwiches also with French Fries.",guest_simulation_llm,2025-08-30T05:34:46.310034+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1125, ""num_response_tokens"": 37, ""total_tokens"": 1162}",976.7570495605469
+fb666422-d31a-4fcb-84b5-9ce4e5bb2666,assistant,"Great choices! Just to confirm, you’d like three orders of Baby Back Ribs with French Fries, and three Grilled Chicken Sandwiches with French Fries, correct? 
+
+For the ribs, would you prefer any specific sauce style, like Dry Rub, Honey BBQ, or Spicy BBQ? And for the sandwiches, do you want any sides with those or is French Fries good?",order_taking_llm,2025-08-30T05:34:47.951130+00:00,,,,,,-1.0
+0bf9f39f-b5e3-4c2f-a3f5-d2235befb0d6,agent,"No sauce for the ribs, just the regular ones. And yeah, French Fries are good for the sandwiches too. So that’s three Baby Back Ribs with French Fries and three Grilled Chicken Sandwiches with French Fries. What’s the total on that?",guest_simulation_llm,2025-08-30T05:34:49.081253+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1263, ""num_response_tokens"": 52, ""total_tokens"": 1315}",1129.4572353363037
+cbf454b2-7b11-47cc-95cf-6c63d319bea9,assistant,"Got it! So we have three Baby Back Ribs with French Fries and three Grilled Chicken Sandwiches with French Fries, no sauce on the ribs.
+
+Let me calculate the total for you:
+
+- Baby Back Ribs: $28.99 each, times 3 = $86.97
+- Grilled Chicken Sandwich: $14.99 each, times 3 = $44.97
+- French Fries: $0.00 as the side choice
+
+Total: $86.97 + $44.97 = $131.94
+
+So your total comes to $131.94. 
+
+And just to confirm, can I have your name for the order?",order_taking_llm,2025-08-30T05:34:52.858287+00:00,,,,,,-1.0
+b6d6ef8d-ab10-4ded-bf77-b76e16d44fac,agent,It's James O'Brien.,guest_simulation_llm,2025-08-30T05:34:53.352182+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1475, ""num_response_tokens"": 5, ""total_tokens"": 1480}",493.4520721435547
+c3b5c0de-eb13-4979-b0be-8b27cf2f8ee9,assistant,"Thank you, James! So just to recap your order: 
+
+- Three Baby Back Ribs with French Fries (no sauce)
+- Three Grilled Chicken Sandwiches with French Fries
+
+Your total is $131.94. 
+
+Your order will be ready for pick-up in 20 minutes. 
+
+Thank you for choosing The Garden Bistro! We look forward to seeing you soon!",order_taking_llm,2025-08-30T05:34:55.078743+00:00,,,,,,-1.0
+e97834d3-038f-48d1-bf4f-e15e0aa6bce8,agent,exit,guest_simulation_llm,2025-08-30T05:34:55.634701+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1580, ""num_response_tokens"": 1, ""total_tokens"": 1581}",555.56321144104
+f455f917-8c0a-44b3-a839-60ba53b34c0f,system,"{""guest_persona"": {""full_name"": ""James O'Brien"", ""order_size"": 6, ""order_complexity"": ""simple"", ""guest_bio"": ""A construction foreman ordering for his crew. Needs large quantities of filling, simple foods. Values bulk pricing and reliable portions. Usually orders the same items in large quantities.""}, ""target_order"": {""order_items"": [{""name"": ""Baby Back Ribs"", ""quantity"": 3, ""base_price"": 28.99, ""modifiers"": [{""modifier_type_name"": ""Side Choice"", ""modifier_option_name"": ""French Fries"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 86.97}, {""name"": ""Grilled Chicken Sandwich"", ""quantity"": 3, ""base_price"": 14.99, ""modifiers"": [{""modifier_type_name"": ""Side Choice"", ""modifier_option_name"": ""French Fries"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 44.97}], ""order_total_price"": 131.94, ""reasoning"": ""James O'Brien ordered for Thursday crew dinner: 3 full racks of ribs and 3 chicken sandwiches, all with fries, hearty portions after a long work day.""}}",test_case_info,2025-08-30T05:34:55.634790+00:00,,,,,,-1.0

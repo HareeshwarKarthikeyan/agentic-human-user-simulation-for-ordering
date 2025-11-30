@@ -1,0 +1,40 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+575621f5-42af-4625-9790-b3530708b18a,assistant,Hello! Thank you for calling The Garden Bistro! How can I assist you today?,order_taking_llm,2025-08-30T05:34:01.613855+00:00,,,,,,-1.0
+373fc0ec-6e04-4549-b3dd-11043b7dc723,agent,"Hi there! I’d like to place an order. First, I’d like one Lobster Tail, broiled, please. And I want to add a Third Tail to that. 
+
+Then, I’ll also take a Chocolate Lava Cake with chocolate ice cream and topped with whipped cream. 
+
+Can you give me the total for that?",guest_simulation_llm,2025-08-30T05:34:03.003608+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1179, ""num_response_tokens"": 68, ""total_tokens"": 1247}",1389.375925064087
+91772fa5-8a22-42bf-bc44-348ff1d94dfb,assistant,"Great choices! So, just to confirm, you’d like:
+
+- 1 Lobster Tail (broiled) with an additional Third Tail
+- 1 Chocolate Lava Cake with chocolate ice cream and topped with whipped cream
+
+Let me calculate that for you.
+
+The Lobster Tail is $44.99, and the Third Tail is an additional $22.00. That brings your seafood total to $66.99.
+
+The Chocolate Lava Cake is $8.99, so adding that makes it $75.98 total.
+
+Just to double-check, can I get a name for the order?",order_taking_llm,2025-08-30T05:34:05.261493+00:00,,,,,,-1.0
+38c3369e-bfac-405a-917e-5c4cd8f5dcde,agent,"Yes, it's under Rachel Green. Could you confirm that total again for me?",guest_simulation_llm,2025-08-30T05:34:06.099697+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1391, ""num_response_tokens"": 16, ""total_tokens"": 1407}",837.9793167114258
+b453eebb-32f1-4ecd-ac32-fc383b294cc8,assistant,"Sure thing, Rachel! Here’s your order summary:
+
+- 1 Lobster Tail (broiled) - $44.99
+- 1 additional Third Tail - $22.00
+- 1 Chocolate Lava Cake with chocolate ice cream and topped with whipped cream - $8.99
+
+So the total comes to **$75.98**. 
+
+Would you like anything else with that, or are you all set?",order_taking_llm,2025-08-30T05:34:08.116935+00:00,,,,,,-1.0
+c4182348-8e72-4f39-8d39-cd0639e913b5,agent,"No, that's all for me, thank you! Let's go ahead and place that order for $75.98 under Rachel Green.",guest_simulation_llm,2025-08-30T05:34:09.177604+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1518, ""num_response_tokens"": 26, ""total_tokens"": 1544}",1060.2407455444336
+959333f5-e4dc-4b34-90ca-109c012dc2fe,assistant,"Perfect! Just to recap your order:
+
+- 1 Lobster Tail (broiled) with an additional Third Tail
+- 1 Chocolate Lava Cake with chocolate ice cream and topped with whipped cream
+
+Total: **$75.98**
+
+Your order will be ready for pickup in 20 minutes. Thank you for choosing The Garden Bistro, Rachel! Have a wonderful day!",order_taking_llm,2025-08-30T05:34:10.986888+00:00,,,,,,-1.0
+140be80b-17f4-43fb-b733-9142cc7f4012,agent,exit,guest_simulation_llm,2025-08-30T05:34:11.698267+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1643, ""num_response_tokens"": 1, ""total_tokens"": 1644}",710.9332084655762
+bf33052d-317a-468b-95c0-eef43a31bee8,system,"{""guest_persona"": {""full_name"": ""Rachel Green"", ""order_size"": 2, ""order_complexity"": ""complex"", ""guest_bio"": ""A food blogger who asks extensive questions about ingredients and presentation for her reviews. Takes time exploring unique menu items and seasonal specials. Requests specific plating for photos.""}, ""target_order"": {""order_items"": [{""name"": ""Lobster Tail"", ""quantity"": 1, ""base_price"": 44.99, ""modifiers"": [{""modifier_type_name"": ""Preparation"", ""modifier_option_name"": ""Broiled"", ""is_required"": true, ""price"": 0.0}, {""modifier_type_name"": ""Add-on"", ""modifier_option_name"": ""Third Tail"", ""is_required"": false, ""price"": 22.0}], ""item_total_price"": 66.99}, {""name"": ""Chocolate Lava Cake"", ""quantity"": 1, ""base_price"": 8.99, ""modifiers"": [{""modifier_type_name"": ""Ice Cream Flavor"", ""modifier_option_name"": ""Chocolate"", ""is_required"": false, ""price"": 0.0}, {""modifier_type_name"": ""Topping"", ""modifier_option_name"": ""Whipped Cream"", ""is_required"": false, ""price"": 1.0}], ""item_total_price"": 9.99}], ""order_total_price"": 76.98, ""reasoning"": ""Rachel Green ordered for Tuesday blog review: triple lobster tail for impressive photos and chocolate lava cake with garnishes for dessert photography and taste testing.""}}",test_case_info,2025-08-30T05:34:11.698385+00:00,,,,,,-1.0

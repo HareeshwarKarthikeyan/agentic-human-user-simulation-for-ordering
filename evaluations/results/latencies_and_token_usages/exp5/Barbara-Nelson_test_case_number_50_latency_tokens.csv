@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+8f9e0244-dad7-4da1-bd13-41b4fbcf8bbb,"Hey there! I'd like to place an order all at once. I'm looking for a Ribeye Steak, cooked Medium, with Bérnaise sauce and a Loaded Baked Potato. I'd also like to get an Atlantic Salmon prepared Blackened, with a side of Quinoa. And for dessert, a New York Cheesecake with Caramel Sauce. Could you help me with that please, and let me know the price for everything? Thanks!",2477,4.559023
+f82aa40e-b88d-4240-a9db-19be07c50e6e,"My name is Barbara Nelson. The order sounds great, and the total price of $88.47 is noted. Can you confirm that everything's set to go?",4960,10.74945
+47cdda5e-3b86-46c1-9d92-897ffff7405b,exit,4008,7.775633

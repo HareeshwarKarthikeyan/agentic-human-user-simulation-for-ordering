@@ -1,0 +1,33 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+7399d33a-5531-48a5-82a6-f4b8e178011d,"Hi there! I'm excited to place an order, but I'd love to learn a bit more about your menu first. Can you tell me about the Filet Mignon on the menu? Specifically, I'm curious about the temperature options and any recommended sauces or enhancements.",2354,4.504145
+f8a1cd4d-1527-4a37-93d5-b7c868fd774e,"Oh, that sounds wonderful! I'd love to order the Filet Mignon, cooked Medium Rare, and could you add the Hollandaise sauce to it? I'm really particular about how it's plated since I need those perfect shots for my food blog. Anything special in presentation that comes with the Filet Mignon?",2556,2.660082
+c42d72c3-3ee5-469b-bf43-1a8c4c70d73c,"Thanks for confirming the Filet Mignon with the Hollandaise sauce! It sounds amazing. I'm also interested in trying the New York Cheesecake. Could you tell me a bit about its presentation? Does it come with any toppings, like strawberries or maybe some chocolate sauce?
+
+Also, what drinks would pair well with this meal?",2572,3.522587
+31f39a57-3dc4-458d-b270-80ba5bb9d19b,"Oh, that New York Cheesecake sounds delightful! I'd love to add one of those to my order with a strawberry topping, please. How's the berry compote made? Any unique twists to it?",2621,3.171202
+537fbbe2-e8bf-498a-b766-288b5ef6f779,"Hey, that berry compote sounds fantastic! However, just to get my order right, I actually wanted the New York Cheesecake with a chocolate sauce topping instead, but everything else is correct.
+
+Now, about the drink, I would love to dive into the details! Could you tell me a bit more about the house red wine you offer?",2538,3.680239
+11d2f01e-85cb-4887-9766-13a07cb0f46f,"Oh, that house red wine sounds intriguing! Before I decide on the wine, could I ask a bit more about the wine selection? Do you have any unique or seasonal specials that pair well with the Filet Mignon?
+
+Also, I noticed that in my order I had requested a New York Cheesecake with chocolate sauce, but I'd actually need it with both chocolate and strawberry toppings. Could you update that for me, please?
+
+And for the Filet Mignon, just to confirm, it should be with Hollandaise sauce, even if it's not required. Could you let me know if there's an extra cost for that?",2838,3.645994
+f524e660-e256-4492-a934-b4a301b96b2b,"Both the Filet Mignon and the New York Cheesecake sound perfect as is. 
+
+I'm really curious, though, could you tell me a bit more about how the Cabernet Sauvignon is paired with the steak? I'm always interested in understanding these flavor profiles better, especially for my blog. 
+
+Oh, and by the way, no wine for this order. Let's keep it cozy with just the meal and dessert. Thanks!",2844,5.649279
+22df0701-2227-47c6-bae4-b3fcb8cf6797,My name is Rachel Green. Quick note: it looks like the New York Cheesecake needs to have both strawberry and chocolate sauce toppings. Can we add those adjustments and let me know the revised total? ,4416,4.543074
+0c7031ae-57ff-4a6f-83cd-67b3d0ca0e32,Sounds great! Thanks for confirming the order under Rachel Green. Can't wait to pick it up in about 20 minutes. Appreciate it!,3936,7.373973
+b307cee8-bb59-4b73-bd36-87bd268a0a3b,"Hey there! Before I go, I'd like to place an order. Could you tell me more about the Filet Mignon options you have? I'm especially interested in how it's prepared, any specific ingredients, and presentation details.",2414,2.905901
+76103ecf-0960-4cf7-8729-aa7c468ee345,I'm definitely interested in ordering the Filet Mignon! How is it plated? And what sauce options do you have available?,2509,3.179588
+13771ab5-4968-45cd-8a69-0743f8dc32c8,"Oh, the Filet Mignon sounds delicious, and I'm loving the idea of a perfect presentation for some great photos! I'll take the Filet Mignon cooked medium rare, please. Could you please tell me if it's possible to have it with a Hollandaise sauce instead of the ones listed? I really want to make sure it matches well with the sides and the visual I'm going for. Thanks!",2552,2.953775
+b4bab87c-5f4c-4135-92be-8258baed310c,"I was actually interested in the Hollandaise sauce for my Filet Mignon, so if you can note that special request, that would be great. Could you tell me more about the Béarnaise sauce? I'm curious how it might compare to the Hollandaise for what I'm looking for.",2512,2.881347
+0057b4b3-8f6e-4043-8f24-123b8a8275f2,"Hey there! Thanks for recapping my order. That looks great so far. While we're at it, can you tell me a bit more about your dessert options or any seasonal specials? I'm particularly in the mood for something sweet with my meal.",4111,7.84562
+4f5c0266-d7a6-432e-af22-81fa2a338138,"Oh, the desserts sound delightful! I'm particularly interested in the New York Cheesecake. Can I get it with both strawberry topping and chocolate sauce, please? Could you tell me a bit about how it's plated? I love capturing the details for my blog!",2709,2.866887
+c32a36ca-3909-471d-a78d-aad9609516ce,"Hey, that sounds great, but I haven't placed my order yet. Let's start with the Filet Mignon, cooked Medium Rare with Hollandaise sauce. Could you add that for me?",2554,3.797935
+e4f9caf7-9246-4c83-acdd-d068f500abd4,"Oh, absolutely! I'd definitely love to add the New York Cheesecake with both the strawberry and chocolate sauces. By the way, is there anything special about how it's presented? I love capturing unique presentations for my blog!",2532,3.923701
+78216890-77d9-4490-89b2-fac388ebdb3c,I think I'm good on the drinks for now. Thanks for checking! Everything in my order (Filet Mignon and New York Cheesecake) sounds perfect. Could you please confirm the total price for these items before we wrap up?,2746,4.643491
+1deea8d6-57e6-4740-869c-37697fa88a6c,"Hi! Thanks for breaking down the cost for me, but could you please add some details to my order? For the Filet Mignon, I’d like it cooked medium rare if possible. Could we confirm that, and also, I'd love to make the cheesecake a bit extra with some strawberry and chocolate sauce as toppings. Does that work for you? Oh, and my name's not recorded yet, I think. Could you jot it down now for the order?",2723,3.857984
+d2224d8e-4523-43c2-965c-3dfc3d512032,exit,4038,6.949119

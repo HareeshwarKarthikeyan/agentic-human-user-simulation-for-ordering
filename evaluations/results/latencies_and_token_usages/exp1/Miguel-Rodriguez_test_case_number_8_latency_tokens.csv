@@ -1,0 +1,14 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+88c7b956-31c6-4f0e-8346-e7a582405fa8,Hi there! I’d like to place an order for a large Margherita Pizza with thick crust and Italian sausage and mushrooms as extra toppings. I also want a double order of Buffalo Wings with honey garlic sauce and a pitcher of draft beer. Can I get the total on that?,1417,1.3301048278808594
+f6945e59-8aea-4a5e-adf0-aad595365d02,"Yes, it's Miguel Rodriguez. Could you please confirm the total again? I think I made some calculations about the pizza that might be off.",1669,0.739581823348999
+40549be0-c85b-4b54-9375-705026aea45f,"Yes, let’s go ahead with that order! So to recap:
+
+- One large Margherita Pizza with thick crust and Italian sausage and mushrooms.
+- One double order of Buffalo Wings with honey garlic sauce.
+- One pitcher of draft beer.
+
+The total comes to **$59.98**. 
+
+Can I confirm that order for you?",1987,1.735414981842041
+aa109cac-4ba9-49b8-a021-e86421d77956,"No, that's everything I need. I’ll be picking it up in about 30 minutes. Thank you!",2123,0.8686771392822266
+5b097bd0-a4e1-4f56-92c5-618750805197,exit,2239,0.43148088455200195

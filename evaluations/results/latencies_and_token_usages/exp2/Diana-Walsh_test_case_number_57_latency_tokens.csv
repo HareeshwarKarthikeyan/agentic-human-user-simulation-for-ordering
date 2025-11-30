@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+4f7fa205-6570-4667-821a-a7b8becd3f5d,"Hi there! I'd like to place an order for a Caesar Salad with grilled chicken and a small Fresh Orange Juice, please.",2116,1.210165
+822c0a3f-d863-425d-acdd-cfbf6521d226,"I'd like the dressing mixed into the Caesar Salad, and the Fresh Orange Juice should be small, please.",2156,0.907755
+73884c93-ac24-4024-b25a-d46b4c138d70,"The order should be under the name Diana Walsh. 
+
+Thanks for confirming everything so quickly—having a fast and efficient service really helps when I'm between shifts.",2005,0.651302
+fda459ba-f3be-4ab6-a4f2-685f29fde985,exit,2501,0.764993

@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+2cf7ff42-ffcb-4092-8876-ac931bba8eda,"Hi there! I’d like to place an order for pickup. I need a Ribeye Steak cooked medium with Béarnaise sauce and a loaded baked potato on the side. Also, I’d like an Atlantic Salmon prepared blackened with quinoa. And to finish, I’ll have a New York Cheesecake with caramel sauce on top. Could you confirm that for me?",1363,1.294590950012207
+c85623bf-9676-4711-8f63-881fc6958e45,"Yes, it's under Barbara Nelson. Can you confirm the order and the total?",1682,0.7351102828979492
+75527da5-f581-40a6-9c98-b3928248b509,exit,1827,0.5087690353393555

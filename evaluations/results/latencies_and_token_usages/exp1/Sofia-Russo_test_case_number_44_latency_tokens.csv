@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+2f7b01c4-cb19-4eb4-98d1-b6aa7e6f188d,"Hi there! I’d like to place an order for one Atlantic Salmon and one Caesar Salad, please. Could I get the dressing on the side for the salad?",1117,1.0066790580749512
+74d444c8-d27e-4280-a5dc-e2c23ffad1c5,"No, just the salad as is with the dressing on the side, please. Can you confirm the total for my order?",1231,0.7154440879821777
+07e99ac1-10d6-4fca-9021-c40f37dcb155,It's Sofia Russo.,1318,0.9168109893798828
+1281121e-210b-4864-84bd-1bd970b69bf4,exit,1425,0.4913320541381836

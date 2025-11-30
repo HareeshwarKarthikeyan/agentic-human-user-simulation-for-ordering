@@ -1,0 +1,32 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+1f7bdd11-66ff-4411-a95b-783cee3cfdc1,assistant,Hello! Thank you for calling The Garden Bistro. How can I assist you today?,order_taking_llm,2025-08-30T05:33:06.360400+00:00,,,,,,-1.0
+5773817e-4ecf-401d-a4c4-d81b86be80be,agent,"Hi there! I’d like to place an order for a celebration for my kids' soccer team. Can I get two Kids Mac and Cheese with a Fruit Cup and an Apple Juice each, please? And also, two Classic Burgers, well done with American cheese and French fries on the side.",guest_simulation_llm,2025-08-30T05:33:08.008974+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1218, ""num_response_tokens"": 60, ""total_tokens"": 1278}",1647.9847431182861
+257051b6-c64f-4fb0-b9de-3aa662618e20,assistant,"That sounds like a fun celebration! Just to confirm, you’d like:
+
+- Two Kids Mac and Cheese, each with a Fruit Cup and an Apple Juice.
+- Two Classic Burgers, well done, with American cheese and French fries on the side.
+
+Is there anything else you’d like to add? Maybe a drink for the adults or a dessert?",order_taking_llm,2025-08-30T05:33:09.846016+00:00,,,,,,-1.0
+f1dcf1f7-2d7b-4296-9f24-35c16cdde307,agent,"No, that’s everything I need for now. Can you confirm the total for that order?",guest_simulation_llm,2025-08-30T05:33:10.918917+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1375, ""num_response_tokens"": 19, ""total_tokens"": 1394}",1072.6158618927002
+c73ec68c-377f-4fb6-a2d4-efd1a3a0ddee,assistant,"Sure! Let's calculate that for you.
+
+- Two Kids Mac and Cheese at $7.99 each: $15.98
+- Two Fruit Cups at no extra cost: $0.00
+- Two Apple Juices at no extra cost: $0.00
+- Two Classic Burgers at $15.99 each: $31.98
+- Two American cheese add-ons at $1.50 each: $3.00
+- Two French fries at no extra cost: $0.00
+
+So, the total comes to: **$50.96**. 
+
+Would you like to provide a name for the order? And just to confirm, your order will be ready for pickup in 20 minutes!",order_taking_llm,2025-08-30T05:33:13.745048+00:00,,,,,,-1.0
+81d27e81-2317-409f-86b1-ce01497b6b87,agent,"Yes, please put the order under Priya Patel. That sounds great! Just to double-check, that total is $50.96, right?",guest_simulation_llm,2025-08-30T05:33:15.187368+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1567, ""num_response_tokens"": 30, ""total_tokens"": 1597}",1441.6358470916748
+15fdec19-d2e1-46c5-b08f-97824c99c6ce,assistant,"Yes, that's correct! Your total is **$50.96** under the name Priya Patel. 
+
+Just to recap, your order includes:
+- Two Kids Mac and Cheese with Fruit Cups and Apple Juices.
+- Two Classic Burgers, well done, with American cheese and French fries.
+
+Thank you for choosing The Garden Bistro! Your order will be ready for pickup in 20 minutes. Have a great day!",order_taking_llm,2025-08-30T05:33:16.910484+00:00,,,,,,-1.0
+a12ad1aa-dfc2-4037-a7b0-0ae1818f5b8c,agent,exit,guest_simulation_llm,2025-08-30T05:33:18.036024+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1708, ""num_response_tokens"": 1, ""total_tokens"": 1709}",1125.0109672546387
+c6ca5e7a-5ca0-41c4-91f3-17a805d30bd8,system,"{""guest_persona"": {""full_name"": ""Priya Patel"", ""order_size"": 4, ""order_complexity"": ""medium"", ""guest_bio"": ""A mom ordering for her kids' soccer team celebration. Needs to accommodate various preferences and mild spice levels. Always confirms total costs and asks about bulk ordering discounts.""}, ""target_order"": {""order_items"": [{""name"": ""Kids Mac and Cheese"", ""quantity"": 2, ""base_price"": 7.99, ""modifiers"": [{""modifier_type_name"": ""Side"", ""modifier_option_name"": ""Fruit Cup"", ""is_required"": true, ""price"": 0.0}, {""modifier_type_name"": ""Drink"", ""modifier_option_name"": ""Apple Juice"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 15.98}, {""name"": ""Classic Burger"", ""quantity"": 2, ""base_price"": 15.99, ""modifiers"": [{""modifier_type_name"": ""Meat Temperature"", ""modifier_option_name"": ""Well Done"", ""is_required"": true, ""price"": 0.0}, {""modifier_type_name"": ""Cheese"", ""modifier_option_name"": ""American"", ""is_required"": false, ""price"": 1.5}, {""modifier_type_name"": ""Side Choice"", ""modifier_option_name"": ""French Fries"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 34.98}], ""order_total_price"": 50.96, ""reasoning"": ""Priya Patel ordered for Wednesday team dinner: 2 kids' mac and cheese with healthy sides and 2 well-done burgers with cheese for older kids, ensuring safe cooking.""}}",test_case_info,2025-08-30T05:33:18.036218+00:00,,,,,,-1.0

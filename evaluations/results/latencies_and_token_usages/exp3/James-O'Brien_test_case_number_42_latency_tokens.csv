@@ -1,0 +1,52 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+edc487ca-6218-49d5-ac12-913cdf77532f,"Hey there, this is James. I'm calling to place an order for my crew. Can I get 3 large Margherita Pizzas, each 18 inches, and 3 orders of Buffalo Wings, please?",3267,4.091947
+8604ec10-6b9e-469f-8b09-b5d194f76cf6,"Hey there, thanks for checking! For the Margherita Pizzas, I'll take them with the regular crust; no need for any special types. As for the Buffalo Wings, let's go with the BBQ sauce. Need everything to be nice and filling for the crew.",2142,1.449417
+82b534db-39c9-4489-ac4c-dd1a736c8c3d,"Alright, let's make sure I get this right for my crew. Here's what I need:
+
+- **3 Margherita Pizzas**: Make those Large 18"", please.
+- **3 Orders of Buffalo Wings**: Plain sauce will be just fine.
+
+No drinks needed, thanks! Could you confirm the order and let me know the total price?",3733,6.183432
+0601395d-771e-4571-b2b8-552d63839ac9,"Could you please add 3 Large Margherita Pizzas with thin crust and 3 Orders of Buffalo Wings with BBQ sauce to the order? Let me know the updated total, and the name on the order should be ""James.""",2298,3.916598
+ed5b5d79-89cd-4661-a812-e0ed58050a23,"Hey, I think there's been a mix-up. I need to place that order, not confirm it, because it hasn't been placed yet. Could I get 3 large Margherita Pizzas with thin crust and 3 orders of Buffalo Wings with BBQ sauce, please?",4525,7.264435
+b4ac1af8-5da9-4f27-8c90-8d8a3524ec8b,"Hi there, this is James O'Brien. Can you please go ahead and add 3 large Margherita pizzas with thin crust, and 3 orders of Buffalo wings with BBQ sauce? Thanks!",3450,3.542016
+de465b27-487d-413d-87e8-d82697ac6065,"Hey there, I think there's a little mix-up with what I'm trying to order. My order should be:
+
+- **3 Large 18"" Margherita Pizzas**: Please ensure it's 18 inches.
+- **3 Orders of Buffalo Wings**: No BBQ sauce, just plain.
+
+The price might be different because of the pizza size, but if you could adjust it to match that, I'd really appreciate it. Thanks for sorting that out!",2385,3.012545
+44a0d8d6-8f7d-448e-9722-cd0f3f90a33e,"Hey, let's order up those pizzas and wings like we discussed. I need:
+
+- 3 Large 18"" Margherita Pizzas, thin crust.
+- 3 Orders of Buffalo Wings, plain, no BBQ sauce.
+
+Could you confirm the total price before we finalize it? Thanks!",3729,6.532333
+cfb93ed0-fbac-414e-941a-e36d2ae58d67,"Hey, it's James O'Brien. I'd like to place an order for the following: 
+
+- 3 Large 18"" Margherita Pizzas with thin crust
+- 3 Orders of Buffalo Wings, plain with no sauce
+
+Could you confirm these items for me? Thanks!",3426,3.678797
+eb544448-aa5c-4566-9580-9212a63dcbce,"Hey, it looks like the pizzas were supposed to come with a specific size modifier, ""Large 18″,"" that hasn't been accounted for in the price yet. Can we make sure that the size and pricing match my order, so it's all correct under the name ""James O'Brien""? Thanks!",3807,6.3441
+7efe3713-0f19-437c-b4ad-d23dd4ca5ce5,"Hmm, thanks. Looks like the Margherita pizza price is a bit off. We're going with 3 Large 18"" Margherita Pizzas and 3 Orders of Plain Buffalo Wings. Can you just confirm the updated total cost, and then we'll be good?",2477,4.241549
+c428ee2f-5731-48cd-80f1-eed27ad8d187,"Hey, could you make one small adjustment for me? The Margherita Pizzas should be priced to match the target I have, which is $16.99 each for 18"", and then there's an $8 additional cost for making it a large, totaling $74.97 for all three. The buffalo wings are correct at $41.97.
+
+So, what I have in mind would total as $74.97 for the pizzas and $41.97 for the wings. Sorry for the confusion earlier - just want to make sure everything is right for my crew.
+
+Can you let me know the updated total?",2557,3.466958
+cb79e05f-1690-4d1c-b94c-5f322cbec5b0,"Hi there! Thanks for breaking it down for me. So I'm looking to order the following for the crew:
+
+- 3 Large 18"" Margherita Pizzas.
+- 3 Orders of Buffalo Wings.
+
+Total should come to $116.94 under the name ""James O'Brien."" Can you confirm all that for me?",2364,3.481156
+a5ca54e6-47c2-4b36-ac99-fb51ef390239,"Hmm, I think there's a slight issue here. I'd like to confirm a couple things:
+
+- **Margherita Pizza**: Should be listed just as ""Margherita Pizza,"" large 18"", with a cost of $16.99 each and an extra $8.00 for the size, totaling $74.97 for three.
+- **Buffalo Wings**: Shouldn't have any sauce modifiers listed—just plain Buffalo Wings.
+
+Could we make sure everything matches that? Please let me know the total costs as well. Thanks!",2428,3.178515
+b4ab8897-72c0-4171-93e9-913b1e4c8dc0,"Yeah, that all looks correct, thanks. I'll swing by in about 20 minutes for pickup.",2352,3.996436
+86f62511-c419-4e0b-abf0-dce5082f750e,"Hey, just to clarify, I only have the 3 orders of Buffalo Wings in the current order. Can you please add the 3 Large 18"" Margherita Pizzas to make it match the target order? Thanks!",2245,3.686787
+e490e3ad-8a15-46eb-995b-4d3c61efe304,exit,3593,7.51012

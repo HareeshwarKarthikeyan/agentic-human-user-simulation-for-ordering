@@ -1,0 +1,3012 @@
+{
+  "1": [
+    {
+      "PAS": 0.2916666666666667,
+      "BVS": 0.8333333333333333,
+      "ORA": 0.75,
+      "DEI": 0.0,
+      "CRRS": 0.5020833333333333,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.313713",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Carlos-Mendez_test_case_number_23"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.0,
+      "CRRS": 0.5791666666666666,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.316105",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Thomas-Wright_test_case_number_36"
+    },
+    {
+      "PAS": 0.375,
+      "BVS": 0.8333333333333334,
+      "ORA": 0.7142857142857143,
+      "DEI": 0.0,
+      "CRRS": 0.5104166666666667,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.318326",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Carlos-Mendez_test_case_number_22"
+    },
+    {
+      "PAS": 0.3333333333333333,
+      "BVS": 0,
+      "ORA": 0.75,
+      "DEI": 0.0,
+      "CRRS": 0.34583333333333327,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.320420",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Alex-Turner_test_case_number_52"
+    },
+    {
+      "PAS": 0.4166666666666667,
+      "BVS": 0,
+      "ORA": 0.3333333333333333,
+      "DEI": 0.0,
+      "CRRS": 0.22083333333333333,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.322068",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Jessica-Martinez_test_case_number_14"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 0.4,
+      "DEI": 0.0,
+      "CRRS": 0.36916666666666664,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.324402",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Thomas-Wright_test_case_number_35"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 0.5,
+      "DEI": 0.0,
+      "CRRS": 0.4041666666666667,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.326073",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Robert-Kim_test_case_number_17"
+    },
+    {
+      "PAS": 1.0,
+      "BVS": 0,
+      "ORA": 0.6666666666666666,
+      "DEI": 0.0,
+      "CRRS": 0.4833333333333333,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.328235",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Robert-Kim_test_case_number_16"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 0.6666666666666666,
+      "DEI": 0.0,
+      "CRRS": 0.46249999999999997,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.330007",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Thomas-Wright_test_case_number_34"
+    },
+    {
+      "PAS": 0.4166666666666667,
+      "BVS": 0,
+      "ORA": 0.4,
+      "DEI": 0.0,
+      "CRRS": 0.24416666666666664,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.331660",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Jessica-Martinez_test_case_number_15"
+    },
+    {
+      "PAS": 0.3125,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.0,
+      "CRRS": 0.428125,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.333559",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Alex-Turner_test_case_number_53"
+    },
+    {
+      "PAS": 0.4166666666666667,
+      "BVS": 0.8333333333333334,
+      "ORA": 0.8333333333333334,
+      "DEI": 0.0,
+      "CRRS": 0.5625,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.335358",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Rachel-Green_test_case_number_37"
+    },
+    {
+      "PAS": 0.4166666666666667,
+      "BVS": 0,
+      "ORA": 0.3333333333333333,
+      "DEI": 0.0,
+      "CRRS": 0.22083333333333333,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.337306",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Carlos-Mendez_test_case_number_24"
+    },
+    {
+      "PAS": 0.375,
+      "BVS": 0,
+      "ORA": 0.25,
+      "DEI": 0.0,
+      "CRRS": 0.18125,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.339323",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Alex-Turner_test_case_number_54"
+    },
+    {
+      "PAS": 0.3333333333333333,
+      "BVS": 0,
+      "ORA": 0.22222222222222224,
+      "DEI": 0.0,
+      "CRRS": 0.1611111111111111,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.340974",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Jessica-Martinez_test_case_number_13"
+    },
+    {
+      "PAS": 0.875,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.0,
+      "CRRS": 0.56875,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.342946",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Kevin-Liu_test_case_number_48"
+    },
+    {
+      "PAS": 1.0,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.0,
+      "CRRS": 0.6,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.344777",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Amanda-Foster_test_case_number_20"
+    },
+    {
+      "PAS": 0.4166666666666667,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.0,
+      "CRRS": 0.45416666666666666,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.346323",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Sofia-Russo_test_case_number_43"
+    },
+    {
+      "PAS": 0.875,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.0,
+      "CRRS": 0.21875,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.347909",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Sarah-Johnson_test_case_number_1"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0.9895833333333334,
+      "ORA": 0.0,
+      "DEI": 0.0,
+      "CRRS": 0.3229166666666667,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.350163",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_David-Thompson_test_case_number_12"
+    },
+    {
+      "PAS": 0.75,
+      "BVS": 0.7407407407407407,
+      "ORA": 0.4,
+      "DEI": 0.0,
+      "CRRS": 0.47564814814814815,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.352297",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Amanda-Foster_test_case_number_21"
+    },
+    {
+      "PAS": 0.3,
+      "BVS": 0.6666666666666666,
+      "ORA": 0.761904761904762,
+      "DEI": 0.0,
+      "CRRS": 0.475,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.353839",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Barbara-Nelson_test_case_number_49"
+    },
+    {
+      "PAS": 0.3333333333333333,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.0,
+      "CRRS": 0.08333333333333333,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.355424",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Marcus-James_test_case_number_29"
+    },
+    {
+      "PAS": 0.5833333333333334,
+      "BVS": 0.27777777777777773,
+      "ORA": 1.0,
+      "DEI": 0.0,
+      "CRRS": 0.5513888888888889,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.357248",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_David-Thompson_test_case_number_11"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.0,
+      "CRRS": 0.22916666666666666,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.359400",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Sarah-Johnson_test_case_number_2"
+    },
+    {
+      "PAS": 0.3125,
+      "BVS": 0.8333333333333333,
+      "ORA": 0.28571428571428575,
+      "DEI": 0.0,
+      "CRRS": 0.34479166666666666,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.361803",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_David-Thompson_test_case_number_10"
+    },
+    {
+      "PAS": 1.0,
+      "BVS": 0,
+      "ORA": 0.6666666666666666,
+      "DEI": 0.0,
+      "CRRS": 0.4833333333333333,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.363323",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Sarah-Johnson_test_case_number_3"
+    },
+    {
+      "PAS": 0.4166666666666667,
+      "BVS": 0.5555555555555555,
+      "ORA": 0.888888888888889,
+      "DEI": 0.0,
+      "CRRS": 0.5263888888888889,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.364999",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Marcus-James_test_case_number_28"
+    },
+    {
+      "PAS": 0.3333333333333333,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.0,
+      "CRRS": 0.4333333333333333,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.367242",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Sofia-Russo_test_case_number_45"
+    },
+    {
+      "PAS": 0.3333333333333333,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.0,
+      "CRRS": 0.4333333333333333,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.369109",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Sofia-Russo_test_case_number_44"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 0.9411764705882353,
+      "DEI": 0.0,
+      "CRRS": 0.45441176470588235,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.370766",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Miguel-Rodriguez_test_case_number_7"
+    },
+    {
+      "PAS": 0.875,
+      "BVS": 0,
+      "ORA": 0.4000000000000001,
+      "DEI": 0.0,
+      "CRRS": 0.35875,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.372347",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Amanda-Foster_test_case_number_19"
+    },
+    {
+      "PAS": 0.375,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.0,
+      "CRRS": 0.44375,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.373924",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Priya-Patel_test_case_number_33"
+    },
+    {
+      "PAS": 0.4166666666666667,
+      "BVS": 0,
+      "ORA": 0.5454545454545454,
+      "DEI": 0.0,
+      "CRRS": 0.29507575757575755,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.375839",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Frank-Morrison_test_case_number_59"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.0,
+      "CRRS": 0.22916666666666666,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.377625",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Diana-Walsh_test_case_number_55"
+    },
+    {
+      "PAS": 0.4166666666666667,
+      "BVS": 0,
+      "ORA": 0.8750000000000001,
+      "DEI": 0.0,
+      "CRRS": 0.4104166666666667,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.379364",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Frank-Morrison_test_case_number_58"
+    },
+    {
+      "PAS": 0.25,
+      "BVS": 0.9722222222222222,
+      "ORA": 0.8571428571428571,
+      "DEI": 0.0,
+      "CRRS": 0.5569444444444445,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.380841",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Priya-Patel_test_case_number_32"
+    },
+    {
+      "PAS": 0.25,
+      "BVS": 0.8333333333333333,
+      "ORA": 0.0,
+      "DEI": 0.0,
+      "CRRS": 0.22916666666666666,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.382571",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Miguel-Rodriguez_test_case_number_8"
+    },
+    {
+      "PAS": 0.8333333333333334,
+      "BVS": 0,
+      "ORA": 0.4444444444444445,
+      "DEI": 0.0,
+      "CRRS": 0.36388888888888893,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.384533",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Diana-Walsh_test_case_number_57"
+    },
+    {
+      "PAS": 0.8333333333333334,
+      "BVS": 0,
+      "ORA": 0.8000000000000002,
+      "DEI": 0.0,
+      "CRRS": 0.4883333333333334,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.386393",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Diana-Walsh_test_case_number_56"
+    },
+    {
+      "PAS": 0.4,
+      "BVS": 0.9166666666666667,
+      "ORA": 0.9,
+      "DEI": 0.0,
+      "CRRS": 0.5983333333333334,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.388221",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Miguel-Rodriguez_test_case_number_9"
+    },
+    {
+      "PAS": 0.3333333333333333,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.0,
+      "CRRS": 0.08333333333333333,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.389982",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Priya-Patel_test_case_number_31"
+    },
+    {
+      "PAS": 0.875,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.0,
+      "CRRS": 0.21875,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.392224",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_James-O'Brien_test_case_number_42"
+    },
+    {
+      "PAS": 0.3333333333333333,
+      "BVS": 0,
+      "ORA": 0.6250000000000001,
+      "DEI": 0.0,
+      "CRRS": 0.30208333333333337,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.394016",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Barbara-Nelson_test_case_number_51"
+    },
+    {
+      "PAS": 0.25,
+      "BVS": 0.8333333333333333,
+      "ORA": 0.8333333333333334,
+      "DEI": 0.0,
+      "CRRS": 0.5208333333333334,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.395591",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Marcus-James_test_case_number_30"
+    },
+    {
+      "PAS": 0.375,
+      "BVS": 0,
+      "ORA": 0.75,
+      "DEI": 0.0,
+      "CRRS": 0.35624999999999996,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.397047",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Barbara-Nelson_test_case_number_50"
+    },
+    {
+      "PAS": 0.8333333333333334,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.0,
+      "CRRS": 0.20833333333333334,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.398547",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_James-O'Brien_test_case_number_41"
+    },
+    {
+      "PAS": 0.55,
+      "BVS": 0.3333333333333333,
+      "ORA": 0.823529411764706,
+      "DEI": 0.0,
+      "CRRS": 0.49240196078431375,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.400777",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Frank-Morrison_test_case_number_60"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.0,
+      "CRRS": 0.5791666666666666,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.403158",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_James-O'Brien_test_case_number_40"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.0,
+      "CRRS": 0.475,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.404597",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Rachel-Green_test_case_number_39"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0.9722222222222222,
+      "ORA": 0.25,
+      "DEI": 0.0,
+      "CRRS": 0.40694444444444444,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.406329",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Rachel-Green_test_case_number_38"
+    },
+    {
+      "PAS": 1.0,
+      "BVS": 0,
+      "ORA": 0.6666666666666666,
+      "DEI": 0.0,
+      "CRRS": 0.4833333333333333,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.408373",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Kevin-Liu_test_case_number_46"
+    },
+    {
+      "PAS": 0.8333333333333334,
+      "BVS": 0,
+      "ORA": 0.6666666666666666,
+      "DEI": 0.0,
+      "CRRS": 0.44166666666666665,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.410180",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Kevin-Liu_test_case_number_47"
+    },
+    {
+      "PAS": 0.8125,
+      "BVS": 0.8333333333333333,
+      "ORA": 1.0,
+      "DEI": 0.0,
+      "CRRS": 0.7197916666666666,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.412132",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Linda-Walsh_test_case_number_25"
+    },
+    {
+      "PAS": 0.3333333333333333,
+      "BVS": 0,
+      "ORA": 0.5454545454545454,
+      "DEI": 0.0,
+      "CRRS": 0.27424242424242423,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.413690",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Emily-Chen_test_case_number_6"
+    },
+    {
+      "PAS": 0.875,
+      "BVS": 0.8333333333333333,
+      "ORA": 1.0,
+      "DEI": 0.0,
+      "CRRS": 0.7354166666666666,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.415670",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Linda-Walsh_test_case_number_26"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.0,
+      "CRRS": 0.5791666666666666,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.417981",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Robert-Kim_test_case_number_18"
+    },
+    {
+      "PAS": 0.4166666666666667,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.0,
+      "CRRS": 0.10416666666666667,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.419776",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Emily-Chen_test_case_number_4"
+    },
+    {
+      "PAS": 0.375,
+      "BVS": 0,
+      "ORA": 0.7272727272727272,
+      "DEI": 0.0,
+      "CRRS": 0.3482954545454545,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.421212",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Emily-Chen_test_case_number_5"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.0,
+      "CRRS": 0.5791666666666666,
+      "experiment_level": 1,
+      "timestamp": "2025-09-01T22:34:35.422736",
+      "conversation_id": "chat_with_guest_simulation_llm_messages_log_Linda-Walsh_test_case_number_27"
+    }
+  ],
+  "2": [
+    {
+      "PAS": 0.5,
+      "BVS": 0.3333333333333333,
+      "ORA": 0.7000000000000001,
+      "DEI": 0.2,
+      "CRRS": 0.4766666666666667,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.425140",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Barbara-Nelson_test_case_number_49"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0.9722222222222222,
+      "ORA": 1.0,
+      "DEI": 0.2,
+      "CRRS": 0.7094444444444444,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.427013",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sofia-Russo_test_case_number_45"
+    },
+    {
+      "PAS": 0.5416666666666666,
+      "BVS": 0.8333333333333333,
+      "ORA": 0.8799999999999999,
+      "DEI": 0.2,
+      "CRRS": 0.6500833333333332,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.428840",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_David-Thompson_test_case_number_11"
+    },
+    {
+      "PAS": 0.4166666666666667,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.2,
+      "CRRS": 0.49416666666666664,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.430714",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_David-Thompson_test_case_number_10"
+    },
+    {
+      "PAS": 0.2916666666666667,
+      "BVS": 0.8333333333333333,
+      "ORA": 0.8571428571428571,
+      "DEI": 0.2,
+      "CRRS": 0.5795833333333333,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.432741",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sofia-Russo_test_case_number_44"
+    },
+    {
+      "PAS": 0.875,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.2,
+      "CRRS": 0.60875,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.434919",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Robert-Kim_test_case_number_18"
+    },
+    {
+      "PAS": 0.4166666666666667,
+      "BVS": 0.8333333333333334,
+      "ORA": 0.9,
+      "DEI": 0.2,
+      "CRRS": 0.6258333333333334,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.436616",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Miguel-Rodriguez_test_case_number_9"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0.9375,
+      "ORA": 0.5454545454545454,
+      "DEI": 0.2,
+      "CRRS": 0.543409090909091,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.438354",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Rachel-Green_test_case_number_39"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0.625,
+      "ORA": 0.5714285714285714,
+      "DEI": 0.2,
+      "CRRS": 0.49,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.439930",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_David-Thompson_test_case_number_12"
+    },
+    {
+      "PAS": 0.4375,
+      "BVS": 0.8854166666666666,
+      "ORA": 1.0,
+      "DEI": 0.2,
+      "CRRS": 0.6764583333333334,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.442028",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Rachel-Green_test_case_number_38"
+    },
+    {
+      "PAS": 0.375,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.2,
+      "CRRS": 0.13375,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.443649",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Miguel-Rodriguez_test_case_number_8"
+    },
+    {
+      "PAS": 0.4166666666666667,
+      "BVS": 0,
+      "ORA": 0.8,
+      "DEI": 0.2,
+      "CRRS": 0.42416666666666664,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.445033",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sofia-Russo_test_case_number_43"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 0.6666666666666666,
+      "DEI": 0.2,
+      "CRRS": 0.5025,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.446375",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Kevin-Liu_test_case_number_47"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 0.6666666666666666,
+      "DEI": 0.2,
+      "CRRS": 0.5025,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.447669",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Kevin-Liu_test_case_number_46"
+    },
+    {
+      "PAS": 0.4166666666666667,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.2,
+      "CRRS": 0.14416666666666667,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.449502",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Alex-Turner_test_case_number_54"
+    },
+    {
+      "PAS": 0.3125,
+      "BVS": 0.8333333333333333,
+      "ORA": 0.7272727272727272,
+      "DEI": 0.2,
+      "CRRS": 0.5393371212121212,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.451610",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Emily-Chen_test_case_number_5"
+    },
+    {
+      "PAS": 0.8333333333333334,
+      "BVS": 0.9722222222222222,
+      "ORA": 0.0,
+      "DEI": 0.2,
+      "CRRS": 0.4427777777777778,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.453416",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_James-O'Brien_test_case_number_42"
+    },
+    {
+      "PAS": 0.4166666666666667,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.2,
+      "CRRS": 0.14416666666666667,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.454682",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Emily-Chen_test_case_number_4"
+    },
+    {
+      "PAS": 0.375,
+      "BVS": 0.8333333333333334,
+      "ORA": 1.0,
+      "DEI": 0.2,
+      "CRRS": 0.6504166666666666,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.456209",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Emily-Chen_test_case_number_6"
+    },
+    {
+      "PAS": 0.75,
+      "BVS": 0.8333333333333333,
+      "ORA": 1.0,
+      "DEI": 0.2,
+      "CRRS": 0.7441666666666666,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.458132",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_James-O'Brien_test_case_number_40"
+    },
+    {
+      "PAS": 0.3333333333333333,
+      "BVS": 0.5555555555555555,
+      "ORA": 0.0,
+      "DEI": 0.2,
+      "CRRS": 0.23444444444444446,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.460208",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Alex-Turner_test_case_number_52"
+    },
+    {
+      "PAS": 0.35714285714285715,
+      "BVS": 0.47619047619047616,
+      "ORA": 0.30769230769230765,
+      "DEI": 0.2,
+      "CRRS": 0.3322161172161172,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.462029",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Marcus-James_test_case_number_30"
+    },
+    {
+      "PAS": 0.4375,
+      "BVS": 0.9375,
+      "ORA": 1.0,
+      "DEI": 0.2,
+      "CRRS": 0.686875,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.463339",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Alex-Turner_test_case_number_53"
+    },
+    {
+      "PAS": 0.8333333333333334,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.2,
+      "CRRS": 0.5983333333333334,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.464813",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_James-O'Brien_test_case_number_41"
+    },
+    {
+      "PAS": 0.9375,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.2,
+      "CRRS": 0.27437500000000004,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.466789",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sarah-Johnson_test_case_number_2"
+    },
+    {
+      "PAS": 0.375,
+      "BVS": 0.8333333333333333,
+      "ORA": 0.4,
+      "DEI": 0.2,
+      "CRRS": 0.4404166666666667,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.471713",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Marcus-James_test_case_number_29"
+    },
+    {
+      "PAS": 0.71875,
+      "BVS": 0.9895833333333334,
+      "ORA": 0.3333333333333333,
+      "DEI": 0.2,
+      "CRRS": 0.5342708333333334,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.473608",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Amanda-Foster_test_case_number_21"
+    },
+    {
+      "PAS": 0.875,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.2,
+      "CRRS": 0.60875,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.475729",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Linda-Walsh_test_case_number_25"
+    },
+    {
+      "PAS": 0.8333333333333334,
+      "BVS": 0.9722222222222222,
+      "ORA": 0.7142857142857143,
+      "DEI": 0.2,
+      "CRRS": 0.6927777777777778,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.477641",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Amanda-Foster_test_case_number_20"
+    },
+    {
+      "PAS": 0.3333333333333333,
+      "BVS": 0,
+      "ORA": 0.7999999999999999,
+      "DEI": 0.2,
+      "CRRS": 0.4033333333333333,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.479668",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Marcus-James_test_case_number_28"
+    },
+    {
+      "PAS": 0.875,
+      "BVS": 0,
+      "ORA": 0.6666666666666666,
+      "DEI": 0.2,
+      "CRRS": 0.4920833333333333,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.481235",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sarah-Johnson_test_case_number_3"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.2,
+      "CRRS": 0.26916666666666667,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.482928",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sarah-Johnson_test_case_number_1"
+    },
+    {
+      "PAS": 0.375,
+      "BVS": 0.41666666666666663,
+      "ORA": 0.0,
+      "DEI": 0.2,
+      "CRRS": 0.21708333333333335,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.485398",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Jessica-Martinez_test_case_number_13"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 0.8,
+      "DEI": 0.2,
+      "CRRS": 0.5491666666666666,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.486944",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Linda-Walsh_test_case_number_26"
+    },
+    {
+      "PAS": 0.9,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.2,
+      "CRRS": 0.265,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.488668",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Linda-Walsh_test_case_number_27"
+    },
+    {
+      "PAS": 0.8125,
+      "BVS": 0.8333333333333333,
+      "ORA": 0.0,
+      "DEI": 0.2,
+      "CRRS": 0.40979166666666667,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.490234",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Kevin-Liu_test_case_number_48"
+    },
+    {
+      "PAS": 0.3333333333333333,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.2,
+      "CRRS": 0.12333333333333334,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.491915",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Jessica-Martinez_test_case_number_15"
+    },
+    {
+      "PAS": 0.25,
+      "BVS": 0.9999999999999999,
+      "ORA": 0.5714285714285715,
+      "DEI": 0.2,
+      "CRRS": 0.5025,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.493440",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Jessica-Martinez_test_case_number_14"
+    },
+    {
+      "PAS": 0.75,
+      "BVS": 0.9722222222222222,
+      "ORA": 0.4000000000000001,
+      "DEI": 0.2,
+      "CRRS": 0.5619444444444445,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.495346",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Amanda-Foster_test_case_number_19"
+    },
+    {
+      "PAS": 0.45,
+      "BVS": 1,
+      "ORA": 1.0,
+      "DEI": 0.2,
+      "CRRS": 0.7025,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.496855",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Carlos-Mendez_test_case_number_22"
+    },
+    {
+      "PAS": 0.875,
+      "BVS": 0.8333333333333333,
+      "ORA": 0.4,
+      "DEI": 0.2,
+      "CRRS": 0.5654166666666667,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.498837",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Thomas-Wright_test_case_number_36"
+    },
+    {
+      "PAS": 0.4166666666666667,
+      "BVS": 0.9722222222222222,
+      "ORA": 0.7999999999999999,
+      "DEI": 0.2,
+      "CRRS": 0.6186111111111111,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.501058",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Carlos-Mendez_test_case_number_23"
+    },
+    {
+      "PAS": 0.6875,
+      "BVS": 0.8333333333333333,
+      "ORA": 0.0,
+      "DEI": 0.2,
+      "CRRS": 0.37854166666666667,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.503657",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Frank-Morrison_test_case_number_59"
+    },
+    {
+      "PAS": 0.8333333333333334,
+      "BVS": 0.9722222222222222,
+      "ORA": 1.0,
+      "DEI": 0.2,
+      "CRRS": 0.7927777777777778,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.505169",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Thomas-Wright_test_case_number_34"
+    },
+    {
+      "PAS": 0.75,
+      "BVS": 0.6666666666666666,
+      "ORA": 0.0,
+      "DEI": 0.2,
+      "CRRS": 0.36083333333333334,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.507202",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Thomas-Wright_test_case_number_35"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0.5555555555555555,
+      "ORA": 0.375,
+      "DEI": 0.2,
+      "CRRS": 0.40736111111111106,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.509745",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Frank-Morrison_test_case_number_58"
+    },
+    {
+      "PAS": 0.375,
+      "BVS": 0.8333333333333334,
+      "ORA": 1.0,
+      "DEI": 0.2,
+      "CRRS": 0.6504166666666666,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.511417",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Carlos-Mendez_test_case_number_24"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 0.6666666666666666,
+      "DEI": 0.2,
+      "CRRS": 0.5025,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.512877",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Robert-Kim_test_case_number_16"
+    },
+    {
+      "PAS": 0.4166666666666667,
+      "BVS": 0,
+      "ORA": 0.8571428571428571,
+      "DEI": 0.2,
+      "CRRS": 0.44416666666666665,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.514259",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Priya-Patel_test_case_number_33"
+    },
+    {
+      "PAS": 0.25,
+      "BVS": 0.9722222222222222,
+      "ORA": 0.875,
+      "DEI": 0.2,
+      "CRRS": 0.6031944444444444,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.515841",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Frank-Morrison_test_case_number_60"
+    },
+    {
+      "PAS": 0.35,
+      "BVS": 0,
+      "ORA": 0.8571428571428571,
+      "DEI": 0.2,
+      "CRRS": 0.4275,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.517666",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Priya-Patel_test_case_number_32"
+    },
+    {
+      "PAS": 0.8,
+      "BVS": 0.6666666666666666,
+      "ORA": 0.4,
+      "DEI": 0.2,
+      "CRRS": 0.5133333333333333,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.519063",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Diana-Walsh_test_case_number_55"
+    },
+    {
+      "PAS": 0.875,
+      "BVS": 0,
+      "ORA": 0.5,
+      "DEI": 0.2,
+      "CRRS": 0.43374999999999997,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.520713",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Robert-Kim_test_case_number_17"
+    },
+    {
+      "PAS": 0.3333333333333333,
+      "BVS": 0,
+      "ORA": 0.6250000000000001,
+      "DEI": 0.2,
+      "CRRS": 0.34208333333333335,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.522052",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Barbara-Nelson_test_case_number_51"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 0.25,
+      "DEI": 0.2,
+      "CRRS": 0.3566666666666667,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.523628",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Diana-Walsh_test_case_number_57"
+    },
+    {
+      "PAS": 0.25,
+      "BVS": 0.7142857142857142,
+      "ORA": 0.7272727272727272,
+      "DEI": 0.2,
+      "CRRS": 0.49990259740259735,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.526053",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Priya-Patel_test_case_number_31"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0.5555555555555555,
+      "ORA": 0.823529411764706,
+      "DEI": 0.2,
+      "CRRS": 0.5643464052287582,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.527712",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Miguel-Rodriguez_test_case_number_7"
+    },
+    {
+      "PAS": 0.5833333333333334,
+      "BVS": 0.8333333333333334,
+      "ORA": 0.8333333333333334,
+      "DEI": 0.2,
+      "CRRS": 0.6441666666666668,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.529048",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Rachel-Green_test_case_number_37"
+    },
+    {
+      "PAS": 0.875,
+      "BVS": 0,
+      "ORA": 0.8000000000000002,
+      "DEI": 0.2,
+      "CRRS": 0.5387500000000001,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.530759",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Diana-Walsh_test_case_number_56"
+    },
+    {
+      "PAS": 0.25,
+      "BVS": 0.9722222222222222,
+      "ORA": 0.823529411764706,
+      "DEI": 0.2,
+      "CRRS": 0.5851797385620916,
+      "experiment_level": 2,
+      "timestamp": "2025-09-01T22:34:35.532799",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Barbara-Nelson_test_case_number_50"
+    }
+  ],
+  "3": [
+    {
+      "PAS": 0.5,
+      "BVS": 0.5555555555555555,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.6861111111111111,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.534856",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Barbara-Nelson_test_case_number_49"
+    },
+    {
+      "PAS": 0.5833333333333334,
+      "BVS": 0.5555555555555557,
+      "ORA": 0.6666666666666666,
+      "DEI": 0.5,
+      "CRRS": 0.5902777777777778,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.536329",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sofia-Russo_test_case_number_45"
+    },
+    {
+      "PAS": 0.4166666666666667,
+      "BVS": 0.5555555555555555,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.6652777777777777,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.538230",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_David-Thompson_test_case_number_11"
+    },
+    {
+      "PAS": 0.6,
+      "BVS": 0.7894736842105262,
+      "ORA": 0.6956521739130435,
+      "DEI": 0.5,
+      "CRRS": 0.6513729977116705,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.541151",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_David-Thompson_test_case_number_10"
+    },
+    {
+      "PAS": 0.375,
+      "BVS": 0.9027777777777779,
+      "ORA": 0.3333333333333333,
+      "DEI": 0.5,
+      "CRRS": 0.49097222222222225,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.562701",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sofia-Russo_test_case_number_44"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.6791666666666667,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.577390",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Robert-Kim_test_case_number_18"
+    },
+    {
+      "PAS": 0.375,
+      "BVS": 0.986842105263158,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.7411184210526316,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.610531",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Miguel-Rodriguez_test_case_number_9"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0.8333333333333334,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.7416666666666667,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.612988",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Rachel-Green_test_case_number_39"
+    },
+    {
+      "PAS": 0.425,
+      "BVS": 0.9583333333333334,
+      "ORA": 0.4,
+      "DEI": 0.5,
+      "CRRS": 0.5379166666666667,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.615925",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_David-Thompson_test_case_number_12"
+    },
+    {
+      "PAS": 0.3375,
+      "BVS": 0.9649122807017544,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.7273574561403509,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.618977",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Rachel-Green_test_case_number_38"
+    },
+    {
+      "PAS": 0.45588235294117646,
+      "BVS": 0.588235294117647,
+      "ORA": 0.0,
+      "DEI": 0.5,
+      "CRRS": 0.3316176470588235,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.628809",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Miguel-Rodriguez_test_case_number_8"
+    },
+    {
+      "PAS": 0.27941176470588236,
+      "BVS": 0.7843137254901961,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.6767156862745098,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.635814",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sofia-Russo_test_case_number_43"
+    },
+    {
+      "PAS": 0.75,
+      "BVS": 0.9722222222222222,
+      "ORA": 0.6666666666666666,
+      "DEI": 0.5,
+      "CRRS": 0.7152777777777778,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.638925",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Kevin-Liu_test_case_number_47"
+    },
+    {
+      "PAS": 0.8125,
+      "BVS": 0.8333333333333333,
+      "ORA": 0.8,
+      "DEI": 0.5,
+      "CRRS": 0.7497916666666666,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.641073",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Kevin-Liu_test_case_number_46"
+    },
+    {
+      "PAS": 0.40625,
+      "BVS": 0.8333333333333333,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.7182291666666667,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.642776",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Alex-Turner_test_case_number_54"
+    },
+    {
+      "PAS": 0.25,
+      "BVS": 0.9722222222222222,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.7069444444444444,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.644832",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Emily-Chen_test_case_number_5"
+    },
+    {
+      "PAS": 0.859375,
+      "BVS": 0.41666666666666663,
+      "ORA": 0.0,
+      "DEI": 0.5,
+      "CRRS": 0.39817708333333335,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.647384",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_James-O'Brien_test_case_number_42"
+    },
+    {
+      "PAS": 0.21875,
+      "BVS": 0.8333333333333333,
+      "ORA": 0.0,
+      "DEI": 0.5,
+      "CRRS": 0.32135416666666666,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.649440",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Emily-Chen_test_case_number_4"
+    },
+    {
+      "PAS": 0.20454545454545456,
+      "BVS": 0.9090909090909092,
+      "ORA": 0.9090909090909091,
+      "DEI": 0.5,
+      "CRRS": 0.6511363636363636,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.651555",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Emily-Chen_test_case_number_6"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 0.8571428571428571,
+      "DEI": 0.5,
+      "CRRS": 0.6291666666666667,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.653815",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_James-O'Brien_test_case_number_40"
+    },
+    {
+      "PAS": 0.3333333333333333,
+      "BVS": 0.8333333333333333,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.7,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.656148",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Alex-Turner_test_case_number_52"
+    },
+    {
+      "PAS": 0.2777777777777778,
+      "BVS": 0.7407407407407407,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.6675925925925925,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.657783",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Marcus-James_test_case_number_30"
+    },
+    {
+      "PAS": 0.375,
+      "BVS": 0.27777777777777773,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.5993055555555555,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.659527",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Alex-Turner_test_case_number_53"
+    },
+    {
+      "PAS": 0.75,
+      "BVS": 0.8333333333333333,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.8041666666666667,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.661904",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_James-O'Brien_test_case_number_41"
+    },
+    {
+      "PAS": 0.75,
+      "BVS": 0.9523809523809523,
+      "ORA": 0.6666666666666666,
+      "DEI": 0.5,
+      "CRRS": 0.7113095238095237,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.663545",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sarah-Johnson_test_case_number_2"
+    },
+    {
+      "PAS": 0.475,
+      "BVS": 0.8991228070175439,
+      "ORA": 0.25,
+      "DEI": 0.5,
+      "CRRS": 0.4860745614035088,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.666169",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Marcus-James_test_case_number_29"
+    },
+    {
+      "PAS": 0.875,
+      "BVS": 0.8796296296296297,
+      "ORA": 0.4,
+      "DEI": 0.5,
+      "CRRS": 0.6346759259259259,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.669063",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Amanda-Foster_test_case_number_21"
+    },
+    {
+      "PAS": 0.8,
+      "BVS": 0.6666666666666666,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.7833333333333333,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.670630",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Linda-Walsh_test_case_number_25"
+    },
+    {
+      "PAS": 0.7125,
+      "BVS": 0.8771929824561403,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.803563596491228,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.673048",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Amanda-Foster_test_case_number_20"
+    },
+    {
+      "PAS": 0.46875,
+      "BVS": 0.9895833333333334,
+      "ORA": 0.7142857142857143,
+      "DEI": 0.4444444444444444,
+      "CRRS": 0.6539930555555555,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.675461",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Marcus-James_test_case_number_28"
+    },
+    {
+      "PAS": 0.71875,
+      "BVS": 0.9375,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.8171875,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.677557",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sarah-Johnson_test_case_number_3"
+    },
+    {
+      "PAS": 0.8,
+      "BVS": 0.6666666666666666,
+      "ORA": 0.6666666666666666,
+      "DEI": 0.5,
+      "CRRS": 0.6666666666666666,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.679035",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sarah-Johnson_test_case_number_1"
+    },
+    {
+      "PAS": 0.25,
+      "BVS": 0.8333333333333333,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.6791666666666667,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.680711",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Jessica-Martinez_test_case_number_13"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.6791666666666667,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.682194",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Linda-Walsh_test_case_number_26"
+    },
+    {
+      "PAS": 0.8125,
+      "BVS": 0.8333333333333333,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.8197916666666667,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.684469",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Linda-Walsh_test_case_number_27"
+    },
+    {
+      "PAS": 0.75,
+      "BVS": 0.8333333333333334,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.8041666666666667,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.687070",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Kevin-Liu_test_case_number_48"
+    },
+    {
+      "PAS": 0.4166666666666667,
+      "BVS": 0,
+      "ORA": 0.5,
+      "DEI": 0.5,
+      "CRRS": 0.37916666666666665,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.688605",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Jessica-Martinez_test_case_number_15"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0.5555555555555555,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.6861111111111111,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.690668",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Jessica-Martinez_test_case_number_14"
+    },
+    {
+      "PAS": 0.8055555555555556,
+      "BVS": 0.7407407407407407,
+      "ORA": 0.7499999999999999,
+      "DEI": 0.5,
+      "CRRS": 0.712037037037037,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.692917",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Amanda-Foster_test_case_number_19"
+    },
+    {
+      "PAS": 0.375,
+      "BVS": 0.8333333333333333,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.7104166666666667,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.694575",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Carlos-Mendez_test_case_number_22"
+    },
+    {
+      "PAS": 0.75,
+      "BVS": 0.8333333333333333,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.8041666666666667,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.696018",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Thomas-Wright_test_case_number_36"
+    },
+    {
+      "PAS": 0.55,
+      "BVS": 0.6666666666666666,
+      "ORA": 0.28571428571428575,
+      "DEI": 0.5,
+      "CRRS": 0.4708333333333333,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.697447",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Carlos-Mendez_test_case_number_23"
+    },
+    {
+      "PAS": 0.325,
+      "BVS": 0.8114035087719299,
+      "ORA": 0.25,
+      "DEI": 0.5,
+      "CRRS": 0.431030701754386,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.700300",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Frank-Morrison_test_case_number_59"
+    },
+    {
+      "PAS": 0.75,
+      "BVS": 0.6666666666666666,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.7708333333333333,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.702417",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Thomas-Wright_test_case_number_34"
+    },
+    {
+      "PAS": 0.71875,
+      "BVS": 0.41666666666666663,
+      "ORA": 1.0,
+      "DEI": 0.4444444444444444,
+      "CRRS": 0.7019097222222221,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.704159",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Thomas-Wright_test_case_number_35"
+    },
+    {
+      "PAS": 0.36363636363636365,
+      "BVS": 0.946969696969697,
+      "ORA": 0.9473684210526316,
+      "DEI": 0.5,
+      "CRRS": 0.7118819776714513,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.706274",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Frank-Morrison_test_case_number_58"
+    },
+    {
+      "PAS": 0.2916666666666667,
+      "BVS": 0.9722222222222222,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.7173611111111111,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.708978",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Carlos-Mendez_test_case_number_24"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.6791666666666667,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.710512",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Robert-Kim_test_case_number_16"
+    },
+    {
+      "PAS": 0.25,
+      "BVS": 0.8796296296296297,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.6884259259259259,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.712079",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Priya-Patel_test_case_number_33"
+    },
+    {
+      "PAS": 0.375,
+      "BVS": 0,
+      "ORA": 0.7999999999999999,
+      "DEI": 0.5,
+      "CRRS": 0.47375,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.714156",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Frank-Morrison_test_case_number_60"
+    },
+    {
+      "PAS": 0.32142857142857145,
+      "BVS": 0.47619047619047616,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.6255952380952381,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.716570",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Priya-Patel_test_case_number_32"
+    },
+    {
+      "PAS": 0.6136363636363636,
+      "BVS": 0.9848484848484849,
+      "ORA": 0.5714285714285715,
+      "DEI": 0.5,
+      "CRRS": 0.6503787878787879,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.720316",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Diana-Walsh_test_case_number_55"
+    },
+    {
+      "PAS": 0.8333333333333334,
+      "BVS": 0.9722222222222222,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.8527777777777777,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.726258",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Robert-Kim_test_case_number_17"
+    },
+    {
+      "PAS": 0.425,
+      "BVS": 0.9649122807017544,
+      "ORA": 0.5882352941176471,
+      "DEI": 0.5,
+      "CRRS": 0.6051148090815274,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.729793",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Barbara-Nelson_test_case_number_51"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 0.6666666666666665,
+      "DEI": 0.5,
+      "CRRS": 0.5624999999999999,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.731741",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Diana-Walsh_test_case_number_57"
+    },
+    {
+      "PAS": 0.45,
+      "BVS": 0.6666666666666666,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.6958333333333333,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.734714",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Priya-Patel_test_case_number_31"
+    },
+    {
+      "PAS": 0.4375,
+      "BVS": 0.9375,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.746875,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.737245",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Miguel-Rodriguez_test_case_number_7"
+    },
+    {
+      "PAS": 0.42857142857142855,
+      "BVS": 0.7142857142857142,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.7,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.739401",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Rachel-Green_test_case_number_37"
+    },
+    {
+      "PAS": 0.8333333333333334,
+      "BVS": 0,
+      "ORA": 0.22222222222222224,
+      "DEI": 0.5,
+      "CRRS": 0.3861111111111111,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.741540",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Diana-Walsh_test_case_number_56"
+    },
+    {
+      "PAS": 0.35,
+      "BVS": 1,
+      "ORA": 0.5,
+      "DEI": 0.5,
+      "CRRS": 0.5625,
+      "experiment_level": 3,
+      "timestamp": "2025-09-01T22:34:35.743432",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Barbara-Nelson_test_case_number_50"
+    }
+  ],
+  "4": [
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 0.9090909090909091,
+      "DEI": 0.5,
+      "CRRS": 0.5431818181818182,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.745535",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Barbara-Nelson_test_case_number_49"
+    },
+    {
+      "PAS": 0.4,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.55,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.747219",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sofia-Russo_test_case_number_45"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.4375,
+      "CRRS": 0.5625,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.749181",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_David-Thompson_test_case_number_11"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 0.4,
+      "DEI": 0.5,
+      "CRRS": 0.365,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.751645",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_David-Thompson_test_case_number_10"
+    },
+    {
+      "PAS": 0.4,
+      "BVS": 0,
+      "ORA": 0.4,
+      "DEI": 0.5,
+      "CRRS": 0.33999999999999997,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.753248",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sofia-Russo_test_case_number_44"
+    },
+    {
+      "PAS": 0.95,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.5,
+      "CRRS": 0.3375,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.754805",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Robert-Kim_test_case_number_18"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 0.9,
+      "DEI": 0.5,
+      "CRRS": 0.54,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.756477",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Miguel-Rodriguez_test_case_number_9"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 0.3636363636363636,
+      "DEI": 0.5,
+      "CRRS": 0.3522727272727273,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.758729",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Rachel-Green_test_case_number_39"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 0.6666666666666666,
+      "DEI": 0.4375,
+      "CRRS": 0.4458333333333333,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.760377",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_David-Thompson_test_case_number_12"
+    },
+    {
+      "PAS": 0.45,
+      "BVS": 0,
+      "ORA": 0.8000000000000002,
+      "DEI": 0.4166666666666667,
+      "CRRS": 0.4758333333333334,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.761950",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Rachel-Green_test_case_number_38"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.5,
+      "CRRS": 0.225,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.763464",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Miguel-Rodriguez_test_case_number_8"
+    },
+    {
+      "PAS": 0.4375,
+      "BVS": 0,
+      "ORA": 0.4,
+      "DEI": 0.4,
+      "CRRS": 0.329375,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.765002",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sofia-Russo_test_case_number_43"
+    },
+    {
+      "PAS": 0.9375,
+      "BVS": 0,
+      "ORA": 0.5,
+      "DEI": 0.4,
+      "CRRS": 0.489375,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.766888",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Kevin-Liu_test_case_number_47"
+    },
+    {
+      "PAS": 1.0,
+      "BVS": 0,
+      "ORA": 0.6666666666666666,
+      "DEI": 0.25,
+      "CRRS": 0.5333333333333333,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.768397",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Kevin-Liu_test_case_number_46"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.4166666666666667,
+      "CRRS": 0.20833333333333334,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.769816",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Alex-Turner_test_case_number_54"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 0.7272727272727272,
+      "DEI": 0.4166666666666667,
+      "CRRS": 0.4628787878787879,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.771309",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Emily-Chen_test_case_number_5"
+    },
+    {
+      "PAS": 1.0,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.375,
+      "CRRS": 0.325,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.772619",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_James-O'Brien_test_case_number_42"
+    },
+    {
+      "PAS": 0.3333333333333333,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.375,
+      "CRRS": 0.15833333333333333,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.774298",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Emily-Chen_test_case_number_4"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 0.7272727272727272,
+      "DEI": 0.3,
+      "CRRS": 0.4395454545454545,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.776382",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Emily-Chen_test_case_number_6"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 0.6666666666666665,
+      "DEI": 0.5,
+      "CRRS": 0.5624999999999999,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.778179",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_James-O'Brien_test_case_number_40"
+    },
+    {
+      "PAS": 0.4375,
+      "BVS": 0,
+      "ORA": 0.8571428571428571,
+      "DEI": 0.5,
+      "CRRS": 0.509375,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.779601",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Alex-Turner_test_case_number_52"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.3888888888888889,
+      "CRRS": 0.5527777777777778,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.781336",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Marcus-James_test_case_number_30"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.4,
+      "CRRS": 0.5549999999999999,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.783563",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Alex-Turner_test_case_number_53"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 0.8571428571428571,
+      "DEI": 0.5,
+      "CRRS": 0.6291666666666667,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.785504",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_James-O'Brien_test_case_number_41"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.5,
+      "CRRS": 0.32916666666666666,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.787003",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sarah-Johnson_test_case_number_2"
+    },
+    {
+      "PAS": 0.46875,
+      "BVS": 0,
+      "ORA": 0.30769230769230765,
+      "DEI": 0.4,
+      "CRRS": 0.3048798076923077,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.788632",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Marcus-James_test_case_number_29"
+    },
+    {
+      "PAS": 0.875,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.5,
+      "CRRS": 0.31875,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.790089",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Amanda-Foster_test_case_number_21"
+    },
+    {
+      "PAS": 1.0,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.25,
+      "CRRS": 0.65,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.791994",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Linda-Walsh_test_case_number_25"
+    },
+    {
+      "PAS": 1.0,
+      "BVS": 0,
+      "ORA": 0.8333333333333334,
+      "DEI": 0.5,
+      "CRRS": 0.6416666666666667,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.793591",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Amanda-Foster_test_case_number_20"
+    },
+    {
+      "PAS": 0.4642857142857143,
+      "BVS": 0,
+      "ORA": 0.33333333333333326,
+      "DEI": 0.4375,
+      "CRRS": 0.3202380952380952,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.795336",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Marcus-James_test_case_number_28"
+    },
+    {
+      "PAS": 0.875,
+      "BVS": 0,
+      "ORA": 0.3333333333333333,
+      "DEI": 0.375,
+      "CRRS": 0.41041666666666665,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.797230",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sarah-Johnson_test_case_number_3"
+    },
+    {
+      "PAS": 1.0,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.375,
+      "CRRS": 0.675,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.799005",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sarah-Johnson_test_case_number_1"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 0.5454545454545454,
+      "DEI": 0.3333333333333333,
+      "CRRS": 0.38257575757575757,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.801271",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Jessica-Martinez_test_case_number_13"
+    },
+    {
+      "PAS": 1.0,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.4,
+      "CRRS": 0.6799999999999999,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.802868",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Linda-Walsh_test_case_number_26"
+    },
+    {
+      "PAS": 1.0,
+      "BVS": 0,
+      "ORA": 0.4,
+      "DEI": 0.375,
+      "CRRS": 0.46499999999999997,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.804182",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Linda-Walsh_test_case_number_27"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 0.4,
+      "DEI": 0.5,
+      "CRRS": 0.4691666666666666,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.805792",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Kevin-Liu_test_case_number_48"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.4,
+      "CRRS": 0.20500000000000002,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.808124",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Jessica-Martinez_test_case_number_15"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.25,
+      "CRRS": 0.525,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.809914",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Jessica-Martinez_test_case_number_14"
+    },
+    {
+      "PAS": 0.875,
+      "BVS": 0,
+      "ORA": 0.8000000000000002,
+      "DEI": 0.5,
+      "CRRS": 0.59875,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.811432",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Amanda-Foster_test_case_number_19"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 0.4615384615384615,
+      "DEI": 0.5,
+      "CRRS": 0.3865384615384615,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.813374",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Carlos-Mendez_test_case_number_22"
+    },
+    {
+      "PAS": 0.9375,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.684375,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.814895",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Thomas-Wright_test_case_number_36"
+    },
+    {
+      "PAS": 0.4722222222222222,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.5680555555555555,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.817356",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Carlos-Mendez_test_case_number_23"
+    },
+    {
+      "PAS": 0.45,
+      "BVS": 0,
+      "ORA": 0.4444444444444445,
+      "DEI": 0.42857142857142855,
+      "CRRS": 0.3537698412698413,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.819203",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Frank-Morrison_test_case_number_59"
+    },
+    {
+      "PAS": 0.875,
+      "BVS": 0,
+      "ORA": 0.6666666666666666,
+      "DEI": 0.5,
+      "CRRS": 0.5520833333333333,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.820570",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Thomas-Wright_test_case_number_34"
+    },
+    {
+      "PAS": 1.0,
+      "BVS": 0,
+      "ORA": 0.8571428571428571,
+      "DEI": 0.375,
+      "CRRS": 0.625,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.822097",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Thomas-Wright_test_case_number_35"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 0.9473684210526316,
+      "DEI": 0.4375,
+      "CRRS": 0.544078947368421,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.823997",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Frank-Morrison_test_case_number_58"
+    },
+    {
+      "PAS": 0.4375,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.559375,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.826217",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Carlos-Mendez_test_case_number_24"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 0.3333333333333333,
+      "DEI": 0.5,
+      "CRRS": 0.4458333333333333,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.827915",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Robert-Kim_test_case_number_16"
+    },
+    {
+      "PAS": 0.375,
+      "BVS": 0,
+      "ORA": 1.0,
+      "DEI": 0.5,
+      "CRRS": 0.54375,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.829223",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Priya-Patel_test_case_number_33"
+    },
+    {
+      "PAS": 0.4642857142857143,
+      "BVS": 0,
+      "ORA": 0.823529411764706,
+      "DEI": 0.3888888888888889,
+      "CRRS": 0.48208450046685347,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.831165",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Frank-Morrison_test_case_number_60"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 0.6153846153846153,
+      "DEI": 0.5,
+      "CRRS": 0.4403846153846154,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.833517",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Priya-Patel_test_case_number_32"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.5,
+      "CRRS": 0.32916666666666666,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.835383",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Diana-Walsh_test_case_number_55"
+    },
+    {
+      "PAS": 0.875,
+      "BVS": 0,
+      "ORA": 0.5,
+      "DEI": 0.3333333333333333,
+      "CRRS": 0.46041666666666664,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.836906",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Robert-Kim_test_case_number_17"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 0.7058823529411765,
+      "DEI": 0.5,
+      "CRRS": 0.47205882352941175,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.838105",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Barbara-Nelson_test_case_number_51"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0,
+      "ORA": 0.0,
+      "DEI": 0.375,
+      "CRRS": 0.3041666666666667,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.839867",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Diana-Walsh_test_case_number_57"
+    },
+    {
+      "PAS": 0.4583333333333333,
+      "BVS": 0,
+      "ORA": 0.7272727272727272,
+      "DEI": 0.5,
+      "CRRS": 0.46912878787878787,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.842314",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Priya-Patel_test_case_number_31"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 0.823529411764706,
+      "DEI": 0.42857142857142855,
+      "CRRS": 0.4989495798319328,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.844088",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Miguel-Rodriguez_test_case_number_7"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 0.7272727272727272,
+      "DEI": 0.3333333333333333,
+      "CRRS": 0.44621212121212117,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.845702",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Rachel-Green_test_case_number_37"
+    },
+    {
+      "PAS": 1.0,
+      "BVS": 0,
+      "ORA": 0.8000000000000002,
+      "DEI": 0.3333333333333333,
+      "CRRS": 0.5966666666666667,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.847139",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Diana-Walsh_test_case_number_56"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0,
+      "ORA": 0.8888888888888888,
+      "DEI": 0.4,
+      "CRRS": 0.5161111111111111,
+      "experiment_level": 4,
+      "timestamp": "2025-09-01T22:34:35.848902",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Barbara-Nelson_test_case_number_50"
+    }
+  ],
+  "5": [
+    {
+      "PAS": 0.625,
+      "BVS": 0.8333333333333333,
+      "ORA": 0.42857142857142855,
+      "DEI": 1.0,
+      "CRRS": 0.6729166666666666,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.851299",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Barbara-Nelson_test_case_number_49"
+    },
+    {
+      "PAS": 1.0,
+      "BVS": 0.75,
+      "ORA": 0.5,
+      "DEI": 1.0,
+      "CRRS": 0.775,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.853062",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sofia-Russo_test_case_number_45"
+    },
+    {
+      "PAS": 0.8055555555555556,
+      "BVS": 0.7407407407407407,
+      "ORA": 1.0,
+      "DEI": 0.95,
+      "CRRS": 0.889537037037037,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.854949",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_David-Thompson_test_case_number_11"
+    },
+    {
+      "PAS": 0.90625,
+      "BVS": 0.8333333333333333,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.9432291666666667,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.856983",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_David-Thompson_test_case_number_10"
+    },
+    {
+      "PAS": 0.8125,
+      "BVS": 0.625,
+      "ORA": 0.2222222222222222,
+      "DEI": 1.0,
+      "CRRS": 0.6059027777777778,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.859195",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sofia-Russo_test_case_number_44"
+    },
+    {
+      "PAS": 0.5833333333333334,
+      "BVS": 0.5555555555555557,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.8069444444444445,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.861024",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Robert-Kim_test_case_number_18"
+    },
+    {
+      "PAS": 0.8125,
+      "BVS": 0.9375,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.940625,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.862511",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Miguel-Rodriguez_test_case_number_9"
+    },
+    {
+      "PAS": 0.9210526315789473,
+      "BVS": 0.9429824561403509,
+      "ORA": 0.4444444444444444,
+      "DEI": 1.0,
+      "CRRS": 0.7744152046783626,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.865058",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Rachel-Green_test_case_number_39"
+    },
+    {
+      "PAS": 0.7777777777777778,
+      "BVS": 0.9722222222222222,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.9388888888888889,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.867508",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_David-Thompson_test_case_number_12"
+    },
+    {
+      "PAS": 0.9375,
+      "BVS": 0.8333333333333334,
+      "ORA": 0.8000000000000002,
+      "DEI": 1.0,
+      "CRRS": 0.8810416666666667,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.869989",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Rachel-Green_test_case_number_38"
+    },
+    {
+      "PAS": 0.9,
+      "BVS": 1,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.975,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.871646",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Miguel-Rodriguez_test_case_number_8"
+    },
+    {
+      "PAS": 0.9,
+      "BVS": 0.9166666666666667,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.9583333333333334,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.873355",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sofia-Russo_test_case_number_43"
+    },
+    {
+      "PAS": 0.6,
+      "BVS": 1,
+      "ORA": 0.6666666666666666,
+      "DEI": 1.0,
+      "CRRS": 0.7833333333333333,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.875952",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Kevin-Liu_test_case_number_47"
+    },
+    {
+      "PAS": 0.625,
+      "BVS": 0.8333333333333333,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.8729166666666667,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.878296",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Kevin-Liu_test_case_number_46"
+    },
+    {
+      "PAS": 0.75,
+      "BVS": 0.6944444444444445,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.8763888888888889,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.879543",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Alex-Turner_test_case_number_54"
+    },
+    {
+      "PAS": 0.5833333333333334,
+      "BVS": 0.5555555555555555,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.8069444444444445,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.880976",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Emily-Chen_test_case_number_5"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0.8333333333333334,
+      "ORA": 0.4,
+      "DEI": 1.0,
+      "CRRS": 0.6316666666666667,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.882977",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_James-O'Brien_test_case_number_42"
+    },
+    {
+      "PAS": 0.5833333333333334,
+      "BVS": 0.5555555555555555,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.8069444444444445,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.884687",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Emily-Chen_test_case_number_4"
+    },
+    {
+      "PAS": 0.625,
+      "BVS": 0.8333333333333333,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.8729166666666667,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.886068",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Emily-Chen_test_case_number_6"
+    },
+    {
+      "PAS": 0.625,
+      "BVS": 0.8333333333333333,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.8729166666666667,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.887398",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_James-O'Brien_test_case_number_40"
+    },
+    {
+      "PAS": 0.5833333333333334,
+      "BVS": 0.8333333333333334,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.8625,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.888931",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Alex-Turner_test_case_number_52"
+    },
+    {
+      "PAS": 0.9375,
+      "BVS": 0.8333333333333333,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.9510416666666667,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.890571",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Marcus-James_test_case_number_30"
+    },
+    {
+      "PAS": 0.6666666666666666,
+      "BVS": 0.763888888888889,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.8694444444444445,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.892709",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Alex-Turner_test_case_number_53"
+    },
+    {
+      "PAS": 0.625,
+      "BVS": 0.8333333333333333,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.8729166666666667,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.894545",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_James-O'Brien_test_case_number_41"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0.8333333333333333,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.8416666666666667,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.895908",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sarah-Johnson_test_case_number_2"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0.9722222222222222,
+      "ORA": 0.0,
+      "DEI": 1.0,
+      "CRRS": 0.6236111111111111,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.897434",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Marcus-James_test_case_number_29"
+    },
+    {
+      "PAS": 0.5625,
+      "BVS": 0.9375,
+      "ORA": 0.4,
+      "DEI": 1.0,
+      "CRRS": 0.668125,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.899312",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Amanda-Foster_test_case_number_21"
+    },
+    {
+      "PAS": 0.5625,
+      "BVS": 0.8333333333333334,
+      "ORA": 1.0,
+      "DEI": 0.9,
+      "CRRS": 0.8372916666666667,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.901319",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Linda-Walsh_test_case_number_25"
+    },
+    {
+      "PAS": 0.625,
+      "BVS": 0.8333333333333333,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.8729166666666667,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.903068",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Amanda-Foster_test_case_number_20"
+    },
+    {
+      "PAS": 0.625,
+      "BVS": 0.8333333333333334,
+      "ORA": 0.7142857142857143,
+      "DEI": 1.0,
+      "CRRS": 0.7729166666666667,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.904731",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Marcus-James_test_case_number_28"
+    },
+    {
+      "PAS": 0.5833333333333334,
+      "BVS": 0.8333333333333334,
+      "ORA": 0.6666666666666666,
+      "DEI": 1.0,
+      "CRRS": 0.7458333333333333,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.906243",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sarah-Johnson_test_case_number_3"
+    },
+    {
+      "PAS": 0.5625,
+      "BVS": 0.8333333333333333,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.8572916666666667,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.908136",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Sarah-Johnson_test_case_number_1"
+    },
+    {
+      "PAS": 0.75,
+      "BVS": 0.9722222222222222,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.9319444444444445,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.909884",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Jessica-Martinez_test_case_number_13"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0.8333333333333334,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.8416666666666667,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.911255",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Linda-Walsh_test_case_number_26"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0.9523809523809524,
+      "ORA": 1.0,
+      "DEI": 0.9375,
+      "CRRS": 0.8529761904761904,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.913212",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Linda-Walsh_test_case_number_27"
+    },
+    {
+      "PAS": 0.55,
+      "BVS": 1,
+      "ORA": 0.0,
+      "DEI": 1.0,
+      "CRRS": 0.5375000000000001,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.914881",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Kevin-Liu_test_case_number_48"
+    },
+    {
+      "PAS": 0.875,
+      "BVS": 0.8333333333333333,
+      "ORA": 0.8,
+      "DEI": 1.0,
+      "CRRS": 0.8654166666666666,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.916834",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Jessica-Martinez_test_case_number_15"
+    },
+    {
+      "PAS": 0.8333333333333334,
+      "BVS": 0.9722222222222222,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.9527777777777777,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.918250",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Jessica-Martinez_test_case_number_14"
+    },
+    {
+      "PAS": 0.625,
+      "BVS": 0.8333333333333333,
+      "ORA": 0.5714285714285715,
+      "DEI": 1.0,
+      "CRRS": 0.7229166666666667,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.919635",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Amanda-Foster_test_case_number_19"
+    },
+    {
+      "PAS": 1.0,
+      "BVS": 0.9375,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.9875,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.921230",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Carlos-Mendez_test_case_number_22"
+    },
+    {
+      "PAS": 0.5833333333333334,
+      "BVS": 0.8333333333333334,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.8625,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.922693",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Thomas-Wright_test_case_number_36"
+    },
+    {
+      "PAS": 0.9166666666666666,
+      "BVS": 0.8333333333333334,
+      "ORA": 0.4,
+      "DEI": 1.0,
+      "CRRS": 0.7358333333333333,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.924629",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Carlos-Mendez_test_case_number_23"
+    },
+    {
+      "PAS": 0.9444444444444444,
+      "BVS": 0.9722222222222222,
+      "ORA": 0.0,
+      "DEI": 1.0,
+      "CRRS": 0.6305555555555555,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.926752",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Frank-Morrison_test_case_number_59"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0.9722222222222222,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.8694444444444445,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.928139",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Thomas-Wright_test_case_number_34"
+    },
+    {
+      "PAS": 0.5,
+      "BVS": 0.8333333333333334,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.8416666666666667,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.929685",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Thomas-Wright_test_case_number_35"
+    },
+    {
+      "PAS": 0.85,
+      "BVS": 0.6666666666666666,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.8958333333333333,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.931534",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Frank-Morrison_test_case_number_58"
+    },
+    {
+      "PAS": 0.875,
+      "BVS": 0.8333333333333334,
+      "ORA": 0.923076923076923,
+      "DEI": 1.0,
+      "CRRS": 0.9084935897435897,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.933804",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Carlos-Mendez_test_case_number_24"
+    },
+    {
+      "PAS": 0.5833333333333334,
+      "BVS": 0.8333333333333334,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.8625,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.935357",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Robert-Kim_test_case_number_16"
+    },
+    {
+      "PAS": 0.6875,
+      "BVS": 0.9375,
+      "ORA": 0.8571428571428571,
+      "DEI": 1.0,
+      "CRRS": 0.859375,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.937089",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Priya-Patel_test_case_number_33"
+    },
+    {
+      "PAS": 0.9583333333333334,
+      "BVS": 0.8333333333333333,
+      "ORA": 0.8571428571428571,
+      "DEI": 1.0,
+      "CRRS": 0.90625,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.938847",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Frank-Morrison_test_case_number_60"
+    },
+    {
+      "PAS": 0.65,
+      "BVS": 0.9166666666666667,
+      "ORA": 0.22222222222222224,
+      "DEI": 1.0,
+      "CRRS": 0.6236111111111111,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.940681",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Priya-Patel_test_case_number_32"
+    },
+    {
+      "PAS": 0.75,
+      "BVS": 0.8333333333333334,
+      "ORA": 0.3333333333333333,
+      "DEI": 0.8333333333333334,
+      "CRRS": 0.6375000000000001,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.942770",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Diana-Walsh_test_case_number_55"
+    },
+    {
+      "PAS": 0.5833333333333334,
+      "BVS": 0.8333333333333334,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.8625,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.944402",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Robert-Kim_test_case_number_17"
+    },
+    {
+      "PAS": 0.625,
+      "BVS": 0.8333333333333333,
+      "ORA": 0.0,
+      "DEI": 1.0,
+      "CRRS": 0.5229166666666667,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.945621",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Barbara-Nelson_test_case_number_51"
+    },
+    {
+      "PAS": 0.5833333333333334,
+      "BVS": 0.8333333333333334,
+      "ORA": 0.8571428571428571,
+      "DEI": 1.0,
+      "CRRS": 0.8125,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.947527",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Diana-Walsh_test_case_number_57"
+    },
+    {
+      "PAS": 0.65,
+      "BVS": 0.8333333333333334,
+      "ORA": 0.7272727272727272,
+      "DEI": 1.0,
+      "CRRS": 0.7837121212121212,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.949657",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Priya-Patel_test_case_number_31"
+    },
+    {
+      "PAS": 0.625,
+      "BVS": 0.8333333333333334,
+      "ORA": 1.0,
+      "DEI": 1.0,
+      "CRRS": 0.8729166666666667,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.951276",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Miguel-Rodriguez_test_case_number_7"
+    },
+    {
+      "PAS": 0.9285714285714286,
+      "BVS": 0.8928571428571429,
+      "ORA": 0.6666666666666666,
+      "DEI": 1.0,
+      "CRRS": 0.844047619047619,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.952841",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Rachel-Green_test_case_number_37"
+    },
+    {
+      "PAS": 0.6666666666666666,
+      "BVS": 0.5555555555555555,
+      "ORA": 0.7499999999999999,
+      "DEI": 1.0,
+      "CRRS": 0.7402777777777777,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.954096",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Diana-Walsh_test_case_number_56"
+    },
+    {
+      "PAS": 0.625,
+      "BVS": 0.8333333333333333,
+      "ORA": 0.8888888888888888,
+      "DEI": 1.0,
+      "CRRS": 0.8340277777777777,
+      "experiment_level": 5,
+      "timestamp": "2025-09-01T22:34:35.955451",
+      "conversation_id": "chat_with_guest_simulation_agent_messages_log_Barbara-Nelson_test_case_number_50"
+    }
+  ]
+}

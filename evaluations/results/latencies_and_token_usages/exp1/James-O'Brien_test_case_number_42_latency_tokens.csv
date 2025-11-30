@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+9c4ba283-8ceb-4d7a-a5ec-e661738ca57c,"Hey, I’d like to place an order for pickup, please. I need three large Margherita pizzas and three orders of Buffalo wings.",1122,0.9223051071166992
+9c2d24c0-24dc-4863-b943-0e7fb0283261,"No need for any toppings on the pizzas, just the classic. And I'll take the Buffalo wings with the hot sauce.",1237,0.7931618690490723
+78b50cf3-59a3-43b9-bacd-22e1c15bef45,"No, that's all I need. Just the three large Margherita pizzas and three orders of Buffalo wings with Extra Hot sauce. Can you give me the total for that?",1354,1.0499320030212402
+f204b859-45ae-4c3b-88e9-4488009739b1,It's James O'Brien.,1463,0.5284140110015869
+8563e112-e55a-4529-98ac-0413f518a8b3,exit,1552,0.45564794540405273

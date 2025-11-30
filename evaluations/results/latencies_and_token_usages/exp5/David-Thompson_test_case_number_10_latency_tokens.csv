@@ -1,0 +1,22 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+e5d230fd-7b1d-4d0b-ac27-f5c94806fc63,"Hey there! I'm ordering for my family today and would love to know more about your kids' menu options, especially if there are any allergen considerations with your Chicken Tenders. Can you share some details about that?",2514,4.201037
+525a6b62-db72-4c77-8aa9-f329d93e4e74,That sounds perfect for one of my kids! I'd like to order the Kids Chicken Tenders. Could you please add one order of that with ketchup as the dipping sauce and apple slices as the side? And could you also include apple juice for the drink? Thanks!,2721,3.512523
+23d8b603-0cee-4df5-b178-e2bc85f7e175,"Sure thing, you can put the name on the order as David Thompson. 
+
+Looks like I'll need to adjust the order a bit more. Could you add one more Kids Chicken Tenders with ketchup, apple slices, and apple juice? Also, could you tell me a bit about your Classic Burger options?",4064,5.477418
+bcdbba60-cf0b-41d3-b886-8927f4498a33,"Oh great, thanks for the description. I'd like to add the Classic Burger to my order, please. I'll have it cooked medium well. Also, could you add cheddar cheese and switch the bun to a gluten-free option? 
+
+And could you make sure that the side is a side salad? Thanks!",2888,4.124924
+988b736a-8611-4025-8f65-b2893f11a55e,"Hmm, I'm a little confused because I think we might be missing the Grilled Chicken Sandwich from my order. Could you please add that to the list? It's supposed to have Avocado as an add-on and a Fruit Cup on the side.",2849,3.471908
+6d481453-7362-4507-aad3-5128d39b6717,"Oh, wait a moment, I've noticed that the order isn't quite right. I still need to add the Kids Chicken Tenders and the Classic Burger with all their specifics to the order. Let's focus on getting that right. Can we go ahead and add the two Kids Chicken Tenders, with the sides of Apple Slices and Apple Juice for drinks, please?",2953,4.564891
+b4b81aa4-6a94-42ab-8cbb-1a7132e7ff0d,"Hey, just wanted to make sure everything’s clear on what I need.
+
+Here’s what I'd like to order:
+
+- 2 Kids Chicken Tenders with ketchup, apple slices, and apple juice.
+- 1 Classic Burger cooked medium well, with cheddar cheese, a gluten-free bun, and a side salad.
+- 1 Grilled Chicken Sandwich with avocado and a side of a fruit cup.
+
+Could you confirm that all of that is placed and let me know the total cost, including any specifics? Thanks!",3022,4.729807
+609f2d03-664d-4e20-8482-ddfd44a08f19,Everything looks good and matches up perfectly for my order! Let's confirm this order for pickup.,3222,4.630064
+f3979901-ab0c-4b07-b67b-420bac9653cd,exit,4117,6.962794

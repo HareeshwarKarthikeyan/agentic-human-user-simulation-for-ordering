@@ -1,0 +1,36 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+e6baf5eb-de94-4704-9f76-2fbbe9eb1d7c,assistant,Hello! Thank you for calling The Garden Bistro. How can I assist you today?,order_taking_llm,2025-08-30T05:37:01.378608+00:00,,,,,,-1.0
+a5fde4e6-96a9-471b-8fdc-ddc90880cf44,agent,"Hi there! I'd like to order a Portobello Mushroom Burger, please. Can I get that with vegan cheese and a side of sweet potato fries?",guest_simulation_llm,2025-08-30T05:37:02.412368+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1083, ""num_response_tokens"": 31, ""total_tokens"": 1114}",1033.1330299377441
+8a500277-e63d-4721-8a11-62eb0392fb9c,assistant,"Great choice with the Portobello Mushroom Burger! Just to confirm, you'd like it with vegan cheese and a side of sweet potato fries. Can I please get your name for the order?",order_taking_llm,2025-08-30T05:37:03.941348+00:00,,,,,,-1.0
+f1bc112b-0715-41f1-8831-33172ebddd59,agent,"It's Alex, Alex Turner. And yes, that's correct! Vegan cheese and sweet potato fries with the burger. What's the total going to be?",guest_simulation_llm,2025-08-30T05:37:04.863781+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1177, ""num_response_tokens"": 29, ""total_tokens"": 1206}",921.7910766601562
+eff0e120-284d-43d1-a2b9-5a85e33f0f5b,assistant,"Thank you, Alex! Let me calculate that for you. 
+
+The Portobello Mushroom Burger is $13.99, and vegan cheese adds $2.00. The sweet potato fries are an additional $2.00. 
+
+So the total comes to:  
+$13.99 (burger)  
++ $2.00 (vegan cheese)  
++ $2.00 (sweet potato fries)  
+= **$17.99**
+
+Would you like anything else with that?",order_taking_llm,2025-08-30T05:37:07.173663+00:00,,,,,,-1.0
+05a93ce6-250c-4740-8e9e-e7984e1c40ef,agent,"No, just that order is perfect. So it's $17.99 for the Portobello Mushroom Burger with vegan cheese and the sweet potato fries, right? Can you confirm that for me?",guest_simulation_llm,2025-08-30T05:37:08.102137+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1330, ""num_response_tokens"": 39, ""total_tokens"": 1369}",928.2100200653076
+1f058c2a-8e07-4750-8d11-553b135c0b17,assistant,"Absolutely, Alex! Just to confirm, your order is: 
+
+- 1 Portobello Mushroom Burger with vegan cheese  
+- 1 side of sweet potato fries  
+
+Total: **$17.99**
+
+Would you like to add a drink to that? If not, that's perfectly fine too! Just let me know.",order_taking_llm,2025-08-30T05:37:09.855126+00:00,,,,,,-1.0
+54117fcb-637c-47b5-b412-fd968704b1f5,agent,"No, I’m all set with just that order. So, it’s $17.99 for the burger with vegan cheese and sweet potato fries, right? Can you confirm and place the order?",guest_simulation_llm,2025-08-30T05:37:10.891315+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1459, ""num_response_tokens"": 40, ""total_tokens"": 1499}",1035.9790325164795
+3b4b12a8-2c02-4ea1-bc9e-3e76d338ff5e,assistant,"Yes, that's correct, Alex! Just to confirm your order once more:
+
+- 1 Portobello Mushroom Burger with vegan cheese  
+- 1 side of sweet potato fries  
+
+Total: **$17.99**
+
+I'll get that started for you! Your order will be ready for pickup in about 20 minutes. Thank you for choosing The Garden Bistro!",order_taking_llm,2025-08-30T05:37:12.512152+00:00,,,,,,-1.0
+9ea0bb76-b618-4fe4-b816-ee907f74fbe0,agent,exit,guest_simulation_llm,2025-08-30T05:37:13.054721+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1596, ""num_response_tokens"": 1, ""total_tokens"": 1597}",542.2968864440918
+967a9488-9367-495c-bfc5-e7bd42172234,system,"{""guest_persona"": {""full_name"": ""Alex Turner"", ""order_size"": 1, ""order_complexity"": ""medium"", ""guest_bio"": ""A vegan activist who thoroughly questions ingredients and preparation methods. Ensures no cross-contamination with animal products. Often educates staff about vegan options and suggests menu improvements.""}, ""target_order"": {""order_items"": [{""name"": ""Portobello Mushroom Burger"", ""quantity"": 1, ""base_price"": 13.99, ""modifiers"": [{""modifier_type_name"": ""Cheese"", ""modifier_option_name"": ""Vegan Cheese"", ""is_required"": false, ""price"": 2.5}, {""modifier_type_name"": ""Side Choice"", ""modifier_option_name"": ""Sweet Potato Fries"", ""is_required"": true, ""price"": 2.0}], ""item_total_price"": 18.49}], ""order_total_price"": 18.49, ""reasoning"": ""Alex Turner selected portobello burger with vegan cheese and sweet potato fries for a Thursday lunch, fully plant-based meal with no animal products.""}}",test_case_info,2025-08-30T05:37:13.054798+00:00,,,,,,-1.0

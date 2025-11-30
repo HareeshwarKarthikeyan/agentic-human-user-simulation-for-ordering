@@ -1,0 +1,21 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+c1a9bd5d-15e6-49f2-aade-1c05dded264f,"Hi there! I’d like to place an order for takeout, please. 
+
+I’d like to start with one Spaghetti Carbonara. Can I add shrimp to that, please? Also, I want extra Parmesan and a side of garlic bread with it.",1381,1.6324737071990967
+38d2cb1e-69dc-4969-8253-9eccdafabbbf,It's Miguel Rodriguez. Thank you!,1524,0.7121846675872803
+a1ef85b1-fd49-4450-8b88-7ed2aa823764,"Actually, I still have a couple more items to order. 
+
+Next, I’d like to add one Caesar Salad with salmon, but with no croutons, please. ",1654,1.0245940685272217
+64542a53-61cd-4ec5-924a-f2b352c60c0d,"Yes, I’d like to add one Chocolate Lava Cake, please. And can I get a scoop of strawberry ice cream with that? Also, I’d like to add an extra scoop of ice cream, too. ",1862,1.075803279876709
+f0a6e074-bcb6-4fa7-98c3-6668d879484e,"I already gave you my name. It’s Miguel Rodriguez. 
+
+So just to confirm, my order is:
+
+- One Spaghetti Carbonara with shrimp, extra Parmesan, and garlic bread,
+- One Caesar Salad with salmon and no croutons, 
+- One Chocolate Lava Cake with strawberry ice cream and an extra scoop of ice cream.
+
+The total should be $67.97. 
+
+Can you confirm that for me?",2167,1.7377822399139404
+c71ea0d1-b423-4ae6-a802-6b778ebad1e0,exit,2303,0.580035924911499

@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+6d9a169c-6c2b-4cd5-85d2-8713c557560e,"Hi there! I’d like to place an order for a Grilled Chicken Sandwich with French Fries, and a medium Coca-Cola. Could you confirm the total for that, please?",1147,0.9309940338134766
+709478b7-e513-4be7-bf3a-83761b1cd807,"Nope, just the sandwich as is, with the fries. What's the total for that order?",1234,0.9201860427856445
+84cad29c-0ab7-44c9-a2a7-0e48cee63539,Sure! It's Diana Walsh.,1339,0.5548720359802246
+508b6cc4-0f5d-4a2f-b34b-267c60b7dd0b,exit,1423,0.6316390037536621

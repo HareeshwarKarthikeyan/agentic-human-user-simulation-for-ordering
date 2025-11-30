@@ -1,0 +1,17 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+9c1f0d32-8ed9-4700-b58b-5e50b7e571fe,"Hi there! This is Amanda Foster. I'm placing an order for my team. I'll start with two large Margherita Pizzas, please. ",2098,1.276467
+7bf67665-a0c3-497a-8f17-851a696d6978,"I'll go with thin crust for the Margherita Pizzas, please. ",2186,0.78303
+defb160d-71fe-48a2-af0c-7a68c929bab9,"Yes, could I add three Caesar Salads to the order as well? That should cover everything I need, thanks!",2226,0.713481
+5cadae51-7542-4dd2-b933-badd6b9a7796,"Thanks for confirming the order! No protein add-ons for the salads, just the Margherita Pizzas and Caesar Salads. Could you let me know the total price?",2362,0.819302
+dc610d03-459f-4284-a7a1-80f709194db8,"The preferred name for this order is Amanda Foster. Could you confirm the correct total price again, since it seems to differ from what I anticipated? The total I expected was $88.95 before tax.",2557,0.913722
+03f973c2-3bbd-4d11-857e-2169a8076ec8,"I believe there has been a mistake in understanding the total as $88.95. My order includes two large Margherita Pizzas and three Caesar Salads, which should total $88.95 based on my expectation, possibly including the charge for the large size or any tax estimates.
+
+Let's make sure all price components and size charges are considered in your total adjustment. Could you provide a breakdown for the large size and any taxes or additional charges that may apply? Thank you!",2914,0.824241
+74fdec73-f1d2-4d75-b165-248bd48ac958,"I see what's happening here. The large Margherita Pizzas should include a size upgrade cost. Let's correctly address this:
+
+- **Large Margherita Pizza (2)** with size upgrade: $24.99 each, totaling **$49.98**  
+- **Caesar Salad (3)**: $12.99 each, totaling **$38.97**
+
+The corrected subtotal should be **$88.95** before tax, which matches what you anticipated. Can we proceed with confirming this order at the correct total?",3327,0.673789
+09533ab1-97fd-4f75-ab62-ff4568d862cb,"Yes, that confirms my order correctly! Two large Margherita Pizzas on thin crust and three Caesar Salads, with a total of $88.95 before tax. The order is under the name Amanda Foster. Thank you!",3417,0.778876
+f2774cf9-6cd7-4c63-b30c-bdcb5ebe32c5,exit,3438,0.675151

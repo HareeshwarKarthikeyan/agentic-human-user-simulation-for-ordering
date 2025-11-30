@@ -1,0 +1,17 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+b1181935-b501-4e4e-bace-704fe3726ff5,Hi there! I'm planning a little celebration for my kids' soccer team and need to order some food. Can you tell me about your Kids' menu options? I'm particularly interested in something like Mac and Cheese with some healthy sides.,2329,3.812044
+d14cc466-3756-4585-ad19-27ab6023403f,"Hi! I'm Priya. I'd love to order two of the Kids Mac and Cheese, without the bacon bits, please. What healthy side options do you have available for that?",4378,3.694601
+2ea1bc18-a4bf-45eb-a867-0514ad8b99c2,"For the Kids Mac and Cheese, could I please have apple slices as the side for both orders?",2615,2.921923
+c4d86158-ca66-47a9-9192-83b80dbe04e8,"I'd like to pick up the order at 5:30 PM. Could you also add two Classic Burgers with well-done meat, American cheese, and French fries as the side to the order? I just want to make sure I have everything I need, and also, what's the total now with those added?",2868,2.681657
+0979fd9c-d41f-4dfc-a26b-61d636e03426,"Actually, could you double-check the total for me? I think there's a little mix-up there. My order includes:
+- 2 Kids Mac and Cheese with apple slices,
+- 2 Classic Burgers with well-done meat, American cheese, and French fries.
+
+Also, can you let me know if there's any bulk ordering discount? And yeah, the pickup time at 5:30 PM is perfect!",3212,2.934012
+206c23ac-6465-4e00-b578-0c8b8128d5da,"Hmm, there seems to be a bit of a mix-up with the total. My math was showing $50.96 instead. Here's what's supposed to be on the order:
+
+- 2 Kids Mac and Cheese with apple slices
+- 2 Classic Burgers with well-done meat, American cheese, and French fries
+
+Could you double-check and confirm if that's correct, along with the total?",3474,2.916378
+1739b4e1-de03-4e09-8f0e-10fe0de3f5c9,exit,3783,3.185323

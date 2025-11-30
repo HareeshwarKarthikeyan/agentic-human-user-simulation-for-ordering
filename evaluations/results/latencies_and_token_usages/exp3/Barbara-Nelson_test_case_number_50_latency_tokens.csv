@@ -1,0 +1,13 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+1e5d9201-f577-4ca2-b8f1-c95ec6b6324a,"Hi there! This is Barbara Nelson. I'd like to place an order and I have it all planned out. Let's start with the Ribeye Steak. I want it cooked medium with Béarnaise sauce, and I'd like to upgrade the side to a loaded baked potato. Could you add that to my order? ",2237,2.152505
+7cd2b9d7-1bd0-4bc1-8fdd-c215982706ac,"Hey there! Yes, the Ribeye Steak sounds great. I'll also take an Atlantic Salmon, prepared blackened, with quinoa on the side. And for dessert, a New York Cheesecake with caramel sauce on top. That's all I'll be needing for now—no drink or appetizer. Could you confirm the total price for me?",3900,4.795559
+44ddce9e-8783-49a9-a35c-cec038e674bb,"Hi, this is Barbara Nelson. It sounds like you've got everything sorted out. I appreciate your attention to detail. 
+
+The order seems correct with what I have, and the total of $88.47 looks right. I'd like to pick it up at 6:00 PM. Please ensure that the presentation of the food is fit for a corporate setting. Thank you!",2811,4.017535
+40c4d11a-8b92-4173-85e5-0b0fe3275824,"Hi there! I need to adjust my order a bit. Currently, I have an Atlantic Salmon with quinoa on the side, but I also need to add a Ribeye Steak cooked medium, with Béarnaise sauce and a loaded baked potato. Finally, could you make sure to include a New York Cheesecake with caramel sauce on top?
+
+Could you confirm these details and provide the total price? ",3596,3.866639
+3e00fd3d-e322-4458-9d78-d9dc11599a14,"Hi, this is Barbara Nelson. Thanks for confirming my order! 
+
+I'd like to pick up the order at 5:30 PM, if that's possible.",2526,4.63872
+9ff79495-3913-4a4a-a236-3e6e0bd99775,exit,2602,5.482291

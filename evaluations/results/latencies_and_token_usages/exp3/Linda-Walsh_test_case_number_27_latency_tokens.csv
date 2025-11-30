@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+841dc3ea-a70a-4fbf-a5f3-500f747b6a55,"Hi there, it's Linda Walsh. I'm looking to place an order for Chicken Parmesan. Could you make sure to add that for me, please?",1977,2.608776
+29ee56bc-7449-4ebe-98d7-2ea64044ddc1,"Hi there! I'll keep it simple and take the Chicken Parmesan just as it is, please. No need for extra sauce or cheese. Thank you!",3170,3.598486
+88e52293-3eb0-406d-8030-6ab090f584f5,"I'm all set for now, thanks! Just the Chicken Parmesan will do. Could you please confirm the total price for that?",2065,4.13746
+8d42a613-a652-4c88-8322-b6c42f2d0a9f,"Could you please add one Chicken Parmesan to my order? And yes, it's Linda Walsh. Thank you!",3192,4.925544
+02974d99-2496-4a26-b8f1-ae2347f0dad6,exit,2065,3.164094

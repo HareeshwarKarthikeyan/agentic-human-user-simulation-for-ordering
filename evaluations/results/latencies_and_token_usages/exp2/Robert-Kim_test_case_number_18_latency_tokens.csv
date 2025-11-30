@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+91898de4-5af3-4298-8921-8346924f9fba,"Hi there! I'd like to order the Fish and Chips, please.",2002,1.214463
+67ce9f4a-aeee-407f-bd9d-e8f12cbba5c1,"Hi, it's Robert. I'll stick with the traditional beer-battered cod for the Fish and Chips, just the way it is. No modifications, please.",2170,0.817114
+3a19df36-37e8-4517-9f3f-5b1214d2f859,"Hi, it's Robert again. No drink for now, just the Fish and Chips is perfect. How much is the total for that?",2216,0.812375
+a5b7624e-43df-44dc-ad94-aaeed8f7bbdf,"Yes, please! I'd like to go ahead and place the order for pickup. Just the Fish and Chips, as we discussed. Thank you!",2287,0.627682
+c13f205a-b496-41e0-b090-aae672d80578,exit,2347,0.632938

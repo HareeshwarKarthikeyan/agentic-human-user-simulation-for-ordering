@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+9bc7c277-95e9-4f5f-a19e-18b6d6473738,Hey there! I'm Jessica. I'm thinking of ordering a small Margherita Pizza. Can you tell me about the size options available for that?,2181,3.579005
+56dd6272-2a2b-4672-a3fb-9d925d98b295,"Hey there! I'll stick with the small 10"" size for the Margherita Pizza. Could you add a slice of Apple Pie as well?",2373,3.00068
+cca7bcbc-259f-4c00-9a07-5601f1a8165f,"For the Margherita Pizza, I'll go with the thin crust, please. As for the Apple Pie, I'd like it plain. Also, just to confirm, are there any daily specials or combo deals today that might fit with my order?",2588,2.968712
+d83d2aa5-1e4a-409c-8ceb-cb7a0307db9c,"Sure, my name is Jessica Martinez.",2586,1.100903
+64e46feb-26b5-404e-8168-6d75156b1a87,exit,2795,3.412009

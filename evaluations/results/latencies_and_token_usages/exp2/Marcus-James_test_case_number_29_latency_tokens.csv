@@ -1,0 +1,16 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+7dc8cd2f-9190-464f-a6a2-b4ea0c9f3059,"Hey there! This is Marcus James. I'm planning to place an order for some meal prep today. I’d like to get the Atlantic Salmon, grilled, please. Can you tell me if that's confirmed?",2204,1.359504
+5204bea9-8f3f-4eb4-bda0-b38bbd45a52f,"Hey! Yes, I'd like the Atlantic Salmon grilled, please. And no adjustments are needed for the side or sauce. The name for the order is Marcus James. 
+
+By the way, I'd also like to add a Grilled Chicken Sandwich with a Side Salad and a Large Fresh Orange Juice. Could you confirm those are added to my order? ",2451,0.809298
+45c26e3e-1b77-4f71-bb36-5ee4d82c8189,"Hey, thanks for confirming the order! Just to clarify, the total should be $49.97 as the large orange juice is priced at $7.99. Could you update that for me, please? Other than that, I think I'm all set!",2720,0.919605
+ef0366d8-a723-4af0-b146-4172401fc5dc,"Hey! Actually, I've got the Large Fresh Orange Juice priced at $7.99, making my total $49.97. But other than that, everything looks great! Could you confirm with that update for pickup?",2795,0.786533
+3901284e-37d8-4427-a55a-386faf85a0c2,"Apologies for the back and forth on this. Here's the final order I'm placing:
+
+- Atlantic Salmon: $26.99
+- Grilled Chicken Sandwich with Side Salad: $14.99
+- Large Fresh Orange Juice: $7.99 (this should bring the total to $49.97 instead of $47.97)
+
+The total should be $49.97, matching what I planned. Can you confirm this as my pickup order? Thanks!",3082,0.718345
+8e538267-16bc-42c0-9c1d-0c55d28fbe99,"Hey, thanks for confirming the order at $49.97 for pickup, and 20 minutes is perfect for me. Appreciate the help!",3256,0.875943
+1a2f7946-8b6e-4d32-973b-e54255534bba,exit,3218,0.698565

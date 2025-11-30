@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+3d5f9380-70c4-4b07-8377-a381a40806a5,"Hi there! I’d like to place an order, please. I’ll have a Caesar Salad with grilled shrimp and dressing on the side. And I also want a small cappuccino with almond milk. Can I get those, please?",1233,1.2347817420959473
+0c57a102-c4cf-41e8-8159-64d279bef716,"It's Emily Chen, and no thanks, that's all I need. Just to confirm, that's one Caesar Salad with grilled shrimp and dressing on the side for $20.99, and a small cappuccino with almond milk for $5.74, making a total of $26.73, right?",1449,1.729316234588623
+712aaf41-6cfc-4cc3-9155-3080686cdf50,exit,1558,0.6896052360534668

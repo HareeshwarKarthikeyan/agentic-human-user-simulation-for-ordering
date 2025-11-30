@@ -1,0 +1,164 @@
+{
+  "personas": [
+    {
+      "guest_persona": {
+        "full_name": "Sarah Johnson",
+        "order_size": 1,
+        "order_complexity": "simple",
+        "guest_bio": "A busy professional who values quick service and familiar menu items. Prefers straightforward orders without many customizations. Often orders during lunch breaks and appreciates efficiency."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Emily Chen",
+        "order_size": 2,
+        "order_complexity": "simple",
+        "guest_bio": "A health-conscious diner who prefers lighter options and clear nutritional information. Often orders salads or grilled items. Values fresh ingredients and tends to avoid heavy modifications or fried foods."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Miguel Rodriguez",
+        "order_size": 3,
+        "order_complexity": "complex",
+        "guest_bio": "A food enthusiast who loves trying different combinations and customizations. Often orders for family gatherings and enjoys exploring menu options. Has specific dietary preferences and isn't afraid to make special requests."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "David Thompson",
+        "order_size": 4,
+        "order_complexity": "complex",
+        "guest_bio": "A father of two who frequently orders for his family with various dietary restrictions. Always asks about allergen information and kids' menu options. Prefers detailed explanations and takes time to ensure everyone's preferences are met."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Jessica Martinez",
+        "order_size": 2,
+        "order_complexity": "medium",
+        "guest_bio": "A vegetarian college student on a budget who carefully reviews prices and portion sizes. Often asks about meat-free options and substitutions. Likes to know about daily specials and combo deals."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Robert Kim",
+        "order_size": 1,
+        "order_complexity": "medium",
+        "guest_bio": "A retired veteran with traditional tastes who orders the same few dishes regularly. Appreciates consistency and gets confused by too many options. Prefers classic preparations and is hesitant about trendy ingredients."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Amanda Foster",
+        "order_size": 5,
+        "order_complexity": "simple",
+        "guest_bio": "An office manager who coordinates team lunch orders. Efficient and organized, she often places large group orders with minimal customizations. Values accuracy and clear communication about delivery times."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Carlos Mendez",
+        "order_size": 2,
+        "order_complexity": "complex",
+        "guest_bio": "A chef who loves analyzing restaurant menus and asking detailed questions about preparation methods. Orders unusual combinations to understand flavor profiles. Often requests modifications based on culinary expertise."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Linda Walsh",
+        "order_size": 1,
+        "order_complexity": "simple",
+        "guest_bio": "An elderly regular customer who knows exactly what she wants. Orders quickly with no fuss but expects familiar service. Doesn't like new technology or complicated ordering processes."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Marcus James",
+        "order_size": 3,
+        "order_complexity": "medium",
+        "guest_bio": "A fitness trainer who counts macros and needs specific nutritional modifications. Asks about protein content, cooking methods, and portion weights. Often requests double protein or no carbs."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Priya Patel",
+        "order_size": 4,
+        "order_complexity": "medium",
+        "guest_bio": "A mom ordering for her kids' soccer team celebration. Needs to accommodate various preferences and mild spice levels. Always confirms total costs and asks about bulk ordering discounts."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Thomas Wright",
+        "order_size": 1,
+        "order_complexity": "medium",
+        "guest_bio": "A truck driver who orders from the road and needs quick pickup options. Limited by time constraints but likes hearty portions. Often asks about parking availability and speed of service."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Rachel Green",
+        "order_size": 2,
+        "order_complexity": "complex",
+        "guest_bio": "A food blogger who asks extensive questions about ingredients and presentation for her reviews. Takes time exploring unique menu items and seasonal specials. Requests specific plating for photos."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "James O'Brien",
+        "order_size": 6,
+        "order_complexity": "simple",
+        "guest_bio": "A construction foreman ordering for his crew. Needs large quantities of filling, simple foods. Values bulk pricing and reliable portions. Usually orders the same items in large quantities."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Sofia Russo",
+        "order_size": 2,
+        "order_complexity": "medium",
+        "guest_bio": "A wine enthusiast who asks about pairing recommendations and takes time to consider options. Orders appetizers and entrees based on wine selections. Appreciates knowledgeable suggestions about complementary flavors."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Kevin Liu",
+        "order_size": 1,
+        "order_complexity": "simple",
+        "guest_bio": "A late-night shift worker who orders at odd hours. Needs quick, satisfying meals with minimal interaction. Knows the menu well and orders efficiently without questions."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Barbara Nelson",
+        "order_size": 3,
+        "order_complexity": "complex",
+        "guest_bio": "A catering coordinator for corporate events who places detailed custom orders. Requires specific timing, presentation requirements, and dietary accommodation lists. Often negotiates prices for large recurring orders."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Alex Turner",
+        "order_size": 1,
+        "order_complexity": "medium",
+        "guest_bio": "A vegan activist who thoroughly questions ingredients and preparation methods. Ensures no cross-contamination with animal products. Often educates staff about vegan options and suggests menu improvements."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Diana Walsh",
+        "order_size": 2,
+        "order_complexity": "simple",
+        "guest_bio": "A nurse grabbing food between shifts who needs reliable, quick options. Orders familiar items without modifications. Values speed over variety and often orders the daily special without questions."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Frank Morrison",
+        "order_size": 4,
+        "order_complexity": "medium",
+        "guest_bio": "A grandfather treating his grandchildren who asks about kid-friendly options and portion sizes. Takes time ensuring everyone is happy with their choices. Often asks servers for recommendations based on children's ages."
+      }
+    }
+  ]
+}

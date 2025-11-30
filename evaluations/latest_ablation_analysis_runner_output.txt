@@ -1,0 +1,163 @@
+(agentic_guest_simulation) ➜  evaluations git:(write-first-draft-of-paper) ✗ uv run run_ablation_analysis.py --use-extracted-states
+============================================================
+ABLATION STUDY ANALYSIS
+(Using existing extracted states)
+============================================================
+
+Loading Experiment 1: Exp1: LLM Baseline (single LLM with all info, no agents/tools)
+  Loaded 60 conversations
+
+Loading Experiment 2: Exp2: Guest Agent Only (no sub-agents, basic tools for name/persona/target/history)
+  Loaded 60 conversations
+
+Loading Experiment 3: Exp3: Guest Agent w. Order Tracking Agent
+  Loaded 60 conversations
+
+Loading Experiment 4: Exp4: Guest Agent + Message Attributes Generation Agent
+  Loaded 60 conversations
+
+Loading Experiment 5: Exp5: Full System (Guest Agent w. Order Tracking Agent + Message Attributes Generation Agent)
+  Loaded 60 conversations
+
+============================================================
+RUNNING ANALYSIS
+============================================================
+
+📊 Analyzing 300 conversations across 5 experiments
+============================================================
+
+🔬 Experiment 1: LLM Baseline (using LLM for state extraction)
+   Processing 60 conversations...
+   📂 Using pre-extracted states from files
+   Exp1 [chat_with_guest...]: 100%|████████████████████████████████| 60/60 [00:00<00:00, 493.64it/s]
+   ✅ Completed: 60/60 successful
+
+🔬 Experiment 2: Guest Agent (using LLM for state extraction)
+   Processing 60 conversations...
+   📂 Using pre-extracted states from files
+   Exp2 [chat_with_guest...]: 100%|████████████████████████████████| 60/60 [00:00<00:00, 521.06it/s]
+   ✅ Completed: 60/60 successful
+
+🔬 Experiment 3: Guest + Order Tracking (mixed extraction)
+   Processing 60 conversations...
+   📂 Using pre-extracted states from files
+   Exp3 [chat_with_guest...]: 100%|████████████████████████████████| 60/60 [00:00<00:00, 463.57it/s]
+   ✅ Completed: 60/60 successful
+
+🔬 Experiment 4: Guest + Message Attributes (mixed extraction)
+   Processing 60 conversations...
+   📂 Using pre-extracted states from files
+   Exp4 [chat_with_guest...]: 100%|████████████████████████████████| 60/60 [00:00<00:00, 517.44it/s]
+   ✅ Completed: 60/60 successful
+
+🔬 Experiment 5: Full System (using tool-based extraction)
+   Processing 60 conversations...
+   📂 Using pre-extracted states from files
+   Exp5 [chat_with_guest...]: 100%|████████████████████████████████| 60/60 [00:00<00:00, 517.89it/s]
+   ✅ Completed: 60/60 successful
+
+============================================================
+✨ Analysis complete!
+Results saved to /Users/hareesh.karthik/Desktop/toast-local/agentic-human-guest-simulation-for-ordering/evaluations/results/ablation_results.json
+
+============================================================
+SUMMARY STATISTICS
+============================================================
+  Experiment       PAS       BVS       ORA       DEI      CRRS   N
+0       Exp1  0.588542  0.218191  0.607903  0.000000  0.403539  60
+1       Exp2  0.584598  0.484888  0.582028  0.200000  0.486837  60
+2       Exp3  0.554087  0.688981  0.785130  0.498148  0.650743  60
+3       Exp4  0.661090  0.000000  0.601949  0.432388  0.462432  60
+4       Exp5  0.705700  0.838909  0.784953  0.993681  0.817676  60
+
+============================================================
+BEHAVIORAL VARIANCE (BVS) INTERPRETATION
+============================================================
+Experiment BVS Score Est. Transition Rate                 Interpretation
+      Exp1     0.218                ~4.4%           Too static (robotic)
+      Exp2     0.485                ~9.7% Low variance (somewhat static)
+      Exp3     0.689               ~13.8%              Moderate variance
+      Exp4     0.000                ~0.0%           Too static (robotic)
+      Exp5     0.839               ~16.8%      Good variance (realistic)
+
+============================================================
+STATISTICAL ANALYSIS
+============================================================
+/Users/hareesh.karthik/Desktop/toast-local/agentic-human-guest-simulation-for-ordering/.venv/lib/python3.12/site-packages/scipy/stats/_axis_nan_policy.py:579: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, **kwds)
+/Users/hareesh.karthik/Desktop/toast-local/agentic-human-guest-simulation-for-ordering/.venv/lib/python3.12/site-packages/numpy/_core/fromnumeric.py:3860: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/Users/hareesh.karthik/Desktop/toast-local/agentic-human-guest-simulation-for-ordering/.venv/lib/python3.12/site-packages/numpy/_core/_methods.py:144: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+
+Key Statistical Comparisons (Exp5 vs Exp1):
+----------------------------------------
+PAS   : p=0.0037 **
+BVS   : p=0.0000 ***
+ORA   : p=0.0047 **
+DEI   : p=0.0000 ***
+CRRS  : p=0.0000 ***
+
+============================================================
+IMPROVEMENTS (Exp5 vs Exp1)
+============================================================
+PAS   : +19.9%
+BVS   : +284.5%
+ORA   : +29.1%
+STA   : +100.0%
+DEI   : +100.0%
+CRRS  : +102.6%
+
+============================================================
+COST ANALYSIS
+============================================================
+
+COST ANALYSIS SUMMARY
+------------------------------------------------------------
+Experiment                          Avg Tokens   Avg Latency(s) 
+------------------------------------------------------------
+Exp1: LLM Baseline                       6618.3           5.08
+Exp2: Guest Agent Basic                 13504.8           4.56
+Exp3: Guest + Order Tracking            24579.8          36.30
+Exp4: Guest + Message Attrs             15762.6          16.88
+Exp5: Full System                       14788.5          23.16
+------------------------------------------------------------
+/Users/hareesh.karthik/Desktop/toast-local/agentic-human-guest-simulation-for-ordering/.venv/lib/python3.12/site-packages/scipy/stats/_axis_nan_policy.py:579: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, **kwds)
+/Users/hareesh.karthik/Desktop/toast-local/agentic-human-guest-simulation-for-ordering/.venv/lib/python3.12/site-packages/numpy/_core/fromnumeric.py:3860: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/Users/hareesh.karthik/Desktop/toast-local/agentic-human-guest-simulation-for-ordering/.venv/lib/python3.12/site-packages/numpy/_core/_methods.py:144: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+Statistical report saved to /Users/hareesh.karthik/Desktop/toast-local/agentic-human-guest-simulation-for-ordering/evaluations/results/statistical_report.json
+
+============================================================
+GENERATING VISUALIZATIONS
+============================================================
+/Users/hareesh.karthik/Desktop/toast-local/agentic-human-guest-simulation-for-ordering/.venv/lib/python3.12/site-packages/numpy/_core/fromnumeric.py:3860: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/Users/hareesh.karthik/Desktop/toast-local/agentic-human-guest-simulation-for-ordering/.venv/lib/python3.12/site-packages/numpy/_core/_methods.py:144: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+/Users/hareesh.karthik/Desktop/toast-local/agentic-human-guest-simulation-for-ordering/.venv/lib/python3.12/site-packages/scipy/stats/_axis_nan_policy.py:579: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, **kwds)
+Visualizations saved to /Users/hareesh.karthik/Desktop/toast-local/agentic-human-guest-simulation-for-ordering/evaluations/results/figures
+Visualizations created successfully!
+
+============================================================
+ANALYSIS COMPLETE
+============================================================
+
+Results saved to: /Users/hareesh.karthik/Desktop/toast-local/agentic-human-guest-simulation-for-ordering/evaluations/results/
+Files generated:
+  - ablation_results.json (raw results)
+  - summary_statistics.csv (summary table)
+  - statistical_report.json (full statistical analysis)
+  - figures/ (visualization plots)
+  - metric_logs/ (individual conversation metrics)
+    └── exp[1-5]/ (organized by experiment)
+        ├── <conversation_id>_metrics.csv (horizontal format)
+        ├── <conversation_id>_metrics_detailed.csv (vertical format)
+        └── all_conversations_metrics.csv (aggregate for experiment)
+  - extracted_states/ (state extractions per conversation)
+    └── exp[1-5]/ (organized by experiment)
+        ├── <conversation_id>_states.csv (states for each message)
+        └── all_conversations_states.csv (aggregate for experiment)

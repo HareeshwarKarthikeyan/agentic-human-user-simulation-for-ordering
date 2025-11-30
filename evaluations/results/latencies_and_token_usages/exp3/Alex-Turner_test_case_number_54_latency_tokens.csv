@@ -1,0 +1,16 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+6e776696-91de-459f-9b60-682863cece50,"Hi there! This is Alex. I'm looking to place an order for a vegan Margherita Pizza. Could you make sure it's a small 10"" with a thin crust? Also, just want to double-check that everything's vegan-friendly with this option. No cross-contamination or animal products, right?",2070,2.573127
+82be9702-4693-4375-af6d-4452ae3c33f2,"Hey there! Yes, I'd love the Margherita Pizza as a small 10"" with a thin crust, and definitely make it with vegan cheese instead. No fresh mozzarella for me. 
+
+I'm good with just the pizza, no extra toppings, thanks! Could you also make sure there’s no cross-contamination with animal products, please? Oh, and the name for the order is Alex Turner. 
+
+How much will that be? Thanks!",2273,1.741187
+461bf20f-e744-4fa9-a18b-a7f90c02ecae,"It looks like the order is almost set, but I want to make sure it matches what I need exactly. Can we adjust it to just say ""Margherita Pizza"" on the order and include a ""Size"" modifier as ""Small 10\"""" and a ""Crust Type"" as ""Thin Crust""? That would be great! Thank you for accommodating.",3457,2.933794
+ed617066-8297-4bd9-8847-2890aa3a53d5,"Hi, it's Alex Turner here! I see there's a little extra with the vegan cheese on the Margerita Pizza. Could it be possible to leave out the cheese entirely? Just want to stick exactly to how I planned it, thanks!",3864,6.948631
+79755040-af79-4eb2-9a63-d1f682f6cce3,"Hey there! It looks like the Margherita Pizza currently includes vegan cheese, but I actually need it without any cheese at all. Could you update that, please? Everything else looks perfect. Just making sure it's totally vegan-friendly, you know?
+
+Once that's sorted, I think we're all good. Just checking, will it still be $16.99 without the cheese? ",2414,2.560819
+138c7d76-1a8d-484a-addf-44a542ec26e9,"It looks like my order isn't quite right yet. Could you please remove the ""No cheese"" modifier and ensure it aligns with my target order of a Small 10"" Margherita Pizza with Thin Crust? Everything needs to be vegan-friendly and prepared away from any animal products, as previously discussed. I appreciate your help!",2445,2.755559
+f83fc357-f60b-4c27-bbce-a50e46abffbf,"Hmm, it looks like you've got the Margherita Pizza down as vegan with no cheese, which is great! Just a quick check, I noticed that in my target order there isn't a required ""No Cheese"" modifier. Let’s go ahead and just double-check that it's clear for vegan requirements without needing a mandatory option for cheese. Can you ensure the pizza's prepared vegan by default? Thanks for your attention to those details!",2461,2.94324
+d561047e-7808-4854-819e-3b850f706fb8,"Great, it looks like everything is set for the Margherita Pizza with the vegan specifications I requested. Thanks for ensuring the details are right! I'll see you soon for pickup.",2341,3.458874
+60da1946-d849-4678-952e-233ab141456a,exit,2197,3.414692

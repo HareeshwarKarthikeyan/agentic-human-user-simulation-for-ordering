@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+1b201c70-2a16-4835-8c2c-57763a4e5898,"Hi there! I'd like to order a Club Sandwich with white bread and French fries as the side, along with a small Cappuccino. Could you let me know if these items are available and the total cost, please?",2256,3.510122
+dc2c8801-9112-4203-a56d-75c5482160a0,My name is Diana Walsh.,1878,0.739188
+3c1be5aa-488b-4fbc-b676-ce4521eef95c,exit,2558,4.381407

@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+99635c24-0beb-4abe-b79d-764e9e9239af,"Hi there! I’d like to place an order for a soccer team celebration. Can I get three Kids Chicken Tenders meals, please? They should come with honey mustard sauce, French fries, and apple juice. And then, I’d also like a large Margherita Pizza.",1238,1.428015947341919
+621e7a6b-ed40-4ead-9779-87744198704d,"No, just the pizza as is, please. The name for the order is Priya Patel. Can you confirm the total for that?",1363,1.1490917205810547
+b80c5fd4-6218-4014-90cd-590d2dc77b03,"No, that’s all for now. Just to confirm, that’s three Kids Chicken Tenders meals with honey mustard, French fries, and apple juice, plus a large Margherita Pizza for a total of $51.96. Sounds good!",1543,1.1626901626586914
+496354cb-af44-4032-8657-cf5a8172bae8,exit,1642,0.6131949424743652

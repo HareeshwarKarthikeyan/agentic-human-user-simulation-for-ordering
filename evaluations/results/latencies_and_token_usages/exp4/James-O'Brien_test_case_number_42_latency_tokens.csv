@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+fe4152a2-f683-4973-ac35-031da078ca65,"Hey there! I'd like to place an order for three large 18"" Margherita Pizzas and three orders of Buffalo Wings. Could you confirm that for me with the total price, please?",3257,3.898989
+2ae4f33a-e3e8-4cd7-bf7d-3780d956c141,"No additional toppings on the Margherita Pizzas. As for the Buffalo Wings, I need three orders. Could you confirm that along with the total price? Thanks!",3566,3.586184
+f84320fe-0a66-451e-a685-8514d2b61bda,"Sure, the name for the order is James O'Brien. Thanks for breaking down the total, it sounds good. I'll be there in 20 minutes for the pickup!",2088,0.815098
+12875862-c583-44e2-ac73-e5da04a13ab7,exit,2696,3.138345

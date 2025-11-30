@@ -1,0 +1,18 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+0a961e47-f1a8-4648-9eb4-d8bb7aa75a00,"Hey there! Could you tell me a bit more about what's available on the kids' menu? I'm looking for something like mac and cheese, and I gotta know the side and drink options.",2514,7.398614
+63a0e4e7-706c-41e7-ac23-372784cfa231,"Thanks for the rundown on the kids' options! For now, let's start with one **Kids Mac and Cheese**, and I'll go with **Applesauce** as the side. I'll be ordering some more items, so let's take it step by step, if that's cool. How does the **Kids Mac and Cheese with Applesauce** sound so far?",2815,3.129235
+1661c521-87c0-46a6-bb92-07e9c198f2f9,"I'll go with the **Chocolate Milk** for the drink with the Kids Mac and Cheese, please. ",2621,3.450342
+75fc412c-a5cd-4ef5-b4bb-4a9643d8db7f,"Oh hey, I think there's a slight mix-up with the drink on that Kids Mac and Cheese order. I meant to add **Chocolate Milk** with it as well. Can you fix that for me?
+
+And while you're at it, maybe you could walk me through the options for the **Kids Chicken Tenders**? I want to make sure I pick the right sides and sauces for my kid. Thanks!",2748,3.686523
+2a4adaa3-5887-4f3d-be08-1e649f0fdefb,"I'll go with the **Honey Mustard** sauce and **Carrot Sticks** as the side for the **Kids Chicken Tenders**. Also, could I add a **Milk** as the drink? Thanks!",2845,3.752653
+2db4c0a4-1487-4490-a530-73814dbfda56,"Alright, let's keep going. Could I add a **Fish and Chips** with **Halibut** to the order, please? And while we're at it, let's toss in a **Portobello Mushroom Burger** with **Vegan Cheese** and **Sweet Potato Fries** as the side. Could you tell me what the total would be after adding these?",2919,4.053267
+82337498-d565-482c-853e-1766d3c22d9e,"Hey, thanks for the rundown, but just to clear things up a bit, I actually need to add some kids' meals to my order. Could you please include the following:
+
+1. **Kids Mac and Cheese** with **Applesauce** and **Chocolate Milk**.
+2. **Kids Chicken Tenders** with **Honey Mustard**, **Carrot Sticks**, and **Milk**.
+
+These should finish up my order. Could you let me know how these additions affect the total? Also, are there any allergens I should be aware of in these kids' meals?",3063,4.35108
+0c82ff67-fd98-457d-93ff-547da4385394,"Thanks for that! Just to confirm, once the two kids' meals are included along with the details I provided earlier, it looks like everything is set as planned. Let's go ahead and finalize the order.",3083,4.767293
+bfcc7e51-4def-4e2a-821c-8485c8f40599,"Sure thing, the name is David Thompson. Thanks!",5074,5.731866
+a4cb12df-6ce3-4388-b41e-c811c947f72d,exit,2367,2.813199

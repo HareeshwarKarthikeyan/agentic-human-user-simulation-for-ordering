@@ -1,0 +1,31 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+13d5fcff-e672-4967-94cb-2978fd583f67,assistant,Hello! Welcome to The Garden Bistro! How can I help you today?,order_taking_llm,2025-08-30T05:30:34.192312+00:00,,,,,,-1.0
+706f7bf8-3e6a-4d25-90d0-7c8b7bf0003e,agent,"Hi there! I’d like to place an order. Can I get a Filet Mignon cooked rare, please? I’d like that with a red wine reduction sauce and a blue cheese crust on top. ",guest_simulation_llm,2025-08-30T05:30:36.972257+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1213, ""num_response_tokens"": 43, ""total_tokens"": 1256}",2779.4108390808105
+e1d5865c-1e04-4fc6-ba75-6997786cbded,assistant,"Great choice with the Filet Mignon! So, that’s a rare cooked filet, red wine reduction sauce, and blue cheese crust. 
+
+Now, it comes with mashed potatoes and seasonal vegetables. Would you like to keep that, or do you want to upgrade your sides? We have options like loaded baked potato or truffle mac and cheese for an additional charge. ",order_taking_llm,2025-08-30T05:30:38.710155+00:00,,,,,,-1.0
+3ba177a5-92d9-400b-a629-c17557901a13,agent,"Actually, I’m all set with just the Filet Mignon as I ordered. Can I also get a Lobster Tail, please? I’d like that grilled with some extra butter on the side.",guest_simulation_llm,2025-08-30T05:30:41.167164+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1355, ""num_response_tokens"": 41, ""total_tokens"": 1396}",2456.4900398254395
+0520f6f4-2065-4d21-bdd4-1f99cc55c722,assistant,"Got it! So that’s one Filet Mignon, cooked rare with red wine reduction sauce and blue cheese crust, along with the grilled Lobster Tail with extra butter on the side.
+
+Let me quickly calculate your total. 
+
+- Filet Mignon: $48.99
+- Lobster Tail: $44.99
+- Extra Butter: $2.00
+
+That brings your total to $95.98. 
+
+Can I get a name for your order? And would you like to add anything to drink?",order_taking_llm,2025-08-30T05:30:43.822096+00:00,,,,,,-1.0
+6a9ada5d-35b1-4540-be5d-64ae1bfe44be,agent,"No drinks, just the order as I've specified. The name's Carlos Mendez. Can you confirm the total includes everything I ordered?",guest_simulation_llm,2025-08-30T05:30:45.865780+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1526, ""num_response_tokens"": 27, ""total_tokens"": 1553}",2043.3950424194336
+946e4fad-7771-4394-8fcf-2780439e9fa2,assistant,"Thanks for that, Carlos! Just to confirm your order:
+
+- One Filet Mignon: cooked rare with red wine reduction sauce and blue cheese crust
+- One Lobster Tail: grilled with extra butter 
+
+Your total is $95.98. 
+
+Thank you for choosing The Garden Bistro! Your order will be ready for pickup in 20 minutes. Have a great day!",order_taking_llm,2025-08-30T05:30:47.700182+00:00,,,,,,-1.0
+43ccdf69-f800-4467-8646-c45ec4093e83,agent,Exit.,guest_simulation_llm,2025-08-30T05:30:49.247830+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1653, ""num_response_tokens"": 2, ""total_tokens"": 1655}",1547.1208095550537
+26a7583e-ea6d-4512-ab2a-f1dd7530d5df,assistant,"Thank you, Carlos! If you need anything else, feel free to call us. Have a wonderful day!",order_taking_llm,2025-08-30T05:30:50.370179+00:00,,,,,,-1.0
+ba5b9be0-d4aa-494c-9c24-98a6aea1eb50,agent,exit,guest_simulation_llm,2025-08-30T05:30:51.601758+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1701, ""num_response_tokens"": 1, ""total_tokens"": 1702}",1231.292963027954
+fc6886e1-d14b-4539-9ed0-f8768734b19a,system,"{""guest_persona"": {""full_name"": ""Carlos Mendez"", ""order_size"": 2, ""order_complexity"": ""complex"", ""guest_bio"": ""A chef who loves analyzing restaurant menus and asking detailed questions about preparation methods. Orders unusual combinations to understand flavor profiles. Often requests modifications based on culinary expertise.""}, ""target_order"": {""order_items"": [{""name"": ""Filet Mignon"", ""quantity"": 1, ""base_price"": 48.99, ""modifiers"": [{""modifier_type_name"": ""Temperature"", ""modifier_option_name"": ""Rare"", ""is_required"": true, ""price"": 0.0}, {""modifier_type_name"": ""Sauce"", ""modifier_option_name"": ""Red Wine Reduction"", ""is_required"": false, ""price"": 3.0}, {""modifier_type_name"": ""Topping"", ""modifier_option_name"": ""Blue Cheese Crust"", ""is_required"": false, ""price"": 5.0}], ""item_total_price"": 56.99}, {""name"": ""Lobster Tail"", ""quantity"": 1, ""base_price"": 44.99, ""modifiers"": [{""modifier_type_name"": ""Preparation"", ""modifier_option_name"": ""Grilled"", ""is_required"": true, ""price"": 0.0}, {""modifier_type_name"": ""Extra"", ""modifier_option_name"": ""Extra Butter"", ""is_required"": false, ""price"": 2.0}], ""item_total_price"": 46.99}], ""order_total_price"": 103.98, ""reasoning"": ""Carlos Mendez ordered surf and turf for a Saturday dinner, combining rare filet with blue cheese crust and wine reduction plus grilled lobster to analyze premium preparation techniques.""}}",test_case_info,2025-08-30T05:30:51.601862+00:00,,,,,,-1.0

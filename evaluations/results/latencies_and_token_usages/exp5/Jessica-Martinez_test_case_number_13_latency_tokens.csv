@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+48a6a6af-b912-4836-b9c4-5db7006a53e5,Hey there! I'm in the mood for something tasty and vegetarian-friendly. Could you tell me about your vegetable stir fry options? I'm especially interested in knowing about any add-ons and spice levels you offer.,2313,5.376281
+7630a86f-7c5c-4bcd-92c9-e6164c4bb8f8,"The Vegetable Stir Fry sounds great! I'll go for that with Tofu added, and can you make it Medium spice, please? Also, could I add a small Coca-Cola to my order? Can you let me know the total price for everything?",2490,2.599015
+0f1d9b34-2609-4137-a842-857a0d9350f9,"Sure thing, it's Jessica Martinez. Looks like everything's in order. Thanks!",3988,7.374448
+aa5f26ad-e8cb-44a9-875e-cd26f13100d0,exit,2545,4.274175

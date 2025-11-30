@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+2380fc01-c4d3-4a27-964a-0e77a7a0d6cf,"Hi! I'd like to order a small Margherita pizza with thin crust, please. Just to clarify, no cheese to keep it vegan.",1114,0.8283967971801758
+7a650646-ee39-45ea-afc0-a57938648ac0,"No, I really just want the small Margherita pizza, but please make sure it’s without any cheese for that vegan option. Just the tomatoes and basil, with the thin crust. Can you confirm that?",1267,0.9015369415283203
+3ee37f6b-cd7d-4702-a24a-6bf6c5ceb0f7,"Nope, that’s all I want. Can you just confirm the total for the pizza?",1387,0.9146342277526855
+971bf41e-ca30-42af-a9a6-86b7c62af546,It's Alex Turner.,1479,0.5195891857147217
+c8a4b8f0-53f3-4921-8212-15a0f8b15d12,exit,1566,0.6252419948577881

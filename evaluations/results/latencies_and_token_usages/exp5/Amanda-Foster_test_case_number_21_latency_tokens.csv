@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+80382956-0027-465e-9059-f7db64b6ef03,"Hi there! I’d like to place an order for delivery. Could I get two large Margherita Pizzas and three Caesar Salads, please? Can you also let me know the total price for these items?",2274,4.303888
+b5d6e767-7717-4ad0-875a-ad7494f93fd6,"Hey there! Looks like we need to get that order started. Let's begin with one of those large Margherita Pizzas, please—just sticking with the classic, no modifications needed. How does that sound?",2378,3.482529
+57ed6ea5-eca8-434d-bd4a-c1bf0b7ae78b,"Let's go ahead and add another large Margherita Pizza, just like the first one. As for the Caesar Salads, I'll take three of them without any proteins added. How does that sound?",2385,3.956091
+6089356d-879f-40ac-9732-462600f2c5d5,My name is Amanda Foster. Looks like everything's set. Thanks for confirming the details!,2579,4.723966
+952716ec-d0c8-482f-b165-4a394575286a,exit,2385,4.725688

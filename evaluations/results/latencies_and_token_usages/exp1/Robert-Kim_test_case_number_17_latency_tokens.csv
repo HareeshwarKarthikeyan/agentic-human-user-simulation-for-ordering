@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+acac5b98-0e6f-4e78-80d3-bcf1e980c909,"Hi, I'd like to order a Classic Burger, please. I'd like it cooked medium with American cheese and a side of French fries.",1135,3.1643033027648926
+b7dba601-8327-4140-bc78-eae012dcc119,"No, just the burger and fries, please. How much will that be?",1213,2.9972660541534424
+e180eff9-de6f-4dca-a31d-864742c31165,It's Robert Kim.,1302,2.663828134536743
+49ff8812-3d2c-4cc4-86b3-ab4267a347a7,exit,1389,2.24885892868042

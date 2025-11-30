@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+2316d72d-a97a-40b7-965d-491efdadc2af,"Hi there! I’d like to place an order for a team lunch. I need three Classic Burgers, cooked medium, with French fries on the side. And I also want two Caesar Salads with grilled chicken, please. Can I get the total for that?",1208,3.0614140033721924
+3a068348-2114-44e2-8431-a609b6a3a2ab,"That total sounds right. Just put it under Amanda Foster, please. And no drinks for this order, thanks!",1450,2.8691329956054688
+224cc4f7-2415-4eec-878b-1698e317285d,exit,1556,2.4549310207366943

@@ -1,0 +1,83 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+dd2a6632-7f6c-418a-9496-60075f8017c0,"Hi there! My name's Carlos Mendez. I'd like to place an order, please. I'm in the mood for your Atlantic Salmon. Could you prepare it blackened with mango salsa and have quinoa as the side?  Also, I'd love some Spinach Artichoke Dip served with pita bread. ",3519,4.247078
+f4a2047b-4ab5-40ff-93e8-7749ccafbaad,"Hey, you've got it exactly right! Atlantic Salmon, blackened with mango salsa and quinoa, and the Spinach Artichoke Dip with pita bread.
+
+As for a drink, I'm good without one, thanks! Could you please confirm the total price for me before we finalize the order?",2407,3.932893
+93b583b1-13f7-40db-acfb-f9bba4a04d7f,"Hey, just wanted to clarify what I wanted for my order since it's a bit specific. Looks like the Pita Bread should actually be a modifier for the Spinach Artichoke Dip, and the Atlantic Salmon should also have some specifics:
+
+- For the **Atlantic Salmon**, I'd like it blackened and topped with mango salsa, with quinoa as a side substitute.
+- The **Spinach Artichoke Dip** should come with pita bread.
+
+Can you adjust that for me? And yeah, the name for the order is Carlos Mendez. Would love to know the updated total once modifications are made!",2505,3.553486
+b31eda33-c937-4562-b756-c33a23183565,"Hey there, this is Carlos. Let me break it down a bit more. It seems like most of the order lines up well, but the price for the mango salsa on the salmon needs adjusting. It should have an additional cost. The right price for the modified salmon should be $31.99. Let's get that corrected.
+
+So, let's finalize:
+- **Atlantic Salmon**: blackened with mango salsa (additional charge), and quinoa as the side substitute
+- **Spinach Artichoke Dip**: with pita bread
+
+Could you update the price for the Atlantic Salmon to reflect the correct amount, bringing the total to **$45.98**? Once confirmed, we should be all set without adding anything else.
+
+Thanks a lot!",2708,3.8851
+88b34022-9e16-45f8-87fd-9af141d18c75,"Yes, that sounds perfect. Please go ahead and place the order.",2370,4.183679
+10194a75-0323-4b8e-86e1-452d5346d54f,"Actually, before confirming, could you confirm the modifications and prices? I'd like to ensure everything matches up exactly. Specifically, the Atlantic Salmon should be blackened with mango salsa and quinoa, and the Spinach Artichoke Dip with pita bread. The prices should come out to their specific totals as well. Could you double-check that for me?",2464,5.10727
+fcda75c9-7d37-43e9-803f-09ec39d10885,"Thanks for the breakdown, but it looks like we're missing the Atlantic Salmon in the confirmed order. I would love to have the Atlantic Salmon, blackened with mango salsa and a side substitute of quinoa. 
+
+As for the Spinach Artichoke Dip, let's make sure the pita bread is included correctly. Could you please add the Atlantic Salmon to the order and adjust the dip with the pita bread as mentioned in the target list? Let me know once that's taken care of, and then we'll be all set to place the order.",2562,3.144093
+ddb7272d-1448-419d-bfac-d86782719a12,"It looks like there's a discrepancy with the pricing for the order. The target order includes a **Mango Salsa** at $3.00, and the total for the **Spinach Artichoke Dip** with **Pita Bread** should be $13.99. 
+
+Can we adjust the following?
+- **Atlantic Salmon**: Ensure the **Mango Salsa** is added at $3.00, making the salmon with quinoa come to $31.99.
+- **Spinach Artichoke Dip**: Confirm the correct price with **Pita Bread** at $13.99.
+
+Once that's sorted, we should have everything perfect. Thanks!",2700,3.774452
+54c310ff-e9b3-4105-ae5e-ed5f845f0f55,"It looks like there are a couple of adjustments needed for the order:
+
+- The **Atlantic Salmon** should include mango salsa and quinoa as modifiers for a total of $31.99.
+- The **Spinach Artichoke Dip** should be priced at $13.99, with the addition of pita bread.
+
+Please update the total to reflect these corrections, and we can go ahead with placing the order.",2498,3.529987
+010566d8-4ea0-4993-b964-19aa613385e5,"Hey, it's Carlos here. Let's make sure everything's lined up perfectly. 
+
+So, I'm supposed to have the **Atlantic Salmon**: blackened with mango salsa and quinoa on the side, which should come out to $31.99, and the **Spinach Artichoke Dip** with pita bread, for $13.99.
+
+Could you please go ahead and place this exact order for me? Thanks!",2415,3.983422
+5fe3cee0-d1b4-4f07-8f28-cc220ca54c79,"Looks like my order matches what I need, but the order hasn't been placed yet. Please ensure the Atlantic Salmon and Spinach Artichoke Dip are added as listed, so everything's good. Thanks for your help!",2325,3.814124
+93c17025-4329-4027-8918-802b53b61adf,"Hey there! Sorry, but it looks like the order isn't placed yet. Could you help me out by adding these items to my order?
+
+I'll need:
+- **Atlantic Salmon**: blackened with mango salsa, and quinoa as a side
+- **Spinach Artichoke Dip** with pita bread
+
+Thanks! Could you confirm the total price for these items as well? Let's get this all set up!",2367,3.35073
+97aeb4cb-2ca7-4997-be0a-a08da68e44ac,"Just to clarify, I've asked for:
+
+- Atlantic Salmon, prepared blackened, with mango salsa, and quinoa as a side.
+- Spinach Artichoke Dip, served with pita bread.
+
+Could you confirm these will be added to my order, and what the total cost will be?",3874,6.653956
+cb6c2ad0-f9f7-465f-9f9f-cbf74ea1f40b,"Hey, it's Carlos Mendez. It seems like there’s a slight mix-up with the pricing I have for the items. Could we double-check that?
+
+1. For the **Atlantic Salmon**, I wanted it blackened with mango salsa, and quinoa as a side, priced at **$31.99**.
+2. The **Spinach Artichoke Dip** with pita bread is supposed to be **$13.99**.
+
+That's exactly how it should be, right? Let’s make sure everything’s correct before I confirm the order.",2518,3.589073
+2c53fa00-59a9-4948-a450-a312d29cc561,"I apologize, but there seems to be a discrepancy in the pricing of the items. Let's make sure each item matches:
+
+1. **Atlantic Salmon**: Should be **$31.99**.
+2. **Spinach Artichoke Dip**: Should be **$13.99**.
+
+Could you please confirm those for me at the listed prices so we are all set?",2456,3.307363
+f28c3798-e581-451e-bc35-7f2a78fc1869,"Hi there! My name is Carlos Mendez. Thanks for confirming the order, but it looks like nothing is in there yet. Could you please add the **Atlantic Salmon** blackened with mango salsa and quinoa, along with the **Spinach Artichoke Dip** with pita bread, to my order? Let's make sure all the details are right.",2305,3.208344
+cd70ee06-a676-4f65-9c2e-5029a667084e,"Hey there, actually I have a pretty specific order request. I would like to order the following:
+
+1. The **Atlantic Salmon**, but I'd like it **blackened with mango salsa**, and could you substitute **quinoa for the side**? 
+2. Also, the **Spinach Artichoke Dip**, but with **pita bread** instead.
+
+Could you confirm these details and let me know the total price before we finalize it? Thanks!",2344,3.162817
+3970b89c-cc2f-4a78-b95b-c3710adf45cc,"The order looks perfect, just as I wanted:
+
+- **Atlantic Salmon**: Blackened with mango salsa and quinoa
+- **Spinach Artichoke Dip**: With pita bread
+
+The total comes to $47.98. I'm ready to go ahead with this order.",2592,4.213712
+16bcd951-4857-4d31-a0b9-94e370700372,exit,3443,4.443563

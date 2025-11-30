@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+7f7f60f5-993c-4281-9bfe-50653374d040,Hi there! I'm looking to place an order for my crew. I need to get four Classic Burgers and two BBQ Bacon Burgers. Could you make sure all the burgers are cooked medium and come with French fries? Thanks!,2210,1.294153
+56dbfc61-2465-4352-bc06-9931458c9ffb,"Sure, the name for the order is James O'Brien.",2269,0.639864
+c3b0097c-c800-4bb7-90f5-de5d95919a61,"No drinks for us today, just the burgers as planned. Thanks for checking though! Could you confirm the price for the order?",2472,1.966225
+978f1028-b00e-4e38-8535-051e113b5f21,"Yes, that sounds perfect! Everything's just as I ordered: four Classic Burgers and two BBQ Bacon Burgers, all medium with French fries. Thanks for confirming.",2768,0.75742
+37303c4c-f74c-4afe-ab97-3259d6f4f189,exit,2683,0.750629

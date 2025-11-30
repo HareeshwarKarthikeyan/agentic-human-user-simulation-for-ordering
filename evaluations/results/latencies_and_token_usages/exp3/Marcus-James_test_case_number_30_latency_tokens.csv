@@ -1,0 +1,39 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+ac606ec2-4f05-4ddc-b016-593c7fd578ea,"Hey, this is Marcus James! I'm looking to place an order. Could you please add two Classic Burgers with the meat cooked medium? I'd like them with lettuce wraps instead of buns, and a side salad for both.",3501,3.996603
+7bbb67f2-0cae-456c-9b6e-2aa044505adb,"Hey there! Nope, the Classic Burgers are great as they are — no cheese or extra toppings needed. Could I go ahead and add a Vegetable Stir Fry with cauliflower rice to my order? That should do it for the food. 
+
+Oh, and I’m good on drinks, thank you! Let’s wrap it up, and could you let me know the total cost?",2390,3.921474
+8339ebf2-601a-479d-b498-b7058e2c4cfc,"Hey, it's Marcus here. Thanks for that!
+
+Quick clarification: I noticed there might've been a small mix-up with the Stir Fry pricing. The Vegetable Stir Fry with cauliflower rice is supposed to be $17.99 with the cauliflower rice option. Could you update that for me? Also, I’ll think about the pick-up time while you sort that out.",2548,3.638324
+a931a801-7398-442f-8715-03c3a92f5f74,"Hey, I'm Marcus James. Before I get into the pick-up time, can you confirm a couple of things about the order? I'd like to make sure the details match what I need:
+
+- Two Classic Burgers with Medium meat temperature, Lettuce Wrap, and a Side Salad.
+- One Vegetable Stir Fry with Cauliflower Rice. 
+
+Let me know if that's all set, then we can talk about pick-up timing and the total cost. Thanks!",2328,3.029734
+5bb62c9f-c72d-4525-a418-b2ea2b8a5ff1,"Hey, that sounds great! I'll swing by to pick it up around 6:00 PM. Thanks a bunch!",2354,5.523892
+bc0cbbc4-e959-4316-a8db-65505d9134ce,"It looks like there are a few details we need to align with the order:
+
+1. **Classic Burgers** - Ensure they are priced at **$15.99 each** with the correct modifiers: 
+   - Medium meat temperature
+   - Lettuce wrap
+   - Side salad
+
+2. **Vegetable Stir Fry** - Should be priced at **$14.99**, with the cauliflower rice modifier having a charge of **$3.00**.
+
+Can you please confirm these adjustments?",2468,2.983318
+cde6955b-c87b-4a39-9e0c-5a41d14a0bcc,"Hey, it's Marcus James here. I wanted to place an order for pickup. Here's what I'm looking for:
+
+- Two Classic Burgers with medium meat temperature, in lettuce wraps, and I'd like side salads as well.
+- A Vegetable Stir Fry with cauliflower rice.
+
+Would you mind confirming those details and letting me know the total price? Also, can we set up a time for pickup? Thanks!",2469,4.025031
+fb004ed4-4a80-4430-808e-e130c009b639,"Hey there! Before I schedule the pickup time, it looks like I need to make sure the order is right. Could you add these items for me?
+
+- Two Classic Burgers, medium, with lettuce wraps and side salads
+- One Vegetable Stir Fry with cauliflower rice
+
+Could you also confirm the price again after adding? Thanks!",2262,3.431794
+1a9f65b7-cdda-4fd7-90aa-2cd7c723c59b,"Hey there! Thanks for confirming my order. Everything looks perfect. I'd like to pick it up around 6:30 PM, if that's cool. ",2549,4.719694
+3c12463b-d5a8-4dc7-8c25-895d84bf156a,exit,2377,4.109631

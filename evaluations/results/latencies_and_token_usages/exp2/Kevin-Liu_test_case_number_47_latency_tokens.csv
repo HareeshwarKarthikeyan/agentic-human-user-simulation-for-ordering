@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+b6a9c2e4-1e2a-4988-af38-4555bacd4b18,"Hey there, I'd like to order some Buffalo Wings for pickup.",1997,1.234472
+2d570301-eece-40c6-a663-07333248218f,"Hi, it's Kevin Liu. Could I get the Buffalo Wings plain, please? Thanks!",2130,0.724958
+fc02e92c-6d89-41f6-a1ce-7c51b91cc65b,"Just the Buffalo Wings for me, thanks. I'll pass on the drink.",2169,0.64711
+794aeee4-61dd-4865-9466-208664a3a873,exit,2165,0.478724

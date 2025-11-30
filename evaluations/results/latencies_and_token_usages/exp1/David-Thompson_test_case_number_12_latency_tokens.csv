@@ -1,0 +1,28 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+62154e1f-2017-4cc4-82bf-4fc5d3671b68,"Hi there! I’d like to place an order for a dinner. First, I’d like a large gluten-free Margherita pizza.",1263,1.3416600227355957
+76f0e1c7-3e72-4d84-930f-d52ffa85d0f8,"No extra toppings for the pizza, just the large gluten-free Margherita pizza, please.",1342,0.9509000778198242
+f4262299-4633-4db4-9f6d-ed17766a67ac,It's David Thompson. ,1394,1.1698520183563232
+68452881-6e19-42e0-ac92-bad4b9890396,"I’d like to add a Caesar salad, please—just no croutons in it.",1503,1.0413951873779297
+ccd9850f-2cab-4b17-94ff-6b8946aab2b9,"No, just the pizza and the Caesar salad for now. I’d actually like to order two small fresh orange juices as well.",1636,1.1286141872406006
+4631713e-a887-450a-8e60-1d28d0c2290f,"Actually, I think I might have made an error. The total for the orange juice is correct, bringing the total to $41.96, but I’d like to make sure it’s clear. 
+
+Here's the complete recap: 
+
+1. One large gluten-free Margherita pizza for $16.99
+2. One Caesar salad without croutons for $12.99
+3. Two small fresh orange juices for $11.98
+
+So the full total is $52.96. 
+
+Is that right?",1878,1.949031114578247
+f54332ae-0e3d-4c7e-93b3-42b5a9b67fad,"Actually, I just realized I made a mistake. The orange juice total is right, and I added it wrong at first. It should be $52.96, not $41.96. Let’s confirm the total again: 
+
+1. One large gluten-free Margherita pizza for $16.99
+2. One Caesar salad without croutons for $12.99
+3. Two small fresh orange juices for $11.98
+
+So that brings us to $52.96. 
+
+Can we go ahead and finalize that order for you? ",2156,1.7689197063446045
+90eb6853-3e1f-4e16-977f-12d99466a413,"Yes, that sounds perfect. I’ll be picking it up in about 20 minutes. Let's finalize the order for $52.96. Thank you!",2303,1.411614179611206
+9a709357-1571-45d7-8d23-759c705e13d5,exit,2424,0.8693690299987793

@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+298b2b20-bbbe-4670-9be0-9bfd3f4fb28d,"Hey there! I'm James. I'm placing an order for my crew. Can I get 3 Baby Back Ribs with French Fries and 3 Grilled Chicken Sandwiches, also with French Fries? What's the price for that?",2237,3.685617
+58c3c595-0d04-4c40-aec4-090d66426b64,"Hey there! For the Baby Back Ribs, let's go with the Honey BBQ sauce, and yes, we're good with the standard side of French Fries for the Grilled Chicken Sandwiches. 
+
+Could you tell me what the total price is once those are confirmed? Thanks!",2685,2.764026
+8d0e8fb5-2724-49ec-87cf-fd9191eb1af8,The name for the order is James O'Brien. Thanks!,2885,3.154874
+3e4f27df-65a3-49af-ac84-8b65153f5120,exit,2849,3.211366

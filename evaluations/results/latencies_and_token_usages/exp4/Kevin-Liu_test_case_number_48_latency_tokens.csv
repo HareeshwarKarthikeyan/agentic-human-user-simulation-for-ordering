@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+4e717caa-70e0-43cd-be7b-5eee56968422,"Hi there! I'd like to place an order for one Chicken Parmesan, please.",2066,3.377463
+a5869243-171a-46e5-8222-ceb152f5b959,"Hey there! I'll stick with the spaghetti, and no need for any extra sauce or cheese. Thanks! What's the total cost for the Chicken Parmesan?",2262,2.75676
+6c5a6786-b946-4019-8033-30e199b33c53,"Sure thing, the name's Kevin Liu. Thanks!",2332,3.771468
+a504a966-3f4d-4c05-a323-c0ab4716c951,exit,2442,3.350397

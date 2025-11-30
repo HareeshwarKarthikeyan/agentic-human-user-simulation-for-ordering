@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+ac56a39a-f2e6-4f6e-9c28-b7f297699b04,"Hi, Emily here! I'm looking to place an order for a Vegetable Stir Fry with tofu and brown rice, and also a small Coca-Cola with light ice. Can you help me with that?",2287,3.733866
+5449b232-1791-4a18-b9cf-05ccd1f6fe83,"That's right, just the Vegetable Stir Fry with tofu and brown rice, and a small Coca-Cola with light ice. That'll be all for today, thanks!",2455,3.27197
+ec5aed7c-ebd5-4eb3-9f31-7ef58fef9d95,The name for the order is Emily Chen. Thank you!,1875,0.617181
+07b5a929-350c-44a8-8bfa-d93dd9449e88,"I noticed a discrepancy in the total amount. The total should actually be $22.98, not $18.98. Could you please double-check the pricing for me?",4588,2.024582
+fed7d6f7-1663-47ba-9850-3b01334d6890,exit,3016,2.862909

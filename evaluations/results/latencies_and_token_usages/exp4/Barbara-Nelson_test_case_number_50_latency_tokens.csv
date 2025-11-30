@@ -1,0 +1,8 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+63196b2b-53d5-4acc-a45f-2815fee54774,"Hi there! I'd like to start an order with a Ribeye Steak, cooked medium, with Béarnaise sauce, and a loaded baked potato on the side, please.",2399,4.202122
+9c683bf4-49ee-48df-9be2-55a0f8f21d6d,"My name is Barbara Nelson. Thanks for adding the Ribeye Steak to the order. Next, I’d like to order an Atlantic Salmon, blackened, with a side substitute of quinoa, please.",2715,6.453033
+c4184bb2-bc46-4438-96bf-3c1417e81c2f,"Just to confirm, my order should also include a New York Cheesecake with caramel sauce. Can we add that, please? As for drinks, no need for any right now. ",2962,2.545023
+38e43b70-ec97-4803-85ff-afc03706990c,"That sounds perfect! I’m glad everything is set for my order, including the Ribeye Steak, Atlantic Salmon, and New York Cheesecake.
+
+I’ll be there in about 20 minutes to pick it up. Thanks a lot!",3457,1.508737
+d9e5d263-ee8c-4713-b689-590056167331,exit,3277,3.046731

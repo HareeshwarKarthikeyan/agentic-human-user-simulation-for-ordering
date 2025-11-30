@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+dce0180b-1bb8-41a1-bd3f-41e4cbf316b7,"Hi there! It's Linda Walsh. I'd like to place an order for a bowl of New England Clam Chowder, please.",2141,3.686751
+52d5c939-d55b-4c63-95e3-80ff0d2cd897,"No, thank you, I'll pass on the oyster crackers. Just the New England Clam Chowder is fine. And could you confirm the price for me, please?",2190,2.963883
+649a9006-6d4c-44ec-b909-92730735c7e0,"Nope, that's all for today, thank you. Can you confirm that my order is placed?",2354,2.94877
+26df29b1-f4ff-4c8a-81ea-1192408eba55,"Yes, that's right! The name is Linda Walsh, and I'd like to pick it up around 6:30 PM.",2000,0.989485
+fbceb2bf-09cd-4295-8225-0b478cd6346d,exit,2512,2.992044

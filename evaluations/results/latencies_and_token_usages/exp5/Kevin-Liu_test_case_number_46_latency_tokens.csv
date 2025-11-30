@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+b6f70e21-0264-4a09-b20c-337fa2bf1117,"Hey there! I’d like to place an order for a Classic Burger, cooked medium, with French fries on the side. Could you confirm that for me and let me know the total price? Thanks!",2262,4.760465
+a75ccb2f-8a41-4b7e-9f16-c6cbf3e79a50,The name's Kevin Liu. Thanks for confirming everything. Looks great! ,3688,7.166332
+feb2b8f5-a9f6-4f58-87ca-6c5e6261a756,exit,2392,2.979545

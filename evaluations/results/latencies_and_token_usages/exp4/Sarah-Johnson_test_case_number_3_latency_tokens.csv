@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+b7ac0e21-478f-448a-a9a8-a535aefaad6e,"Hi there! I'd like to place an order for a Club Sandwich with white bread and potato chips, please.",2161,4.199397
+a57a3bae-b28e-46d4-9b4e-2473aa59bd8f,"Yes, that's correct. The name for the order is Sarah Johnson.",2114,1.02098
+2012711f-f5bc-40d4-bbaf-4da1ea96c05d,"No, thank you. That's all I need today. Can you confirm the total price for me?",2329,2.95745
+6d69429c-afaf-47b1-a116-0cc68de01dad,exit,4695,3.868132

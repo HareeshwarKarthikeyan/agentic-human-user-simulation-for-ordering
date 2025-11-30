@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+3c9d3b87-e803-4098-9a88-4f2363f9d384,"Hey there! I’d like to order some food for my crew. We'll go with 3 orders of Baby Back Ribs, each with a side of French Fries, and 3 Grilled Chicken Sandwiches, also with French Fries on the side. Could you let me know the total price for that?",2316,3.450968
+3b5d6376-1f33-4a3d-ae52-ac4a1b4d10c4,The name for the order is James O'Brien.,4215,5.120432
+2ceca6a3-d0cf-4f99-90f7-920ecfeb0458,exit,2486,4.151027

@@ -1,0 +1,26 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+17bdcba7-823f-4d6e-a53d-dfe464b58ef4,assistant,Hello! Thank you for calling The Garden Bistro. How can I assist you today?,order_taking_llm,2025-08-30T05:35:18.257686+00:00,,,,,,-1.0
+2f7b01c4-cb19-4eb4-98d1-b6aa7e6f188d,agent,"Hi there! I’d like to place an order for one Atlantic Salmon and one Caesar Salad, please. Could I get the dressing on the side for the salad?",guest_simulation_llm,2025-08-30T05:35:19.264762+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1084, ""num_response_tokens"": 33, ""total_tokens"": 1117}",1006.6790580749512
+e6e7550f-bb1b-4f1e-bcc2-389e6380091c,assistant,"Great choice with the Atlantic Salmon and the Caesar Salad! Just to confirm, you'd like the salmon prepared with the lemon butter sauce, and I'll note that you want the dressing on the side for the salad. 
+
+Would you like to add any protein to the Caesar Salad, like grilled chicken, grilled shrimp, or salmon?",order_taking_llm,2025-08-30T05:35:20.720597+00:00,,,,,,-1.0
+74d444c8-d27e-4280-a5dc-e2c23ffad1c5,agent,"No, just the salad as is with the dressing on the side, please. Can you confirm the total for my order?",guest_simulation_llm,2025-08-30T05:35:21.436143+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1206, ""num_response_tokens"": 25, ""total_tokens"": 1231}",715.4440879821777
+b9fd80cb-eb49-4802-acc6-53f7e9cd7cbc,assistant,"Sure! So we have:
+
+1. Atlantic Salmon – $26.99
+2. Caesar Salad – $12.99 (with dressing on the side, no protein add-ons)
+
+The total comes to $39.98. 
+
+Can I have your name for the order, please?",order_taking_llm,2025-08-30T05:35:22.877461+00:00,,,,,,-1.0
+07e99ac1-10d6-4fca-9021-c40f37dcb155,agent,It's Sofia Russo.,guest_simulation_llm,2025-08-30T05:35:23.794734+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1314, ""num_response_tokens"": 4, ""total_tokens"": 1318}",916.8109893798828
+61e8116f-168e-41a0-a136-d5ef6a628330,assistant,"Thank you, Sofia! So, just to confirm your order:
+
+1. Atlantic Salmon – $26.99
+2. Caesar Salad with dressing on the side – $12.99
+
+Total: $39.98.
+
+Your order will be ready for pickup in about 20 minutes. Thank you for choosing The Garden Bistro! If you need anything else, just let us know. Enjoy your meal!",order_taking_llm,2025-08-30T05:35:25.143763+00:00,,,,,,-1.0
+1281121e-210b-4864-84bd-1bd970b69bf4,agent,exit,guest_simulation_llm,2025-08-30T05:35:25.635776+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1424, ""num_response_tokens"": 1, ""total_tokens"": 1425}",491.3320541381836
+b2dbf91a-5d10-48a8-9434-9e94d2aca86a,system,"{""guest_persona"": {""full_name"": ""Sofia Russo"", ""order_size"": 2, ""order_complexity"": ""medium"", ""guest_bio"": ""A wine enthusiast who asks about pairing recommendations and takes time to consider options. Orders appetizers and entrees based on wine selections. Appreciates knowledgeable suggestions about complementary flavors.""}, ""target_order"": {""order_items"": [{""name"": ""Atlantic Salmon"", ""quantity"": 1, ""base_price"": 26.99, ""modifiers"": [], ""item_total_price"": 26.99}, {""name"": ""Caesar Salad"", ""quantity"": 1, ""base_price"": 12.99, ""modifiers"": [{""modifier_type_name"": ""Dressing"", ""modifier_option_name"": ""Dressing on Side"", ""is_required"": false, ""price"": 0.0}], ""item_total_price"": 12.99}], ""order_total_price"": 39.98, ""reasoning"": ""Sofia Russo selected salmon and Caesar salad for a Friday lunch, lighter fare that pairs well with white wine she'll order separately.""}}",test_case_info,2025-08-30T05:35:25.635918+00:00,,,,,,-1.0

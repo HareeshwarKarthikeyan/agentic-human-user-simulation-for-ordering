@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+5848f1cc-9cbe-4d47-94fb-a3a3d7f63ced,"Hi there! I’d like to place an order for Fish and Chips, please. Could you also let me know the total price for that?",2204,3.955756
+585a3756-a12b-405b-8bb4-1f315ecd0915,"I'm a bit confused with too many options, but I'm just looking to keep it classic. Could I go for the haddock Fish and Chips, please? No extras needed, just the basic setup works for me.",2283,2.612152
+b43ecc7d-f4a8-4a60-b830-4b731bc0f588,"The name for the order is Robert Kim. Could you confirm the price for me, please?",3497,3.543475
+933e3fce-06fe-4a0b-9e39-a62b1bd3f848,exit,2313,4.194454

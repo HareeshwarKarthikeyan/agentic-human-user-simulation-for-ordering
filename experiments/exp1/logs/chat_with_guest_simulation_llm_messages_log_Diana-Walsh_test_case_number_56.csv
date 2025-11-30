@@ -1,0 +1,26 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+77551cdb-3de2-4022-b4de-4cf5690e0237,assistant,Hi there! Thank you for calling The Garden Bistro. How can I help you today?,order_taking_llm,2025-08-30T05:37:32.905228+00:00,,,,,,-1.0
+1cbd5607-c12c-4cc4-b651-7df2888d989d,agent,"Hi! I'd like to place an order for a Club Sandwich with white bread and French fries, and a small Cappuccino, please.",guest_simulation_llm,2025-08-30T05:37:33.706884+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1144, ""num_response_tokens"": 27, ""total_tokens"": 1171}",801.145076751709
+8e804959-d98d-42d7-8e61-cd813d4e14b4,assistant,"Great choice! Just to confirm, you would like a Club Sandwich on white bread with French fries as the side, and a small Cappuccino. 
+
+Would you like to add anything to your Club Sandwich, like extra bacon or cheese?",order_taking_llm,2025-08-30T05:37:34.743897+00:00,,,,,,-1.0
+a3c0fa22-fea8-4cad-a11f-b7f339f8dd8b,agent,"No, that’s all I need. Just the Club Sandwich with white bread and French fries, and the small Cappuccino. Can you confirm the total for me?",guest_simulation_llm,2025-08-30T05:37:35.786438+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1243, ""num_response_tokens"": 33, ""total_tokens"": 1276}",1042.2451496124268
+bd573784-ea5d-4ef5-9495-a5423fbcb2ea,assistant,"Sure thing! Let's summarize your order: 
+
+- Club Sandwich on white bread with French fries
+- Small Cappuccino
+
+The total for your order will be $15.99 for the Club Sandwich, $0.00 for the fries, and $4.99 for the small Cappuccino, which brings your total to $20.98.
+
+Can I get your name for this order?",order_taking_llm,2025-08-30T05:37:37.630626+00:00,,,,,,-1.0
+5a9bc9eb-8e21-417a-9147-4652e52b75b5,agent,It's Diana Walsh.,guest_simulation_llm,2025-08-30T05:37:38.149041+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1379, ""num_response_tokens"": 4, ""total_tokens"": 1383}",518.2900428771973
+ab86286a-9e79-4d3f-b43a-922f6fa9a2df,assistant,"Thank you, Diana! So your order is:
+
+- Club Sandwich on white bread with French fries
+- Small Cappuccino
+
+And your total is $20.98. 
+
+Your order will be ready for pickup in about 20 minutes. Thank you for choosing The Garden Bistro! If there's anything else you need, just let us know. Have a great day!",order_taking_llm,2025-08-30T05:37:39.657703+00:00,,,,,,-1.0
+e3d82c04-56d7-482b-905f-bf461a677d7d,agent,exit,guest_simulation_llm,2025-08-30T05:37:40.125105+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1481, ""num_response_tokens"": 1, ""total_tokens"": 1482}",467.2670364379883
+454be21a-9630-46f4-8c13-7181db2949e2,system,"{""guest_persona"": {""full_name"": ""Diana Walsh"", ""order_size"": 2, ""order_complexity"": ""simple"", ""guest_bio"": ""A nurse grabbing food between shifts who needs reliable, quick options. Orders familiar items without modifications. Values speed over variety and often orders the daily special without questions.""}, ""target_order"": {""order_items"": [{""name"": ""Club Sandwich"", ""quantity"": 1, ""base_price"": 15.99, ""modifiers"": [{""modifier_type_name"": ""Bread Choice"", ""modifier_option_name"": ""White"", ""is_required"": true, ""price"": 0.0}, {""modifier_type_name"": ""Side Choice"", ""modifier_option_name"": ""French Fries"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 15.99}, {""name"": ""Cappuccino"", ""quantity"": 1, ""base_price"": 4.99, ""modifiers"": [{""modifier_type_name"": ""Size"", ""modifier_option_name"": ""Small"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 4.99}], ""order_total_price"": 20.98, ""reasoning"": ""Diana Walsh ordered club sandwich and small cappuccino for a Friday night shift meal, familiar items to keep her energized through long hours.""}}",test_case_info,2025-08-30T05:37:40.125137+00:00,,,,,,-1.0

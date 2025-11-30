@@ -1,0 +1,8 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+b66b4d4d-45e8-4b5d-a6ce-52f9345b4985,"Hi! I'd like to place an order, please. I'm thinking of getting the Atlantic Salmon. Can you prepare it blackened, and do you have a mango salsa to go with it? Also, I'd prefer quinoa instead of the usual sides. ",2207,1.631419
+fd19433e-c4f6-4348-8b55-3f655c905b7b,"Thanks for confirming the Atlantic Salmon, blackened with mango salsa and quinoa. Actually, could you also add a Spinach Artichoke Dip with pita bread? And no drink for now, thanks!",2400,0.711472
+80548fde-85d6-4e5a-b61f-8cede52e424d,"Put the order under the name Carlos Mendez. Could you also clarify the pricing? I've got it at $45.98 based on the modifications, not $40.98. Can you confirm?",2724,0.641953
+c2c9326b-5e26-493e-addf-c0928e674d7b,"Thanks for confirming the breakdown! It looks like everything from my order is correctly listed. No need for anything else today, just the Atlantic Salmon with mango salsa and quinoa, and the Spinach Artichoke Dip with pita bread. 
+
+Could you please confirm the final total one more time, and then we'll be all set!",2995,0.603093
+26210370-7c66-4b78-b872-18a6e4939c6c,exit,2869,0.702215

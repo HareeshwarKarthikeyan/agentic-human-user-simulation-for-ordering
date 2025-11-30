@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+c025e24b-633e-4199-ab85-c319e0e7de53,"Hi there! I’d like to order a Chicken Parmesan, please.",1021,0.7354609966278076
+2d91270c-9673-46da-aa64-a673869ffee8,"No, thank you. Just the Chicken Parmesan is fine. My name’s Linda Walsh. What’s the total?",1117,0.8057448863983154
+3192baa4-da96-40de-9152-ab8d84e9252c,"No, that's all I need. Just the Chicken Parmesan for $22.99. Can you confirm my order?",1213,0.6903266906738281
+474f974f-949b-4ba7-83da-bb5bfc41210f,exit,1290,0.6183340549468994

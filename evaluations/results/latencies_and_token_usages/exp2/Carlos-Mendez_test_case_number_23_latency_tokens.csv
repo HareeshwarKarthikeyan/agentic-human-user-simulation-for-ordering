@@ -1,0 +1,10 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+b9cc38e7-7b8d-49c4-a1d1-35efa8250b3d,"Hi there! I'd like to place an order. Can I start with the Fettuccine Alfredo, but I'd like to add some lobster and mushrooms to that. Also, I'll have a Margarita; can you make it Mango flavored with a sugar rim and serve it on the rocks with premium tequila?",2288,1.302948
+17a47aed-d13c-40d0-b775-d936b8c672f6,"Sure, my name is Carlos Mendez.",2457,0.830384
+2489f920-ecc6-4d1d-a661-7e17054497c6,"Thanks for reviewing the order. Everything looks perfect, but it seems like there might be a little difference in our total price. My calculation shows a total of $47.98. Does that match your system?
+
+Besides this, could you tell me a bit about how the Fettuccine Alfredo is prepared? Any special techniques or ingredients you use?",2787,0.816114
+b05e8d88-5e12-40d3-8e1d-af472c7c71fa,"Thanks for clearing that up! The order looks great as it is. I'm all set to finalize it. Could you please confirm that everything is ready to go, including the exact order details you've listed?",2980,0.727453
+2c3c5588-1f3e-4b85-bee0-a77df00c553c,"Actually, the total should be $47.98, not $46.98. Could you please verify that price again before finalizing?",3025,0.637288
+faed7236-7022-467b-8519-e9a37ed97adf,"There seems to be a slight misunderstanding here. Based on what we’ve gone through, the total should be $47.98, including all the modifiers and add-ons. However, if your system confirms $46.98 and there's no additional tax or fees, then I trust your calculation. Let’s go ahead and proceed with the total of $46.98. Can you confirm when the order will be ready for pick-up or delivery?",3385,0.780252
+04dd3779-f95c-4a08-906c-d7217113c024,exit,3425,0.855843

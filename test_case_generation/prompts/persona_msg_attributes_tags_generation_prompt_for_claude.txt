@@ -1,0 +1,5 @@
+Look at test_case_generation/data/personas.json and agents/message_generation_agent.py. Read the personas file and generate me an 
+  appropriate MessageGenerationAttributes json for each persona. You can keep the is_ordering_complete as NO for all of those. But the 
+  rest has to be perfectly aligned with respect to the guest persona. For next_message_mood_tone you can make it as 
+  next_message_mood_tones which can have two permissible mood tones, so that one value will be a list. Everything else should be only one
+   value per persona. I want a json file. Put it in test_case_generation/data/message_generation_attributes_for_personas.json

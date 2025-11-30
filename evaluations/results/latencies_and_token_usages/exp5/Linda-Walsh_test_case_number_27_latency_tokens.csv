@@ -1,0 +1,11 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+5f4aa6ba-650b-4017-af91-9297ba64b4c2,"Hi there! I'd like to place an order for a Chicken Parmesan, please.",2180,4.701584
+fabd05f2-376c-4019-98be-b1de706cf403,"I'll go with the Chicken Parmesan. I'll take Angel Hair pasta with that, please.",2206,2.706596
+687adc11-3d7f-4a16-909f-eb03d07f884c,"No need for extra sauce or cheese, thank you. Can you please confirm the total price for the Chicken Parmesan with Angel Hair pasta?",2248,3.241445
+c800171d-ff76-4e4b-bded-43de6adc88d8,"Sure thing! The name for the order is Linda Walsh. 
+
+Since we've got everything confirmed with the Chicken Parmesan with Angel Hair pasta for $22.99, I'm all set. Thanks a lot!",2204,2.886289
+4422d997-5984-4479-a270-bcb93c3658ad,"Could you please remove the Angel Hair pasta as a modifier for the Chicken Parmesan? Once that's done, we'll be good to go with the order. Thank you!",2323,3.485174
+8edba5bc-1975-4436-99a6-441533523e19,"That sounds perfect! I'll stick with the Chicken Parmesan as is, no need for different pasta. How much will that be?",2272,4.171332
+d63c4d10-654d-4892-abbd-bcc1e68c7a46,My name is Linda Walsh. The order sounds good — just the Chicken Parmesan for $22.99. Thanks!,2319,2.819616
+5f09631a-d94b-4916-87ce-c0a623beaf3c,exit,2267,3.227359

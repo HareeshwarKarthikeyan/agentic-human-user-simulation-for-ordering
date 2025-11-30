@@ -1,0 +1,1401 @@
+{
+  "restaurant_name": "The Garden Bistro",
+  "menu_items": [
+    {
+      "name": "Caesar Salad",
+      "description": "Crisp romaine lettuce, parmesan cheese, croutons, and our signature Caesar dressing",
+      "menu_group": "Appetizers",
+      "base_price": 12.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Protein Add-on",
+          "modifier_option_name": "Grilled Chicken",
+          "is_required": false,
+          "price": 6.00
+        },
+        {
+          "modifier_type_name": "Protein Add-on",
+          "modifier_option_name": "Grilled Shrimp",
+          "is_required": false,
+          "price": 8.00
+        },
+        {
+          "modifier_type_name": "Protein Add-on",
+          "modifier_option_name": "Salmon",
+          "is_required": false,
+          "price": 10.00
+        },
+        {
+          "modifier_type_name": "Dressing",
+          "modifier_option_name": "Dressing on Side",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Special Request",
+          "modifier_option_name": "No Croutons",
+          "is_required": false,
+          "price": 0.00
+        }
+      ]
+    },
+    {
+      "name": "Spinach Artichoke Dip",
+      "description": "Creamy blend of spinach, artichokes, and three cheeses served with tortilla chips",
+      "menu_group": "Appetizers",
+      "base_price": 11.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Bread Choice",
+          "modifier_option_name": "Pita Bread",
+          "is_required": false,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Extra",
+          "modifier_option_name": "Extra Chips",
+          "is_required": false,
+          "price": 3.00
+        }
+      ]
+    },
+    {
+      "name": "Buffalo Wings",
+      "description": "Classic chicken wings tossed in buffalo sauce, served with celery and ranch",
+      "menu_group": "Appetizers",
+      "base_price": 13.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Sauce Choice",
+          "modifier_option_name": "BBQ",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Sauce Choice",
+          "modifier_option_name": "Honey Garlic",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Sauce Choice",
+          "modifier_option_name": "Extra Hot",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Dipping Sauce",
+          "modifier_option_name": "Blue Cheese",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Portion",
+          "modifier_option_name": "Double Order",
+          "is_required": false,
+          "price": 10.00
+        }
+      ]
+    },
+    {
+      "name": "French Onion Soup",
+      "description": "Traditional French onion soup topped with melted Gruyère cheese",
+      "menu_group": "Soups",
+      "base_price": 8.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Size",
+          "modifier_option_name": "Bowl Size",
+          "is_required": false,
+          "price": 3.00
+        }
+      ]
+    },
+    {
+      "name": "New England Clam Chowder",
+      "description": "Creamy chowder with tender clams, potatoes, and celery",
+      "menu_group": "Soups",
+      "base_price": 9.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Size",
+          "modifier_option_name": "Bowl Size",
+          "is_required": false,
+          "price": 3.00
+        },
+        {
+          "modifier_type_name": "Add-on",
+          "modifier_option_name": "Oyster Crackers",
+          "is_required": false,
+          "price": 0.00
+        }
+      ]
+    },
+    {
+      "name": "Classic Burger",
+      "description": "8oz beef patty with lettuce, tomato, onion, and pickle on a brioche bun",
+      "menu_group": "Burgers",
+      "base_price": 15.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Meat Temperature",
+          "modifier_option_name": "Rare",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Meat Temperature",
+          "modifier_option_name": "Medium Rare",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Meat Temperature",
+          "modifier_option_name": "Medium",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Meat Temperature",
+          "modifier_option_name": "Medium Well",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Meat Temperature",
+          "modifier_option_name": "Well Done",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Cheese",
+          "modifier_option_name": "American",
+          "is_required": false,
+          "price": 1.50
+        },
+        {
+          "modifier_type_name": "Cheese",
+          "modifier_option_name": "Cheddar",
+          "is_required": false,
+          "price": 1.50
+        },
+        {
+          "modifier_type_name": "Cheese",
+          "modifier_option_name": "Swiss",
+          "is_required": false,
+          "price": 1.50
+        },
+        {
+          "modifier_type_name": "Cheese",
+          "modifier_option_name": "Blue Cheese",
+          "is_required": false,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Add-ons",
+          "modifier_option_name": "Bacon",
+          "is_required": false,
+          "price": 3.00
+        },
+        {
+          "modifier_type_name": "Add-ons",
+          "modifier_option_name": "Avocado",
+          "is_required": false,
+          "price": 2.50
+        },
+        {
+          "modifier_type_name": "Add-ons",
+          "modifier_option_name": "Fried Egg",
+          "is_required": false,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Add-ons",
+          "modifier_option_name": "Caramelized Onions",
+          "is_required": false,
+          "price": 1.50
+        },
+        {
+          "modifier_type_name": "Bun Choice",
+          "modifier_option_name": "Whole Wheat",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Bun Choice",
+          "modifier_option_name": "Gluten Free",
+          "is_required": false,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Bun Choice",
+          "modifier_option_name": "Lettuce Wrap",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Side Choice",
+          "modifier_option_name": "French Fries",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Side Choice",
+          "modifier_option_name": "Sweet Potato Fries",
+          "is_required": true,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Side Choice",
+          "modifier_option_name": "Onion Rings",
+          "is_required": true,
+          "price": 3.00
+        },
+        {
+          "modifier_type_name": "Side Choice",
+          "modifier_option_name": "Side Salad",
+          "is_required": true,
+          "price": 0.00
+        }
+      ]
+    },
+    {
+      "name": "BBQ Bacon Burger",
+      "description": "Beef patty with BBQ sauce, crispy bacon, cheddar cheese, and onion rings",
+      "menu_group": "Burgers",
+      "base_price": 18.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Meat Temperature",
+          "modifier_option_name": "Rare",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Meat Temperature",
+          "modifier_option_name": "Medium Rare",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Meat Temperature",
+          "modifier_option_name": "Medium",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Meat Temperature",
+          "modifier_option_name": "Medium Well",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Meat Temperature",
+          "modifier_option_name": "Well Done",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Side Choice",
+          "modifier_option_name": "French Fries",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Side Choice",
+          "modifier_option_name": "Sweet Potato Fries",
+          "is_required": true,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Side Choice",
+          "modifier_option_name": "Onion Rings",
+          "is_required": true,
+          "price": 3.00
+        }
+      ]
+    },
+    {
+      "name": "Grilled Chicken Sandwich",
+      "description": "Marinated grilled chicken breast with lettuce, tomato, and garlic aioli",
+      "menu_group": "Sandwiches",
+      "base_price": 14.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Cheese",
+          "modifier_option_name": "Provolone",
+          "is_required": false,
+          "price": 1.50
+        },
+        {
+          "modifier_type_name": "Cheese",
+          "modifier_option_name": "Pepper Jack",
+          "is_required": false,
+          "price": 1.50
+        },
+        {
+          "modifier_type_name": "Add-ons",
+          "modifier_option_name": "Bacon",
+          "is_required": false,
+          "price": 3.00
+        },
+        {
+          "modifier_type_name": "Add-ons",
+          "modifier_option_name": "Avocado",
+          "is_required": false,
+          "price": 2.50
+        },
+        {
+          "modifier_type_name": "Side Choice",
+          "modifier_option_name": "French Fries",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Side Choice",
+          "modifier_option_name": "Coleslaw",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Side Choice",
+          "modifier_option_name": "Fruit Cup",
+          "is_required": true,
+          "price": 2.00
+        }
+      ]
+    },
+    {
+      "name": "Club Sandwich",
+      "description": "Triple-decker with turkey, ham, bacon, lettuce, tomato, and mayo",
+      "menu_group": "Sandwiches",
+      "base_price": 15.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Bread Choice",
+          "modifier_option_name": "White",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Bread Choice",
+          "modifier_option_name": "Wheat",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Bread Choice",
+          "modifier_option_name": "Sourdough",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Side Choice",
+          "modifier_option_name": "French Fries",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Side Choice",
+          "modifier_option_name": "Potato Chips",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Side Choice",
+          "modifier_option_name": "Side Salad",
+          "is_required": true,
+          "price": 0.00
+        }
+      ]
+    },
+    {
+      "name": "Margherita Pizza",
+      "description": "Fresh mozzarella, tomatoes, and basil on thin crust",
+      "menu_group": "Pizza",
+      "base_price": 16.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Size",
+          "modifier_option_name": "Small 10\"",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Size",
+          "modifier_option_name": "Medium 14\"",
+          "is_required": true,
+          "price": 4.00
+        },
+        {
+          "modifier_type_name": "Size",
+          "modifier_option_name": "Large 18\"",
+          "is_required": true,
+          "price": 8.00
+        },
+        {
+          "modifier_type_name": "Crust Type",
+          "modifier_option_name": "Thin Crust",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Crust Type",
+          "modifier_option_name": "Thick Crust",
+          "is_required": false,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Crust Type",
+          "modifier_option_name": "Gluten Free",
+          "is_required": false,
+          "price": 3.00
+        },
+        {
+          "modifier_type_name": "Extra Toppings",
+          "modifier_option_name": "Pepperoni",
+          "is_required": false,
+          "price": 2.50
+        },
+        {
+          "modifier_type_name": "Extra Toppings",
+          "modifier_option_name": "Italian Sausage",
+          "is_required": false,
+          "price": 2.50
+        },
+        {
+          "modifier_type_name": "Extra Toppings",
+          "modifier_option_name": "Mushrooms",
+          "is_required": false,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Extra Toppings",
+          "modifier_option_name": "Olives",
+          "is_required": false,
+          "price": 2.00
+        }
+      ]
+    },
+    {
+      "name": "Spaghetti Carbonara",
+      "description": "Classic Italian pasta with bacon, egg, and parmesan in cream sauce",
+      "menu_group": "Pasta",
+      "base_price": 18.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Protein Add-on",
+          "modifier_option_name": "Grilled Chicken",
+          "is_required": false,
+          "price": 6.00
+        },
+        {
+          "modifier_type_name": "Protein Add-on",
+          "modifier_option_name": "Shrimp",
+          "is_required": false,
+          "price": 8.00
+        },
+        {
+          "modifier_type_name": "Extra",
+          "modifier_option_name": "Extra Parmesan",
+          "is_required": false,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Bread",
+          "modifier_option_name": "Garlic Bread",
+          "is_required": false,
+          "price": 4.00
+        }
+      ]
+    },
+    {
+      "name": "Fettuccine Alfredo",
+      "description": "Fettuccine pasta in rich, creamy Alfredo sauce",
+      "menu_group": "Pasta",
+      "base_price": 16.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Protein Add-on",
+          "modifier_option_name": "Grilled Chicken",
+          "is_required": false,
+          "price": 6.00
+        },
+        {
+          "modifier_type_name": "Protein Add-on",
+          "modifier_option_name": "Shrimp",
+          "is_required": false,
+          "price": 8.00
+        },
+        {
+          "modifier_type_name": "Protein Add-on",
+          "modifier_option_name": "Lobster",
+          "is_required": false,
+          "price": 12.00
+        },
+        {
+          "modifier_type_name": "Vegetables",
+          "modifier_option_name": "Broccoli",
+          "is_required": false,
+          "price": 3.00
+        },
+        {
+          "modifier_type_name": "Vegetables",
+          "modifier_option_name": "Mushrooms",
+          "is_required": false,
+          "price": 3.00
+        }
+      ]
+    },
+    {
+      "name": "Ribeye Steak",
+      "description": "12oz USDA Prime ribeye, served with mashed potatoes and seasonal vegetables",
+      "menu_group": "Steaks",
+      "base_price": 42.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Temperature",
+          "modifier_option_name": "Rare",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Temperature",
+          "modifier_option_name": "Medium Rare",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Temperature",
+          "modifier_option_name": "Medium",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Temperature",
+          "modifier_option_name": "Medium Well",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Temperature",
+          "modifier_option_name": "Well Done",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Sauce",
+          "modifier_option_name": "Béarnaise",
+          "is_required": false,
+          "price": 3.00
+        },
+        {
+          "modifier_type_name": "Sauce",
+          "modifier_option_name": "Peppercorn",
+          "is_required": false,
+          "price": 3.00
+        },
+        {
+          "modifier_type_name": "Sauce",
+          "modifier_option_name": "Chimichurri",
+          "is_required": false,
+          "price": 3.00
+        },
+        {
+          "modifier_type_name": "Side Upgrade",
+          "modifier_option_name": "Loaded Baked Potato",
+          "is_required": false,
+          "price": 4.00
+        },
+        {
+          "modifier_type_name": "Side Upgrade",
+          "modifier_option_name": "Truffle Mac and Cheese",
+          "is_required": false,
+          "price": 6.00
+        },
+        {
+          "modifier_type_name": "Add-on",
+          "modifier_option_name": "Lobster Tail",
+          "is_required": false,
+          "price": 18.00
+        }
+      ]
+    },
+    {
+      "name": "Filet Mignon",
+      "description": "8oz center-cut filet, the most tender cut of beef",
+      "menu_group": "Steaks",
+      "base_price": 48.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Temperature",
+          "modifier_option_name": "Rare",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Temperature",
+          "modifier_option_name": "Medium Rare",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Temperature",
+          "modifier_option_name": "Medium",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Temperature",
+          "modifier_option_name": "Medium Well",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Temperature",
+          "modifier_option_name": "Well Done",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Sauce",
+          "modifier_option_name": "Red Wine Reduction",
+          "is_required": false,
+          "price": 3.00
+        },
+        {
+          "modifier_type_name": "Sauce",
+          "modifier_option_name": "Hollandaise",
+          "is_required": false,
+          "price": 3.00
+        },
+        {
+          "modifier_type_name": "Topping",
+          "modifier_option_name": "Blue Cheese Crust",
+          "is_required": false,
+          "price": 5.00
+        }
+      ]
+    },
+    {
+      "name": "Atlantic Salmon",
+      "description": "Pan-seared salmon with lemon butter sauce, rice pilaf, and asparagus",
+      "menu_group": "Seafood",
+      "base_price": 26.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Preparation",
+          "modifier_option_name": "Grilled",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Preparation",
+          "modifier_option_name": "Blackened",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Sauce",
+          "modifier_option_name": "Teriyaki Glaze",
+          "is_required": false,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Sauce",
+          "modifier_option_name": "Mango Salsa",
+          "is_required": false,
+          "price": 3.00
+        },
+        {
+          "modifier_type_name": "Side Substitute",
+          "modifier_option_name": "Quinoa",
+          "is_required": false,
+          "price": 2.00
+        }
+      ]
+    },
+    {
+      "name": "Lobster Tail",
+      "description": "Twin lobster tails with drawn butter, served with wild rice and vegetables",
+      "menu_group": "Seafood",
+      "base_price": 44.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Preparation",
+          "modifier_option_name": "Broiled",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Preparation",
+          "modifier_option_name": "Steamed",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Preparation",
+          "modifier_option_name": "Grilled",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Extra",
+          "modifier_option_name": "Extra Butter",
+          "is_required": false,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Add-on",
+          "modifier_option_name": "Third Tail",
+          "is_required": false,
+          "price": 22.00
+        }
+      ]
+    },
+    {
+      "name": "Fish and Chips",
+      "description": "Beer-battered cod with crispy fries, coleslaw, and tartar sauce",
+      "menu_group": "Seafood",
+      "base_price": 18.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Fish Choice",
+          "modifier_option_name": "Haddock",
+          "is_required": false,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Fish Choice",
+          "modifier_option_name": "Halibut",
+          "is_required": false,
+          "price": 4.00
+        },
+        {
+          "modifier_type_name": "Extra",
+          "modifier_option_name": "Extra Piece of Fish",
+          "is_required": false,
+          "price": 8.00
+        }
+      ]
+    },
+    {
+      "name": "Chicken Parmesan",
+      "description": "Breaded chicken breast with marinara sauce and melted mozzarella over spaghetti",
+      "menu_group": "Entrees",
+      "base_price": 22.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Pasta Choice",
+          "modifier_option_name": "Penne",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Pasta Choice",
+          "modifier_option_name": "Angel Hair",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Extra",
+          "modifier_option_name": "Extra Sauce",
+          "is_required": false,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Extra",
+          "modifier_option_name": "Extra Cheese",
+          "is_required": false,
+          "price": 3.00
+        }
+      ]
+    },
+    {
+      "name": "Baby Back Ribs",
+      "description": "Full rack of tender ribs with BBQ sauce, coleslaw, and cornbread",
+      "menu_group": "Entrees",
+      "base_price": 28.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Portion",
+          "modifier_option_name": "Half Rack",
+          "is_required": false,
+          "price": -8.00
+        },
+        {
+          "modifier_type_name": "Sauce Style",
+          "modifier_option_name": "Dry Rub",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Sauce Style",
+          "modifier_option_name": "Honey BBQ",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Sauce Style",
+          "modifier_option_name": "Spicy BBQ",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Side Choice",
+          "modifier_option_name": "French Fries",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Side Choice",
+          "modifier_option_name": "Baked Beans",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Side Choice",
+          "modifier_option_name": "Mac and Cheese",
+          "is_required": true,
+          "price": 2.00
+        }
+      ]
+    },
+    {
+      "name": "Vegetable Stir Fry",
+      "description": "Fresh seasonal vegetables in teriyaki sauce over jasmine rice",
+      "menu_group": "Vegetarian",
+      "base_price": 14.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Protein Add-on",
+          "modifier_option_name": "Tofu",
+          "is_required": false,
+          "price": 4.00
+        },
+        {
+          "modifier_type_name": "Protein Add-on",
+          "modifier_option_name": "Tempeh",
+          "is_required": false,
+          "price": 5.00
+        },
+        {
+          "modifier_type_name": "Rice Choice",
+          "modifier_option_name": "Brown Rice",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Rice Choice",
+          "modifier_option_name": "Cauliflower Rice",
+          "is_required": false,
+          "price": 3.00
+        },
+        {
+          "modifier_type_name": "Spice Level",
+          "modifier_option_name": "Mild",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Spice Level",
+          "modifier_option_name": "Medium",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Spice Level",
+          "modifier_option_name": "Hot",
+          "is_required": false,
+          "price": 0.00
+        }
+      ]
+    },
+    {
+      "name": "Portobello Mushroom Burger",
+      "description": "Grilled portobello cap with roasted red peppers, arugula, and balsamic glaze",
+      "menu_group": "Vegetarian",
+      "base_price": 13.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Cheese",
+          "modifier_option_name": "Goat Cheese",
+          "is_required": false,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Cheese",
+          "modifier_option_name": "Vegan Cheese",
+          "is_required": false,
+          "price": 2.50
+        },
+        {
+          "modifier_type_name": "Side Choice",
+          "modifier_option_name": "French Fries",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Side Choice",
+          "modifier_option_name": "Sweet Potato Fries",
+          "is_required": true,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Side Choice",
+          "modifier_option_name": "Side Salad",
+          "is_required": true,
+          "price": 0.00
+        }
+      ]
+    },
+    {
+      "name": "Chocolate Lava Cake",
+      "description": "Warm chocolate cake with molten center, served with vanilla ice cream",
+      "menu_group": "Desserts",
+      "base_price": 8.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Ice Cream Flavor",
+          "modifier_option_name": "Chocolate",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Ice Cream Flavor",
+          "modifier_option_name": "Strawberry",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Extra",
+          "modifier_option_name": "Extra Ice Cream Scoop",
+          "is_required": false,
+          "price": 3.00
+        },
+        {
+          "modifier_type_name": "Topping",
+          "modifier_option_name": "Whipped Cream",
+          "is_required": false,
+          "price": 1.00
+        }
+      ]
+    },
+    {
+      "name": "New York Cheesecake",
+      "description": "Classic cheesecake with graham cracker crust and berry compote",
+      "menu_group": "Desserts",
+      "base_price": 7.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Topping",
+          "modifier_option_name": "Strawberry",
+          "is_required": false,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Topping",
+          "modifier_option_name": "Chocolate Sauce",
+          "is_required": false,
+          "price": 1.50
+        },
+        {
+          "modifier_type_name": "Topping",
+          "modifier_option_name": "Caramel Sauce",
+          "is_required": false,
+          "price": 1.50
+        }
+      ]
+    },
+    {
+      "name": "Apple Pie",
+      "description": "Traditional apple pie served warm with cinnamon and sugar",
+      "menu_group": "Desserts",
+      "base_price": 6.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Serving Style",
+          "modifier_option_name": "À la mode",
+          "is_required": false,
+          "price": 3.00
+        },
+        {
+          "modifier_type_name": "Extra",
+          "modifier_option_name": "Whipped Cream",
+          "is_required": false,
+          "price": 1.00
+        }
+      ]
+    },
+    {
+      "name": "Coca-Cola",
+      "description": "Classic Coca-Cola soft drink",
+      "menu_group": "Beverages",
+      "base_price": 3.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Size",
+          "modifier_option_name": "Small",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Size",
+          "modifier_option_name": "Medium",
+          "is_required": true,
+          "price": 1.00
+        },
+        {
+          "modifier_type_name": "Size",
+          "modifier_option_name": "Large",
+          "is_required": true,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Ice",
+          "modifier_option_name": "No Ice",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Ice",
+          "modifier_option_name": "Light Ice",
+          "is_required": false,
+          "price": 0.00
+        }
+      ]
+    },
+    {
+      "name": "Fresh Orange Juice",
+      "description": "Freshly squeezed orange juice",
+      "menu_group": "Beverages",
+      "base_price": 5.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Size",
+          "modifier_option_name": "Small",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Size",
+          "modifier_option_name": "Large",
+          "is_required": true,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Pulp",
+          "modifier_option_name": "No Pulp",
+          "is_required": false,
+          "price": 0.00
+        }
+      ]
+    },
+    {
+      "name": "Cappuccino",
+      "description": "Espresso with steamed milk and foam",
+      "menu_group": "Coffee",
+      "base_price": 4.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Size",
+          "modifier_option_name": "Small",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Size",
+          "modifier_option_name": "Medium",
+          "is_required": true,
+          "price": 1.00
+        },
+        {
+          "modifier_type_name": "Size",
+          "modifier_option_name": "Large",
+          "is_required": true,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Milk Choice",
+          "modifier_option_name": "Whole Milk",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Milk Choice",
+          "modifier_option_name": "Skim Milk",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Milk Choice",
+          "modifier_option_name": "Soy Milk",
+          "is_required": false,
+          "price": 0.75
+        },
+        {
+          "modifier_type_name": "Milk Choice",
+          "modifier_option_name": "Almond Milk",
+          "is_required": false,
+          "price": 0.75
+        },
+        {
+          "modifier_type_name": "Milk Choice",
+          "modifier_option_name": "Oat Milk",
+          "is_required": false,
+          "price": 1.00
+        },
+        {
+          "modifier_type_name": "Extra Shot",
+          "modifier_option_name": "Extra Espresso Shot",
+          "is_required": false,
+          "price": 1.50
+        },
+        {
+          "modifier_type_name": "Flavor",
+          "modifier_option_name": "Vanilla",
+          "is_required": false,
+          "price": 0.75
+        },
+        {
+          "modifier_type_name": "Flavor",
+          "modifier_option_name": "Caramel",
+          "is_required": false,
+          "price": 0.75
+        },
+        {
+          "modifier_type_name": "Flavor",
+          "modifier_option_name": "Hazelnut",
+          "is_required": false,
+          "price": 0.75
+        },
+        {
+          "modifier_type_name": "Temperature",
+          "modifier_option_name": "Iced",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Caffeine",
+          "modifier_option_name": "Decaf",
+          "is_required": false,
+          "price": 0.00
+        }
+      ]
+    },
+    {
+      "name": "House Red Wine",
+      "description": "Selection of house red wines",
+      "menu_group": "Wine",
+      "base_price": 8.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Pour Size",
+          "modifier_option_name": "6oz Glass",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Pour Size",
+          "modifier_option_name": "9oz Glass",
+          "is_required": true,
+          "price": 4.00
+        },
+        {
+          "modifier_type_name": "Pour Size",
+          "modifier_option_name": "Bottle",
+          "is_required": true,
+          "price": 24.00
+        }
+      ]
+    },
+    {
+      "name": "Draft Beer",
+      "description": "Selection of draft beers on tap",
+      "menu_group": "Beer",
+      "base_price": 6.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Size",
+          "modifier_option_name": "12oz",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Size",
+          "modifier_option_name": "16oz",
+          "is_required": true,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Size",
+          "modifier_option_name": "20oz",
+          "is_required": true,
+          "price": 4.00
+        },
+        {
+          "modifier_type_name": "Size",
+          "modifier_option_name": "Pitcher",
+          "is_required": true,
+          "price": 12.00
+        }
+      ]
+    },
+    {
+      "name": "Margarita",
+      "description": "Classic margarita with tequila, triple sec, and lime",
+      "menu_group": "Cocktails",
+      "base_price": 10.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Style",
+          "modifier_option_name": "On the Rocks",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Style",
+          "modifier_option_name": "Frozen",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Flavor",
+          "modifier_option_name": "Strawberry",
+          "is_required": false,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Flavor",
+          "modifier_option_name": "Mango",
+          "is_required": false,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Rim",
+          "modifier_option_name": "Salt Rim",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Rim",
+          "modifier_option_name": "Sugar Rim",
+          "is_required": false,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Tequila Upgrade",
+          "modifier_option_name": "Premium Tequila",
+          "is_required": false,
+          "price": 3.00
+        },
+        {
+          "modifier_type_name": "Size",
+          "modifier_option_name": "Double",
+          "is_required": false,
+          "price": 5.00
+        }
+      ]
+    },
+    {
+      "name": "Kids Chicken Tenders",
+      "description": "Crispy chicken tenders with choice of dipping sauce",
+      "menu_group": "Kids Menu",
+      "base_price": 8.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Sauce",
+          "modifier_option_name": "Ketchup",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Sauce",
+          "modifier_option_name": "Honey Mustard",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Sauce",
+          "modifier_option_name": "BBQ Sauce",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Side",
+          "modifier_option_name": "French Fries",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Side",
+          "modifier_option_name": "Apple Slices",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Side",
+          "modifier_option_name": "Carrot Sticks",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Drink",
+          "modifier_option_name": "Apple Juice",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Drink",
+          "modifier_option_name": "Milk",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Drink",
+          "modifier_option_name": "Soft Drink",
+          "is_required": true,
+          "price": 0.00
+        }
+      ]
+    },
+    {
+      "name": "Kids Mac and Cheese",
+      "description": "Creamy macaroni and cheese",
+      "menu_group": "Kids Menu",
+      "base_price": 7.99,
+      "modifiers": [
+        {
+          "modifier_type_name": "Add-on",
+          "modifier_option_name": "Bacon Bits",
+          "is_required": false,
+          "price": 2.00
+        },
+        {
+          "modifier_type_name": "Side",
+          "modifier_option_name": "Applesauce",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Side",
+          "modifier_option_name": "Fruit Cup",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Drink",
+          "modifier_option_name": "Apple Juice",
+          "is_required": true,
+          "price": 0.00
+        },
+        {
+          "modifier_type_name": "Drink",
+          "modifier_option_name": "Chocolate Milk",
+          "is_required": true,
+          "price": 0.00
+        }
+      ]
+    }
+  ]
+}

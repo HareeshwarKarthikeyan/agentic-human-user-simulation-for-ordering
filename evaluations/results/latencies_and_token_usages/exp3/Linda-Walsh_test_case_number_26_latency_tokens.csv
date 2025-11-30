@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+7a295ee0-8bc3-41d0-b835-2aed45e0994a,"Hi, this is Linda Walsh. I'd like to place an order for a New England Clam Chowder, please. Make that a bowl size. Can you help me with that?",2019,2.52841
+dfaa28bf-bc71-4ad5-b7ce-ba43a140988a,"Hi there! It's Linda here. I've got exactly what I want: the New England Clam Chowder, bowl size. That's all for today, thank you. How much will that be?",2143,3.886618
+c2a9e927-1bbc-4a37-b618-eda66b9eed7e,"Yes, the name for the order is Linda Walsh. And picking it up in about 20 minutes sounds perfect! Thank you.",2085,2.455827
+6a1e8a9b-14e4-4be1-8002-60cb43c1f74b,exit,2125,3.45246

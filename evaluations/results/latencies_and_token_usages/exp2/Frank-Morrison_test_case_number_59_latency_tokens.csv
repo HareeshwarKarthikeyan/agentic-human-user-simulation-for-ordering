@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+84455432-f6b5-4dc3-ba32-48805990a09d,"Hi there! I'm looking to place an order today for my grandkids. I'd like to know a bit about your kid-friendly options and portion sizes. To start, could you tell me more about your medium Margherita Pizza and how it would suit kids?",2195,1.257656
+5761274a-f670-4627-a16e-1252d2c782e7,"That medium Margherita Pizza sounds perfect for the kids. Let's go ahead and add that to the order. Also, could you tell me about your Spaghetti Carbonara? I think my older grandchild might enjoy that.",2478,0.618784
+f4b9e25a-a3a2-47e5-8a9b-a845272c902d,"Yes, let's add the Spaghetti Carbonara to the order as well. No modifications or add-ons needed, thank you!",2581,0.718659
+b5f7c319-7729-4348-b690-dc7bddc521eb,"Hey, thanks for confirming! The name's Frank Morrison. Also, I’d like to add two Apple Pies served á la mode for dessert. The kids always love a sweet treat! And that's everything for now, thank you!",2635,0.638183
+f4959b31-506f-448c-9451-2f379f06a93e,exit,2965,0.638471

@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+b7a9d56c-cec5-41f2-a478-8adbf50a7f2d,"Hey there! I'd like to order the Baby Back Ribs, but just a half rack with French Fries on the side, please.",2172,3.448862
+165146de-21cd-4f2a-821c-d0d56fdb452c,"Yeah, that's right, a half rack with French Fries sounds perfect. I’ll go with the Honey BBQ sauce for the ribs. The name's Thomas Wright. And hey, do you guys happen to have truck parking available, and what's the pickup time looking like?",2392,3.301381
+39b2fb4d-e531-4583-87cd-728d983c7dfa,"No, thanks! I think I'm all set with just the ribs and fries. Appreciate it!",2686,3.979507
+c937e42e-1153-420c-a048-7367708f10a9,exit,2491,0.879611

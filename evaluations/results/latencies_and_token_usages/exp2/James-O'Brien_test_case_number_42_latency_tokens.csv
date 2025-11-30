@@ -1,0 +1,15 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+0b7b414f-3171-4bb6-8997-863d9b44dc36,Hey there! This is James O'Brien. I'm looking to place an order for my crew working overtime. Can I get 3 large Margherita Pizzas and 3 orders of Buffalo Wings?,2112,1.195859
+466d85e8-a12c-4f25-b53f-1bc22c6f0965,"Hey! Thanks for checking on that. For the crust, let's go with thin crust for all three pizzas. And for the Buffalo Wings, let's do the BBQ sauce. My phone number for the order is 555-1234.",2348,0.715902
+a685c7fb-4c7d-4443-b8c5-41935bf86f7f,"Hey, thanks for breaking down the costs for me, but I think there's a small mistake. The total should actually be $116.94. I’ll stick with just the pizzas and wings for now. Can you confirm the final total for me again without any extras? Thanks!",2654,0.884766
+8ba84b36-1fe0-40eb-aa7c-e049ab906ea7,"Hey, thanks again for checking the total, but actually, it should be $116.94, not $92.94. For pickup, let's aim for about 20 minutes from now. Can you just confirm the final total for that correct amount? Appreciate it!",2834,0.892463
+55dec818-c818-4670-b2ed-23960c66241a,"The total should actually be $116.94. Let me clarify it once more for you: 
+
+- 3 large Margherita Pizzas, each with additional size pricing, makes the total $74.97.
+- 3 orders of Buffalo Wings at $13.99 totals $41.97.
+
+When we add those together, the correct total is $116.94. 
+
+I appreciate your patience! Let's go ahead with this total, and I'll be there in about 20 minutes for the pickup. Thanks!",3170,0.638843
+7f445e97-8c35-48cf-a3ac-d777c78eda50,"Hey, it's James O'Brien again. Thanks for confirming my order. All details look good with the total of $116.94 for 3 large Margherita Pizzas with thin crust and 3 orders of Buffalo Wings with BBQ sauce, ready for pickup in about 20 minutes. Please put the order under my name, James. Appreciate it!",3418,0.68399
+b18a6461-2297-4fe0-8c70-881a9fc43ef3,exit,3361,0.924771

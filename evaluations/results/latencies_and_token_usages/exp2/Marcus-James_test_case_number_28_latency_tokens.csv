@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+91bfe457-8f19-4998-b95b-5c9d3f6203a1,"Hi there! I'd like to place an order for a Ribeye Steak cooked medium rare, a Caesar Salad with grilled chicken and no croutons, and a large Cappuccino with skim milk. Can you help me with that?",2285,1.150188
+fef4655b-8928-42ba-b190-8622f8af9fb0,"Yes, that's correct. I'll stick with my current order—no additional drink or dessert needed, thanks! Could you confirm the total price for me?",2514,0.952812
+43a92133-2b95-4ae5-a7ee-0f808eebaa86,"Sure, my name is Marcus James.",2688,0.755057
+e6a276ac-7242-4152-a080-024c5b4cea11,exit,2757,0.757471

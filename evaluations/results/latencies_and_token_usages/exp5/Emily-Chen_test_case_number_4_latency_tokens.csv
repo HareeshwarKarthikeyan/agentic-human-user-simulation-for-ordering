@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+91d520df-5d45-44ac-90e3-61996a8bc59a,"Hey there! I'd like to place an order for the Atlantic Salmon, prepared grilled, and a small Fresh Orange Juice. Can you let me know the total price for these? Thanks!",2284,4.064636
+67a59505-b671-4397-aab5-11a61cf289c9,"Yes, that's correct. The total sounds perfect. The name for the order is Emily Chen. Thanks!",2536,4.195548
+3db14a53-b3c5-4af7-811b-f2d6b26663fd,"I noticed the details a bit off. Thanks for confirming the order, Emily! exit",2486,3.686496
+f1c4f3b7-81f0-40b0-bcbb-48e92b4196b6,exit,2470,4.566919

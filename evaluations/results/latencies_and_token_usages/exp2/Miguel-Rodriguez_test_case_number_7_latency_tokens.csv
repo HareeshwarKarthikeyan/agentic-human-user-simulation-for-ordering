@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+2099f07c-0782-4985-a240-36a14af85b5c,"Hi there! I'm looking to place an order for tonight. Could you start with adding a Ribeye Steak, cooked medium rare, with chimichurri sauce and a side of truffle mac and cheese?",2326,1.463133
+528ab250-63a3-42df-8bd6-9c8a196b80c4,"Yes, I'd also like to add a Spinach Artichoke Dip with Pita Bread and Extra Chips, along with a House Red Wine, poured as a 9oz glass. Thanks!",2419,0.601953
+f455f88b-766b-467f-be7b-1afe6e906aa9,My name is Miguel Rodriguez. Thanks for taking the order! Could you just confirm if my target price for the order came up to $81.97? I just want to be sure we've got everything covered correctly.,2950,0.698992
+91857eed-49df-4fdc-b8b6-1e0c6b6b3216,exit,3057,0.855506

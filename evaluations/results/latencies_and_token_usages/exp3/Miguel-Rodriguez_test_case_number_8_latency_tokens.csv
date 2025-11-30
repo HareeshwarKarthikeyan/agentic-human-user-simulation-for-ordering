@@ -1,0 +1,101 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+3fc1ccfb-9a4e-400f-a438-51841a5a9720,"Hi, this is Miguel Rodriguez. I'd like to place an order for a family gathering. Can I start with a Margherita Pizza, Large 18"" with a thick crust, and can you add Italian sausage and mushrooms as extra toppings, please?",2283,2.216497
+d118c5a7-675a-4a62-b6f3-2d7706f0886a,"Hey! Yeah, that's the pizza I want. But I’d like to add a couple more things to my order. Can I get a double order of Buffalo Wings with Honey Garlic sauce and Blue Cheese dipping sauce? Oh, and a pitcher of Draft Beer too. Thanks!",2517,4.351721
+12b2fd85-2d0d-43a5-851d-50cabc09214c,I'll take the Pitcher for the Draft Beer. Thanks!,2554,5.361646
+25ab64f6-d9e1-4f98-baa8-4d84719c2799,"It seems like there are a couple of details to adjust in the order to make it exactly right. Could you please help update the following?
+
+1. **Margherita Pizza:**
+   - The crust should be ""Thick Crust"".
+   - The price details for toppings: Italian Sausage should be $2.5 and Thick Crust should be $2.0 as listed.
+
+2. **Pitcher of Draft Beer:**
+   - The base price should be $6.99 with an additional $12.00 for the pitcher size, totaling $18.99.
+
+Can we get that updated to match the target, please? Once corrected, I think we'll be all set to confirm.",2990,5.967454
+99934c18-6ecc-4928-8bb1-63b9730d9624,"Hey there, it's Miguel Rodriguez. I'm looking at the items for my order here and I noticed a few things:  
+
+- The Margherita Pizza should have a Size modifier ""Large 18"" at $16.99 for the base, but it's missing that price update which should include a $8.0 modifier.  
+- The Buffalo Wings need a Sauce Choice ""Honey Garlic"" and a Dipping Sauce ""Blue Cheese"" to be added as modifiers.  
+
+Could you adjust those for me? I want to make sure everything's just right! ",3047,4.794296
+2674d7c5-aae3-45fe-81f0-e89b2ea60cf7,"Hey! It looks like there might have been a slight mix-up with the pizza order. Let me adjust it to make sure it matches what I'm after:
+
+- **Margherita Pizza**:
+  - Correct Size: Large 18"" (I need the size modifier to be explicitly mentioned, and it seems like there's an extra charge missing for that)
+  - Addition: Mushrooms for $2.00
+  - Total should actually be $31.49 for the pizza
+
+Could you please update the order to reflect these modifications? Thanks so much for helping out!",3210,4.842287
+0e0e4844-4553-48a0-bde1-6367e2dcf989,"Hey, it's Miguel Rodriguez here! Thanks for the detailed breakdown of the order. Let me make sure everything matches up. 
+
+Here's what I need for the pizza: 
+- **Large 18"" Margherita Pizza** with:
+   - Thick Crust
+   - Extra Toppings: Italian Sausage and Mushrooms
+
+I noticed the Size option and pricing might need an update to match my target order. Just want to confirm that everything aligns.
+
+Also, can you please make sure the wings are:
+- **Buffalo Wings** with:
+   - Honey Garlic Sauce
+   - Blue Cheese Dipping Sauce
+   - Double Order 
+
+And for the drink:
+- **Draft Beer**:
+   - Make it a Pitcher, please.
+
+Can you confirm these details and let me know about the total and pickup time? Thanks a bunch!",3030,4.43246
+72e7cab8-89b1-40d9-9dc3-389e24951598,"Thanks! So, it looks like my order still needs a slight correction. The details are almost perfect, but could we make sure the Margherita Pizza includes both Italian Sausage and Mushrooms for the extra toppings? Once that's adjusted, I'll happily confirm everything for pickup in 20 minutes!",2801,3.945567
+075954ce-c82e-45de-8b60-9e22ebb45231,"Hey, it's Miguel! So I've got a couple more items to add to my order. Could you add a double order of Buffalo Wings with honey garlic sauce and blue cheese dipping sauce, plus a pitcher of draft beer? Let me know how much we’re at once that's added. Thanks!",2634,5.304337
+91f377c9-0213-43de-8939-478c0cbe22de,"Hey, thanks for that! Actually, I noticed a little hiccup. We need to make sure all the items match what I initially wanted to order. Can we tweak a few things?
+
+1. For that Margherita Pizza, I need it to be with a thick crust and add the extra toppings of both Italian Sausage and Mushrooms, just like you quoted. Also, let's make sure it's priced at $31.49 the way I wanted.
+   
+2. For the wings, can you confirm they are labeled as ""Buffalo Wings"" with the double order portion size already mentioned? The pricing you mentioned sounds right!
+   
+3. And for that pitcher of beer, it's all good!
+
+Looks like we're almost there, but let's make sure we get it all right before confirming. What's the adjusted total now with those correct tweaks?",2934,4.506299
+63656430-93ec-4eda-af6b-afa462234169,"Hey there! It looks like everything's almost in place, but I noticed that the pizza and wings don't quite match what I wanted. Let's fix that:
+
+For the **Margherita Pizza**, it should be a Large 18"" with:
+- **Size Price Addition**: $8.00
+- **Thick Crust**: $2.00
+- **Extra Toppings**: Italian Sausage ($2.50), Mushrooms ($2.00)
+- Total for Pizza should come to $31.49
+
+Then for the **Buffalo Wings**, it should include:
+- **Double Order Portion**: $10.00
+- **Sauce Choice**: Honey Garlic
+- **Dipping Sauce**: Blue Cheese
+- Total for Wings should already be $23.99
+
+The rest for the **Pitcher of Draft Beer** looks spot on at $18.99.
+
+Would you be able to adjust those details for the pizza and wings so they match exactly? Thanks so much for understanding!",3120,4.620571
+ef1dbcd8-c24f-4a13-9290-4c38ead83627,"Hi there, it's Miguel Rodriguez. It looks like my order is all set with the items I wanted:
+
+1. **Large 18"" Margherita Pizza** with thick crust, Italian sausage, and mushrooms.
+2. **Double Order of Buffalo Wings** with honey garlic sauce and blue cheese dipping sauce.
+3. **Pitcher of Draft Beer**.
+
+And the total adds up to $74.47. Could you please confirm this for pickup in about 20 minutes? Thanks!",2952,3.789978
+6ca08b3b-d9dc-4841-8f29-313793909551,"Hey there! I see the order you just confirmed, but it seems that I need to place a fresh one. Let me order those items for an exact match to my plan.  
+
+Alright, let's keep it simple while still exploring some options. I'd like to place an order:
+
+- **Large 18"" Margherita Pizza** with thick crust, and let's add Italian sausage and mushrooms, please.
+- I also want a **Double Order of Buffalo Wings** with honey garlic sauce and blue cheese dipping sauce.
+- Finally, I'll have a **Pitcher of Draft Beer**.
+
+Can you help me confirm those?",3589,4.335262
+465432fd-1736-4d3d-b14b-39d2c2137528,"Hey there! It's Miguel Rodriguez. I'm just checking the order. Looks like the Margherita Pizza with thick crust, Italian sausage, and mushrooms hasn't been added yet. Could we go ahead and add the 18"" Margherita Pizza with all those toppings? Thanks!",3001,5.026126
+5ddbcbe7-82a7-445d-bdd1-7eaba49e4dad,"Hey there, it's Miguel Rodriguez. It looks like everything is almost set, but I noticed a little discrepancy. The pizza should be a ""Large 18''"" as part of the order, which comes with an extra cost for the size. Could you please update that on the order? Everything else seems perfect. Thanks!",3111,6.039855
+cc448a91-b41d-4491-a374-5dfb5d3ea386,"Hey! I'm excited about this order. It looks almost perfect, but could you make a quick adjustment? 
+
+For the **Buffalo Wings**, can we add the ""Honey Garlic"" sauce and ""Blue Cheese"" dipping sauce? That's my favorite combo, and I missed mentioning it earlier! Everything else looks spot on. 
+
+Once that's done, please confirm the order, and let me know the final price. Thanks a ton!",3131,6.029732
+43c5ba5a-ac35-49c7-9761-3603f3d2284c,"Hey! Thanks for that. Looks like everything matches up with what I wanted. I'm excited about trying these out for our family gathering. So, let's go ahead and confirm that order for pickup in about 20 minutes! Thanks so much!",2888,4.626867
+70fa3c2b-462e-4259-affd-3b2b4a2347be,exit,2721,4.936106

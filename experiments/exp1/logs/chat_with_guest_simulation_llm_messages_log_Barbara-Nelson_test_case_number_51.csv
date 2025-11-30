@@ -1,0 +1,36 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+2b715e43-9112-4db8-adda-b6e7089e12a5,assistant,Hello! Thank you for calling The Garden Bistro. How can I assist you today?,order_taking_llm,2025-08-30T05:36:39.837931+00:00,,,,,,-1.0
+f0467009-717d-4a0c-850e-ded52d711e91,agent,"Hi there! I’d like to place an order for pickup, please. I need one Chicken Parmesan with penne and extra sauce, one Fettuccine Alfredo with grilled chicken and broccoli, and one decaf large cappuccino. Can you help me with that?",guest_simulation_llm,2025-08-30T05:36:40.966077+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1285, ""num_response_tokens"": 54, ""total_tokens"": 1339}",1127.6719570159912
+0d47fe2c-a554-4e7a-a40c-2d7f6aa39295,assistant,"Of course! Let me confirm your order. 
+
+You’d like:
+- One Chicken Parmesan with penne and extra sauce.
+- One Fettuccine Alfredo with grilled chicken and broccoli.
+- One large decaf cappuccino.
+
+That sounds delicious! Is there anything else you’d like to add to your order, perhaps a drink or dessert?",order_taking_llm,2025-08-30T05:36:42.819636+00:00,,,,,,-1.0
+2d33c20a-3e17-4fb3-be10-5da3494e1cad,agent,"No, that’s everything I need. Can you confirm the total price for my order?",guest_simulation_llm,2025-08-30T05:36:43.453764+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1433, ""num_response_tokens"": 18, ""total_tokens"": 1451}",633.3401203155518
+cac8e34f-82c7-453d-ae9b-0f83a2be3614,assistant,"Sure, let me calculate that for you. 
+
+- Chicken Parmesan (with penne and extra sauce): $22.99 + $2.00 (extra sauce) = $24.99
+- Fettuccine Alfredo (with grilled chicken and broccoli): $16.99 + $6.00 (grilled chicken) + $3.00 (broccoli) = $25.99
+- Large Decaf Cappuccino: $4.99 + $2.00 = $6.99
+
+Now adding that all together:
+$24.99 + $25.99 + $6.99 = $57.97
+
+So, your total comes to **$57.97**. 
+
+What name should I place on the order? And I’ll have it ready for pickup in about 20 minutes.",order_taking_llm,2025-08-30T05:36:47.804351+00:00,,,,,,-1.0
+67a60da0-6639-4a0f-b7ad-402e3b2cc78a,agent,The name is Barbara Nelson. Looking forward to picking it up in about 20 minutes!,guest_simulation_llm,2025-08-30T05:36:48.476608+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1643, ""num_response_tokens"": 18, ""total_tokens"": 1661}",671.7579364776611
+58c34e9e-a793-498e-ab3c-4546ca980037,assistant,"Great, Barbara! So to confirm, here’s your order:
+
+- One Chicken Parmesan with penne and extra sauce
+- One Fettuccine Alfredo with grilled chicken and broccoli
+- One large decaf cappuccino
+
+Your total is **$57.97**, and it will be ready for pickup in about 20 minutes. 
+
+Thank you for choosing The Garden Bistro! We can’t wait to serve you. Have a wonderful day!",order_taking_llm,2025-08-30T05:36:51.140104+00:00,,,,,,-1.0
+bc0608cf-a53c-4b84-a660-cd7152ce6350,agent,exit,guest_simulation_llm,2025-08-30T05:36:51.649119+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1775, ""num_response_tokens"": 1, ""total_tokens"": 1776}",508.8610649108887
+c5c87fdc-51f4-46aa-b17e-d789ef74179d,system,"{""guest_persona"": {""full_name"": ""Barbara Nelson"", ""order_size"": 3, ""order_complexity"": ""complex"", ""guest_bio"": ""A catering coordinator for corporate events who places detailed custom orders. Requires specific timing, presentation requirements, and dietary accommodation lists. Often negotiates prices for large recurring orders.""}, ""target_order"": {""order_items"": [{""name"": ""Chicken Parmesan"", ""quantity"": 1, ""base_price"": 22.99, ""modifiers"": [{""modifier_type_name"": ""Pasta Choice"", ""modifier_option_name"": ""Penne"", ""is_required"": false, ""price"": 0.0}, {""modifier_type_name"": ""Extra"", ""modifier_option_name"": ""Extra Sauce"", ""is_required"": false, ""price"": 2.0}], ""item_total_price"": 24.99}, {""name"": ""Fettuccine Alfredo"", ""quantity"": 1, ""base_price"": 16.99, ""modifiers"": [{""modifier_type_name"": ""Protein Add-on"", ""modifier_option_name"": ""Grilled Chicken"", ""is_required"": false, ""price"": 6.0}, {""modifier_type_name"": ""Vegetables"", ""modifier_option_name"": ""Broccoli"", ""is_required"": false, ""price"": 3.0}], ""item_total_price"": 25.99}, {""name"": ""Cappuccino"", ""quantity"": 1, ""base_price"": 4.99, ""modifiers"": [{""modifier_type_name"": ""Size"", ""modifier_option_name"": ""Large"", ""is_required"": true, ""price"": 2.0}, {""modifier_type_name"": ""Caffeine"", ""modifier_option_name"": ""Decaf"", ""is_required"": false, ""price"": 0.0}], ""item_total_price"": 6.99}], ""order_total_price"": 57.97, ""reasoning"": ""Barbara Nelson tested Sunday brunch catering options: Chicken Parmesan with penne, chicken alfredo with broccoli, and decaf cappuccino for daytime corporate events.""}}",test_case_info,2025-08-30T05:36:51.649163+00:00,,,,,,-1.0

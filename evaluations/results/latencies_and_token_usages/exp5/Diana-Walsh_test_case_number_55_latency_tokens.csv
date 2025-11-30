@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+87dff6a9-77db-49ca-b234-5e2d60d2a6e1,Hi there! I'd like to place an order for a Grilled Chicken Sandwich with French Fries as the side and a Medium Coca-Cola. Could you confirm the price for me?,3456,5.687798
+bce8184b-17d2-4437-a0a8-638ed97314fb,"Hey there, it's Diana Walsh. And I noticed that the price of the Coca-Cola seems a bit off in the breakdown. It's listed as ""Coca-Cola"" with a Medium size, priced at a total of $4.99 (base price $3.99 with $1.00 for the Medium size). Can you check on that for me?",2394,3.598002
+f8605f2d-bf91-4db9-8ec1-33f301a12297,exit,2505,3.860083

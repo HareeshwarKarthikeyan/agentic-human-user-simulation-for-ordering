@@ -1,0 +1,8 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+d3f51686-fe0a-41ac-b98b-0e266d593d51,"Hi there! I’d like to place an order for a few items, please. First, could I get one Kids Mac and Cheese? It comes with applesauce on the side and a chocolate milk to drink.",1447,1.1376078128814697
+a95b04f1-1ec1-4503-bafa-d4f61702712c,"Yes, that’s just the first item. Next, I’d like one Kids Chicken Tenders, please. They should come with honey mustard for the sauce, carrot sticks on the side, and a milk to drink.",1567,1.1810979843139648
+20ac4a89-aa8b-402a-99e4-869f1e9fbe14,"Yes, I’d like to add one Fish and Chips. Please make sure it’s with halibut.",1663,0.9856927394866943
+4b2352a0-f5bd-4748-b628-4d54dc3a5972,"No, just the halibut is fine, thanks! Finally, I’d like to add one Portobello Mushroom Burger. Please make sure it comes with vegan cheese and sweet potato fries on the side.",1796,0.8996479511260986
+fd77f1f6-9d85-4977-abd9-2da4b36ba73a,It's David Thompson. How much is the total after everything?,1986,0.6069769859313965
+3f455410-8ea2-4e9f-b7d4-6bcee2fd2714,"No, that’s everything. Thank you!",2127,0.6038999557495117
+46ae3191-b176-4d26-92ef-7dfb92118f9d,exit,2180,0.5477457046508789

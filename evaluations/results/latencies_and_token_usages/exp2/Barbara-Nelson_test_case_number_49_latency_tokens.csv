@@ -1,0 +1,9 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+4ab9a4ab-911f-4f31-99bc-656e966158ee,"Hi there! This is Barbara Nelson. I'd like to place an order for a few items. Can we start with a Caesar Salad with salmon, dressing on the side, and no croutons, please?",2384,1.186921
+3250f477-971b-4e28-9088-47e0209974bc,"Thanks for confirming the Caesar Salad with salmon. I'd also like to order a Vegetable Stir Fry with tofu, brown rice, and mild spice. Let me know if that's all set.",2511,0.610404
+6f2dccc9-09b3-4c48-8a27-071eb7a28b61,"Thanks for asking, but no drink for now. I also need to add a Portobello Mushroom Burger with vegan cheese and a side salad to the order. Let me know once everything's confirmed.",2631,0.713344
+2b69f998-80c5-457c-91df-fe3a3c93079a,"Actually, I noticed a slight discrepancy in the total. The Portobello Mushroom Burger should include vegan cheese, which has an additional charge. The total for that item should be $16.49, making the overall total $58.47. 
+
+Can you double-check that adjustment for me? Once that's all set, we can confirm the order under my name, Barbara Nelson. Thanks!",3134,0.739138
+cab8fe2b-9906-4674-a98a-75a8f63b6215,"Yes, I would like to add a pickup time. Can we schedule it for 12:30 PM tomorrow?",3299,0.632889
+b8ca8f30-c4df-4246-973a-0487ca870059,exit,3339,0.800471

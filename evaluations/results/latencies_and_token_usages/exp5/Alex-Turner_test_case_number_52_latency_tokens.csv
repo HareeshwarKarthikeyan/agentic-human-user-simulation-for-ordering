@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+009b20d5-2aed-4265-ad0b-c1edf917596c,"Hi there! I'm really excited to explore your menu. Could you tell me about your vegan options, especially any details on how they are prepared to avoid cross-contamination with animal products? I'm looking to order something with tofu and would love to know more!",2303,4.269147
+47219d16-9e25-4f7e-b0ca-a3eee1844b97,"Oh, the Vegetable Stir Fry sounds fantastic! I'd like to go with the hot spice level, please. Could you also make sure to add tofu as a protein option, and I'd love it with brown rice if possible. What's the price with those additions?",2553,3.40473
+d0099a82-1cf3-44f7-9e6b-a34477cd7234,"My name's Alex Turner. Thanks for getting my order right! I'm all set, so just the stir fry for now. Appreciate it!",2576,3.774059
+c06e8b7b-5d14-4408-a821-601008ca0687,exit,2458,4.205063

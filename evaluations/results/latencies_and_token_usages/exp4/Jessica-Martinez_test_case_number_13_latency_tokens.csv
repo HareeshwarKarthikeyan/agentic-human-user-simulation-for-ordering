@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+8fa98468-acea-445d-b05d-473e2830e03b,Hi there! I'm Jessica. I'm looking to order something vegetarian today. Can you tell me more about your Vegetable Stir Fry options? I heard you have some interesting protein add-ons.,2245,3.831059
+488fd972-9715-4cec-b3e0-f9854380ba4a,"Hey there! Yes, I’d like to add Tofu to my Vegetable Stir Fry. Could you please make it medium-spicy? Thanks!",2509,3.14182
+ce9099dd-3f95-48c8-813d-bdb28c57b2e5,"Thanks for confirming the Vegetable Stir Fry with Tofu and medium spice. Could you tell me a bit more about your drink options? I'm specifically interested in Coca-Cola, perhaps a small size, if available.",2495,3.52399
+3c6a60a7-62a0-4b74-bd4f-a1d09ae79448,"I'll take the small Coca-Cola, please! No ice is perfect for me. Thanks!",2553,3.078283
+e293346c-817b-4192-ab75-11c2aeabfa7b,Please put the order under Jessica Martinez.,1897,0.846472
+39833537-bf6d-4628-885e-a470663bac45,exit,2664,1.207452

@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+f99e473c-38cf-4b4c-8d30-1a088bb3517f,Hi there! I'd like to place an order. I'm thinking of starting with the Filet Mignon cooked medium rare. Could I also add a 9oz glass of your House Red Wine? Could you let me know if this wine pairs well with the steak? Thanks!,2151,1.286571
+68706554-2579-4788-b1eb-cd5459bd8102,"Yes, I'd like the Filet Mignon medium rare with the 9oz glass of House Red Wine as you mentioned. The mashed potatoes and seasonal vegetables sound perfect as they are, so I'll stick with those. Could you please confirm the total price for me?",2485,0.817819
+7db8c93a-905c-441f-885a-2902fd490a65,"Yes, that's correct, the order is for takeout. My name is Sofia Russo. Thank you!",2602,0.851661
+ff442d0e-5ae4-4e37-b97b-ee2cde09a17c,exit,2599,0.651945

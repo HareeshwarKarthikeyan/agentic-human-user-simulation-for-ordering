@@ -1,0 +1,9 @@
+message_index,message_id,timestamp,role,content_preview,current_items_in_order,target_items_to_order,is_ordering_complete,menu_exploration_style,mood_tone,ordering_style,has_tool_calls
+1,30248708-42ae-4727-af73-b1da69aca929,2025-08-30T05:38:02.110445+00:00,agent,"Hi! I'd like to place an order for a few things, please. 
+
+Can I get one medium Margherita Pizza, on",[],"[{'name': 'Margherita Pizza', 'quantity': 1, 'modifiers': ['Medium 14""']}, {'name': 'Spaghetti Carbonara', 'quantity': 1, 'modifiers': []}, {'name': 'Apple Pie', 'quantity': 2, 'modifiers': ['À la mode']}]",no,does_not_explore_menu,casual,all_at_once,False
+3,e0902259-ad35-43f6-840f-58a54760c24a,2025-08-30T05:38:05.021683+00:00,agent,"It's Frank Morrison. And yes, I want the medium Margherita Pizza with the regular crust, please. The",[],"[{'name': 'Margherita Pizza', 'quantity': 1, 'modifiers': ['Medium 14""']}, {'name': 'Spaghetti Carbonara', 'quantity': 1, 'modifiers': []}, {'name': 'Apple Pie', 'quantity': 2, 'modifiers': ['À la mode']}]",no,does_not_explore_menu,casual,all_at_once,False
+5,bf28b741-1037-45ff-866c-515176cdb874,2025-08-30T05:38:09.271630+00:00,agent,"No, that's everything I need. So, to confirm, I'm ordering:
+
+- 1 medium Margherita Pizza
+- 1 Spaghet","[{'name': 'Margherita Pizza', 'quantity': 1, 'base_price': 16.99, 'item_total_price': 20.99, 'modifiers': ['medium', 'regular crust']}, {'name': 'Spaghetti Carbonara', 'quantity': 1, 'base_price': 18.99, 'item_total_price': 18.99, 'modifiers': []}, {'name': 'Apple Pie à la mode', 'quantity': 2, 'base_price': 6.99, 'item_total_price': 19.98, 'modifiers': ['à la mode']}]","[{'name': 'Margherita Pizza', 'quantity': 1, 'modifiers': ['Medium 14""']}, {'name': 'Spaghetti Carbonara', 'quantity': 1, 'modifiers': []}, {'name': 'Apple Pie', 'quantity': 2, 'modifiers': ['À la mode']}]",yes,does_not_explore_menu,casual,all_at_once,False

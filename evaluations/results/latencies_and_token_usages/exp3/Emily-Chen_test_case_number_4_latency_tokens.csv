@@ -1,0 +1,24 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+897f26b5-994d-4ffb-94ed-e13666b979dc,"Hi there! I'm Emily. I'm looking to order the Atlantic Salmon, grilled please, and a small Fresh Orange Juice. Can you help me with that?",3082,2.517191
+ea0cf512-abc6-45d1-9ddd-0e507af74c83,"Yes, that's correct! I'll have the Atlantic Salmon grilled and a small Fresh Orange Juice. No need for any extras, just those two, please.",2012,2.060371
+830a4e81-c9d2-4a7c-ba27-e5afaf0d8db7,"I'm Emily Chen, and I'd like to place an order for one grilled Atlantic Salmon and one small Fresh Orange Juice. Could you confirm that these items have been added to my order?",2099,2.912565
+872e5b08-bb23-4482-9010-63fb545da02e,"Actually, just a quick note before I head out. Could you please update the order to ensure it has:
+
+- 1 Atlantic Salmon, specifically grilled.
+- 1 Fresh Orange Juice, small size.
+
+Just want to make sure it's noted correctly. Thanks so much!",2298,4.169002
+9966ea41-8407-4b7f-b713-e8d32e4363bf,"Hey, actually, could you please add the Grilled Atlantic Salmon and a Small Fresh Orange Juice to my order? I noticed they're missing from the current order. Thanks!",2212,2.925737
+2acfc554-6bb4-483f-a58f-1230bdcb306f,"It looks like my order hasn't been placed properly yet. I'd like to order:
+
+- 1 Grilled Atlantic Salmon
+- 1 Small Fresh Orange Juice
+
+Can you please make sure this order is confirmed for me? Also, could you let me know the total price and the pickup time?",2208,3.087143
+f6717b24-3531-43cd-81db-92488b57e2f5,It looks like the order is just right! The Grilled Atlantic Salmon and the Small Fresh Orange Juice are exactly what I wanted. Thanks for confirming everything and the total. I don't need anything else at the moment. Thanks so much!,2085,2.396859
+9918f71c-e013-4ebf-8821-2df873eca894,"It looks like there's a slight discrepancy in my order. I need to make sure it's exactly correct.
+
+Could you please confirm that the salmon is specifically the ""Atlantic Salmon"" prepared grilled? And for the juice, I want to make sure it's a ""Fresh Orange Juice,"" size ""Small.""
+
+Thank you!",3350,3.915883
+91500aa2-1042-47e2-abe2-37edfa8a87cb,exit,2287,4.123549

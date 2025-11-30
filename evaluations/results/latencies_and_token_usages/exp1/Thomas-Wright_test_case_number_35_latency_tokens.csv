@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+49965a0c-e4b3-495c-b53c-e542dca614d0,"Hi there! I'd like to order a half rack of Baby Back Ribs with a side of French Fries, please.",1102,1.0241599082946777
+e2d2f958-2b32-47e3-abed-b1fc788dce5c,"No sauce needed, just the half rack with French Fries. What's the total price for that?",1193,0.7125191688537598
+956684d1-c600-4ab6-a5ad-1c6cc22a88fe,"Sure, it's Thomas Wright.",1292,0.9830458164215088
+0b0b2b8f-0ca9-4b87-b573-29817590ec9f,exit,1377,0.6154270172119141

@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+b826fbda-881a-42e3-9866-ef25de3d28da,"Hi there! I'd like to place an order for your Vegetable Stir Fry. Could you confirm that it's completely plant-based? I'm really keen on ensuring there's no cross-contamination with animal products. Also, I'd like to add tofu as the protein, choose brown rice, and make it hot, please.",2153,1.254215
+b875cbdf-516e-40fd-9426-c7d076667995,"No, that's all for now. Just the Vegetable Stir Fry with tofu, brown rice, and hot spice. Thanks for confirming it's all plant-based! Can you let me know the total price before we finalize the order?",2393,0.711067
+fce26445-8412-4773-91a7-542aee734c06,"Hi, this is Alex Turner. Thanks for confirming that the Vegetable Stir Fry is plant-based and ensuring no cross-contamination with animal products. The order sounds perfect with tofu, brown rice, and hot spice. Just wanted to confirm the total is $18.99, right?",2565,0.708449
+ae7d86e4-6303-40e8-a5b1-0de60eeb7784,exit,2604,0.632523

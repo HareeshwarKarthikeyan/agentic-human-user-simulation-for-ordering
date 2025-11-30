@@ -1,0 +1,8 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+36fe2ce4-90ee-4eed-b894-8cab6afc8445,"Hey there! I'm looking to order something today. Could you tell me a bit about your Atlantic Salmon, specifically if it's grilled? I'm a fitness trainer, so I need to know about the macro content, especially the protein.",2343,5.095841
+0280de36-8442-4f5c-8f73-e60a65b4d33d,"Hey, that's great to hear about the grilling option! I'd love to order the Atlantic Salmon, and I'll go with it grilled, just the way you said. How much protein does it have, by the way? Just curious for my own tracking. Also, I'll be ordering some more items as we go along.",2538,3.497047
+21da6393-2132-450a-a387-1e6ebf92a4fb,"Could I get a Grilled Chicken Sandwich with a side salad added to my order next? And speaking of salmon, do you happen to know its protein content?",2512,3.553326
+0eee4ab9-dbb8-49ac-bcef-6796f0b682d3,"For the Grilled Chicken Sandwich, no cheese or additional add-ons like bacon or avocado for me, thanks. Could you please add it with a side salad?",2516,2.946645
+ba772983-b809-470e-a6a2-846d5cbede10,"Actually, could you also add a large Fresh Orange Juice to my order? Thanks!",2530,4.401226
+d4880585-4824-4afc-ab71-223eaf394df9,"My name is Marcus James. That order looks good, so let's go ahead and confirm it. ",2602,5.766153
+5dc59e2b-614a-4fe8-b3ee-6a59074179f9,exit,2646,5.124392

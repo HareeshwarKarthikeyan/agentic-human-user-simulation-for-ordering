@@ -1,0 +1,20 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+c8700bc1-f5e1-4e8f-aafe-6c8fe0f49b61,assistant,Hello! Thank you for calling The Garden Bistro. How can I assist you today?,order_taking_llm,2025-08-30T05:35:43.149810+00:00,,,,,,-1.0
+88823eb3-1943-4a02-b7da-65493f9a75ff,agent,"Hey, I’d like to order some Buffalo Wings, please. Just one order.",guest_simulation_llm,2025-08-30T05:35:43.877603+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1009, ""num_response_tokens"": 17, ""total_tokens"": 1026}",727.2469997406006
+20675c85-13a2-4889-90d8-4fef2c634bcc,assistant,"Sure thing! For the Buffalo Wings, would you like to choose a sauce? We have BBQ, Honey Garlic, and Extra Hot. And how many would you like in your order? We've got a regular or a double order.",order_taking_llm,2025-08-30T05:35:45.188523+00:00,,,,,,-1.0
+fd0c9175-9575-4eb2-9855-921f2e99574c,agent,"Just one regular order of Buffalo Wings, no sauce changes needed. What's the total?",guest_simulation_llm,2025-08-30T05:35:46.015540+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1097, ""num_response_tokens"": 17, ""total_tokens"": 1114}",826.4248371124268
+643855c9-77b5-4b1f-9757-3fec8c027d37,assistant,"Got it! So that’s one regular order of Buffalo Wings with the classic buffalo sauce. Let me confirm that for you — one regular order of Buffalo Wings for $13.99.
+
+Let me calculate your total. One moment... 
+
+Your total comes to $13.99. 
+
+What name should I put on this order?",order_taking_llm,2025-08-30T05:35:47.445623+00:00,,,,,,-1.0
+4e6f78ba-96d2-4e9f-9c39-cb0a9401b4f2,agent,Kevin Liu.,guest_simulation_llm,2025-08-30T05:35:47.904585+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1205, ""num_response_tokens"": 3, ""total_tokens"": 1208}",458.5919380187988
+972f3fce-cab3-47e4-b099-fca0576d8660,assistant,"Thank you, Kevin! So to confirm, we have one regular order of Buffalo Wings with buffalo sauce for a total of $13.99. 
+
+Your order will be ready for pickup in about 20 minutes. 
+
+Thank you for choosing The Garden Bistro! If you need anything else, just let us know. Enjoy your meal!",order_taking_llm,2025-08-30T05:35:49.699694+00:00,,,,,,-1.0
+cc28472e-024a-4033-b66c-6c7d05ed12cc,agent,exit,guest_simulation_llm,2025-08-30T05:35:50.213299+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1300, ""num_response_tokens"": 1, ""total_tokens"": 1301}",513.0009651184082
+545d480b-f62c-4a60-bce3-36b2096c3815,system,"{""guest_persona"": {""full_name"": ""Kevin Liu"", ""order_size"": 1, ""order_complexity"": ""simple"", ""guest_bio"": ""A late-night shift worker who orders at odd hours. Needs quick, satisfying meals with minimal interaction. Knows the menu well and orders efficiently without questions.""}, ""target_order"": {""order_items"": [{""name"": ""Buffalo Wings"", ""quantity"": 1, ""base_price"": 13.99, ""modifiers"": [], ""item_total_price"": 13.99}], ""order_total_price"": 13.99, ""reasoning"": ""Kevin Liu grabbed Buffalo Wings at 3 AM Thursday, no modifications needed, quick pickup during his night shift break.""}}",test_case_info,2025-08-30T05:35:50.213412+00:00,,,,,,-1.0

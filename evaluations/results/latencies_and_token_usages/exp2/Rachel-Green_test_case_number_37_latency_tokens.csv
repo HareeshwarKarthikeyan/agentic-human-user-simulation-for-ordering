@@ -1,0 +1,13 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+0d535043-b9eb-4e8e-ac26-c57008aaf1fc,"Hi there! I'm Rachel Green, a food blogger, and I'm excited to place an order for my upcoming review. I have a couple of items I know I want, but I'd love to hear about any interesting menu specials or unique presentations you might have that would be great for photos. 
+
+Let's start with the Lobster Tail. I'll need it broiled, and I'd like to add a third tail. Could you tell me more about how it's presented?",2248,1.326144
+e23557fc-b0e1-4540-86d1-e259dbcb4427,"Yes, that's correct! I'd like the Lobster Tail broiled with an add-on for a third tail. 
+
+Besides that, I’d also like to add a Chocolate Lava Cake to my order. Could you please make sure it comes with the chocolate ice cream and whipped cream on top? 
+
+I’d be all set with just these items. Thank you!",2621,0.752106
+7a434cf3-54f7-4c9e-b647-d24973088ca7,"Ah, it looks like there's a small discrepancy in the total. The Lobster Tail with the third tail add-on should be $66.99, and the Chocolate Lava Cake with the chocolate ice cream and whipped cream is $9.99, bringing the total to $76.98. 
+
+You can go ahead and put it under the name Rachel Green. Thank you!",2893,0.729432
+1bb822f2-417c-49c8-aabf-fdda059d990c,exit,2976,0.702621

@@ -1,0 +1,10 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+426fa166-4af4-4325-8f75-5eaf7a9fc91a,"Hey! I’d like to start by ordering a Classic Burger, please. Can I get it cooked medium, and instead of the regular bun, can I have it with a lettuce wrap? What's the protein content for that?",2349,4.417368
+55fbd3c5-b4a7-4217-aea0-ba4589c0fb9b,"Hey, thanks for the details! Actually, could we make that two Classic Burgers, both cooked medium, with lettuce wraps? And for the sides, let's go with the side salad for both, please. 
+
+Also, do you happen to know the protein content for the burger?",2559,5.694439
+6a5655da-edaa-4d8b-8e39-9c0c51b4d139,"Hey, it's Marcus James. Thanks for taking my order! 
+
+Let's skip the cheese and bacon on those burgers, but could I add a Vegetable Stir Fry with cauliflower rice to my order, please?",2607,6.225001
+fed5b4c6-0af9-4f70-9a95-86e8bb22c37b,"I think I'm good without any drinks this time, thanks! Could we just confirm the price for everything?",2617,4.618958
+f5ca8b5a-33bf-40a6-b541-582bbbc0ef8a,exit,2561,3.385355

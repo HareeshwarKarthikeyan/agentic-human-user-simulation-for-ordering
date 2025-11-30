@@ -1,0 +1,10 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+48d3f5ad-9ddc-4dd1-ab26-9ea68902646c,"Hey there! I'd like to place an order for the team. Could I get:
+
+- Two Grilled Chicken Sandwiches with French Fries as the side.
+- Two Club Sandwiches on Wheat bread with Potato Chips as the side.
+- One Vegetable Stir Fry.
+
+Could you confirm those items for me and provide the total price?",2375,3.479647
+e4d49e66-034c-4482-804d-7641162bebab,"Nope, I'm all set with the sandwiches as they are! And the name for the order is Amanda Foster. Could you please confirm the total price?",2659,4.411134
+1b2a623d-f005-445f-877e-e2a4efdd0313,exit,2781,4.11677

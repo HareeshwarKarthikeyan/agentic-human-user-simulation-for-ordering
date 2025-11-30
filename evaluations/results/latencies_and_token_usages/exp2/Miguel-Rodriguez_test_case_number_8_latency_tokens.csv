@@ -1,0 +1,8 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+d355606b-9617-43fc-bb34-9ed955d549e4,"Hey there! I'm looking to place an order for pickup. Could I go ahead and get a large 18"" Margherita Pizza with a thick crust and add Italian sausage and mushrooms as extra toppings, please?",2378,1.416127
+ae2fe6b2-70f0-4ac7-8fa3-0120a256c77d,"Sure thing, the name for the order is Miguel Rodriguez. Can you also add a double order of Buffalo Wings with Honey Garlic sauce and Blue Cheese dipping sauce, and a pitcher of Draft Beer?",2453,0.695191
+417409ee-e620-442b-90ff-ee72cc21e5e7,"Oh, thanks! But I think there might be a slight mismatch in the beer pricing. Could you check if the pitcher of draft beer is actually $18.99, considering the base price might be $6.99 with an additional charge for the pitcher size? Let me know if that affects the total. Other than that, looks great, and I don't need anything else!",2988,0.716827
+e017f042-7d16-49b7-8519-d3b8c4aeb1b3,"Alright, that looks good! I appreciate the recalculations. The total comes to $72.97 for the large Margherita Pizza with thick crust, Italian sausage, and mushrooms, a double order of Buffalo Wings, and the pitcher of Draft Beer. 
+
+That's all I need, thank you! Please go ahead and place the order.",3147,0.695542
+f074db42-8ad9-4688-ad20-098a88dc6c9f,exit,3187,0.802309

@@ -1,0 +1,8 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+e6799b2f-0c13-462e-ac69-7ae7b3578fa7,"Hi there! I'd like to place an order for our kids' soccer team celebration. Could I get two Grilled Chicken Sandwiches with a fruit cup on the side, and two Fettuccine Alfredo? Can you also let me know the total cost and if there are any bulk ordering discounts? Thanks!",2289,5.126243
+60c74d33-5a68-460c-b533-83a963b7f839,"Hi there! I'm Priya Patel. Let's go ahead with the order: two Grilled Chicken Sandwiches, each with a fruit cup on the side, and two Fettuccine Alfredo. For the Alfredo, no additional protein is needed. Could you please confirm the total price for me?",3774,5.455761
+8cc4c6d8-0323-4b37-9f34-a254954c9a68,"It looks like the two Grilled Chicken Sandwiches should have fruit cups at an additional $2 each as a required side choice. So those should be $33.98 total instead of $29.98. Can we adjust that, please? 
+
+Once that's fixed, I'd really appreciate confirming that updated total cost, and if you offer any discounts for larger orders like this one. Thanks!",2697,3.183187
+3bd3229e-36aa-4344-a854-98aecd4b6623,I would like to arrange pickup as soon as it's ready. Thanks for confirming the details! ,3737,5.462238
+1a383853-024e-42b2-af92-ac1a753a84bd,exit,2458,4.279557

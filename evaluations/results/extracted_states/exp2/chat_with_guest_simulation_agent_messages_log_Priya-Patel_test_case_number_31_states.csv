@@ -1,0 +1,18 @@
+message_index,message_id,timestamp,role,content_preview,current_items_in_order,target_items_to_order,is_ordering_complete,menu_exploration_style,mood_tone,ordering_style,has_tool_calls
+1,13508ee3-8de5-4e5a-9659-834a3141ad5e,2025-08-31T01:48:59.242746+00:00,agent,"Hi there! I'm looking to place an order for a kids' soccer team celebration. Here's what I need: 
+
+-",[],"[{'name': 'Kids Chicken Tenders', 'quantity': 3, 'modifiers': ['Honey Mustard', 'French Fries', 'Apple Juice']}, {'name': 'Margherita Pizza', 'quantity': 1, 'modifiers': ['Large 18""']}]",no,does_not_explore_menu,casual,all_at_once,True
+3,e68602c2-aa70-4a5b-91c2-7711afb1eeb7,2025-08-31T01:49:12.031418+00:00,agent,"Hi, this is Priya Patel. Yes, the order looks perfect! I just wanted to confirm the following again:",[],"[{'name': 'Kids Chicken Tenders', 'quantity': 3, 'modifiers': ['Honey Mustard', 'French Fries', 'Apple Juice']}, {'name': 'Margherita Pizza', 'quantity': 1, 'modifiers': ['Large 18""']}]",yes,does_not_explore_menu,casual,all_at_once,True
+5,2dcf3265-b625-4627-ad30-19681e08b1fa,2025-08-31T01:49:16.523734+00:00,agent,"Thanks for the clarification! Let's go with the order as it is:
+
+- Three Kids Chicken Tenders meals ",[],"[{'name': 'Kids Chicken Tenders', 'quantity': 3, 'modifiers': ['Honey Mustard', 'French Fries', 'Apple Juice']}, {'name': 'Margherita Pizza', 'quantity': 1, 'modifiers': ['Large 18""']}]",yes,does_not_explore_menu,casual,all_at_once,True
+7,e7f185d5-5c06-4e33-8551-6964e49d3579,2025-08-31T01:49:20.875686+00:00,agent,"Thanks for confirming the details! No, that's all I need. Please go ahead and finalize the order:
+
+-",[],"[{'name': 'Kids Chicken Tenders', 'quantity': 3, 'modifiers': ['Honey Mustard', 'French Fries', 'Apple Juice']}, {'name': 'Margherita Pizza', 'quantity': 1, 'modifiers': ['Large 18""']}]",yes,does_not_explore_menu,casual,all_at_once,True
+9,9225f9e1-2eeb-4f51-a63c-fc67f729c396,2025-08-31T01:49:25.106308+00:00,agent,It seems like there was a bit of misunderstanding earlier. The total for the order with all the spec,[],"[{'name': 'Kids Chicken Tenders', 'quantity': 3, 'modifiers': ['Honey Mustard', 'French Fries', 'Apple Juice']}, {'name': 'Margherita Pizza', 'quantity': 1, 'modifiers': ['Large 18""']}]",no,does_not_explore_menu,confused,all_at_once,True
+11,4efcf675-5273-42f2-9893-9c7277d91c03,2025-08-31T01:49:30.557492+00:00,agent,"There seems to have been some confusion with the totals. Let's clarify:
+
+- **Your target order was:*",[],"[{'name': 'Kids Chicken Tenders', 'quantity': 3, 'modifiers': ['Honey Mustard', 'French Fries', 'Apple Juice']}, {'name': 'Margherita Pizza', 'quantity': 1, 'modifiers': ['Large 18""']}]",no,does_not_explore_menu,confused,all_at_once,True
+13,ca3e3d9c-6d1a-4fea-8d29-3957d1e0a20d,2025-08-31T01:49:34.563784+00:00,agent,"Absolutely, that's correct! The order and total look good to me:
+
+- Three Kids Chicken Tenders meals","[{'name': 'Kids Chicken Tenders', 'quantity': 3, 'base_price': 8.99, 'item_total_price': 26.97, 'modifiers': ['Honey Mustard', 'French Fries', 'Apple Juice']}, {'name': 'Large Margherita Pizza', 'quantity': 1, 'base_price': 16.99, 'item_total_price': 16.99, 'modifiers': []}]","[{'name': 'Kids Chicken Tenders', 'quantity': 3, 'modifiers': ['Honey Mustard', 'French Fries', 'Apple Juice']}, {'name': 'Margherita Pizza', 'quantity': 1, 'modifiers': ['Large 18""']}]",yes,does_not_explore_menu,enthusiastic,all_at_once,True

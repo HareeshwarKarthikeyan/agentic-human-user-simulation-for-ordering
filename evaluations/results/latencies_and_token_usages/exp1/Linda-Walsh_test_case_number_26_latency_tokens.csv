@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+256f85ed-77f8-49a7-a6eb-af2fbd683ba4,"Hi there, I'd like to order a bowl of New England Clam Chowder, please.",1064,1.5296120643615723
+04374553-ea72-442e-aae6-b5a2d9cc04f4,"No, just the chowder is fine, thank you. Can I get a bowl size for that?",1124,1.02398681640625
+5e4fdd75-22dd-4008-8ab1-8eaee14a6e59,"Yes, please. I'd like the bowl size for the New England Clam Chowder. What’s the total price?",1194,1.0199642181396484
+9f72ba63-7fc4-410e-959b-1805e87d49c0,It's Linda Walsh.,1282,0.7407817840576172
+47280aab-4f8f-4ed5-90a8-ea743c3eabf0,exit,1355,0.7651121616363525

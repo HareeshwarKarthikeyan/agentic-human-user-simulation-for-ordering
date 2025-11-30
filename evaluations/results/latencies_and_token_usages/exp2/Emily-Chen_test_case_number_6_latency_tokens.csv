@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+b19fa299-27a3-4173-aa03-f276babafa55,"Hi there! I'd like to place an order. I'll start with the Vegetable Stir Fry, please. Could you add tofu as the protein and make sure it's with brown rice? Thanks!",2195,1.182963
+480b3305-bf8b-4b95-bca6-5a4cda63fff9,Thanks! I'll also take a small Coca-Cola with light ice. That'll be all for today! Could you confirm the total price for everything?,2269,0.677056
+b9de5df6-fd86-400c-9bdc-b0f199dec9ea,"My name is Emily Chen. However, there seems to be a little mix-up with the pricing. The Vegetable Stir Fry with tofu and brown rice should be $18.99, not $14.99. Could you please verify that for me? Thank you!",2407,0.668572
+3c8d034b-0b49-456d-8bb3-9f521611829d,"Yes, that looks correct to me. The total is $22.98 for the Vegetable Stir Fry with tofu and brown rice and the small Coca-Cola with light ice. Thanks for the clarification!",2602,0.739594
+19dbef4c-a181-4ea5-9fef-e0f42e24ffe6,exit,2680,0.617029

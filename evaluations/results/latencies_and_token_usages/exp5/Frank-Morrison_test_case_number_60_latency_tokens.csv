@@ -1,0 +1,18 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+05225680-9c29-4a2a-8bef-6ea32f3d64c1,"Hi there! I'm treating my grandkids today and was wondering about some of the kid-friendly options and portion sizes you might have. Could you help me out with that? I'm looking to order a Classic Burger, Grilled Chicken Sandwich, and two Fresh Orange Juices.",2408,5.831845
+696fd4b5-21ad-470f-aa4d-00c81a05d40b,"Alright, let's start with the Classic Burger. Could you please make it well done, with American cheese, and for the side, I'd like to go with French Fries. Also, could you tell me a bit about how kid-friendly the portion sizes are for the burgers?",2617,3.027535
+ae842daf-841a-4115-b04b-de0b7db2eb55,"Alright, let's start with the Classic Burger. I'll have one Classic Burger with American cheese, cooked well done, and for the side, I'll choose French Fries. How does that sound?",2562,3.072445
+dd2912f2-1151-4861-9a41-37adc85d3f94,"Alright, for the Grilled Chicken Sandwich, let's go with the Fruit Cup as the side. 
+
+And for the Fresh Orange Juices, let's have both in small sizes.
+
+Can you let me know if that works and give me the total cost of the order?",2666,3.892505
+5c14ea32-bbca-4555-84b2-70f1f8c41344,"It looks like there’s a mix-up in the order. Can we make sure to add one Classic Burger with American cheese, cooked well done, and a side of French Fries? 
+
+And it seems like the orange juices are called ""Fresh Orange Juice,"" so let's make sure that's all squared away too. 
+
+The name for the order is Frank Morrison.
+
+Oh, and are these options kid-friendly enough? My grandkids aren't heavy eaters, so I want to make sure these portions are suitable for them.",2929,4.402976
+c11bcd79-ee81-4800-bb38-a5dcc33dabba,Could you please make sure the Classic Burger is cooked well done and note the Fresh Orange Juices should be marked as small? Everything else looks perfect. Thanks for sorting this out for me!,3016,4.646456
+403986a6-613b-4344-a2c5-c716e118ce92,exit,4284,7.657131

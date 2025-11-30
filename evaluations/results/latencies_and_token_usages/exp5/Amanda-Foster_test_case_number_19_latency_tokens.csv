@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+e9725351-3869-4c07-86be-49062dd964f4,"Hi there! I'd like to place an order for three Classic Burgers, all cooked medium, with French fries on the side. Also, I'll need two Caesar Salads with grilled chicken added. Could you confirm the order and tell me the total price, please?",2333,4.614023
+4ba2d8d4-b506-497b-80f5-982ee0da24e9,"Sure, you can put the order under Amanda Foster. Everything looks good, and thanks for the breakdown!",4342,5.70111
+d2eb48fe-2a4b-4b5d-94ce-825389be4e2f,exit,3890,7.77927

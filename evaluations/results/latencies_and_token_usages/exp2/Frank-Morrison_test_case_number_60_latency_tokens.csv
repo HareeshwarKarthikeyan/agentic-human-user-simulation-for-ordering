@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+1a15728f-09a5-488c-a6cc-d283a521b7dd,"Hi, this is Frank Morrison. I'm treating my grandkids to a nice meal, and I want to make sure we get things they'll enjoy. Could you help me out by placing an order for a Classic Burger cooked well done with American cheese and French fries, a Grilled Chicken Sandwich with a Fruit Cup, and two small Fresh Orange Juices?",2304,1.227973
+8e7cbb20-33c5-420e-9664-3b24585bb54f,"No thanks, we don't need any dipping sauces for the chicken sandwich. Everything else sounds great! Can you let me know the total price?",2596,2.266254
+deec5e3d-3a7c-46c2-81fa-946d388c5321,"Oh, it seems there might be a little confusion with the total price. Could we double-check that? I have the Classic Burger with well-done meat, American cheese, and French fries going for $17.49, the Grilled Chicken Sandwich with a fruit cup for $16.99, and the two small Fresh Orange Juices totaling $11.98. That should bring us to $46.46.
+
+And sure, for the order, you can use the last name ""Morrison."" We can pick it up in 20 minutes. Thanks!",2940,0.709359
+7f97f31a-b979-4eca-ab7c-ea668434bda7,exit,3125,0.818744

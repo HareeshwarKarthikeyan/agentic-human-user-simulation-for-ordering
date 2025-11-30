@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+28c031c8-db95-4ebf-a382-64c51999ff3d,"Hey! I'd like to place an order for a few items. Can I get a Caesar Salad with salmon, dressing on the side, and no croutons? Also, a Vegetable Stir Fry with tofu, brown rice, and mild spice. Lastly, a Portobello Mushroom Burger with vegan cheese and a side salad. Could you also let me know the total price for these? Thanks!",2526,4.37154
+e4327d6f-2a3c-4168-bd61-8204b13eedd5,"Sure thing! The name for the order is Barbara Nelson. I'll skip the drink, thanks. Everything else looks perfect.",2996,6.348799
+8f70fc0f-c1cb-4a12-b14a-5650eebe1b28,exit,2941,5.744655

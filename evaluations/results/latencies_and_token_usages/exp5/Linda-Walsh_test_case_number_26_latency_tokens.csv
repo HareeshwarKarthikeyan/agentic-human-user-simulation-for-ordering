@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+79edfa69-7085-4a9c-a50b-8ff520307ceb,"Hi there! I'd like to order a New England Clam Chowder, please. Could I get it in the Bowl Size?",2219,3.134507
+61d3a008-0c22-4589-938c-cd038c44485c,"Hi, it's Linda Walsh. Yes, I'd like the Bowl Size for the New England Clam Chowder. No oyster crackers, thanks.",2319,3.313029
+919b6d88-4696-434e-bcb8-13d7ee46b121,exit,2307,3.390492

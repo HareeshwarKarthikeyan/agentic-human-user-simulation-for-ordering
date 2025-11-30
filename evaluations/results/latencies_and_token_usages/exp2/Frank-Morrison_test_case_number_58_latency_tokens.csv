@@ -1,0 +1,8 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+f9d5d3df-96c9-4a31-a0b3-06682e803279,"Hey there! I'm Frank. I'm planning to treat my grandkids to lunch, so I'm checking out some kid-friendly options. Could you help me with that? I'm thinking we'll start with two Kids Chicken Tenders. What kind of sides do they come with?",2313,1.29375
+908ad495-7ada-4f65-a640-dc03503a0432,"Hey, thanks for the options! For the two Kids Chicken Tenders, let's go with Apple Slices as the side and Milk for the drink. Do those come with any kind of sauce or anything extra?",2555,0.745301
+f7d2cc99-901b-4350-af3d-d423f1122000,"For the dipping sauce on both Kids Chicken Tenders, let's go with BBQ Sauce.",2553,0.676468
+42680ebc-6e32-4506-8672-6535b9f83a07,"Hey, I'm Frank. Thanks for confirming the kids' meals. I have a couple more things to order. Can I add a Kids Mac and Cheese with Bacon Bits, a Fruit Cup, and Apple Juice to that? And also throw in a Fish and Chips for myself, please. That should do it for now!",2809,0.927319
+f14750a9-d1a3-437c-922b-afb18b4380dc,"Nope, I think we're all set with that. Thanks a ton for your help! Just to confirm, can you let me know the final order before we wrap up?",3183,0.733254
+a41b79d4-be50-4019-8992-63badbc14ce1,I'll be there in about 20 minutes to pick it up. Thanks for your help!,3246,0.718352
+8a153e56-bfe0-42df-9d3b-e0a023da429a,exit,3166,1.022311

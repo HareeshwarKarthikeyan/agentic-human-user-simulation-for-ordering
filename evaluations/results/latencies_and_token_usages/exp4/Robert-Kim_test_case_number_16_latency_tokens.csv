@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+fce496c6-29f3-423d-aa95-75d44026211e,"Hi there! I'd like to order a Club Sandwich on white bread with a side of French fries, please.",2168,3.786349
+e693168f-bff9-449a-b65d-c71686f4d731,"No, I won't be needing a drink with that. Just the Club Sandwich on white bread with a side of French fries, please. Could you also tell me the total cost for that?",3384,3.762761
+7651d68f-52ac-4461-8086-75c18a7807ce,"Sure, it's Robert Kim. And just to confirm, the order is a Club Sandwich on white bread with a side of French fries, totaling $15.99.",2392,4.287537
+73903fad-24a3-4e79-877c-1e284003313d,exit,2513,3.583844

@@ -1,0 +1,16 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+a15b21d7-faf1-484f-a04b-62f62f0dbc5f,assistant,Hello! Thank you for calling The Garden Bistro. How can I assist you today?,order_taking_llm,2025-08-29T04:25:54.070559+00:00,,,,,,-1.0
+6d369da2-ed2e-472f-abf2-50e327aa41f3,agent,"Hi! I’d like to place an order for a Grilled Chicken Sandwich with a side of French Fries, please. ",guest_simulation_llm,2025-08-29T04:25:55.222661+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 960, ""num_response_tokens"": 25, ""total_tokens"": 985}",1151.9379615783691
+f2a75183-15f0-4273-a385-bef248c639be,assistant,"Great choice with the Grilled Chicken Sandwich! Just to confirm, that's with a side of French Fries. Would you like to add cheese or any other toppings to your sandwich?",order_taking_llm,2025-08-29T04:25:56.473713+00:00,,,,,,-1.0
+76629323-cb76-459e-8537-a0a6ed67b40d,agent,"No thanks, just the Grilled Chicken Sandwich with French Fries is perfect. Can you tell me the total price for that?",guest_simulation_llm,2025-08-29T04:25:57.776537+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1045, ""num_response_tokens"": 25, ""total_tokens"": 1070}",1302.448034286499
+f07ae870-68b6-4c1a-9d65-5b4c5abba386,assistant,"Sure! The Grilled Chicken Sandwich is $14.99, and the French Fries are included at no extra charge. So your total comes to $14.99.
+
+Can I please get your name for the order?",order_taking_llm,2025-08-29T04:25:59.015122+00:00,,,,,,-1.0
+673a0786-3a1b-4ad9-99da-1a149e200683,agent,It's Sarah Johnson.,guest_simulation_llm,2025-08-29T04:25:59.808518+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1139, ""num_response_tokens"": 4, ""total_tokens"": 1143}",792.9017543792725
+d6948a0e-e13b-44cf-b742-e25fa77d24d7,assistant,"Thank you, Sarah! Just to confirm, your order is for one Grilled Chicken Sandwich with a side of French Fries, totaling $14.99.
+
+Your order will be ready for pickup in about 20 minutes. 
+
+Thank you for choosing The Garden Bistro! If you need anything else, feel free to call back. Have a great day!",order_taking_llm,2025-08-29T04:26:01.669034+00:00,,,,,,-1.0
+eae0bda4-236e-48fb-a0e4-196d4654b1c6,agent,exit,guest_simulation_llm,2025-08-29T04:26:02.081228+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1238, ""num_response_tokens"": 1, ""total_tokens"": 1239}",411.7779731750488
+15dd708a-328f-4e04-8a3d-9fa04b2737ed,system,"{""guest_persona"": {""full_name"": ""Sarah Johnson"", ""order_size"": 1, ""order_complexity"": ""simple"", ""guest_bio"": ""A busy professional who values quick service and familiar menu items. Prefers straightforward orders without many customizations. Often orders during lunch breaks and appreciates efficiency.""}, ""target_order"": {""order_items"": [{""name"": ""Grilled Chicken Sandwich"", ""quantity"": 1, ""base_price"": 14.99, ""modifiers"": [{""modifier_type_name"": ""Side Choice"", ""modifier_option_name"": ""French Fries"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 14.99}], ""order_total_price"": 14.99, ""reasoning"": ""Sarah Johnson chose a Grilled Chicken Sandwich during Monday lunch for a quick, familiar meal that requires no customization, perfect for her efficient lunch break.""}}",test_case_info,2025-08-29T04:26:02.081461+00:00,,,,,,-1.0

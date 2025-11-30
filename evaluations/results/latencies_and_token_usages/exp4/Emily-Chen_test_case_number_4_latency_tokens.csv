@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+c1cb1727-bcc4-4127-9eb3-de9a8b2c53b7,Hi there! I'd like to place an order for pick-up. Could I please get one Atlantic Salmon grilled and a small Fresh Orange Juice?,2208,3.466082
+661b681e-50ef-43b2-842d-355a42539120,"Everything sounds great just the way it is, with the lemon butter sauce, rice pilaf, and asparagus. That'll be all for my order, thanks! Could you confirm the total price again?",2368,3.345965
+b83228cb-32d7-488d-b20e-c36a9e24a430,My name is Emily Chen. Thanks for confirming the order and total!,2446,3.448673
+9afb2f82-bcff-470a-96d6-93774a29845f,exit,2355,0.797894

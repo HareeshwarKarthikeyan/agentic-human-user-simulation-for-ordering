@@ -1,0 +1,16 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+abd76acc-7677-4174-8263-9805359f2bf9,"Hi there! This is Frank Morrison. I'm treating my grandkids today, so I'd like to place an order and make sure everything's just right for them. 
+
+Let's start with a Classic Burger. Could you make that well done with American cheese and a side of French fries? 
+
+I'll also need a Grilled Chicken Sandwich with a fruit cup on the side. 
+
+Lastly, can I add two small Fresh Orange Juices to the order?
+
+Could you let me know if this is all good and the total price? Thanks!",3716,3.20867
+b8912276-9616-455a-b20d-572f168a060e,"Hey there! I think there's a small mix-up with the order details. Could you make sure that the **Cheese** on the Classic Burger is American, and its type is a non-required option? Also, the **Fresh Orange Juices** should specify the size as small.
+
+Also, could you confirm the total price as $57.95 to ensure all the additions like the American cheese for $1.5 and the Fruit Cup's price modification are included? That would be really helpful.
+
+I'll plan to pick up the order in about 20 minutes when everything's ready. Thanks a lot!",2656,4.170711
+11fdf4e4-37fd-460a-b376-ac2dc01ba610,exit,4414,8.578917

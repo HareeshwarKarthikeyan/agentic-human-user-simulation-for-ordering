@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+213af97e-357d-479f-adb3-97f6193492d4,"Hi there! I’d like to place an order. I want one Atlantic Salmon, prepared blackened with mango salsa and quinoa as the side. Also, I need one Spinach Artichoke Dip with pita bread. Can I get the total on that?",1234,1.8441009521484375
+f9aef964-2d56-4c53-9eeb-b9f747237edd,"It's Carlos Mendez. Can you confirm that my order includes the Atlantic Salmon blackened with mango salsa and quinoa, along with the Spinach Artichoke Dip with pita bread?",1486,1.7578611373901367
+d619e27a-5a90-463f-9fc1-63544aaf40ec,"No, that's everything. Just to confirm, I have the Atlantic Salmon blackened with mango salsa and quinoa, and the Spinach Artichoke Dip with pita bread for a total of $45.98, right?",1644,1.2052640914916992
+d10521b1-eee9-4675-a3f0-a9434fd11389,exit,1745,0.8485009670257568

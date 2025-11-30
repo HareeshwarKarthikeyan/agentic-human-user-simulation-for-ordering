@@ -1,0 +1,30 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+4e759de8-7be5-4a63-8e74-f44c26737499,assistant,Hello! Thanks for calling The Garden Bistro. How can I help you today?,order_taking_llm,2025-08-30T05:34:32.794826+00:00,,,,,,-1.0
+54d1e389-3a66-42f1-9922-d9128ee60507,agent,"Hi there! I’d like to place an order for my crew. I need four Classic Burgers, all medium, with French fries. And I also need two BBQ Bacon Burgers, also medium, with French fries.",guest_simulation_llm,2025-08-30T05:34:34.356939+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1185, ""num_response_tokens"": 45, ""total_tokens"": 1230}",1561.9370937347412
+0622c91b-f363-4cb3-ac9b-efa7b9f6a89f,assistant,"Great choices! Just to confirm, you’d like four Classic Burgers, all medium, with French fries, and two BBQ Bacon Burgers, also medium, with French fries. 
+
+Would you like to add any cheese to the Classic Burgers? We have American, Cheddar, Swiss, and Blue Cheese. And for the BBQ Bacon Burgers, I just want to confirm the sides again; each order comes with French fries. 
+
+Let me know about the cheese, and if there’s anything else you’d like!",order_taking_llm,2025-08-30T05:34:36.894777+00:00,,,,,,-1.0
+8130b1b4-d917-4f58-8fc5-d06e824caadd,agent,"No cheese, just keep it simple. So that's four Classic Burgers, medium, with fries, and two BBQ Bacon Burgers, medium, with fries. Can you give me the total for that?",guest_simulation_llm,2025-08-30T05:34:38.218711+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1359, ""num_response_tokens"": 41, ""total_tokens"": 1400}",1323.4269618988037
+05d6921d-1231-4019-94d5-2e4b7c5ddb44,assistant,"Sure! Let’s break it down:
+
+- Four Classic Burgers at $15.99 each: 4 x $15.99 = $63.96
+- Two BBQ Bacon Burgers at $18.99 each: 2 x $18.99 = $37.98
+- French fries are included with both burgers at no additional cost.
+
+Now, let’s calculate the total:
+
+$63.96 + $37.98 = $101.94
+
+So, your total is **$101.94**. 
+
+Can I get your name for the order? And would you like to let me know about a pickup time? ",order_taking_llm,2025-08-30T05:34:40.888341+00:00,,,,,,-1.0
+3b568a77-3137-4de5-a0e6-8309f737178f,agent,"It's James O'Brien. I’ll need this for pickup around noon, please.",guest_simulation_llm,2025-08-30T05:34:41.698627+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1555, ""num_response_tokens"": 16, ""total_tokens"": 1571}",809.9241256713867
+4a965817-1e5e-4a5e-a693-0ab944e3c4de,assistant,"Thank you, James! So just to confirm, I have your order for four Classic Burgers, all medium with French fries, and two BBQ Bacon Burgers, also medium with fries, for a total of **$101.94**. 
+
+Your order will be ready for pickup at noon. 
+
+Thank you for choosing The Garden Bistro! Your order will be ready in about 20 minutes. Have a great day!",order_taking_llm,2025-08-30T05:34:43.526409+00:00,,,,,,-1.0
+b2b34ae6-d564-4c2b-ab82-73b172e30223,agent,exit,guest_simulation_llm,2025-08-30T05:34:44.097492+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1680, ""num_response_tokens"": 1, ""total_tokens"": 1681}",570.3868865966797
+d028bcd6-c9b3-4d9d-9220-5a897ce6b79f,system,"{""guest_persona"": {""full_name"": ""James O'Brien"", ""order_size"": 6, ""order_complexity"": ""simple"", ""guest_bio"": ""A construction foreman ordering for his crew. Needs large quantities of filling, simple foods. Values bulk pricing and reliable portions. Usually orders the same items in large quantities.""}, ""target_order"": {""order_items"": [{""name"": ""Classic Burger"", ""quantity"": 4, ""base_price"": 15.99, ""modifiers"": [{""modifier_type_name"": ""Meat Temperature"", ""modifier_option_name"": ""Medium"", ""is_required"": true, ""price"": 0.0}, {""modifier_type_name"": ""Side Choice"", ""modifier_option_name"": ""French Fries"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 63.96}, {""name"": ""BBQ Bacon Burger"", ""quantity"": 2, ""base_price"": 18.99, ""modifiers"": [{""modifier_type_name"": ""Meat Temperature"", ""modifier_option_name"": ""Medium"", ""is_required"": true, ""price"": 0.0}, {""modifier_type_name"": ""Side Choice"", ""modifier_option_name"": ""French Fries"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 37.98}], ""order_total_price"": 101.94, ""reasoning"": ""James O'Brien ordered for Monday crew lunch: 4 classic burgers and 2 BBQ bacon burgers, all with fries, simple and filling for hardworking construction team.""}}",test_case_info,2025-08-30T05:34:44.097646+00:00,,,,,,-1.0

@@ -1,0 +1,48 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+22ce3fe7-1e3c-492f-978a-e06ca0e55690,assistant,Hello! Thank you for calling The Garden Bistro. How can I assist you today?,order_taking_llm,2025-08-30T05:36:25.951298+00:00,,,,,,-1.0
+2cf7ff42-ffcb-4092-8876-ac931bba8eda,agent,"Hi there! I’d like to place an order for pickup. I need a Ribeye Steak cooked medium with Béarnaise sauce and a loaded baked potato on the side. Also, I’d like an Atlantic Salmon prepared blackened with quinoa. And to finish, I’ll have a New York Cheesecake with caramel sauce on top. Could you confirm that for me?",guest_simulation_llm,2025-08-30T05:36:27.246078+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1289, ""num_response_tokens"": 74, ""total_tokens"": 1363}",1294.590950012207
+66cc5e28-0b7a-464c-8be9-8cb60730efc6,assistant,"Absolutely! Let me confirm your order:
+
+1. **Ribeye Steak** - cooked **medium**, with **Béarnaise sauce** and a **loaded baked potato** on the side.
+2. **Atlantic Salmon** - prepared **blackened**, with **quinoa** as the side.
+3. **New York Cheesecake** - with **caramel sauce** on top.
+
+That sounds delicious! 
+
+Now, let me calculate the total for you. 
+
+- **Ribeye Steak**: $42.99
+- **Béarnaise sauce**: $3.00
+- **Loaded Baked Potato**: $4.00
+- **Atlantic Salmon**: $26.99
+- **Quinoa**: $2.00
+- **New York Cheesecake**: $7.99
+- **Caramel Sauce**: $1.50
+
+Let’s add that up:
+
+- Ribeye Steak: $42.99
+- Béarnaise sauce: $3.00
+- Loaded Baked Potato: $4.00
+- Atlantic Salmon: $26.99
+- Quinoa: $2.00
+- New York Cheesecake: $7.99
+- Caramel Sauce: $1.50
+
+**Total: $88.47**
+
+Could I have a name for the order, please?",order_taking_llm,2025-08-30T05:36:34.965581+00:00,,,,,,-1.0
+c85623bf-9676-4711-8f63-881fc6958e45,agent,"Yes, it's under Barbara Nelson. Can you confirm the order and the total?",guest_simulation_llm,2025-08-30T05:36:35.701301+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1666, ""num_response_tokens"": 16, ""total_tokens"": 1682}",735.1102828979492
+ed030e2b-8be6-4d1b-8ea9-0035f267e4d4,assistant,"Thank you, Barbara! Here’s the final confirmation of your order:
+
+1. **Ribeye Steak** - cooked **medium**, with **Béarnaise sauce** and a **loaded baked potato**.
+2. **Atlantic Salmon** - prepared **blackened**, with **quinoa**.
+3. **New York Cheesecake** - with **caramel sauce**.
+
+**Total: $88.47**
+
+Your order will be ready for pickup in about 20 minutes. 
+
+Thank you for choosing The Garden Bistro! If there's anything else you need, just let me know!",order_taking_llm,2025-08-30T05:36:38.285054+00:00,,,,,,-1.0
+75527da5-f581-40a6-9c98-b3928248b509,agent,exit,guest_simulation_llm,2025-08-30T05:36:38.793984+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1826, ""num_response_tokens"": 1, ""total_tokens"": 1827}",508.76903533935547
+aaa34dec-3a5d-4fc4-a1f3-25a7653adfca,system,"{""guest_persona"": {""full_name"": ""Barbara Nelson"", ""order_size"": 3, ""order_complexity"": ""complex"", ""guest_bio"": ""A catering coordinator for corporate events who places detailed custom orders. Requires specific timing, presentation requirements, and dietary accommodation lists. Often negotiates prices for large recurring orders.""}, ""target_order"": {""order_items"": [{""name"": ""Ribeye Steak"", ""quantity"": 1, ""base_price"": 42.99, ""modifiers"": [{""modifier_type_name"": ""Temperature"", ""modifier_option_name"": ""Medium"", ""is_required"": true, ""price"": 0.0}, {""modifier_type_name"": ""Sauce"", ""modifier_option_name"": ""B\u00e9arnaise"", ""is_required"": false, ""price"": 3.0}, {""modifier_type_name"": ""Side Upgrade"", ""modifier_option_name"": ""Loaded Baked Potato"", ""is_required"": false, ""price"": 4.0}], ""item_total_price"": 49.99}, {""name"": ""Atlantic Salmon"", ""quantity"": 1, ""base_price"": 26.99, ""modifiers"": [{""modifier_type_name"": ""Preparation"", ""modifier_option_name"": ""Blackened"", ""is_required"": false, ""price"": 0.0}, {""modifier_type_name"": ""Side Substitute"", ""modifier_option_name"": ""Quinoa"", ""is_required"": false, ""price"": 2.0}], ""item_total_price"": 28.99}, {""name"": ""New York Cheesecake"", ""quantity"": 1, ""base_price"": 7.99, ""modifiers"": [{""modifier_type_name"": ""Topping"", ""modifier_option_name"": ""Caramel Sauce"", ""is_required"": false, ""price"": 1.5}], ""item_total_price"": 9.49}], ""order_total_price"": 88.47, ""reasoning"": ""Barbara Nelson sampled premium options for Friday executive dinner: ribeye with b\u00e9arnaise and loaded potato, blackened salmon with quinoa, and cheesecake for upscale event planning.""}}",test_case_info,2025-08-30T05:36:38.794070+00:00,,,,,,-1.0

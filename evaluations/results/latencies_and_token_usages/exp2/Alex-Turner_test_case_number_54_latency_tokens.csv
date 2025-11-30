@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+e9ff3569-2af1-4056-a2ba-95dc2fec1320,"Hey there! I'd like to place an order for a Small 10"" Margherita Pizza with a Thin Crust. Can you make sure there's no cheese on it? Just want to keep it strictly vegan with those delicious tomato and basil flavors. Thanks!",2115,1.194788
+b5885b04-ba91-4f5a-91fe-c26e21763e51,"Yeah, that's correct! I’ll stick with just the Small 10"" Margherita Pizza with Thin Crust and no cheese. Thanks for asking, but I'm all set on adding anything else today. Could you confirm the price for me?",2309,1.234893
+b7c7babb-7eda-4dfe-a4f7-97c452a59c76,"Sure thing, it's Alex Turner. Thanks!",2382,0.782972
+0fa1ef99-430d-4201-96fc-892e46fe08a2,exit,2414,0.767018

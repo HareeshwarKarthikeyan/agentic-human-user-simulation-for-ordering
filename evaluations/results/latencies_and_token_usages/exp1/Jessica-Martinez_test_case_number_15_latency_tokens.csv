@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+549bc743-7c86-401c-b110-dd4bf2d046c5,"Hi there! I’d like to order a small Margherita pizza and an apple pie, please.",1109,1.091536045074463
+01f8d6a4-48ed-4259-95a1-ee0bc0d3d09b,"Actually, I'm just looking for the small Margherita pizza, no need for any crust options. Just a small pizza and the apple pie, please. Can you confirm the price for those?",1233,1.3365402221679688
+67702466-6573-44ca-837e-cee473695b06,"Yes, it's Jessica Martinez.",1312,0.7222061157226562
+a8e6e6f1-ebb8-4536-8195-dd2cad0909ae,exit,1388,0.9883098602294922

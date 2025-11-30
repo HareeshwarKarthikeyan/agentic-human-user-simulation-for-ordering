@@ -1,0 +1,27 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+6f1dcf3e-6aa2-41ca-bc09-1055bea892fd,"Hi there! I'm interested in ordering a Filet Mignon, cooked medium rare, and I'd love to pair it with your House Red Wine, specifically a 9oz glass. Could you confirm the details of that order for me?",2053,2.00159
+5db76da0-96d3-4261-a0a3-16b668724e77,"My name is Sofia Russo. It looks like the items in the order are correct, but could you double-check the wine price? It seems like the price for the 9oz glass should add up to $8.99, making the total $57.98. Can you confirm this and adjust the order if needed?",2263,3.169652
+e0993716-c191-4b99-961b-43ee9f586c9c,"Hey there! So, I definitely want to make sure my order is correct. Can we go ahead and add one Filet Mignon, cooked medium rare, and a 9oz glass of House Red Wine to my order? Thanks!",3712,5.462962
+5ee14f51-6007-4f96-a8eb-0a0514b78c71,"Yes, that sounds right, except I think there may have been a mix-up with the wine. The House Red Wine should be $12.99 for a 9oz glass. Could you double-check that for me? My name for the order is Sofia Russo. Thanks!",3907,7.789257
+54616a65-40b0-4b23-afac-1c5557c8401e,"Hey, thanks for confirming. It looks like we need a slight adjustment on the order. I want the Filet Mignon cooked medium rare. Also, the House Red Wine should be listed with a 9oz glass pour size option, totaling $12.99. Can you update that for me, please?",3327,3.08624
+71dc3881-c625-42a3-ba74-04fc6f434a89,"Hey there! I'd like to order a Filet Mignon, cooked medium rare, and a 9oz glass of House Red Wine, please. Could you please confirm the prices for me? I'm excited to enjoy these together!",3687,5.966899
+ba383eb3-b9b0-444c-9f85-0ab74cb93126,"Hey, it looks like the order hasn't been placed yet. Could you add one Filet Mignon, cooked medium rare, and a 9oz glass of House Red Wine to the order, please? Then let me know when it's all confirmed. Thanks!",2121,2.385093
+c5786e6a-99cb-4b5a-a1a6-2ba3b7cabe86,"Yes, everything is correct with the order, Sofia! I don't need to add anything else. Thanks!",2193,3.871158
+eb87230b-4f81-4da8-ac1b-bdc4cef29dc8,"Hey, my name's Sofia Russo!
+
+I noticed that I need to add the Filet Mignon, cooked medium rare, and the House Red Wine needs to be the 9oz glass. Could you adjust that for me? Thanks!",2146,2.737107
+8af30fc4-d0b1-4583-bd48-6963925a4298,"Hi there! It seems there's a slight discrepancy in the current order. I wanted to ensure that the Filet Mignon is prepared medium rare, and that the House Red Wine is a 9oz glass. Could we please confirm these details? Let me know if there’s any adjustment needed on the pricing for the House Red Wine. Thanks!",2367,2.906171
+a8149152-600c-43d9-889d-0bffb8d23607,"Hi, this is Sofia Russo. It looks like the order is almost correct, but I need to make sure of a couple of things: please ensure the Filet Mignon is cooked medium rare, and the House Red Wine should be a 9oz glass. 
+
+Could you update those for me, please? And no additional items, thank you!",2283,3.98906
+d1116eac-49fb-4bf7-be56-c4534e1563ce,Hi there! I'm planning to order a Filet Mignon cooked medium rare and a 9oz glass of House Red Wine. Could you please add those to my order? Thanks!,3598,5.781636
+90a9a4bb-02a4-4e5c-9642-165d29b332f6,"Hi, this is Sofia Russo. I'd like to place an order.
+
+Could you go ahead and add one Filet Mignon, cooked medium rare, and a 9oz glass of House Red Wine to my order? That should be everything for now, thank you!",3589,6.518448
+a9657e7d-326a-48eb-aa43-b31dd87c227d,"Hi, it's Sofia Russo. Looks like there's a little tweak needed. Could you please make sure the Filet Mignon is cooked medium rare? And it seems the House Red Wine should be priced at $12.99 for the 9oz glass. 
+
+Could you adjust that for me? Thanks!",2323,3.130989
+bdd93a04-cdf8-4469-8be8-2ce8e2b20792,"Hey, Sofia here! Thanks for breaking down the pricing. The total of $57.98 for the Filet Mignon and the House Red Wine works for me. Let’s go ahead with that order!",2247,3.229235
+74c89016-9fc0-4cdd-8d04-eb14d76e3e36,"Yes, that's correct! My name is Sofia Russo. Could you go ahead and add the Filet Mignon cooked medium rare and the House Red Wine in a 9oz glass for me? Also, could I get the price breakdown again, just to double-check? Thanks!",2216,3.127863
+998cf874-7477-4e7b-b47a-befeb852cef7,"Yes, my name is Sofia Russo, and the order looks perfect! I'm all set, so nothing else for now. Can we go ahead and finalize it?",2280,4.716662
+ce5b1af7-b040-41ae-b910-594b98e3fd22,exit,2280,4.157677

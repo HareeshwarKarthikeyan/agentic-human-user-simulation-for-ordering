@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+adf66a15-eb5c-4c7e-a2a6-6da4f25e6ff4,"Hi there! I’d like to place an order for my grandkids and me. I need 2 Kids Chicken Tenders meals, 1 Kids Mac and Cheese, and 1 Fish and Chips. Can we get the chicken tenders with BBQ sauce and apple slices, and the mac and cheese with a fruit cup and apple juice?",1357,1.2447078227996826
+f5c3f4dc-2a70-4e5a-9f9d-853286316136,"No, I’m good with the regular Fish and Chips. Just the standard one, please. So we have the 2 Kids Chicken Tenders meals, 1 Kids Mac and Cheese, and 1 Fish and Chips. Can you get me the total, please?",1527,1.2783770561218262
+f7459bde-8c3e-4b27-96cb-022865ea2224,It's Frank Morrison.,1690,0.48050999641418457
+e2f4b63c-0a72-42ea-a1b3-3c28f7665047,exit,1806,0.5066239833831787

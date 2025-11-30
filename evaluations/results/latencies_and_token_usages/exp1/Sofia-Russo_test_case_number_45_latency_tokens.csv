@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+7e8df53f-f2bf-4948-be3a-1e1543a2fc6a,"Hi there! I’d like to place an order for a Spaghetti Carbonara with extra Parmesan, and also one Spinach Artichoke Dip, please. ",1118,1.0300910472869873
+cc2c13e3-2b22-4116-9d91-eba826787272,"No, just the Carbonara with extra Parmesan and the Spinach Artichoke Dip as it is, please. That's all I need. Can you give me the total?",1234,0.771064043045044
+c8f97133-5d49-4e0e-b781-983167291c5a,It's Sofia Russo. ,1337,0.42725300788879395
+c4bf8514-de2a-4ce5-919f-868a5b08c596,exit,1433,0.5825271606445312

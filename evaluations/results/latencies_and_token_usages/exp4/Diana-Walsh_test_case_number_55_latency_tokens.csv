@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+a887ba47-1941-4c17-a5cd-87e2c09bc284,"Hi there! I'd like to place an order for a Grilled Chicken Sandwich with French Fries and a Medium Coca-Cola, please.",2176,4.017968
+5f10e76d-cf1d-4373-9410-18806e21ad72,"No cheese for me, thanks. Just the Grilled Chicken Sandwich with French Fries and a Medium Coca-Cola is perfect.",3510,3.593326
+63c1f944-2ad8-4abb-815b-42e9ac38a540,Diana Walsh. Thanks!,2397,2.933362
+31dd11b1-e4ed-4573-a72a-18a6e4929e99,exit,2481,3.00427

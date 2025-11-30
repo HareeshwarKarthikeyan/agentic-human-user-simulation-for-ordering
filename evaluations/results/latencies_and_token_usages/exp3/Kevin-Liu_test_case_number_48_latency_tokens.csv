@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+2d14c4a7-8b9e-41bb-8bf7-737e3cb4043f,Hi there! Could I please get one Chicken Parmesan?,3057,3.831987
+2ffb9143-5941-4433-b947-141b18e8712f,Could you please confirm if the Chicken Parmesan is added to my order? I still need to check the current status.,4239,3.952073
+7c741694-4734-44c7-9c24-7709037e956b,"No extra sauce or cheese for me, thanks. The name for the order is Kevin Liu. ",2068,3.105303
+9c75a417-f18c-41e3-8ac4-b1c00d1ab0cd,exit,2076,3.376639

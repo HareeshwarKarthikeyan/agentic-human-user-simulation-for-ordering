@@ -1,0 +1,31 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+94e5be6e-9700-4da2-a61c-f20f9441fe67,assistant,Hello! Thank you for calling The Garden Bistro. How can I help you today?,order_taking_llm,2025-08-30T05:37:50.129027+00:00,,,,,,-1.0
+adf66a15-eb5c-4c7e-a2a6-6da4f25e6ff4,agent,"Hi there! I’d like to place an order for my grandkids and me. I need 2 Kids Chicken Tenders meals, 1 Kids Mac and Cheese, and 1 Fish and Chips. Can we get the chicken tenders with BBQ sauce and apple slices, and the mac and cheese with a fruit cup and apple juice?",guest_simulation_llm,2025-08-30T05:37:51.373830+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1289, ""num_response_tokens"": 68, ""total_tokens"": 1357}",1244.7078227996826
+9a268be1-3d95-409f-b010-d8ec8cec50bc,assistant,"That sounds like a great order! Just to confirm, for the two Kids Chicken Tenders meals, you want BBQ sauce and apple slices. For the Kids Mac and Cheese, you’d like it with a fruit cup and apple juice. 
+
+Now, for the Fish and Chips, do you have a preference for the type of fish? We have haddock for an additional $2 or halibut for an additional $4. Which would you like?",order_taking_llm,2025-08-30T05:37:53.604667+00:00,,,,,,-1.0
+f5c3f4dc-2a70-4e5a-9f9d-853286316136,agent,"No, I’m good with the regular Fish and Chips. Just the standard one, please. So we have the 2 Kids Chicken Tenders meals, 1 Kids Mac and Cheese, and 1 Fish and Chips. Can you get me the total, please?",guest_simulation_llm,2025-08-30T05:37:54.884159+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1473, ""num_response_tokens"": 54, ""total_tokens"": 1527}",1278.3770561218262
+284d7041-583f-435e-af39-4a61b9f55495,assistant,"Sure! Let me quickly calculate that for you:
+
+- 2 Kids Chicken Tenders meals ($8.99 each) = $17.98
+- 1 Kids Mac and Cheese ($7.99) = $7.99
+- 1 Fish and Chips ($18.99) = $18.99
+
+Now, let’s add that all up:
+- $17.98 (chicken tenders) + $7.99 (mac and cheese) + $18.99 (fish and chips) = $44.96.
+
+So, your total comes to **$44.96**. 
+
+Can I get your name for the order?",order_taking_llm,2025-08-30T05:37:57.470916+00:00,,,,,,-1.0
+f7459bde-8c3e-4b27-96cb-022865ea2224,agent,It's Frank Morrison.,guest_simulation_llm,2025-08-30T05:37:57.951565+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1686, ""num_response_tokens"": 4, ""total_tokens"": 1690}",480.50999641418457
+cbd61b4e-3e44-4035-97cf-fd5cac146a6c,assistant,"Thank you, Frank! To recap your order: 
+
+- 2 Kids Chicken Tenders meals with BBQ sauce and apple slices
+- 1 Kids Mac and Cheese with a fruit cup and apple juice
+- 1 Fish and Chips (standard)
+
+Your total is $44.96. 
+
+Your order will be ready for pickup in 20 minutes. Thank you for choosing The Garden Bistro! Is there anything else I can help you with today?",order_taking_llm,2025-08-30T05:37:59.725459+00:00,,,,,,-1.0
+e2f4b63c-0a72-42ea-a1b3-3c28f7665047,agent,exit,guest_simulation_llm,2025-08-30T05:38:00.232188+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1805, ""num_response_tokens"": 1, ""total_tokens"": 1806}",506.6239833831787
+cfd3e3af-6b39-483b-913b-ca0538462cf7,system,"{""guest_persona"": {""full_name"": ""Frank Morrison"", ""order_size"": 4, ""order_complexity"": ""medium"", ""guest_bio"": ""A grandfather treating his grandchildren who asks about kid-friendly options and portion sizes. Takes time ensuring everyone is happy with their choices. Often asks servers for recommendations based on children's ages.""}, ""target_order"": {""order_items"": [{""name"": ""Kids Chicken Tenders"", ""quantity"": 2, ""base_price"": 8.99, ""modifiers"": [{""modifier_type_name"": ""Sauce"", ""modifier_option_name"": ""BBQ Sauce"", ""is_required"": true, ""price"": 0.0}, {""modifier_type_name"": ""Side"", ""modifier_option_name"": ""Apple Slices"", ""is_required"": true, ""price"": 0.0}, {""modifier_type_name"": ""Drink"", ""modifier_option_name"": ""Milk"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 17.98}, {""name"": ""Kids Mac and Cheese"", ""quantity"": 1, ""base_price"": 7.99, ""modifiers"": [{""modifier_type_name"": ""Add-on"", ""modifier_option_name"": ""Bacon Bits"", ""is_required"": false, ""price"": 2.0}, {""modifier_type_name"": ""Side"", ""modifier_option_name"": ""Fruit Cup"", ""is_required"": true, ""price"": 0.0}, {""modifier_type_name"": ""Drink"", ""modifier_option_name"": ""Apple Juice"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 9.99}, {""name"": ""Fish and Chips"", ""quantity"": 1, ""base_price"": 18.99, ""modifiers"": [], ""item_total_price"": 18.99}], ""order_total_price"": 46.96, ""reasoning"": ""Frank Morrison ordered for Wednesday lunch with grandkids: 2 chicken tender meals, mac and cheese with bacon for the picky eater, and fish and chips for himself.""}}",test_case_info,2025-08-30T05:38:00.232224+00:00,,,,,,-1.0

@@ -1,0 +1,8 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+9097c4f3-4ed8-4f0b-b276-b6f7ecf3d6bc,Hi there! I'm Miguel Rodriguez. I'm in the mood to explore some of your delicious offerings for a family dinner. Let's start with something classic. Can you tell me about your ribeye steak options?,2363,3.388248
+80930fb3-d8c1-429b-8d6d-1ce8e681af70,"Hey there! I'd love to order the ribeye steak cooked medium rare, please. Do you also have a chimichurri sauce? That would be a great addition!",2673,2.873058
+a89bc94b-3562-42ca-90d1-9c2e68318ce3,"You know, the truffle mac and cheese sounds amazing! Let's go with that for the side.",2698,2.897731
+7887eab6-d5b5-4328-be0e-1131b6f97761,"Oh, I'm definitely excited about the meal! Could you please add a glass of house red wine to my order? A 9oz pour would be perfect. Thank you!",2806,2.901693
+2dc947bc-cd2b-47a7-815a-5b5ef79b7517,Please place the order under the name Miguel Rodriguez. Thank you!,1967,1.088888
+17bfc0f2-e89d-4c14-a682-4702fcd9084f,"Hey, I actually realized I forgot to order something else. I'd like to add a spinach artichoke dip with pita bread and extra chips to that order. Could you update the total price for me, please?",7479,4.500018
+f70656cb-695b-483f-b4fe-1074142cd757,exit,5886,3.610858

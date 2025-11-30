@@ -1,0 +1,10 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+99dc1146-46d1-4b9b-ac41-15c3157933d2,"Hi there! I'm Frank Morrison. I'm looking to order some lunch for me and my grandkids. Can you tell me a bit about your Classic Burger? What's included, and do you have options for the meat temperature?",2361,3.388368
+a1298452-d869-4d78-8d33-c35aa0305e8d,"Hey, thanks for the details! I'll go with the Classic Burger and have it cooked Well Done. Let's add American cheese to that. Would you happen to have a side choice option?",2663,4.248394
+4b571d82-db32-4b7c-b8ec-24ebe86cb09d,"Let's go with the French Fries as the side for the Classic Burger, please. And, could you tell me what options are available for the chicken sandwich as a side?",2640,2.667366
+732a5c46-3ebe-4602-a966-85f0fa5a512f,"I'd like to order the Grilled Chicken Sandwich next, please. Can you make that with the Fruit Cup on the side?",2776,2.971467
+8804f219-9833-4f9b-9d08-70ad5672bbc1,"Could I add some provolone cheese to the Grilled Chicken Sandwich, please? Thanks!",4495,4.492071
+095e4c6c-f75a-4db2-9c80-37c790066f77,"Great, thanks! I'll pick it up in 20 minutes.",1992,0.743031
+0d707070-d2c2-408c-a07c-91c089558006,"Hi, thanks for the confirmation! Looks like there was a tiny mix-up. I was hoping to add two Fresh Orange Juices, small size, to the order as well. Could you please include those?",5234,4.347488
+d548c40c-5cd3-4f1e-985b-8be8988f9f7e,Everything looks perfect now! Thanks for the update. Please keep the pickup time for 20 minutes. Looking forward to it!,3623,3.378849
+94d5a9ed-61ff-4e91-a119-f707a7013cb2,exit,3380,1.713405

@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+b677df44-3144-45d5-bbeb-6b80db4dff3c,"Hi there! I'd like to place an order for Fish and Chips, please.",2101,3.243057
+d6b24c43-1d45-4cef-bb46-fc7d9d761c30,"Oh, uh, sorry, could you repeat that? I'm deciding between Haddock or Halibut.",2138,2.971675
+5fd91a34-b209-4f46-bcf5-6c792077cf6e,"Hmm, I think I'll go with the Haddock for my Fish and Chips, please. What does that usually come with?",2277,3.036244
+ca9e69bb-d92d-4ad2-a0d5-6dea02654f32,"No thanks, I'm good with just the Fish and Chips. Could you confirm the total price for me?",2320,3.610806
+81c76f91-44fe-4460-b56d-ecb2f4da5277,"Sure, the name for the order is Robert Kim. Thanks for confirming everything. Have a great day!",2437,3.435519
+27439c5a-4c7a-47fc-84b4-0b0045941ab9,exit,2515,3.010816

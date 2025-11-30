@@ -1,0 +1,15 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+55c55f57-98a7-4659-a174-cb99b21ebe3c,Hey there! I'm looking to start with a Spinach Artichoke Dip. Could you tell me a bit more about it and if you have any wine recommendations that would pair well with it?,2264,4.399337
+777548fb-bd6f-44ce-897f-e6802296221b,"Oh, that Spinach Artichoke Dip sounds fantastic! I'd love to get that.
+
+And speaking of wine, I appreciate your suggestion, but I think I'll pass on the House Red Wine for now. I'm excited about the dip and looking forward to pairing it with something else later.
+
+Can you add just the Spinach Artichoke Dip for now? Thank you!",2450,2.660483
+4af49cec-43b7-4559-affb-ea2693a968bf,"Oh, I also wanted to add a Spaghetti Carbonara to the order. Can you tell me more about the options for that? I’m thinking of adding some extra Parmesan. ",2416,3.887388
+07f7b88e-e7ad-4747-a208-a94e95d48e8e,"Could I get the Spaghetti Carbonara with the extra Parmesan, please? Also, what's a good wine to pair with it? ",2432,3.181106
+7575340a-e2d3-4a65-81d9-907fed2d1142,"Hey there! It's Sofia Russo here. So, I've already got the Spinach Artichoke Dip in my order. Let's add the Spaghetti Carbonara with the extra Parmesan, please. 
+
+About the wine, I appreciate the suggestion, but I'll pass on the House Red Wine today. However, do you have any insights or recommendations for a nice pairing with the Spaghetti Carbonara? 
+
+And for pickup, could we go with 20 minutes from now? Thanks a lot!",2526,2.842127
+e0d155ce-02c8-41cf-9b16-3f8f0167546d,exit,2474,5.016357

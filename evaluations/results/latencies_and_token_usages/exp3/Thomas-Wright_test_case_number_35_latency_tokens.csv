@@ -1,0 +1,12 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+17af56b0-1b55-4ef8-8b30-3e54d80bc0cf,"Hey there, this is Thomas Wright. I'm on the road right now and need something quick to pick up. Could I get an order of the Baby Back Ribs, half rack with French fries on the side? Also, could you let me know how fast the service is and if there’s parking available for a truck nearby? Thanks!",3048,2.582395
+b04ebe66-7688-4970-a8c4-291fdb61a00f,"Hey, thanks! That sounds perfect. No drink for me, I'm good with the ribs and fries. How much will that be?",2129,4.487585
+e2306ba7-ec11-43ae-9188-63ea602f2ac6,My name is Thomas Wright. Thanks for confirming the order! Could you please check the total amount again? It looks like the half rack should be $20.99 with the French fries included.,2184,4.06171
+926a017b-287d-4b67-af1d-5f9d5656cb15,"Yeah, that sounds perfect. Thanks for confirming the order for the half rack of Baby Back Ribs with French fries. Could you let me know about the parking availability and how quick the pick-up will be? I’m on a bit of a tight schedule.",2286,4.063573
+19580069-3184-4928-bdbd-14baea4ce379,The name for the order is Thomas Wright. Thanks for confirming the details with me!,1936,0.426743
+d7925e2b-024e-4d3f-95e5-e3ff68b85c9e,"Hey, it looks like there's been a bit of a mix-up. Could you please confirm that the Baby Back Ribs are with the half rack portion and French fries as a side? I need to make sure everything's set before I head out, especially since I'm on the road and pressed for time. Thanks!",2184,2.66534
+b08dae26-f709-476b-abd4-ee974e245880,"Hey, there's a little mix-up. I need to make sure my order includes a half rack of Baby Back Ribs with French fries on the side. Can you add that to my order and let me know when it's all set? Thanks!",2199,2.902927
+4cc82be4-57e1-4edf-a412-58c9e9fa607e,"Hey there! Looks like my order isn't quite set yet. Can you please add a half rack of Baby Back Ribs with French fries on the side? Just confirming that's all I'm looking for right now. 
+
+As a truck driver, parking's super crucial to me. Is there easy parking at The Garden Bistro? Thanks!",2253,3.260333
+0d16c99a-3f72-47ab-8215-f2ea67ef48ec,exit,2236,3.626145

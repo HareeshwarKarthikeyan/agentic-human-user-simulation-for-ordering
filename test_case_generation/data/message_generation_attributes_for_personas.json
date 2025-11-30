@@ -1,0 +1,204 @@
+{
+  "persona_attributes": [
+    {
+      "full_name": "Sarah Johnson",
+      "message_generation_attributes": {
+        "is_ordering_complete": "no",
+        "next_message_menu_exploration_style": "does_not_explore_menu",
+        "next_message_mood_tones": ["casual", "casual"],
+        "next_message_ordering_style": "all_at_once",
+        "guest_personality_description": "Busy professional who values efficiency and quick service. Orders straightforward items without customizations."
+      }
+    },
+    {
+      "full_name": "Emily Chen",
+      "message_generation_attributes": {
+        "is_ordering_complete": "no",
+        "next_message_menu_exploration_style": "explores_menu",
+        "next_message_mood_tones": ["casual", "casual"],
+        "next_message_ordering_style": "one_by_one",
+        "guest_personality_description": "Health-conscious diner who asks about nutritional information and prefers lighter options with fresh ingredients."
+      }
+    },
+    {
+      "full_name": "Miguel Rodriguez",
+      "message_generation_attributes": {
+        "is_ordering_complete": "no",
+        "next_message_menu_exploration_style": "explores_menu",
+        "next_message_mood_tones": ["enthusiastic", "casual"],
+        "next_message_ordering_style": "one_by_one",
+        "guest_personality_description": "Food enthusiast who loves trying different combinations and making special customization requests."
+      }
+    },
+    {
+      "full_name": "David Thompson",
+      "message_generation_attributes": {
+        "is_ordering_complete": "no",
+        "next_message_menu_exploration_style": "explores_menu",
+        "next_message_mood_tones": ["casual", "confused"],
+        "next_message_ordering_style": "one_by_one",
+        "guest_personality_description": "Father ordering for family with dietary restrictions. Asks detailed questions about allergens and kids' options."
+      }
+    },
+    {
+      "full_name": "Jessica Martinez",
+      "message_generation_attributes": {
+        "is_ordering_complete": "no",
+        "next_message_menu_exploration_style": "explores_menu",
+        "next_message_mood_tones": ["casual", "casual"],
+        "next_message_ordering_style": "one_by_one",
+        "guest_personality_description": "Vegetarian college student on budget who asks about meat-free options, prices, and combo deals."
+      }
+    },
+    {
+      "full_name": "Robert Kim",
+      "message_generation_attributes": {
+        "is_ordering_complete": "no",
+        "next_message_menu_exploration_style": "does_not_explore_menu",
+        "next_message_mood_tones": ["casual", "confused"],
+        "next_message_ordering_style": "all_at_once",
+        "guest_personality_description": "Retired veteran with traditional tastes who orders familiar dishes and gets confused by too many options."
+      }
+    },
+    {
+      "full_name": "Amanda Foster",
+      "message_generation_attributes": {
+        "is_ordering_complete": "no",
+        "next_message_menu_exploration_style": "does_not_explore_menu",
+        "next_message_mood_tones": ["casual", "casual"],
+        "next_message_ordering_style": "all_at_once",
+        "guest_personality_description": "Office manager placing efficient group orders with minimal customizations. Values accuracy and clear communication."
+      }
+    },
+    {
+      "full_name": "Carlos Mendez",
+      "message_generation_attributes": {
+        "is_ordering_complete": "no",
+        "next_message_menu_exploration_style": "explores_menu",
+        "next_message_mood_tones": ["enthusiastic", "casual"],
+        "next_message_ordering_style": "one_by_one",
+        "guest_personality_description": "Chef who asks detailed questions about preparation methods and requests modifications based on culinary expertise."
+      }
+    },
+    {
+      "full_name": "Linda Walsh",
+      "message_generation_attributes": {
+        "is_ordering_complete": "no",
+        "next_message_menu_exploration_style": "does_not_explore_menu",
+        "next_message_mood_tones": ["casual", "casual"],
+        "next_message_ordering_style": "all_at_once",
+        "guest_personality_description": "Elderly regular customer who knows exactly what she wants and orders quickly with no fuss."
+      }
+    },
+    {
+      "full_name": "Marcus James",
+      "message_generation_attributes": {
+        "is_ordering_complete": "no",
+        "next_message_menu_exploration_style": "explores_menu",
+        "next_message_mood_tones": ["casual", "casual"],
+        "next_message_ordering_style": "one_by_one",
+        "guest_personality_description": "Fitness trainer who asks about nutritional content, protein amounts, and requests specific modifications."
+      }
+    },
+    {
+      "full_name": "Priya Patel",
+      "message_generation_attributes": {
+        "is_ordering_complete": "no",
+        "next_message_menu_exploration_style": "explores_menu",
+        "next_message_mood_tones": ["casual", "casual"],
+        "next_message_ordering_style": "one_by_one",
+        "guest_personality_description": "Mom ordering for soccer team who needs to accommodate various preferences and asks about bulk discounts."
+      }
+    },
+    {
+      "full_name": "Thomas Wright",
+      "message_generation_attributes": {
+        "is_ordering_complete": "no",
+        "next_message_menu_exploration_style": "does_not_explore_menu",
+        "next_message_mood_tones": ["casual", "frustrated"],
+        "next_message_ordering_style": "all_at_once",
+        "guest_personality_description": "Truck driver with time constraints who needs quick pickup and asks about speed of service."
+      }
+    },
+    {
+      "full_name": "Rachel Green",
+      "message_generation_attributes": {
+        "is_ordering_complete": "no",
+        "next_message_menu_exploration_style": "explores_menu",
+        "next_message_mood_tones": ["enthusiastic", "casual"],
+        "next_message_ordering_style": "one_by_one",
+        "guest_personality_description": "Food blogger who asks extensive questions about ingredients and presentation for reviews."
+      }
+    },
+    {
+      "full_name": "James O'Brien",
+      "message_generation_attributes": {
+        "is_ordering_complete": "no",
+        "next_message_menu_exploration_style": "does_not_explore_menu",
+        "next_message_mood_tones": ["casual", "casual"],
+        "next_message_ordering_style": "all_at_once",
+        "guest_personality_description": "Construction foreman ordering for crew. Needs large quantities of simple, filling foods."
+      }
+    },
+    {
+      "full_name": "Sofia Russo",
+      "message_generation_attributes": {
+        "is_ordering_complete": "no",
+        "next_message_menu_exploration_style": "explores_menu",
+        "next_message_mood_tones": ["casual", "enthusiastic"],
+        "next_message_ordering_style": "one_by_one",
+        "guest_personality_description": "Wine enthusiast who asks about pairing recommendations and orders based on wine selections."
+      }
+    },
+    {
+      "full_name": "Kevin Liu",
+      "message_generation_attributes": {
+        "is_ordering_complete": "no",
+        "next_message_menu_exploration_style": "does_not_explore_menu",
+        "next_message_mood_tones": ["casual", "casual"],
+        "next_message_ordering_style": "all_at_once",
+        "guest_personality_description": "Late-night shift worker who orders efficiently at odd hours with minimal interaction."
+      }
+    },
+    {
+      "full_name": "Barbara Nelson",
+      "message_generation_attributes": {
+        "is_ordering_complete": "no",
+        "next_message_menu_exploration_style": "explores_menu",
+        "next_message_mood_tones": ["casual", "casual"],
+        "next_message_ordering_style": "one_by_one",
+        "guest_personality_description": "Catering coordinator who places detailed custom orders with specific timing and presentation requirements."
+      }
+    },
+    {
+      "full_name": "Alex Turner",
+      "message_generation_attributes": {
+        "is_ordering_complete": "no",
+        "next_message_menu_exploration_style": "explores_menu",
+        "next_message_mood_tones": ["casual", "frustrated"],
+        "next_message_ordering_style": "one_by_one",
+        "guest_personality_description": "Vegan activist who thoroughly questions ingredients and ensures no cross-contamination with animal products."
+      }
+    },
+    {
+      "full_name": "Diana Walsh",
+      "message_generation_attributes": {
+        "is_ordering_complete": "no",
+        "next_message_menu_exploration_style": "does_not_explore_menu",
+        "next_message_mood_tones": ["casual", "casual"],
+        "next_message_ordering_style": "all_at_once",
+        "guest_personality_description": "Nurse between shifts who needs quick, reliable options without modifications."
+      }
+    },
+    {
+      "full_name": "Frank Morrison",
+      "message_generation_attributes": {
+        "is_ordering_complete": "no",
+        "next_message_menu_exploration_style": "explores_menu",
+        "next_message_mood_tones": ["casual", "casual"],
+        "next_message_ordering_style": "one_by_one",
+        "guest_personality_description": "Grandfather ordering for grandchildren who asks about kid-friendly options and portion sizes."
+      }
+    }
+  ]
+}

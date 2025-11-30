@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+922e30d2-d5f2-4f26-b085-474c3410210e,"Hi there! I'd like to order a Caesar Salad with grilled chicken, please. Can you help me with that?",2135,3.690371
+a7771ee2-fe9a-4c87-b797-6292a2a00bc0,"I'll have the Caesar Salad with grilled chicken, and I'd like the dressing mixed in, please. No modifications needed, and I won't add anything else this time. Thanks!",2288,3.537836
+eb821ff6-7751-4f96-a39c-a78839a4890b,"Sure, my name is Sarah Johnson.",2439,3.024305
+f8199661-cdbe-4ff7-92c1-7b6e1277a793,exit,2434,3.301072

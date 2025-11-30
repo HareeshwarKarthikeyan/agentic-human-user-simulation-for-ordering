@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+cc35edf4-1047-48ab-b54e-7e750d42df41,"Hi there! I'm Alex, and I'm looking to order some dinner. I was thinking about your Vegetable Stir Fry. Can you tell me a bit about it? Like, what options are available for adding protein and choosing rice? ",2230,3.440941
+aeaf7d1f-badd-4dfc-a00b-56bba2d1efa6,"Hey there! My name's Alex Turner. For the Vegetable Stir Fry, could I get Tofu as my protein add-on? Also, I'll go with Brown Rice. Does the teriyaki sauce have any animal products in it, like fish sauce or anything? Just want to make sure it’s completely vegan!",2386,2.678337
+6079fdd8-feeb-4bb1-82f6-bc89eaed3d82,"No, that's all for now, thanks! I'm excited to try the Vegetable Stir Fry with Tofu and Brown Rice. Could you let me know the total price for that? Just want to make sure everything's all set.",2621,3.072893
+66344fea-bc23-49eb-911d-8da98b96ada5,"Great, everything looks perfect on the order! I’d like to confirm my Vegetable Stir Fry with Tofu and Brown Rice for pickup, please. When’s the earliest available time I can come by to get it?",2837,2.855997
+4d12ecfd-c156-45e1-bf12-e028f7c7ee7a,exit,2854,2.869424

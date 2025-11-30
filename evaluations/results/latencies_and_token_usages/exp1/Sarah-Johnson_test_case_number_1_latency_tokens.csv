@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+ad621e02-24c8-4f97-a8cf-0fc4e12f5ae0,"Hi! I’d like to place an order for a Grilled Chicken Sandwich with French Fries, please.",1067,0.8659019470214844
+ae47c048-14c3-4f0c-bb42-926c5a122efe,"No, thanks! Just the Grilled Chicken Sandwich with French Fries is perfect. Can you confirm the total for that?",1156,0.9099810123443604
+5fa8dadb-9224-4b0a-b71a-f5ea89dbc0f5,It's Sarah Johnson. ,1238,0.8277082443237305
+9e278e2c-1d8e-47dc-810e-6076702a7f0c,"No, that's it. Thanks!",1319,0.7127161026000977
+5e63828f-5673-405f-8acf-bb44ba99d4ea,exit,1376,0.5548858642578125

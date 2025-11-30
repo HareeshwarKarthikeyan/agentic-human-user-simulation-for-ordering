@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+a3176955-0804-44ad-a776-76a64cce9655,"Hi there! I'm planning to enjoy a nice dinner and I'd love your help with something. I'm thinking of ordering a Spaghetti Carbonara with some extra Parmesan, and also a Spinach Artichoke Dip. Do you have any wine recommendations that would pair well with these dishes?",2113,1.211562
+a12ac93e-0987-4fa7-bc03-7383c10fd5c7,"Hi there! Yes, the Spaghetti Carbonara with extra Parmesan and the Spinach Artichoke Dip sound perfect. However, I won't be adding the glass of House Red Wine to my order today. 
+
+As for the Spaghetti Carbonara, I'd just like it prepared as you typically do with the extra Parmesan as requested. Thanks!",2464,0.924406
+52210ca0-cfcf-4635-914b-225c7fd15a0d,"Sure thing, the name for the order is Sofia Russo. And no, I don't need to add anything else to the order. Thanks!",2664,0.757188
+946a5238-9d33-4614-943e-1ba39a0bdaea,exit,2659,0.769403

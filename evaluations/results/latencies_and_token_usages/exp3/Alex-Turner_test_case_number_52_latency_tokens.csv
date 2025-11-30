@@ -1,0 +1,26 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+0615b169-25a3-4932-85dd-fd249bf99571,"Hello there! This is Alex Turner. I'm looking to place an order today and I have some specific preferences. Could I please get the Vegetable Stir Fry? I'd like to add tofu as a protein add-on, choose brown rice for the base, and I'd like it to be hot on the spice level.
+
+Also, I want to ensure that there are no cross-contamination risks with animal products in the preparation. Could you please confirm that for me?",2120,2.6428
+7fa37559-2d66-4730-8a66-61c8fcdd2803,"No, that's all for today, thanks! Could you confirm the total price for me, please?",4672,6.759355
+78e57fb4-9bce-4996-89ce-563a9bf940b4,"Hey there, it's Alex. Looks like there's a bit more I need with my order. Can you please add brown rice and make it hot for the spice level to the Vegetable Stir Fry? Just want to ensure everything aligns with my vegan preferences. Thanks!",2235,3.479329
+06c3bfd7-91b7-47bc-aa26-cc02ac7de9c3,"Yes, I'd like to confirm this Vegetable Stir Fry order for pickup, please! Could I arrange to pick it up in about 30 minutes? Thanks!",3568,5.414469
+f50e1b3e-3c60-4f49-b4a2-e3005b6586e6,"It looks like I haven't placed any order yet. Let's get that started. I'd like to order a Vegetable Stir Fry, please. Can you add Tofu as a protein add-on, choose Brown Rice for the rice choice, and make it hot? Thanks!",2225,2.759782
+f5775f88-09e2-4fbb-a32f-f354f52909dd,"Hi, thanks for confirming. I'm just double-checking to make sure everything is perfectly aligned with what I need. Could you confirm that the Vegetable Stir Fry is fully vegan with the tofu add-on and that there won't be any cross-contamination with animal products during preparation? It's really important for me. Also, the total price and modifiers look good, so I'll confirm the order for pickup once we clear up these points. Thanks!",2364,2.687297
+935840c0-734c-4b27-99f6-99b729494d9a,"I appreciate the care you're taking, but I notice there’s a small difference in the order tracking. Could we make sure that the tofu added is charged appropriately, as the base price seems a bit off? The tofu add-on is meant to be $4.00, making the total $18.99.
+
+Could you please adjust that and confirm once done?",3782,6.456377
+092b2e5f-61d5-42f1-9d98-6cf687d5211b,"Hi there! Thanks for confirming the items. Before placing the order, I just want to ensure that there's no cross-contamination with any animal products in preparation. Could you let me know about your kitchen practices regarding that? And once that's clear, I’m good to confirm this order for pickup in 30 minutes!",3674,6.26799
+3042d893-994c-4055-ba59-ba0c00189187,"Hey there! Thanks for that confirmation. I just want to make sure everything's in line before we proceed. 
+
+Can you add that Vegetable Stir Fry with tofu to my order? I've got:
+- Vegetable Stir Fry
+  - Protein Add-on: Tofu
+  - Rice Choice: Brown Rice
+  - Spice Level: Hot
+
+That sounds perfect for me. Could you confirm once it's added to the order? Also, just to triple-check, the stir fry will be prepared with separate utensils to avoid any contact with animal products, right?",2333,2.934455
+838d06fc-386a-4bb7-9af7-d0ba57d6805e,"Yes, that sounds perfect! I'm ready to confirm the order for pickup in 30 minutes. Thanks!",2201,3.301938
+ebe783fc-42e5-4763-b9e8-a0bf801260d0,"Hey, just to clarify a bit here—I'm Alex Turner. Could we go over the order again and make sure it fits my vegan needs? I want to be sure there's no cross-contamination with animal products, and I'll need to confirm it includes the Tofu as the protein add-on, with brown rice, and the spice level should be hot. Also, please confirm the total as $18.99. Let's make sure everything's perfect before picking up at The Garden Bistro. Thanks!",2273,2.480057
+d19aca1e-85ca-4bbc-9d1d-08d0d0e765d1,"I appreciate the care you've taken to avoid cross-contamination with animal products. It looks like everything in that order recap is correct. I'll go ahead with ordering the **Vegetable Stir Fry** with the **Tofu** protein add-on, **Brown Rice**, and the **Hot** spice level. Can you please confirm once that's all finalized? Thanks!",2270,2.627425
+054e2acc-ee18-4edf-9641-0825ec597305,exit,3360,4.595256

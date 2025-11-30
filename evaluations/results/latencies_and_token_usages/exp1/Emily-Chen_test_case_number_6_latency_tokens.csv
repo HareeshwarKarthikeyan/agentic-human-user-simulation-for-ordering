@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+b6f91aed-059e-49bb-9f1d-2d442e14b7ed,"Hi there! I’d like to place an order for pickup. I’ll have the Vegetable Stir Fry with tofu and brown rice, and a small Coca-Cola with light ice, please.",1217,1.2876169681549072
+441109ee-9874-46d4-9ac8-77561e7e6f4d,"No, that's all for me. Just the Vegetable Stir Fry with tofu and brown rice and the small Coca-Cola, please. What's the total?",1322,0.8303310871124268
+e0509627-6f0d-4b38-93e7-5185f80d336a,"Sure, it's Emily Chen.",1428,0.5526559352874756
+398c7962-1923-406f-81a2-8562a33c17d1,exit,1529,0.9788599014282227

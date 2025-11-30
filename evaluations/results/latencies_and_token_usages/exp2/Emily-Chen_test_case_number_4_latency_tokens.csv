@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+5c1e4012-40cd-44fe-aa4a-bf8ef974fd56,"Hi! I'd like to order some grilled Atlantic Salmon and a small Fresh Orange Juice, please.",2076,1.19018
+445e2794-a0bc-42c8-90c2-71768c9601e2,"I'd like the Atlantic Salmon grilled, please, and the Fresh Orange Juice without pulp.",2148,0.61144
+92fcce53-aee9-4125-813d-58d8249fba49,My name is Emily Chen. Thanks for confirming the total for my order!,2387,0.796678
+f0aee1cc-9905-4422-b937-fcbf312ba55d,exit,2522,0.891001

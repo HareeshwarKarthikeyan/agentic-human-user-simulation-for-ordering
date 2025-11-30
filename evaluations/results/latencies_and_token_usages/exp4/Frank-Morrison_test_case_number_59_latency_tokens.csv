@@ -1,0 +1,8 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+527f8ae6-77af-4a28-a811-0fae75cfc1d6,Hi there! I'm planning to treat my grandkids to some tasty food today. I was wondering if you could tell me a bit about your kid-friendly options. I'm thinking about ordering some items but want to make sure the portion sizes are good for sharing with kids!,2280,3.417126
+df9e18d2-5101-4f2a-96e8-35c9600273ab,"Hi, I'm Frank Morrison. Thanks for those kid-friendly options! They sound delightful, but I've got something specific in mind for today. Could I please order the Margherita Pizza in a Medium 14"" size? I think that's perfect for the kiddos to share.",2766,3.073044
+4b12dfab-72ae-44ce-8b00-4476af90a865,"Hi there! Thanks for offering the extra toppings, but I'll stick with just the regular Margherita Pizza as it is. Now, I'd like to add something else to my order. Could you tell me more about your Spaghetti Carbonara?",2670,2.994845
+2079aaee-169d-45d0-b71d-ff9bda384093,"Hi, it's Frank Morrison. Thanks for explaining the Spaghetti Carbonara! I’d like to order one of those, but without any extra protein, please. Could you also add two Apple Pies, both served à la mode? And could you confirm the total price for me?",2870,2.896813
+58323968-b2d7-4e55-92d7-93890495daef,I'd like to pick it up in about an hour. Thanks!,2024,0.652242
+6cf6f1d3-ffe8-4323-b822-bf718f72e848,The order is not correctly confirmed. The total should be **$59.96** as per my mental tracking. Please adjust the total or confirm what is correct in this situation.,3228,3.159045
+45db0a52-0517-4e7c-9187-df6495bca1bb,exit,3584,3.277764

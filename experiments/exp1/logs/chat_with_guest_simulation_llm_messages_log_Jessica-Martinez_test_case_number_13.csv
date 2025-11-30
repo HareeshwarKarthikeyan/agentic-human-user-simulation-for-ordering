@@ -1,0 +1,28 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+85aa6bb2-2bc9-4f47-8c3a-ee0df1f687ba,assistant,Hello! Thanks for calling The Garden Bistro. How can I help you today?,order_taking_llm,2025-08-30T05:28:03.806915+00:00,,,,,,-1.0
+341d2ed4-c06c-4c12-8cdb-bc788387a13c,agent,"Hi there! I’d like to place an order please. I want a Vegetable Stir Fry with tofu on medium spice, and a small Coca-Cola.",guest_simulation_llm,2025-08-30T05:28:05.052587+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1144, ""num_response_tokens"": 30, ""total_tokens"": 1174}",1245.5308437347412
+32dd2b0b-552d-4474-aa5b-b52f6ceb21bf,assistant,"Great choice! So just to confirm, you’d like the Vegetable Stir Fry with tofu and medium spice, and a small Coca-Cola. 
+
+Would you like anything else with that? Maybe a side or dessert?",order_taking_llm,2025-08-30T05:28:06.037369+00:00,,,,,,-1.0
+ec5553a2-cd09-4bd2-b4d6-16e9dbc747c1,agent,"No, just those two items, please. Can you confirm the price for the Vegetable Stir Fry with tofu and the small Coca-Cola?",guest_simulation_llm,2025-08-30T05:28:07.436911+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1241, ""num_response_tokens"": 27, ""total_tokens"": 1268}",1399.3031978607178
+2d26aa49-9534-42e7-ac84-811fd2f45b60,assistant,"Sure! Let's break that down:
+
+- The Vegetable Stir Fry is $14.99, and the tofu add-on is $4.00, so that's $18.99 in total for the stir fry.
+- The small Coca-Cola is $3.99.
+
+Adding them together, your total comes to $22.98. 
+
+Can I have your name for the order?",order_taking_llm,2025-08-30T05:28:08.829686+00:00,,,,,,-1.0
+f3ecc626-2bf5-4dcc-bc4d-298ca111ce03,agent,"Yes, it’s Jessica Martinez.",guest_simulation_llm,2025-08-30T05:28:09.550230+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1369, ""num_response_tokens"": 7, ""total_tokens"": 1376}",720.0748920440674
+ef0d0215-0938-40bd-b679-afe35f07d17b,assistant,"Thank you, Jessica! So just to confirm, your order is:
+
+- Vegetable Stir Fry with tofu and medium spice for $18.99
+- Small Coca-Cola for $3.99
+
+Total: $22.98. 
+
+Your order will be ready for pickup in 20 minutes. 
+
+Thank you for choosing The Garden Bistro! Is there anything else I can help you with today?",order_taking_llm,2025-08-30T05:28:11.034645+00:00,,,,,,-1.0
+a8f1879f-9bee-4ec4-9721-c69dbc34e8b4,agent,exit,guest_simulation_llm,2025-08-30T05:28:11.535305+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1480, ""num_response_tokens"": 1, ""total_tokens"": 1481}",500.3190040588379
+8b2e10a6-e7c1-436d-a7b5-4fa3bdfe713c,system,"{""guest_persona"": {""full_name"": ""Jessica Martinez"", ""order_size"": 2, ""order_complexity"": ""medium"", ""guest_bio"": ""A vegetarian college student on a budget who carefully reviews prices and portion sizes. Often asks about meat-free options and substitutions. Likes to know about daily specials and combo deals.""}, ""target_order"": {""order_items"": [{""name"": ""Vegetable Stir Fry"", ""quantity"": 1, ""base_price"": 14.99, ""modifiers"": [{""modifier_type_name"": ""Protein Add-on"", ""modifier_option_name"": ""Tofu"", ""is_required"": false, ""price"": 4.0}, {""modifier_type_name"": ""Spice Level"", ""modifier_option_name"": ""Medium"", ""is_required"": false, ""price"": 0.0}], ""item_total_price"": 18.99}, {""name"": ""Coca-Cola"", ""quantity"": 1, ""base_price"": 3.99, ""modifiers"": [{""modifier_type_name"": ""Size"", ""modifier_option_name"": ""Small"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 3.99}], ""order_total_price"": 22.98, ""reasoning"": ""Jessica Martinez chose vegetable stir fry with tofu for protein and a small Coke, balancing nutrition and budget for a Monday dinner.""}}",test_case_info,2025-08-30T05:28:11.535402+00:00,,,,,,-1.0

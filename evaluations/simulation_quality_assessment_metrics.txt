@@ -1,0 +1,317 @@
+SIMULATION QUALITY ASSESSMENT METRICS
+=====================================
+Detailed Logic and Mathematical Formulations
+=============================================
+
+This document provides comprehensive mathematical explanations for each metric used to evaluate
+the quality of guest simulation in restaurant ordering conversations.
+
+==============================================================================
+1. PERSONA ADHERENCE SCORE (PAS)
+==============================================================================
+
+PURPOSE:
+Measures how well the simulated guest maintains their assigned persona characteristics
+throughout the conversation, ensuring consistent behavioral patterns aligned with the
+predefined personality attributes.
+
+MATHEMATICAL FORMULATION:
+
+PAS = (1/N) × Σ(i=1 to N) [MS_i]
+
+Where:
+- N = Number of guest messages (excluding 'exit' messages)
+- MS_i = Message Score for message i
+
+MESSAGE SCORE CALCULATION:
+
+MS_i = Σ(j=1 to 4) [w_j × C_j]
+
+Where:
+- w_j = Weight for component j (all weights = 0.25)
+- C_j = Component score for attribute j
+
+COMPONENT SCORES:
+
+C₁ (Menu Exploration Style): 
+   C₁ = {1 if expected_exploration == actual_exploration, 0 otherwise}
+
+C₂ (Mood Tone):
+   C₂ = {1 if actual_mood ∈ expected_moods[], 0 otherwise}
+
+C₃ (Ordering Style):
+   C₃ = {1 if expected_ordering == actual_ordering, 0 otherwise}
+
+C₄ (Order Completion Status):
+   C₄ = {1 if expected_complete == actual_complete, 0 otherwise}
+
+FINAL FORMULA EXPANDED:
+
+PAS = (1/N) × Σ(i=1 to N) [0.25×C₁ᵢ + 0.25×C₂ᵢ + 0.25×C₃ᵢ + 0.25×C₄ᵢ]
+
+FALLBACK HEURISTIC (when persona attributes not found):
+For each message, score is computed based on keyword matching:
+- Busy professional: +0.33 for all_at_once ordering, +0.33 for no exploration, +0.34 for casual/frustrated mood
+- Curious/Explorer: +0.5 for explores_menu, +0.5 for enthusiastic/casual mood
+- Indecisive: +0.5 for one_by_one ordering, +0.5 for confused/casual mood
+- Family/Group: +0.5 for one_by_one ordering, +0.5 for explores_menu
+
+INTERPRETATION:
+- PAS ∈ [0, 1]
+- PAS = 1: Perfect persona adherence (all attributes match expectations)
+- PAS = 0: Complete persona mismatch
+- PAS > 0.8: Excellent persona consistency
+- PAS < 0.5: Poor persona representation
+
+==============================================================================
+2. BEHAVIORAL VARIANCE SCORE (BVS)
+==============================================================================
+
+PURPOSE:
+Measures realistic fluctuations in behavior to ensure the simulation exhibits
+natural human-like variations rather than robotic consistency.
+
+MATHEMATICAL FORMULATION:
+
+Step 1: Calculate transition rates for each behavioral dimension
+
+TR_ordering = (1/(M-1)) × Σ(i=2 to M) [δ(OS_i ≠ OS_{i-1})]
+TR_exploration = (1/(M-1)) × Σ(i=2 to M) [δ(ES_i ≠ ES_{i-1})]
+TR_mood = (1/(M-1)) × Σ(i=2 to M) [δ(MT_i ≠ MT_{i-1})]
+
+Where:
+- M = Number of behavioral states
+- OS_i = Ordering style at state i
+- ES_i = Exploration style at state i
+- MT_i = Mood tone at state i
+- δ(condition) = 1 if condition is true, 0 otherwise
+
+Step 2: Calculate average transition rate
+
+TR_avg = (TR_ordering + TR_exploration + TR_mood) / 3
+
+Step 3: Apply scoring function
+
+BVS = {
+    TR_avg / 0.2,                    if TR_avg ≤ 0.2
+    1 - (TR_avg - 0.2) / 0.8,        if TR_avg > 0.2
+}
+
+BVS_final = max(0, min(1, BVS))
+
+MATHEMATICAL INSIGHT:
+The scoring function is a piecewise linear function that:
+- Increases linearly from 0 to 1 as TR_avg goes from 0 to 0.2
+- Decreases linearly from 1 to 0 as TR_avg goes from 0.2 to 1
+
+This creates a peak at TR_avg = 0.2 (20% transition rate), representing optimal
+behavioral variance that mimics natural human conversation patterns.
+
+INTERPRETATION:
+- BVS ∈ [0, 1]
+- BVS = 1: Optimal variance (20% transition rate)
+- BVS = 0: No variance (static) or excessive variance (chaotic)
+- BVS > 0.7: Natural behavioral fluctuation
+- BVS < 0.3: Either too rigid or too erratic
+
+==============================================================================
+3. ORDER RESTRICTION ADHERENCE (ORA)
+==============================================================================
+
+PURPOSE:
+Measures how accurately the guest's final order matches their assigned target order,
+using F1-score to balance precision and recall.
+
+MATHEMATICAL FORMULATION:
+
+Step 1: Normalize all item names
+
+normalize(s) = lowercase(remove_special_chars(remove_filler_words(s)))
+
+Where filler_words = {the, a, an, with, and, or, of, in, on, at}
+
+Step 2: Extract item sets
+
+T = {normalize(item) : item ∈ target_order}
+C = {normalize(item) : item ∈ current_order}
+
+Step 3: Calculate Precision and Recall
+
+Precision = |C ∩ T| / |C|  (if |C| > 0, else 0)
+Recall = |C ∩ T| / |T|     (if |T| > 0, else 0)
+
+Step 4: Calculate F1-Score
+
+ORA = 2 × (Precision × Recall) / (Precision + Recall)  (if sum > 0, else 0)
+
+EXPANDED FORMULA:
+
+ORA = 2 × |C ∩ T|² / (|C| × |T| + |C ∩ T| × (|C| + |T| - |C ∩ T|))
+
+MATHEMATICAL PROPERTIES:
+- ORA is symmetric: F(C,T) = F(T,C)
+- ORA is the harmonic mean of precision and recall
+- ORA penalizes both missing items (low recall) and extra items (low precision)
+
+INTERPRETATION:
+- ORA ∈ [0, 1]
+- ORA = 1: Perfect order match
+- ORA = 0: No overlap between target and actual order
+- ORA > 0.9: Excellent order accuracy
+- ORA < 0.5: Significant order deviation
+
+
+==============================================================================
+4. DECISION EXPLAINABILITY INDEX (DEI)
+==============================================================================
+
+PURPOSE:
+Measures the degree to which the system's decisions are explainable and traceable
+through tool usage patterns.
+
+MATHEMATICAL FORMULATION:
+
+For Experiment 5 (Full System):
+DEI = min(1.0, ED / (N × 2))
+
+Where:
+ED = Σ(i=1 to N) [has_order_tracking_i + has_behavioral_tracking_i]
+
+For Experiment 4 (Message Attributes Only):
+DEI = min(0.5, (ED / N) × 0.5)
+
+Where:
+ED = Σ(i=1 to N) [has_message_attributes_i]
+
+For Experiment 3 (Order Tracking Only):
+DEI = min(0.5, (ED / N) × 0.5)
+
+Where:
+ED = Σ(i=1 to N) [has_order_tracking_i]
+
+For Experiment 2 (Basic Tools):
+DEI = min(0.2, (ED / N) × 0.2)
+
+Where:
+ED = Σ(i=1 to N) [has_basic_tools_i]
+
+For Experiment 1 (No Tools):
+DEI = 0
+
+MATHEMATICAL PROPERTIES:
+- DEI is capped at different levels per experiment type
+- DEI increases monotonically with tool usage frequency
+- Maximum DEI reflects the explainability capacity of each experiment
+
+INTERPRETATION:
+- DEI ∈ [0, 1]
+- DEI = 1: Full explainability (only possible in Exp 5)
+- DEI = 0: No explainability (Exp 1)
+- Higher DEI indicates better decision traceability
+
+==============================================================================
+6. COMPOSITE REALISM & RELIABILITY SCORE (CRRS)
+==============================================================================
+
+PURPOSE:
+Provides a single unified score that combines all individual metrics using
+strategically assigned weights that reflect each metric's importance to overall
+simulation quality.
+
+MATHEMATICAL FORMULATION:
+
+CRRS = Σ(m ∈ M) [w_m × S_m]
+
+Where:
+- M = {PAS, BVS, ORA, DEI}
+- w_m = Weight for metric m
+- S_m = Score for metric m
+
+UNIVERSAL WEIGHTS:
+
+The weights are fixed across all experiments to ensure consistent evaluation:
+
+w_PAS = 0.25  (Persona adherence - essential for realism)
+w_BVS = 0.20  (Behavioral variance - adds naturalness)
+w_ORA = 0.35  (Order accuracy - primary task, most critical)
+w_DEI = 0.20  (Decision explainability - system validation)
+
+WEIGHT RATIONALE:
+
+1. Order Restriction Adherence (ORA) - 35%:
+   - Highest weight as it measures the primary task performance
+   - Directly correlates with successful order completion
+   - Most objective and measurable metric
+
+2. Persona Adherence Score (PAS) - 25%:
+   - Second highest weight for maintaining character consistency
+   - Essential for realistic human simulation
+   - Balances task performance with behavioral realism
+
+3. Behavioral Variance Score (BVS) - 20%:
+   - Moderate weight for natural conversation flow
+   - Prevents robotic/repetitive behavior patterns
+   - Adds human-like unpredictability
+
+4. Decision Explainability Index (DEI) - 20%:
+   - Moderate weight for system transparency
+   - Varies by experiment level (0 for Exp1, up to 1.0 for Exp5)
+   - Natural adjustment mechanism for different system capabilities
+
+FINAL FORMULA:
+
+CRRS = 0.25×PAS + 0.20×BVS + 0.35×ORA + 0.20×DEI
+
+MATHEMATICAL PROPERTIES:
+- CRRS ∈ [0, 1] (since all component metrics ∈ [0, 1])
+- CRRS is a convex combination of metrics
+- ∂CRRS/∂ORA = 0.35 (highest sensitivity to order accuracy)
+- ∂CRRS/∂BVS = 0.20 (lowest sensitivity to behavioral variance)
+
+INTERPRETATION:
+- CRRS ∈ [0, 1]
+- CRRS > 0.85: Excellent overall simulation quality
+- CRRS ∈ [0.70, 0.85]: Good simulation quality
+- CRRS ∈ [0.50, 0.70]: Acceptable simulation quality
+- CRRS < 0.50: Poor simulation quality
+
+==============================================================================
+METRIC INTERACTIONS AND TRADE-OFFS
+==============================================================================
+
+1. PAS vs BVS Trade-off:
+   High PAS (strict persona adherence) may reduce BVS (behavioral variance).
+   Optimal balance: PAS ≈ 0.8, BVS ≈ 0.7
+
+2. ORA vs Exploration:
+   High exploration (part of BVS) may temporarily reduce ORA if guest explores
+   before settling on target items.
+
+3. DEI Enhancement:
+   Higher DEI (more tool usage) generally improves all other metrics by
+   providing better decision support.
+
+4. Composite Optimization:
+   max(CRRS) ≠ max(PAS) + max(BVS) + max(ORA) + max(DEI)
+   The weighted combination encourages balanced performance.
+
+==============================================================================
+STATISTICAL VALIDATION
+==============================================================================
+
+For comparing metrics across experiments, use:
+
+1. Welch's t-test for mean comparison:
+   t = (μ₁ - μ₂) / √(σ₁²/n₁ + σ₂²/n₂)
+
+2. Cohen's d for effect size:
+   d = |μ₁ - μ₂| / σ_pooled
+
+3. 95% Confidence Intervals:
+   CI = μ ± 1.96 × (σ/√n)
+
+Where significance threshold α = 0.05 (two-tailed).
+
+==============================================================================
+END OF DOCUMENT
+==============================================================================

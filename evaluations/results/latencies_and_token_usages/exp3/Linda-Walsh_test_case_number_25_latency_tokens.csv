@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+f7386f9a-df51-4a47-b282-a6f35cd485ec,"Hi, this is Linda Walsh. I'd like to order my usual, which is just one French Onion Soup, please.",1973,2.144185
+6cdc95c3-bb5b-4977-a781-adab3ba196b7,"Hi there! Yes, I'll take that French Onion Soup, but just in the regular size, please. I'm not looking for any additional charges. Could you add that to my order?",2022,2.671433
+555c001d-d364-4f32-baca-dc04bb74988a,"No, thank you. Just the French Onion Soup will do for me today. Could you confirm the total price for me, please?",2043,2.941725
+5551faf1-2405-4906-89e5-6490baf69ad9,My name's Linda Walsh. Looks like my order is all set with the French Onion Soup. Thanks!,1980,3.019154
+e86a0806-369c-458c-ac70-a19f7e0d6dcc,"Oh, hold on a second! I just received the confirmation from someone at The Garden Bistro, but it looks like my French Onion Soup order hasn't been tracked yet on my end. Can you make sure it's officially placed under my name, Linda Walsh? Thanks!",2083,2.682792
+693e8993-36bf-4cf5-8ea0-bc89fff15af0,exit,2055,2.640151

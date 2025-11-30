@@ -1,0 +1,41 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+8ed6a281-93e4-4f85-b841-30bb9a8e5322,assistant,Hello! Thank you for calling The Garden Bistro. How can I help you today?,order_taking_llm,2025-08-30T05:32:28.991984+00:00,,,,,,-1.0
+9dc8d920-9e23-4ad5-97df-3c102ab6ac61,agent,"Hi there! I’d like to place an order for pick-up. 
+
+I want one Atlantic Salmon, grilled, please. Then I’d like one Grilled Chicken Sandwich with a side salad instead of fries. And for a drink, I’ll take a large Fresh Orange Juice. 
+
+Can you confirm that for me?",guest_simulation_llm,2025-08-30T05:32:30.321774+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1188, ""num_response_tokens"": 64, ""total_tokens"": 1252}",1329.42795753479
+ca94a06a-2256-410c-84b3-54e221b70241,assistant,"Absolutely, I can help with that! Just to confirm, here's your order:
+
+1. Atlantic Salmon, grilled
+2. Grilled Chicken Sandwich with a side salad
+3. Large Fresh Orange Juice
+
+Before we finish up, would you like to add any sauces or extras to your chicken sandwich, like cheese or bacon?",order_taking_llm,2025-08-30T05:32:31.854552+00:00,,,,,,-1.0
+1404434c-4f54-45a7-ba8d-167384995a8d,agent,"No, just the sandwich as is with the side salad, please. Can you confirm the total price for that order?",guest_simulation_llm,2025-08-30T05:32:32.757840+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1342, ""num_response_tokens"": 24, ""total_tokens"": 1366}",902.6589393615723
+7d36c5a3-bda7-4395-9fb7-dbb036ce6b5c,assistant,"Sure thing! Let me add that up for you.
+
+1. Atlantic Salmon: $26.99
+2. Grilled Chicken Sandwich: $14.99
+3. Large Fresh Orange Juice: $5.99
+
+Now adding that all together: 
+- Salmon: $26.99
+- Chicken Sandwich: $14.99
+- Orange Juice: $5.99
+
+That brings your total to $47.97. 
+
+Do you have a name for the order?",order_taking_llm,2025-08-30T05:32:34.721127+00:00,,,,,,-1.0
+5ddde899-2b82-40bd-bb6c-a66ec89c7d04,agent,"Yes, it's Marcus James. Can you confirm my order for me?",guest_simulation_llm,2025-08-30T05:32:35.542278+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1489, ""num_response_tokens"": 14, ""total_tokens"": 1503}",820.5361366271973
+af0eb5ce-a76f-4541-8661-5f0f4d57c00d,assistant,"Great, Marcus! Here's your complete order:
+
+1. Atlantic Salmon, grilled - $26.99
+2. Grilled Chicken Sandwich with a side salad - $14.99
+3. Large Fresh Orange Juice - $5.99
+
+Total: $47.97
+
+Your order will be ready for pickup in 20 minutes. Thank you for choosing The Garden Bistro, Marcus! Let me know if there's anything else I can help you with today.",order_taking_llm,2025-08-30T05:32:37.689803+00:00,,,,,,-1.0
+d8883cc5-e107-44bd-80eb-abf0cbbc7b15,agent,exit,guest_simulation_llm,2025-08-30T05:32:38.229956+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1620, ""num_response_tokens"": 1, ""total_tokens"": 1621}",539.6568775177002
+4c730916-f3be-456d-ba22-f2c21b0aa366,system,"{""guest_persona"": {""full_name"": ""Marcus James"", ""order_size"": 3, ""order_complexity"": ""medium"", ""guest_bio"": ""A fitness trainer who counts macros and needs specific nutritional modifications. Asks about protein content, cooking methods, and portion weights. Often requests double protein or no carbs.""}, ""target_order"": {""order_items"": [{""name"": ""Atlantic Salmon"", ""quantity"": 1, ""base_price"": 26.99, ""modifiers"": [{""modifier_type_name"": ""Preparation"", ""modifier_option_name"": ""Grilled"", ""is_required"": false, ""price"": 0.0}], ""item_total_price"": 26.99}, {""name"": ""Grilled Chicken Sandwich"", ""quantity"": 1, ""base_price"": 14.99, ""modifiers"": [{""modifier_type_name"": ""Side Choice"", ""modifier_option_name"": ""Side Salad"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 14.99}, {""name"": ""Fresh Orange Juice"", ""quantity"": 1, ""base_price"": 5.99, ""modifiers"": [{""modifier_type_name"": ""Size"", ""modifier_option_name"": ""Large"", ""is_required"": true, ""price"": 2.0}], ""item_total_price"": 7.99}], ""order_total_price"": 49.97, ""reasoning"": ""Marcus James chose Thursday meal prep order: grilled salmon for omega-3s, chicken sandwich with salad instead of fries, and large OJ for post-workout vitamins.""}}",test_case_info,2025-08-30T05:32:38.230428+00:00,,,,,,-1.0

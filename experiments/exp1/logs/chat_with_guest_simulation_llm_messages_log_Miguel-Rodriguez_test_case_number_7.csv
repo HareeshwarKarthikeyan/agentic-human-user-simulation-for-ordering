@@ -1,0 +1,35 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+002f3ec8-9069-4236-8c59-40d8c317dc9f,assistant,Hi there! Thanks for calling The Garden Bistro. How can I help you today?,order_taking_llm,2025-08-30T05:26:13.581761+00:00,,,,,,-1.0
+88c1e9bc-c402-498b-b7e0-2f1830f4672c,agent,"Hi! I’d like to place an order for a family dinner. Can I get one Ribeye Steak cooked Medium Rare with Chimichurri sauce and a side upgrade to Truffle Mac and Cheese? Also, I’d like one Spinach Artichoke Dip with Pita Bread, and finally, a House Red Wine in a 9oz glass.",guest_simulation_llm,2025-08-30T05:26:15.526296+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1306, ""num_response_tokens"": 72, ""total_tokens"": 1378}",1944.045066833496
+fa0e2ceb-5b73-4f68-95c0-769aaaa7d965,assistant,"That sounds like a delicious dinner! Just to confirm your order:
+
+1. One Ribeye Steak, cooked Medium Rare, with Chimichurri sauce and a side upgrade to Truffle Mac and Cheese.
+2. One Spinach Artichoke Dip with Pita Bread.
+3. One House Red Wine in a 9oz glass.
+
+Let me quickly calculate the total for you. 
+
+- Ribeye Steak: $42.99
+- Chimichurri sauce (side): $3.00
+- Side upgrade to Truffle Mac and Cheese: $6.00
+- Spinach Artichoke Dip: $11.99
+- Pita Bread: $2.00
+- House Red Wine (9oz glass): $4.00
+
+Now, let me see... that comes to a total of **$69.98**. 
+
+Can I get your name for the order?",order_taking_llm,2025-08-30T05:26:19.863470+00:00,,,,,,-1.0
+842cf9f2-941a-4d1c-b7c7-b9dba59ee319,agent,It's Miguel Rodriguez. ,guest_simulation_llm,2025-08-30T05:26:20.954493+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1588, ""num_response_tokens"": 5, ""total_tokens"": 1593}",1090.4912948608398
+fcb33328-bd99-40bf-97bf-40b2374143dc,assistant,"Thank you, Miguel! Just to recap your order:
+
+1. One Ribeye Steak, cooked Medium Rare, with Chimichurri sauce and a side upgrade to Truffle Mac and Cheese.
+2. One Spinach Artichoke Dip with Pita Bread.
+3. One House Red Wine in a 9oz glass.
+
+Your total is **$69.98**. 
+
+Your order will be ready for pickup in 20 minutes. 
+
+Thank you for choosing The Garden Bistro! If you need anything else, just let me know!",order_taking_llm,2025-08-30T05:26:23.057667+00:00,,,,,,-1.0
+7678df81-90bf-42d6-96c1-468a89debe32,agent,exit,guest_simulation_llm,2025-08-30T05:26:23.716694+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1729, ""num_response_tokens"": 1, ""total_tokens"": 1730}",658.5800647735596
+2d1946b7-ee58-42cb-a131-b51fe515d5cd,system,"{""guest_persona"": {""full_name"": ""Miguel Rodriguez"", ""order_size"": 3, ""order_complexity"": ""complex"", ""guest_bio"": ""A food enthusiast who loves trying different combinations and customizations. Often orders for family gatherings and enjoys exploring menu options. Has specific dietary preferences and isn't afraid to make special requests.""}, ""target_order"": {""order_items"": [{""name"": ""Ribeye Steak"", ""quantity"": 1, ""base_price"": 42.99, ""modifiers"": [{""modifier_type_name"": ""Temperature"", ""modifier_option_name"": ""Medium Rare"", ""is_required"": true, ""price"": 0.0}, {""modifier_type_name"": ""Sauce"", ""modifier_option_name"": ""Chimichurri"", ""is_required"": false, ""price"": 3.0}, {""modifier_type_name"": ""Side Upgrade"", ""modifier_option_name"": ""Truffle Mac and Cheese"", ""is_required"": false, ""price"": 6.0}], ""item_total_price"": 51.99}, {""name"": ""Spinach Artichoke Dip"", ""quantity"": 1, ""base_price"": 11.99, ""modifiers"": [{""modifier_type_name"": ""Bread Choice"", ""modifier_option_name"": ""Pita Bread"", ""is_required"": false, ""price"": 2.0}, {""modifier_type_name"": ""Extra"", ""modifier_option_name"": ""Extra Chips"", ""is_required"": false, ""price"": 3.0}], ""item_total_price"": 16.99}, {""name"": ""House Red Wine"", ""quantity"": 1, ""base_price"": 8.99, ""modifiers"": [{""modifier_type_name"": ""Pour Size"", ""modifier_option_name"": ""9oz Glass"", ""is_required"": true, ""price"": 4.0}], ""item_total_price"": 12.99}], ""order_total_price"": 81.97, ""reasoning"": ""Miguel Rodriguez ordered for a Saturday family dinner, exploring premium options with ribeye steak customized with chimichurri and truffle mac, spinach dip with extras, and wine for a special gathering.""}}",test_case_info,2025-08-30T05:26:23.716842+00:00,,,,,,-1.0

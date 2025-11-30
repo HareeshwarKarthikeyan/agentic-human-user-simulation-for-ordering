@@ -1,0 +1,21 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+8ed98bae-f884-40c3-b66f-46ef18b55a2a,"Hey there! I'm looking to place an order and explore some interesting menu options. Could you tell me a bit about your Fettuccine Alfredo? Specifically, I'd love to know about any protein or vegetable add-ons you offer.",2366,3.489483
+c7e287d5-e72f-4695-94b8-a59ae7f34d8a,"Hey, sure! For the Fettuccine Alfredo, can I get it with lobster and mushrooms? Also, my name's Carlos Mendez. While we're at it, could you tell me more about the margaritas you have? The flavors, the tequilas, you know, the whole works!",4290,3.459939
+08b1b3ad-cc28-4633-bc1c-98b763266a8b,"Hey, thanks for the info on the margaritas! Could I get the Margarita ""On the Rocks"" with a Mango flavor? Also, I'd like to upgrade to the premium tequila and go with a sugar rim. How does that sound?",3072,3.586865
+17c243d6-ac66-4aa5-a428-9b3d6cbd60e1,"Hmm, it looks like there might be a slight error in the total price. Let me clarify. Based on my mental tracking, the full breakdown should be:
+
+- Fettuccine Alfredo with Lobster ($12.00) and Mushrooms ($3.00) comes out to $31.99.
+- The Margarita ""On the Rocks"" with Mango flavor ($2.00), using premium tequila ($3.00), and with a sugar rim totals $15.99.
+
+That brings the grand total to $47.98. Could you please confirm if this is correct?",3236,2.708176
+0e9185e3-3acc-4237-af82-d87cf707bb86,"It seems like there might have been some confusion with the totals. Based on my understanding, the **Fettuccine Alfredo** with Lobster and Mushrooms adds up to $31.99, and the **Margarita ""On the Rocks""** with Mango flavor, premium tequila, and sugar rim totals $15.99. So, I'd expect the grand total to be $47.98. Could you double-check and confirm this, please? Also, the pickup name is Carlos Mendez.",3501,3.522622
+b8234820-fcc9-4ba4-b7ba-919ba7743903,"Hmm, thanks for trying to clarify, but based on what I know, the Fettuccine Alfredo with Lobster and Mushrooms should be $31.99, and the Margarita ""On the Rocks"" with Mango and premium tequila totals $15.99. I believe the total should be $47.98 if I've got it right. Could you double-check that with your system one more time, please?",3706,4.137069
+55849c07-e3e3-416e-8d1d-78940c46446e,"Hmmm, while I’ve got your menu details in mind, I may have something off about the totals. Just to ensure we get this right, could you recheck and confirm if the **Fettuccine Alfredo** with Lobster and Mushrooms totals $31.99, and the **Margarita ""On the Rocks""** with Mango flavor using premium tequila comes to $15.99? I mean, from my culinary exploration vibe, I'm anticipating around $47.98. Mind double-checking this once again?",3952,3.272097
+54a370a8-3f79-4317-88a3-a760a048b7be,"It seems there's a persistent discrepancy regarding the totals. Based on my culinary expertise, I've calculated:
+
+1. **Fettuccine Alfredo** with Lobster and Mushrooms should be **$31.99**,
+2. **Margarita ""On the Rocks""** with Mango flavor and premium tequila should be **$15.99**.
+
+Let's make sure these figures are absolutely spot-on. Could we verify one more time, please?",4251,3.363414
+0357397e-3a24-40ed-9b4d-25b8851a1c71,"Hey, just to clarify, the **Fettuccine Alfredo** with Lobster and Mushrooms actually should be $31.99 after adding the base price and the extras, and the **Margarita ""On the Rocks""** with Mango and premium tequila should be $15.99, as you're expecting. I think this sums to around **$47.98** for the total. Can we double-check on this? I'm a bit into the nitty-gritty of menu details, as you might tell!",4541,5.466376
+41132731-182a-4f5b-a2f1-cb5fcd2ad51b,exit,4733,3.682152

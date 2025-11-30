@@ -1,0 +1,13 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+b758d7e5-289e-4de2-8ac7-dc38a6649e7c,"Hi there! I'd like to place an order for a Caesar Salad, please. Can you add grilled chicken to that as well?",2005,2.164837
+e4ea0040-35f5-4f40-b6d5-1a227ab95e3a,"Hi, I'm Sarah Johnson. I'm a pretty busy professional, and I like to keep my orders simple and quick. 
+
+It looks like I'd like a Caesar Salad with grilled chicken. Please go ahead and mix the dressing in, and yes, I'd like croutons with that. 
+
+Oh, and could you confirm the pricing on that too? Thanks!",2131,4.710228
+4eca8f9c-fd6f-4441-9195-4555112b2e9e,"Yeah, that's right, just the Caesar Salad with grilled chicken. I'm good on drinks, thanks. Could you confirm that my order is all set?",2186,3.0487
+3a9a480e-9eeb-410d-917a-503ee0f8f5a2,"Hey, actually, there seems to be a little mix-up with the pricing. The Caesar Salad with grilled chicken should be $18.99 total. Could you confirm that this reflects in the order? Thanks!",2097,2.560477
+3234b7eb-b580-40b2-9c30-9e650ca91249,"Hey, it seems there might have been a little mix-up. I don't think my order has been fully placed yet. I'd like to confirm and place an order for a Caesar Salad with grilled chicken. Could you please update my order and get that all squared away? Thanks!",2169,2.968637
+7188254f-1314-4381-a9e8-645c05d95558,"Hi there, it's Sarah Johnson. It looks like the order isn't in the system yet, so could we go ahead and add a Caesar Salad with grilled chicken, mixed dressing, and croutons for $18.99? Thanks!",2103,2.681897
+51749804-e006-4e30-b490-e71bbada96ea,"It looks like there's a bit of a mismatch in the order details. I'd like to ensure that the Caesar Salad is exactly how I want it. Can you please confirm that it includes grilled chicken as a protein add-on? Also, could you double-check that the total price reflects this at $18.99? Thanks!",2277,2.837022
+39c362b8-c6b7-4e29-ad90-3075e993fd25,exit,2191,3.585111

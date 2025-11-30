@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+50fa3b5c-5018-4c64-8d91-f2a40e5f8cf2,"Hi! I’m Priya, and I need to place an order for a kids' soccer team lunch. Can I get two Grilled Chicken Sandwiches with Fruit Cups and two Fettuccine Alfredos? Oh, and could you let me know if there are any bulk order discounts and also confirm the total cost for me?",2147,1.177713
+5635b044-9018-48a3-a480-b183b65e9776,"Hi! For the Grilled Chicken Sandwiches, let's go with Pepper Jack cheese. I'll keep the Fettuccine Alfredos plain, as I had intended. Could you finalize my order as is? I don't need any drinks at the moment. Thank you!",2997,1.02528
+69a57b0f-6ed7-4809-8662-05a69540003b,"Yes, that sounds perfect. My name is Priya Patel. The order and pickup time are all good. Thank you!",2136,0.983858
+f265ad43-8ade-4602-8798-587e8ab928ec,exit,2873,0.81887

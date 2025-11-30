@@ -1,0 +1,22 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+169aec15-7d07-4edb-bb63-cf0ca6019355,assistant,Hello! Thank you for calling The Garden Bistro. How can I help you today?,order_taking_llm,2025-08-30T05:28:42.469496+00:00,,,,,,-1.0
+acac5b98-0e6f-4e78-80d3-bcf1e980c909,agent,"Hi, I'd like to order a Classic Burger, please. I'd like it cooked medium with American cheese and a side of French fries.",guest_simulation_llm,2025-08-30T05:28:45.633926+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1108, ""num_response_tokens"": 27, ""total_tokens"": 1135}",3164.3033027648926
+620fa214-c612-4182-9587-8ad669ab28c4,assistant,"Great choice! Just to confirm, that’s a Classic Burger cooked medium, with American cheese, and a side of French fries. 
+
+Would you like to add a drink to that?",order_taking_llm,2025-08-30T05:28:46.743982+00:00,,,,,,-1.0
+b7dba601-8327-4140-bc78-eae012dcc119,agent,"No, just the burger and fries, please. How much will that be?",guest_simulation_llm,2025-08-30T05:28:49.741359+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1197, ""num_response_tokens"": 16, ""total_tokens"": 1213}",2997.2660541534424
+3d74c2d8-7181-4b44-b2c6-cccc8f08f538,assistant,"Alright! Let me calculate that for you: 
+
+- Classic Burger: $15.99  
+- American Cheese: +$1.50  
+- French Fries: $0.00  
+
+That brings your total to $17.49. 
+
+Can I have a name for the order, please?",order_taking_llm,2025-08-30T05:28:51.282411+00:00,,,,,,-1.0
+e180eff9-de6f-4dca-a31d-864742c31165,agent,It's Robert Kim.,guest_simulation_llm,2025-08-30T05:28:53.946914+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1298, ""num_response_tokens"": 4, ""total_tokens"": 1302}",2663.828134536743
+7f4f06aa-0770-4b59-9c2c-e6c8077a4751,assistant,"Thank you, Robert! Just to recap your order: a Classic Burger cooked medium with American cheese and a side of French fries, for a total of $17.49. 
+
+Your order will be ready for pickup in 20 minutes. Thank you for choosing The Garden Bistro! Have a great day!",order_taking_llm,2025-08-30T05:28:55.178401+00:00,,,,,,-1.0
+49ff8812-3d2c-4cc4-86b3-ab4267a347a7,agent,exit,guest_simulation_llm,2025-08-30T05:28:57.427397+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1388, ""num_response_tokens"": 1, ""total_tokens"": 1389}",2248.85892868042
+1dca5d77-78f8-4662-90e3-2affd0abf7fc,system,"{""guest_persona"": {""full_name"": ""Robert Kim"", ""order_size"": 1, ""order_complexity"": ""medium"", ""guest_bio"": ""A retired veteran with traditional tastes who orders the same few dishes regularly. Appreciates consistency and gets confused by too many options. Prefers classic preparations and is hesitant about trendy ingredients.""}, ""target_order"": {""order_items"": [{""name"": ""Classic Burger"", ""quantity"": 1, ""base_price"": 15.99, ""modifiers"": [{""modifier_type_name"": ""Meat Temperature"", ""modifier_option_name"": ""Medium"", ""is_required"": true, ""price"": 0.0}, {""modifier_type_name"": ""Cheese"", ""modifier_option_name"": ""American"", ""is_required"": false, ""price"": 1.5}, {""modifier_type_name"": ""Side Choice"", ""modifier_option_name"": ""French Fries"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 17.49}], ""order_total_price"": 17.49, ""reasoning"": ""Robert Kim ordered a Classic Burger with American cheese cooked medium for a Friday dinner, choosing traditional toppings and preparation he trusts.""}}",test_case_info,2025-08-30T05:28:57.427438+00:00,,,,,,-1.0

@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+2727a508-d90e-41fc-8588-2898ff275dc7,"Hi! I’d like to place an order for a Filet Mignon, please. I want it cooked medium rare, and could I get the Hollandaise sauce on the side? Also, I’d like a New York Cheesecake with strawberry and chocolate sauce toppings. What's the total for that?",1244,1.5702950954437256
+20158e6d-730a-4193-866a-ad2686db1b6a,It's Rachel. And can you please make sure to present the Filet Mignon nicely for photos?,1464,1.4997317790985107
+40259992-552c-4b36-8262-d59bfdca1927,exit,1589,1.0858230590820312

@@ -1,0 +1,43 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+6f5513d0-d464-46f9-a12d-519ab6a80e60,"Hi there! I'd like to place an order for my family. Could I start by ordering a large 18"" Margherita Pizza with a gluten-free crust?",3594,4.506568
+9ab73bc4-0adc-4a3c-b4e6-38de0cc64182,"Hi there! I'm actually looking to order a large 18"" Margherita Pizza with a gluten-free crust, just as is. No extra toppings, thank you. Could you also add a Caesar Salad with no croutons and two small Fresh Orange Juices to my order? I'd appreciate it if you could confirm all the details and let me know the total price.",3696,3.89155
+4114fbf2-7189-4804-9eb9-ef33c93c1db3,"Hey, it's David Thompson here. It looks like the items you mentioned earlier don't exactly match what I need. I actually need a large 18"" Margherita Pizza with a gluten-free crust, and could you make sure the charge's right for that, considering the size difference? Also, for the Fresh Orange Juices, they should be small-sized as well. Let's make sure everything lines up before finalizing the order. 
+
+And nope, no additional drinks or desserts, thanks! Just stick with the order we've got.",2686,18.148246
+53786331-1d92-4d32-8f22-c503c06a6e2a,"Hey, looks like there's been a bit of a mix-up. I was actually aiming to order:
+
+- One Large 18"" Margherita Pizza with a gluten-free crust
+- A Caesar Salad with no croutons
+- Two small Fresh Orange Juices
+
+Could we get the Margherita Pizza and Caesar Salad added to the order, please? Thanks for your help!",2541,3.679211
+d4246fb5-30ba-401d-93fe-2e0f336231a4,"Sure, you can put the order under the name David Thompson. Let's make sure we have everything right:
+
+- **One Large 18"" Margherita Pizza** with a gluten-free crust
+- **One Caesar Salad** with no croutons
+- **Two small Fresh Orange Juices**
+
+Please make sure the pizza and the juices are added to the order as well. Once everything is confirmed and placed, I'll be good to go!",3776,5.544104
+8c8ae3fb-1e1b-44c2-9979-d31cae9e368b,"It looks like the pizza order details don't match what I intended. I wanted the Large Margherita Pizza with a gluten-free crust priced at $27.99, but it seems there are discrepancies. Could we confirm the crust and price adjustments on that? Also, ensure the salad is without croutons and the juices are small size. Thanks!",2482,3.380998
+2c60b955-3d23-4ea4-97fa-1d37f8889cda,"Thanks for the breakdown! Just to ensure everything's correct, it looks like I've confirmed the Caesar Salad already, but I still need to add a few other items to match the original order:
+
+- Large 18"" Margherita Pizza with a gluten-free crust
+- Two small Fresh Orange Juices
+
+Could you please add those for me? Once that's done, could you also confirm the total price for me again? Thanks!",4203,6.836882
+3e22f575-5c70-448f-99df-b3fb34f0d718,"Thanks for this. It looks like you've noted down two small Fresh Orange Juices correctly. However, it seems the Margherita Pizza and the Caesar Salad are not yet included in my current order.
+
+For the Margherita Pizza, it should be one Large 18"" with a gluten-free crust, priced at $27.99 total. Please add this along with the Caesar Salad, which should be with no croutons at $12.99. Once those are added and confirmed, I’ll be good to go! Can you please update that for me?",2485,3.437434
+c9c5d3d6-5f6e-41c9-91ce-faf00810385d,"Hey, it's David here! Thanks for getting that together. Just a quick note, the current order is close but not quite right. The Margherita Pizza should be $27.99 with the gluten-free crust and a large 18"" option. Could you make sure that gets adjusted? Everything else looks spot on.
+
+Once you've updated that, I'll be all set, and thank you for helping me navigate these details!",2572,3.838778
+75d41375-7ea8-4c39-8513-5489ec6ef1bf,"Ah, I see where the discrepancy is coming from. The target order actually specifies a Large 18"" Margherita Pizza with gluten-free crust at a total of $27.99. Here's the breakdown you're looking for:
+
+- **One Large 18"" Margherita Pizza:** $16.99 (base price) + $8.00 (Large size) + $3.00 (gluten-free crust) = **$27.99**
+- **One Caesar Salad with no croutons:** **$12.99**
+- **Two Small Fresh Orange Juices:** 2 x $5.99 = **$11.98**
+
+This should correctly match the target order and bring the corrected total to **$52.96**.
+
+Can you adjust the pricing to reflect that total? I just need to clarify it's for David Thompson, and once confirmed, we'll be all set for pickup in 20 minutes! Thank you for your understanding!",2773,3.892512
+face0d09-79af-49aa-9400-4a74f35efb8e,exit,2633,3.662158

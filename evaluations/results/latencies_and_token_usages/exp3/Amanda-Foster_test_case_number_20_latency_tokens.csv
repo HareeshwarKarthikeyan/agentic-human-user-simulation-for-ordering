@@ -1,0 +1,59 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+0348564b-b198-451e-8ec2-8565fff77a51,Hi there! I'd like to place an order for our team lunch. Let me start with two Grilled Chicken Sandwiches. Can you make sure those come with French Fries as the side?,3503,3.264332
+b341ee67-4a3f-4faa-8e37-b45299b1f3d0,"Hi, it's Amanda Foster. I'll stick with the grilled chicken sandwiches as they are—no need to add cheese or toppings. However, I do need to add to my order: two Club Sandwiches on wheat bread with potato chips as the side, and one Vegetable Stir Fry. Can you update that for me?",2252,4.539761
+a0fe7dcb-43ff-4a86-8793-35b80b86f5c9,"Hey, it's Amanda Foster here. Let's keep the Vegetable Stir Fry as it is, without adding tofu or tempeh. For the spice level, make it mild, please. Could you also confirm the price for the entire order? Thanks!",2424,4.500339
+17acf9cf-d8db-4616-b04b-aea68f47ddaa,"Hey there! Thanks for putting that together. There's just a tiny detail I'd like to adjust to make sure it matches what I wanted:
+
+- The Club Sandwich should have ""Wheat"" as the bread choice, instead of ""Wheat Bread.""
+
+Could you update that for me and confirm? I want to make sure everything's perfect. The total looks good, and I'll pick it up in about 20 minutes once confirmed!",2683,4.094693
+28420726-7072-4d96-9cb5-289e297fd757,"It sounds like there's a slight issue to resolve. Can you make sure the Club Sandwiches have ""Wheat"" as the bread choice instead of any different variation, and ""Potato Chips"" for the side choice? 
+
+Also, I need to confirm the total amount again. Could you assist me with that? Thanks for your help!",3601,4.442844
+4f4a975f-bade-4c72-be11-295e6d10d517,"Looks like everything on my order is set and complete! Thanks for confirming. I'm all set, no need to add anything else. ",4067,7.572377
+78402a4b-41d3-4e3d-976a-e2c204072368,"Hey, I just wanted to confirm regarding my order before it's prepared. I have 2 Grilled Chicken Sandwiches with French Fries, 2 Club Sandwiches on Wheat Bread with Potato Chips, and 1 Vegetable Stir Fry. Could you make sure everything's correct for me? Thanks a ton!",2349,1.772579
+ba91d85f-afaf-4813-ab9e-ce8ec0a0e47d,"Hey there, actually, it seems like everything's looking good with the order you read back to me. Just confirming everything matches up correctly. 
+
+You said two Grilled Chicken Sandwiches with French Fries, two Club Sandwiches on Wheat bread with Potato Chips, and one Vegetable Stir Fry with a mild spice level, right? 
+
+And just making sure the total is $76.95 for that. All set for pickup in 20 minutes. Thanks so much! 
+
+I don't think I need anything else, so I'm good to go. Have a wonderful day!",2568,3.394716
+0996a350-3fc4-4e25-b351-c9aa2a8a550e,"Hi! It's Amanda Foster. It looks like everything is correct with my order:
+
+- Two Grilled Chicken Sandwiches with French Fries
+- Two Club Sandwiches on Wheat bread with Potato Chips
+- One Vegetable Stir Fry with a mild spice level
+
+And the total is \($76.95\), ready in about 20 minutes for pickup. Thanks a lot for your help! Looking forward to grabbing it soon.
+
+exit",2534,4.373815
+04656fd5-5a51-4b4b-acea-2744348fa796,"Hi, it's Amanda Foster. It looks like there might have been a mix-up with my order. Could you please make sure it matches what I wanted? I ordered:
+
+- 2 Grilled Chicken Sandwiches with French Fries
+- 2 Club Sandwiches on Wheat Bread with Potato Chips
+- 1 Vegetable Stir Fry
+
+Could you double-check and confirm this? Thanks!",2424,2.046446
+cf0d7aa9-4efc-4eb7-814e-3d67e444ef7e,"Everything looks good, thanks for confirming the order! I'll pick it up in about 20 minutes. ",2435,4.615884
+5b29061a-51f8-48cc-a1ab-8ad2017de9c4,"Actually, it looks like the order is already set and everything matches perfectly with what I wanted. Thanks for letting me know! If there was a mix-up, I'll be sure to get back to you. Appreciate the help! ",2381,1.639715
+b070e8e3-d6c3-4ad1-a0e4-9fabb584d3e4,"It looks like the order is complete and accurately reflects what I intended! Thank you for confirming, and I appreciate your help. Have a fantastic day!",2364,1.842432
+984fbed0-f105-4487-84be-bb359f53aa62,It looks like everything's already correct and matches exactly what I wanted to order. Thanks for confirming everything!,3302,2.367042
+dfd172b4-7334-4cf5-8017-d259c70893d5,"Hey, sorry to bother you again! Just wanted to double-check and make sure the order is confirmed for pickup in 20 minutes. Everything looks good with the items, right? Let me know if there's anything else you need from my end. Thanks!",2384,1.594166
+7d2056fd-64d9-4b2a-8b60-ff7ce5386de1,Great! It looks like everything matches up just fine. I'm glad to have accurate details on the order. Thanks for the confirmation!,2493,4.507223
+3c12b5db-e55b-4447-a415-12d29b996f15,"Hi there, it's Amanda Foster. I noticed a few details in the order that need to be adjusted. Could we confirm the following details for my order?
+
+1. **Grilled Chicken Sandwich** - 2 pieces, with French Fries as the side.
+2. **Club Sandwich** - 2 pieces, on Wheat Bread, with Potato Chips as the side.
+3. **Vegetable Stir Fry** - 1 piece with no specific spice level.
+
+None of these should have any price set to $0. Could you please verify this and give me the total cost for the order? Thank you!",2486,1.581007
+57a9e34d-07a1-414f-b3ad-39241c8467c0,Everything looks accurate with the order. Thanks for confirming it for me! I'll be there in about 20 minutes to pick it up.,3808,4.129108
+9efa33c8-931a-47ab-aa5d-8cdaa637162c,"It seems like the order confirmation was a bit premature. I noticed that the side and bread choices are not marked as required in the current order, while in the target order, they should be required. Could you please make sure that's aligned with my target order? I just want to ensure it's all accurate before I confirm. Thanks!",2398,1.946126
+e83ba402-c42e-4290-9bc6-f7393fad50fe,"Yes, you've got that right! That's exactly what I ordered:
+
+1. Two Grilled Chicken Sandwiches with French Fries
+2. Two Club Sandwiches on Wheat bread with Potato Chips
+3. One Vegetable Stir Fry
+
+Looks like we're all set. Thanks for confirming!",2477,4.403214

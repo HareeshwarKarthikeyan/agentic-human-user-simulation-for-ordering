@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+1ec13f11-6b1d-41fa-ac84-f4b331d5ac0c,"Hi there! I’d like to place an order for two Grilled Chicken Sandwiches with fruit cups and two Fettuccine Alfredos, please.",1130,1.24477219581604
+8bf66e52-dd97-48be-8ba0-8774cd4bdbcd,"No, just the sandwiches as is, no extra toppings, and I’ll keep the Fettuccine Alfredo plain, please.",1260,0.9135551452636719
+816aa7ed-8196-446f-8709-95f9674bb588,"You can put it under the name Priya Patel, please.",1459,0.8557019233703613
+55ab2d81-01f1-4f68-9b51-d10b0e88d291,"No, that's all, thank you!",1575,0.5692169666290283
+ba54ae38-b503-4e36-8ea6-21bcd8a178ac,exit,1631,0.4738199710845947

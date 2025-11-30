@@ -1,0 +1,9 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+d609a4d2-5daf-495d-8a92-394fb02ef319,Hey there! It's Frank Morrison here. I'm looking to place an order for some lunch with my grandkids. Could you help me with that? I'd love to know about your kid-friendly options and maybe recommended portion sizes for them.,2399,3.430854
+7f734c33-217a-47f1-bf14-2bf3a1b1c36f,"Hi there! I'd like to order a Kids Chicken Tenders meal, please. Can we have BBQ Sauce, Apple Slices as the side, and Milk for the drink? ",2948,2.973168
+e6e34a85-b5a1-4198-a7f4-ae5e24619fec,"Hey! For the second meal, let's go with one **Kids Mac and Cheese**. Could you add Bacon Bits to it and pair it with a Fruit Cup on the side and Apple Juice for the drink? Thanks!",2813,2.887911
+64b0c3ed-034a-4bee-8a9a-94d1ba8a7d90,"Hello, it's Frank Morrison. Thanks for the order breakdown. I'll stick with just what's ordered for the grandkids — no extra drinks or desserts. Appreciate the offer, though! You've got my name for the order. Is everything with the order good to go then?",3223,2.94486
+74fc945d-427f-4781-b5f2-7958007312bb,"Oh, hold on a sec! I also needed to order a Fish and Chips for me. Could you add that to the order, please? Sorry for the oversight!",7415,4.661522
+1ea46535-1546-47fb-a31c-225322a793d4,"Hey, thanks for that! Let's go with Haddock for the Fish and Chips, please. Let's keep it simple with no extras. Can you add that for me?",3302,3.013201
+a085e153-8afe-42d9-81e0-7ded99057dd7,"Hey, it's Frank Morrison again! Sure, let's confirm this order. Could you just confirm everyone's meal for me real quick to make sure it's all set? I’d love to double-check. And yep, the name's Frank Morrison for the order!",3766,3.081701
+2e4449a6-03e0-4cdc-aa63-c947614b9fc7,exit,5685,1.968234

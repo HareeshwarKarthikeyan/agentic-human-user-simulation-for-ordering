@@ -1,0 +1,17 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+b1c17343-a64b-45aa-998c-ee578adcbec1,"Hi there! I’d like to place an order. I need one Caesar Salad with salmon, no croutons and dressing on the side. Then, I’d like one Vegetable Stir Fry with tofu and mild spice level, and I want that with brown rice. Finally, I'll take one Portobello Mushroom Burger with vegan cheese and a side salad. ",1436,1.4468717575073242
+565a2bf3-ea10-4b20-a67b-f37aa76b6100,"My name is Barbara Nelson. And no, I'm just looking to complete that order as is, please. What would that total come to?",1589,1.237243890762329
+63f39545-bdf9-468a-b8a6-bd4469b923c0,"I actually just noticed the total seems a bit off. Based on my order, it should be **$58.47**. Can you please confirm that’s correct?",1837,0.9575800895690918
+0758f83d-0bf7-4bf8-9eec-72f48716c524,"Actually, it looks like I did mention a price modifier that wasn’t included earlier. The Caesar Salad was supposed to include both the salmon for $10.00 and dressing on the side for free. The Vegetable Stir Fry includes the tofu, and the Portobello Mushroom Burger included the vegan cheese modifier. 
+
+So, adding that all together, the calculation should add up to **$58.47** as follows:
+
+- $22.99 for the Caesar Salad
+- $18.99 for the Vegetable Stir Fry
+- $16.49 for the Portobello Mushroom Burger (after adding the vegan cheese)
+
+So, you're absolutely right. The correct total is **$58.47**. Thank you for pointing that out!
+
+Now that we have the correct total, can I confirm that order for you?",2278,3.0141303539276123
+39ed208a-bfbb-4db1-af9f-06a6936e47fb,"Yes, let's finalize the order for pickup in 20 minutes, please!",2436,1.1862092018127441
+0d6cb2a5-1e2d-4418-b290-2ae371973c1c,exit,2593,0.5473010540008545

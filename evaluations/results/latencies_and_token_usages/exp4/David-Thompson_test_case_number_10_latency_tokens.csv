@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+16a84759-834d-475c-b4e1-2c781e8285eb,"Hi! I'm David, and I'm looking to place an order for my family today. Could you tell me about your kids' menu options, specifically the Kids Chicken Tenders including any sides and drink choices?",2502,3.569709
+da57e93d-5ae3-4092-8181-845d85e3cded,"Hey there! Yes, I'd like to go with two Kids Chicken Tenders. For the first one, let's go with ketchup as the dipping sauce, apple slices as the side, and apple juice as the drink. What are the ingredients in the apple slices and is there anything I need to know about allergens in them?",2865,2.971904
+4a2325e1-64b9-4153-a50e-f5361ccdf627,"For the second Kids Chicken Tenders, let's add the honey mustard as the dipping sauce, carrot sticks as the side, and milk for the drink. Could you let me know if the carrot sticks are just plain, and if there are other allergen concerns I should be aware of with these options?",4562,3.319682
+140667a9-04d2-4b3d-be36-bd990007767b,"Could we also add a Classic Burger, please? I'd like that with medium-well meat, cheddar cheese, and on a gluten-free bun, and the side salad for the side. Could you let me know the updated total after adding this item?",3194,3.637128
+5b0a3514-302a-4e3b-81e5-0a987ef72880,Thanks for confirming the Classic Burger! I'd like to add a Grilled Chicken Sandwich as well. Could I get that with avocado and a fruit cup on the side? What's the updated total with that included?,3353,3.187102
+561358f2-6aba-4f2d-a965-95cc14f5673a,exit,3499,3.06982

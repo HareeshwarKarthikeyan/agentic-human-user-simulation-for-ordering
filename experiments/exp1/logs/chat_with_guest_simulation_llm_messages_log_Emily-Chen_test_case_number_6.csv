@@ -1,0 +1,26 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+5c091bf6-2935-4807-87fa-6cedcaa9f8cf,assistant,Hello! Thank you for calling The Garden Bistro! How can I help you today?,order_taking_llm,2025-08-30T05:26:03.182513+00:00,,,,,,-1.0
+b6f91aed-059e-49bb-9f1d-2d442e14b7ed,agent,"Hi there! I’d like to place an order for pickup. I’ll have the Vegetable Stir Fry with tofu and brown rice, and a small Coca-Cola with light ice, please.",guest_simulation_llm,2025-08-30T05:26:04.470556+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1180, ""num_response_tokens"": 37, ""total_tokens"": 1217}",1287.6169681549072
+c589e777-c6e9-4ae1-b85d-4069b36ff91e,assistant,"Great choice with the Vegetable Stir Fry! Just to confirm, you’d like it with tofu and brown rice. And a small Coca-Cola with light ice. 
+
+Is there anything else you’d like to add to your order? Maybe a dessert or a side?",order_taking_llm,2025-08-30T05:26:05.901101+00:00,,,,,,-1.0
+441109ee-9874-46d4-9ac8-77561e7e6f4d,agent,"No, that's all for me. Just the Vegetable Stir Fry with tofu and brown rice and the small Coca-Cola, please. What's the total?",guest_simulation_llm,2025-08-30T05:26:06.731782+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1293, ""num_response_tokens"": 29, ""total_tokens"": 1322}",830.3310871124268
+6275cf65-9573-4574-a1b1-15c490d22ab5,assistant,"Let me calculate that for you. 
+
+The Vegetable Stir Fry is $14.99, and with the tofu add-on for $4.00 and the brown rice included at no extra cost, that brings it to $18.99. The small Coca-Cola is $3.99.
+
+So your total is $22.98.
+
+Can I get your name for the order?",order_taking_llm,2025-08-30T05:26:08.424172+00:00,,,,,,-1.0
+e0509627-6f0d-4b38-93e7-5185f80d336a,agent,"Sure, it's Emily Chen.",guest_simulation_llm,2025-08-30T05:26:08.977229+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1422, ""num_response_tokens"": 6, ""total_tokens"": 1428}",552.6559352874756
+6cd6fa00-aed6-4bcb-8dcf-b4ff9478a1b2,assistant,"Thank you, Emily! 
+
+So to recap, we have:
+- Vegetable Stir Fry with tofu and brown rice for $18.99
+- Small Coca-Cola with light ice for $3.99
+
+Your total comes to $22.98. 
+
+Your order will be ready for pickup in 20 minutes. Thank you for choosing The Garden Bistro! Have a great day!",order_taking_llm,2025-08-30T05:26:11.534885+00:00,,,,,,-1.0
+398c7962-1923-406f-81a2-8562a33c17d1,agent,exit,guest_simulation_llm,2025-08-30T05:26:12.514416+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1528, ""num_response_tokens"": 1, ""total_tokens"": 1529}",978.8599014282227
+a0f251c9-972d-4a0a-bc82-52eec59ee9cd,system,"{""guest_persona"": {""full_name"": ""Emily Chen"", ""order_size"": 2, ""order_complexity"": ""simple"", ""guest_bio"": ""A health-conscious diner who prefers lighter options and clear nutritional information. Often orders salads or grilled items. Values fresh ingredients and tends to avoid heavy modifications or fried foods.""}, ""target_order"": {""order_items"": [{""name"": ""Vegetable Stir Fry"", ""quantity"": 1, ""base_price"": 14.99, ""modifiers"": [{""modifier_type_name"": ""Protein Add-on"", ""modifier_option_name"": ""Tofu"", ""is_required"": false, ""price"": 4.0}, {""modifier_type_name"": ""Rice Choice"", ""modifier_option_name"": ""Brown Rice"", ""is_required"": false, ""price"": 0.0}], ""item_total_price"": 18.99}, {""name"": ""Coca-Cola"", ""quantity"": 1, ""base_price"": 3.99, ""modifiers"": [{""modifier_type_name"": ""Size"", ""modifier_option_name"": ""Small"", ""is_required"": true, ""price"": 0.0}, {""modifier_type_name"": ""Ice"", ""modifier_option_name"": ""Light Ice"", ""is_required"": false, ""price"": 0.0}], ""item_total_price"": 3.99}], ""order_total_price"": 22.98, ""reasoning"": ""Emily Chen ordered Vegetable Stir Fry with tofu and brown rice plus a small Coke for a Sunday dinner, balancing healthy eating with a small indulgence.""}}",test_case_info,2025-08-30T05:26:12.514631+00:00,,,,,,-1.0

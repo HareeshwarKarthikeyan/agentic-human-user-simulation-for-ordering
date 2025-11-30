@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+ff72e17c-7a61-411f-a508-eee9b3d2f420,"Hi there! I'm Rachel. I’m really excited to explore your menu today, especially since I'm a food blogger. Could you tell me a bit about how you prepare your filet mignon? I'm particularly interested in any unique sauces or sides that might come with it.",2306,3.827036
+b2224e0e-bc75-42af-8b60-d32ff4cf2c19,"Oh, that sounds delightful! I’d love to order the filet mignon cooked medium rare with the hollandaise sauce. I'm really curious about your New York Cheesecake too. Could you tell me about the toppings you offer?",2755,3.213856
+e519b721-ee78-4df0-8b06-402692f33074,I'd love to have the New York Cheesecake with both strawberry and chocolate sauce on top—it'll make for a great photo! And you've got my name correct; it's Rachel. Could you also confirm the price for me?,2721,3.502798
+c2f4d125-a85f-41b9-b9f6-371dfb881572,exit,2901,3.129086

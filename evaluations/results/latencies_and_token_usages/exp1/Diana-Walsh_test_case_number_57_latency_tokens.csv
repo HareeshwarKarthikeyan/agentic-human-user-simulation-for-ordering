@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+ef5d03fd-b775-4e50-99f7-eee708588edf,"Hi there! I’d like to place an order, please. Can I get a Caesar Salad with Grilled Chicken and a Small Fresh Orange Juice?",1143,1.1470460891723633
+789e3117-cc81-4de5-913c-fdf08c4a4ebc,"No dressing modifications needed, I’ll take the signature Caesar dressing. And yes, ice in the orange juice, please. Can you confirm the total for that?",1255,0.919903039932251
+7c5d16f8-468a-4cdb-86d8-88f078563a95,It's Diana Walsh.,1367,0.5204777717590332
+d6d18d8c-01e3-4b59-9ed6-2db3295415cb,exit,1450,0.5576999187469482

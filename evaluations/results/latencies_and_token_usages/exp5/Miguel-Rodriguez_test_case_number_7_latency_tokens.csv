@@ -1,0 +1,12 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+1fdf95bf-16df-4279-ae8f-edf52fc6e456,"Hey there! I'm excited to place an order with The Garden Bistro. I'd like to order all at once if that's cool. Here’s what I’m thinking:
+
+1. **Ribeye Steak** - cooked medium rare, with Chimichurri sauce, and let's upgrade the side to Truffle Mac and Cheese.
+   
+2. **Spinach Artichoke Dip** - with Pita Bread, and can I get some extra chips too?
+   
+3. **House Red Wine** - in a 9oz glass.
+
+Could you let me know the total price for all this? I'm pretty excited to taste these!",2524,5.274894
+c40602bd-9c89-4081-b2ff-0d440c058b5a,"Could you please put the order under the name Alex? And nope, that's all for now. Thanks for confirming the details!",2798,3.994292
+626b3cae-6519-48f8-be29-29a4c2093cd0,exit,2681,3.991464

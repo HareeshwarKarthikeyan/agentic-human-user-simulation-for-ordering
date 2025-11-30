@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+39c804c1-dafb-46ac-bce3-37cf1e453afa,"Hi there! I'd like to place an order for a Classic Burger, cooked medium, with French fries on the side. Can you confirm that for me?",2081,1.145208
+9f8a7276-a270-4cfe-bad4-1460b4a7fd27,"Hi, my name is Kevin Liu. I'll stick with just the Classic Burger cooked medium and French fries, no extra cheese or toppings needed. Can you confirm the price for me?",2233,0.884438
+c9c42e13-d564-4c59-9bef-35d2caf1e30e,"No thanks, I'll just stick with my Classic Burger and fries. Appreciate it!",2338,0.868691
+c0fd54bc-94a0-46b4-83b8-e79107e90c73,exit,2315,0.705972

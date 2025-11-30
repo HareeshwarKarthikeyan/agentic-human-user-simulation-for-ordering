@@ -1,0 +1,11 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+d7f0c4c4-5986-4766-ae9d-bc887258fb6c,"Hi there, this is Marcus James. I'm looking to place an order and had some questions about your menu items if you have a moment.",3733,3.846373
+fc097a24-bd47-4753-806f-d6ef16fcb997,"Hey! So I’m thinking I’d like to order a Ribeye Steak. Could you tell me a bit about how you prepare it, especially for a medium-rare? Also, any idea on the protein content, if you have that info? ",2434,2.867753
+92ef4cdc-a8c5-49d1-b608-4089319c7924,"Alright, let’s keep it classic with the Ribeye Steak with no sauce for now, thanks. For the side, I’ll go with mashed potatoes. Could you also add a Caesar Salad, hold the croutons, and add grilled chicken on top, please?",2882,3.089501
+3ac2bb0d-37e0-4131-b0e9-58222e5952a3,"Yes, please add Caesar dressing on the side for the salad. No drink or dessert is needed. Thanks! Could you confirm the order total for me?",2858,3.01892
+24aac83a-6309-4e2c-8da5-cf61d1d19337,"Actually, I wanted to add a Large Cappuccino with skim milk to the order as well. Could you update that for me, please? And yes, you can put the order under my name, Marcus.",3144,3.195835
+5459e87d-f29b-4781-90ca-d353ec8ee86e,"Actually, my order total should be $68.97 instead of $64.97. Can you confirm?
+
+exit",5456,3.700827
+e1565297-4a38-4c66-9ef8-bde26023a60e,"Yes, let's go ahead and confirm the order under my name, Marcus James. Thanks for checking that, and I'm all set for the pickup!",4544,3.539017
+5661a2d6-fae1-4b25-a420-0a1f01423ddc,exit,4369,1.603022

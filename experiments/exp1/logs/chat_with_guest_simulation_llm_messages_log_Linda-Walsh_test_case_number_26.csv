@@ -1,0 +1,18 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+80e38c53-a1dc-41ef-95aa-56cd14fc94db,assistant,Hello! Thank you for calling The Garden Bistro. How can I help you today?,order_taking_llm,2025-08-30T05:31:52.027718+00:00,,,,,,-1.0
+256f85ed-77f8-49a7-a6eb-af2fbd683ba4,agent,"Hi there, I'd like to order a bowl of New England Clam Chowder, please.",guest_simulation_llm,2025-08-30T05:31:53.557826+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1045, ""num_response_tokens"": 19, ""total_tokens"": 1064}",1529.6120643615723
+7a486e4b-d78a-4ce5-b495-45931f0aa335,assistant,Great choice! Would you like to add some oyster crackers with that?,order_taking_llm,2025-08-30T05:31:54.379310+00:00,,,,,,-1.0
+04374553-ea72-442e-aae6-b5a2d9cc04f4,agent,"No, just the chowder is fine, thank you. Can I get a bowl size for that?",guest_simulation_llm,2025-08-30T05:31:55.403833+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1103, ""num_response_tokens"": 21, ""total_tokens"": 1124}",1023.98681640625
+0f77616b-76a0-43fc-aa8f-f5e4b5bc8829,assistant,Sure! The bowl size is an additional $3.00. Would you like to go with that?,order_taking_llm,2025-08-30T05:31:56.233063+00:00,,,,,,-1.0
+5e4fdd75-22dd-4008-8ab1-8eaee14a6e59,agent,"Yes, please. I'd like the bowl size for the New England Clam Chowder. What’s the total price?",guest_simulation_llm,2025-08-30T05:31:57.253649+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1170, ""num_response_tokens"": 24, ""total_tokens"": 1194}",1019.9642181396484
+ca8a25a4-92e8-4aae-8259-42c22f2726ff,assistant,"Alright, let me sum that up for you. The New England Clam Chowder is $9.99, plus the bowl size for $3.00, making your subtotal $12.99. 
+
+So that's $12.99 total. Can I get a name for the order?",order_taking_llm,2025-08-30T05:31:59.162965+00:00,,,,,,-1.0
+9f72ba63-7fc4-410e-959b-1805e87d49c0,agent,It's Linda Walsh.,guest_simulation_llm,2025-08-30T05:31:59.904299+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1278, ""num_response_tokens"": 4, ""total_tokens"": 1282}",740.7817840576172
+ecede3de-560f-4c48-a47b-f8d52f606d3c,assistant,"Thank you, Linda! Just to confirm, that's one bowl of New England Clam Chowder for $12.99. 
+
+Your order will be ready for pickup in 20 minutes. 
+
+Thank you for choosing The Garden Bistro!",order_taking_llm,2025-08-30T05:32:01.091868+00:00,,,,,,-1.0
+47280aab-4f8f-4ed5-90a8-ea743c3eabf0,agent,exit,guest_simulation_llm,2025-08-30T05:32:01.857226+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1354, ""num_response_tokens"": 1, ""total_tokens"": 1355}",765.1121616363525
+0dc82312-59ae-46c2-9abb-ce26ea13f431,system,"{""guest_persona"": {""full_name"": ""Linda Walsh"", ""order_size"": 1, ""order_complexity"": ""simple"", ""guest_bio"": ""An elderly regular customer who knows exactly what she wants. Orders quickly with no fuss but expects familiar service. Doesn't like new technology or complicated ordering processes.""}, ""target_order"": {""order_items"": [{""name"": ""New England Clam Chowder"", ""quantity"": 1, ""base_price"": 9.99, ""modifiers"": [{""modifier_type_name"": ""Size"", ""modifier_option_name"": ""Bowl Size"", ""is_required"": false, ""price"": 3.0}], ""item_total_price"": 12.99}], ""order_total_price"": 12.99, ""reasoning"": ""Linda Walsh chose a bowl of New England Clam Chowder for a Wednesday dinner, her regular Wednesday order for a filling meal.""}}",test_case_info,2025-08-30T05:32:01.857312+00:00,,,,,,-1.0

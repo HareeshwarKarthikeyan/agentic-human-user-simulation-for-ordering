@@ -1,0 +1,9 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+8db73b4f-c7f0-4dcb-8a77-955ee94e6a01,"Hi there! I'd like to place an order for a team lunch. I'll need two Grilled Chicken Sandwiches with French Fries, two Club Sandwiches on Wheat bread with Potato Chips, and one Vegetable Stir Fry. Could you confirm if you have all of that available? Thanks!",2225,1.326675
+60d3f16f-a295-441b-acdd-e075ee48d431,"Hi, it's Amanda Foster. Thanks for getting my order together! 
+
+For the Grilled Chicken Sandwiches, no cheese is needed. And for the Vegetable Stir Fry, let's go with Brown Rice. 
+
+Everything else sounds perfect!",2549,0.688407
+cd15c914-acf5-4d4e-a659-bbfe09ca08ba,"No thanks, that's everything I need for now. The order looks great!",2722,0.622324
+42176d8d-44e6-4d38-b902-5f17bce6351a,exit,2702,0.586929

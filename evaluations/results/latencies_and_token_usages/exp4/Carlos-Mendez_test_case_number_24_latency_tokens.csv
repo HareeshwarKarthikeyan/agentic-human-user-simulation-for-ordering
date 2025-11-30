@@ -1,0 +1,15 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+4fa200aa-0e8e-407d-96d5-23f6be2aa693,"Hi there! I'm interested in ordering the Atlantic Salmon. Could you tell me how it's typically prepared, and what sides come with it? I'm curious about the details!",2249,5.084109
+810ec436-0785-45f0-96ce-435e4c20768a,"I'd love to go with the Atlantic Salmon but could I have it blackened instead? And could we swap out the lemon butter sauce for a mango salsa? Oh, and if it's possible, I'd like to replace the rice pilaf with quinoa. Thanks!",3756,3.491421
+208cbbcb-a0d4-4d39-855b-183447b49b09,"Actually, I'm all set on drinks, but I'm thinking about getting an appetizer to go along with it. Can you tell me a bit about your Spinach Artichoke Dip and what kind of bread comes with it?",3918,3.364169
+d7c82442-378d-4bf7-b7b2-ff9e71ae265f,"Oh, that sounds delicious! Could you add the pita bread to the Spinach Artichoke Dip, please? I'm really interested in seeing how it pairs with the pita. Thanks!",2650,2.914457
+f5e1ff96-d17f-412e-afb2-7638cbad61a0,"Nope, that's perfect, thanks! The name for the order is Carlos Mendez. Can you confirm the total price for me?",2325,2.958103
+2ec9b42e-3608-4e54-b214-3b0ac04353a6,"Hmm, I'm a bit confused about the total. I had ordered the Atlantic Salmon blackened with mango salsa and quinoa, and the Spinach Artichoke Dip with pita bread. Could you double-check the total price for me? Thanks!",2933,3.839274
+c92747a7-3ed5-4434-b632-fa4e40d030ab,"I'm a bit confused here. I ordered the Atlantic Salmon with it being blackened and with mango salsa, along with quinoa instead of rice pilaf. Shouldn't the items like mango salsa and quinoa have some prices added to the total? Could you please double-check that for me?",3185,4.499162
+54ab567e-10ae-4b6f-a35d-b5b530ecaab4,"It seems like there might still be a misunderstanding about the prices. The Atlantic Salmon with the mango salsa and quinoa should have an additional cost. The updated breakdown should be:
+
+- Atlantic Salmon, blackened with mango salsa and quinoa: $31.99
+- Spinach Artichoke Dip with pita bread: $13.99
+
+This brings the total to $45.98. Let's stick with that, and could you confirm this updated total before we finalize the order for pickup? Thank you!",3392,3.804218
+24bb1ecf-2522-4114-bcd0-341b842dfca5,exit,3451,4.296897

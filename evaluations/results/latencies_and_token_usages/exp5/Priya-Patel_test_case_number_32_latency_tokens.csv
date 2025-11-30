@@ -1,0 +1,11 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+812f5eef-c28b-4eb7-9954-c0dcf96856b0,"Hi there! I'm planning a little celebration for my kids' soccer team, and I need to place some orders. Could you tell me about your Kids Mac and Cheese options, especially if you have a fruit cup as a side and apple juice to go with it?",2374,3.65297
+fa72e836-5378-49b4-8bec-181e96ec825c,"Hey there! Can I get two Kids Mac and Cheese with a fruit cup and apple juice for each? Also, I’d like to add two Classic Burgers, cooked well done with American cheese and French fries on the side. 
+
+Oh, and I'm curious, do you guys offer any discounts for bulk orders? 
+
+My name is [Your Name].",2551,3.046221
+58df123d-f897-4a2b-bd48-9082660aefd1,"Nope, I think that's all for now. Let's confirm the pickup time, please.",2799,3.747463
+6955197e-4ad5-427d-bd01-a65b6e97f727,"It looks like there are a couple of things that need adjusting on the order. Can I clarify something? The Kids Mac and Cheese should come with a Fruit Cup and Apple Juice, and the Classic Burgers should be modified with Well Done meat temperature, American cheese, and French Fries as the side. Can we update those modifications, and then I can confirm the name? Sorry for any confusion!",2629,3.486128
+7d594ddc-f990-4404-9b76-d305da9f3edf,"Yes, that's correct. The name for the order is Priya Patel. Let's keep the pickup time around 20 minutes, please. Thanks!",3955,6.47843
+e8b4f7bf-59a2-4001-b056-a06a212b160f,exit,2690,5.139255

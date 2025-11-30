@@ -1,0 +1,29 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+edb879fb-2a6e-4bde-ae5f-ba17a3b26f86,"Hi there! This is Amanda Foster. I'm looking to place an order for some team lunches. I'll start with the Classic Burger. We'll need three of these, all cooked medium and with French fries on the side. Also, we'll need two Caesar Salads with grilled chicken added. Can you help me get this sorted?",2126,2.251927
+05c192eb-a82d-48a4-8678-1b177d6fb180,"Everything looks good with the order of **3 Classic Burgers** cooked medium with French fries, and **2 Caesar Salads** with grilled chicken. No, I don't need anything else, thanks! Could you confirm the total price for me?",2230,3.628822
+ad98d298-f643-44ac-a56e-cd504ff4a29f,"Hi there! I'm Amanda Foster. I'm looking to place a team lunch order. It seems I need to add a few items to match my target order. Let me update you on what I need.
+
+Here's what I'd like to order:
+
+1. **Three Classic Burgers**:
+   - Cooked medium
+   - With French fries as the side
+
+Could you please add these burgers to my order? I'm aiming for my order to match exactly with what I need. Thanks!",2579,4.330325
+b7eac0d3-869e-435b-98c1-77f783f95cda,"Hey, thanks for double-checking! Yes, I just need to have 2 Caesar Salads with grilled chicken, in addition to the 3 Classic Burgers with French fries. Could you make that adjustment for me? That should complete the order.",2293,3.40772
+74b2c169-43b2-4b43-87ca-14e4ee9da2b4,"It looks like there's a bit of a mix-up with the order. I requested 3 Classic Burgers cooked medium with French fries and 2 Caesar Salads with grilled chicken. Currently, it seems only the salads are confirmed, but not the burgers. Could you please adjust that and make sure the burgers are added? Thanks!",2532,3.768102
+db92bfd7-0131-4f64-ba47-ebc81951f6e6,"It looks like there's a slight discrepancy in the order details. Can we make sure the Classic Burgers are cooked medium with French fries on the side? Also, it seems like the base price for the Caesar Salads should be $12.99 each instead of $18.99 before adding grilled chicken. Could you confirm that adjustment? Once that's set, I'll confirm the pricing and pick-up time. Thanks!",2615,5.682406
+dc019779-4d0e-444f-b12f-39d4e9515a20,"Thanks for helping me out! Actually, I just need to confirm that you have the items in my order as follows:
+
+- 3 Classic Burgers, cooked medium with French fries on the side
+- 2 Caesar Salads with grilled chicken added
+
+Could you please make sure these are added to my order as I'm currently showing no items in it? Thank you!",2412,3.476115
+6454e3ab-8d42-4ff5-8c3d-3314991d49c3,"Hi, I'm Amanda Foster. It sounds like you've got everything exactly right. Can you please proceed with placing the order for me? Thanks!",2382,3.425643
+589620a3-d7ab-4287-b94e-9ac997ffb877,"Hi, I'm Amanda Foster. Just to make sure everything is in place correctly, could you please confirm if you have included the following items in the order?
+
+- 3 Classic Burgers, cooked medium with French fries
+- 2 Caesar Salads with grilled chicken
+
+Could you confirm this order and let me know the total price again? Thanks!",2285,3.517873
+c6353001-2bb5-4867-b9c0-699559b07957,exit,3779,8.129657

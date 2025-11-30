@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+4299547d-ff6c-4be4-91ae-24c123035107,"Hi there! This is Linda Walsh. I'd like to order a French Onion Soup, please.",2003,1.235048
+788c39f1-32f3-4290-b448-6b1dbf50e33c,"Hi there! Yes, I'd like the French Onion Soup, just the regular bowl size, please. Thanks!",2068,0.825196
+caebae1f-5ce3-4d12-bc85-519dd637c73b,"Thanks for the suggestion, but I'll just stick with the French Onion Soup today. No drinks or appetizers for me, just keeping it simple!",2140,0.893731
+2e1c9487-f5f1-446c-9de1-d82ea0f8fbae,"Yes, the order is for pickup, and the name is Linda Walsh. Thanks!",2162,0.889247
+868f68db-9f62-4add-89d5-fe4775e6c41c,exit,2306,0.921537

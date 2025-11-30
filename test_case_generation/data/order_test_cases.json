@@ -1,0 +1,2895 @@
+{
+  "test_cases": [
+    {
+      "guest_persona": {
+        "full_name": "Sarah Johnson",
+        "order_size": 1,
+        "order_complexity": "simple",
+        "guest_bio": "A busy professional who values quick service and familiar menu items. Prefers straightforward orders without many customizations. Often orders during lunch breaks and appreciates efficiency."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Grilled Chicken Sandwich",
+            "quantity": 1,
+            "base_price": 14.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "French Fries",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 14.99
+          }
+        ],
+        "order_total_price": 14.99,
+        "reasoning": "Sarah Johnson chose a Grilled Chicken Sandwich during Monday lunch for a quick, familiar meal that requires no customization, perfect for her efficient lunch break."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Sarah Johnson",
+        "order_size": 1,
+        "order_complexity": "simple",
+        "guest_bio": "A busy professional who values quick service and familiar menu items. Prefers straightforward orders without many customizations. Often orders during lunch breaks and appreciates efficiency."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Caesar Salad",
+            "quantity": 1,
+            "base_price": 12.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Protein Add-on",
+                "modifier_option_name": "Grilled Chicken",
+                "is_required": false,
+                "price": 6.00
+              }
+            ],
+            "item_total_price": 18.99
+          }
+        ],
+        "order_total_price": 18.99,
+        "reasoning": "Sarah Johnson selected Caesar Salad with grilled chicken for a Wednesday lunch, a healthy yet filling option that's quick to prepare and eat."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Sarah Johnson",
+        "order_size": 1,
+        "order_complexity": "simple",
+        "guest_bio": "A busy professional who values quick service and familiar menu items. Prefers straightforward orders without many customizations. Often orders during lunch breaks and appreciates efficiency."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Club Sandwich",
+            "quantity": 1,
+            "base_price": 15.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Bread Choice",
+                "modifier_option_name": "White",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "Potato Chips",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 15.99
+          }
+        ],
+        "order_total_price": 15.99,
+        "reasoning": "Sarah Johnson ordered a Club Sandwich on Friday, a classic and reliable choice that's substantial and requires minimal decision-making."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Emily Chen",
+        "order_size": 2,
+        "order_complexity": "simple",
+        "guest_bio": "A health-conscious diner who prefers lighter options and clear nutritional information. Often orders salads or grilled items. Values fresh ingredients and tends to avoid heavy modifications or fried foods."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Atlantic Salmon",
+            "quantity": 1,
+            "base_price": 26.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Preparation",
+                "modifier_option_name": "Grilled",
+                "is_required": false,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 26.99
+          },
+          {
+            "name": "Fresh Orange Juice",
+            "quantity": 1,
+            "base_price": 5.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Size",
+                "modifier_option_name": "Small",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 5.99
+          }
+        ],
+        "order_total_price": 32.98,
+        "reasoning": "Emily Chen chose grilled Atlantic Salmon with fresh orange juice for a Tuesday dinner, prioritizing lean protein and fresh, nutritious options."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Emily Chen",
+        "order_size": 2,
+        "order_complexity": "simple",
+        "guest_bio": "A health-conscious diner who prefers lighter options and clear nutritional information. Often orders salads or grilled items. Values fresh ingredients and tends to avoid heavy modifications or fried foods."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Caesar Salad",
+            "quantity": 1,
+            "base_price": 12.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Protein Add-on",
+                "modifier_option_name": "Grilled Shrimp",
+                "is_required": false,
+                "price": 8.00
+              },
+              {
+                "modifier_type_name": "Dressing",
+                "modifier_option_name": "Dressing on Side",
+                "is_required": false,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 20.99
+          },
+          {
+            "name": "Cappuccino",
+            "quantity": 1,
+            "base_price": 4.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Size",
+                "modifier_option_name": "Small",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Milk Choice",
+                "modifier_option_name": "Almond Milk",
+                "is_required": false,
+                "price": 0.75
+              }
+            ],
+            "item_total_price": 5.74
+          }
+        ],
+        "order_total_price": 26.73,
+        "reasoning": "Emily Chen selected Caesar Salad with grilled shrimp and dressing on side plus almond milk cappuccino for a Thursday lunch, controlling portions and choosing healthier dairy alternatives."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Emily Chen",
+        "order_size": 2,
+        "order_complexity": "simple",
+        "guest_bio": "A health-conscious diner who prefers lighter options and clear nutritional information. Often orders salads or grilled items. Values fresh ingredients and tends to avoid heavy modifications or fried foods."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Vegetable Stir Fry",
+            "quantity": 1,
+            "base_price": 14.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Protein Add-on",
+                "modifier_option_name": "Tofu",
+                "is_required": false,
+                "price": 4.00
+              },
+              {
+                "modifier_type_name": "Rice Choice",
+                "modifier_option_name": "Brown Rice",
+                "is_required": false,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 18.99
+          },
+          {
+            "name": "Coca-Cola",
+            "quantity": 1,
+            "base_price": 3.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Size",
+                "modifier_option_name": "Small",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Ice",
+                "modifier_option_name": "Light Ice",
+                "is_required": false,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 3.99
+          }
+        ],
+        "order_total_price": 22.98,
+        "reasoning": "Emily Chen ordered Vegetable Stir Fry with tofu and brown rice plus a small Coke for a Sunday dinner, balancing healthy eating with a small indulgence."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Miguel Rodriguez",
+        "order_size": 3,
+        "order_complexity": "complex",
+        "guest_bio": "A food enthusiast who loves trying different combinations and customizations. Often orders for family gatherings and enjoys exploring menu options. Has specific dietary preferences and isn't afraid to make special requests."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Ribeye Steak",
+            "quantity": 1,
+            "base_price": 42.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Temperature",
+                "modifier_option_name": "Medium Rare",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Sauce",
+                "modifier_option_name": "Chimichurri",
+                "is_required": false,
+                "price": 3.00
+              },
+              {
+                "modifier_type_name": "Side Upgrade",
+                "modifier_option_name": "Truffle Mac and Cheese",
+                "is_required": false,
+                "price": 6.00
+              }
+            ],
+            "item_total_price": 51.99
+          },
+          {
+            "name": "Spinach Artichoke Dip",
+            "quantity": 1,
+            "base_price": 11.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Bread Choice",
+                "modifier_option_name": "Pita Bread",
+                "is_required": false,
+                "price": 2.00
+              },
+              {
+                "modifier_type_name": "Extra",
+                "modifier_option_name": "Extra Chips",
+                "is_required": false,
+                "price": 3.00
+              }
+            ],
+            "item_total_price": 16.99
+          },
+          {
+            "name": "House Red Wine",
+            "quantity": 1,
+            "base_price": 8.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Pour Size",
+                "modifier_option_name": "9oz Glass",
+                "is_required": true,
+                "price": 4.00
+              }
+            ],
+            "item_total_price": 12.99
+          }
+        ],
+        "order_total_price": 81.97,
+        "reasoning": "Miguel Rodriguez ordered for a Saturday family dinner, exploring premium options with ribeye steak customized with chimichurri and truffle mac, spinach dip with extras, and wine for a special gathering."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Miguel Rodriguez",
+        "order_size": 3,
+        "order_complexity": "complex",
+        "guest_bio": "A food enthusiast who loves trying different combinations and customizations. Often orders for family gatherings and enjoys exploring menu options. Has specific dietary preferences and isn't afraid to make special requests."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Margherita Pizza",
+            "quantity": 1,
+            "base_price": 16.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Size",
+                "modifier_option_name": "Large 18\"",
+                "is_required": true,
+                "price": 8.00
+              },
+              {
+                "modifier_type_name": "Crust Type",
+                "modifier_option_name": "Thick Crust",
+                "is_required": false,
+                "price": 2.00
+              },
+              {
+                "modifier_type_name": "Extra Toppings",
+                "modifier_option_name": "Italian Sausage",
+                "is_required": false,
+                "price": 2.50
+              },
+              {
+                "modifier_type_name": "Extra Toppings",
+                "modifier_option_name": "Mushrooms",
+                "is_required": false,
+                "price": 2.00
+              }
+            ],
+            "item_total_price": 31.49
+          },
+          {
+            "name": "Buffalo Wings",
+            "quantity": 1,
+            "base_price": 13.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Sauce Choice",
+                "modifier_option_name": "Honey Garlic",
+                "is_required": false,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Dipping Sauce",
+                "modifier_option_name": "Blue Cheese",
+                "is_required": false,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Portion",
+                "modifier_option_name": "Double Order",
+                "is_required": false,
+                "price": 10.00
+              }
+            ],
+            "item_total_price": 23.99
+          },
+          {
+            "name": "Draft Beer",
+            "quantity": 1,
+            "base_price": 6.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Size",
+                "modifier_option_name": "Pitcher",
+                "is_required": true,
+                "price": 12.00
+              }
+            ],
+            "item_total_price": 18.99
+          }
+        ],
+        "order_total_price": 74.47,
+        "reasoning": "Miguel Rodriguez ordered for a Wednesday family gathering, customizing a large pizza with multiple toppings, double wings with special sauce, and a pitcher of beer for sharing."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Miguel Rodriguez",
+        "order_size": 3,
+        "order_complexity": "complex",
+        "guest_bio": "A food enthusiast who loves trying different combinations and customizations. Often orders for family gatherings and enjoys exploring menu options. Has specific dietary preferences and isn't afraid to make special requests."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Spaghetti Carbonara",
+            "quantity": 1,
+            "base_price": 18.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Protein Add-on",
+                "modifier_option_name": "Shrimp",
+                "is_required": false,
+                "price": 8.00
+              },
+              {
+                "modifier_type_name": "Extra",
+                "modifier_option_name": "Extra Parmesan",
+                "is_required": false,
+                "price": 2.00
+              },
+              {
+                "modifier_type_name": "Bread",
+                "modifier_option_name": "Garlic Bread",
+                "is_required": false,
+                "price": 4.00
+              }
+            ],
+            "item_total_price": 32.99
+          },
+          {
+            "name": "Caesar Salad",
+            "quantity": 1,
+            "base_price": 12.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Protein Add-on",
+                "modifier_option_name": "Salmon",
+                "is_required": false,
+                "price": 10.00
+              },
+              {
+                "modifier_type_name": "Special Request",
+                "modifier_option_name": "No Croutons",
+                "is_required": false,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 22.99
+          },
+          {
+            "name": "Chocolate Lava Cake",
+            "quantity": 1,
+            "base_price": 8.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Ice Cream Flavor",
+                "modifier_option_name": "Strawberry",
+                "is_required": false,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Extra",
+                "modifier_option_name": "Extra Ice Cream Scoop",
+                "is_required": false,
+                "price": 3.00
+              }
+            ],
+            "item_total_price": 11.99
+          }
+        ],
+        "order_total_price": 67.97,
+        "reasoning": "Miguel Rodriguez ordered for a Sunday dinner, experimenting with surf and turf carbonara, salmon Caesar salad without croutons, and enhanced dessert for a complete dining experience."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "David Thompson",
+        "order_size": 4,
+        "order_complexity": "complex",
+        "guest_bio": "A father of two who frequently orders for his family with various dietary restrictions. Always asks about allergen information and kids' menu options. Prefers detailed explanations and takes time to ensure everyone's preferences are met."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Kids Chicken Tenders",
+            "quantity": 2,
+            "base_price": 8.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Sauce",
+                "modifier_option_name": "Ketchup",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Side",
+                "modifier_option_name": "Apple Slices",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Drink",
+                "modifier_option_name": "Apple Juice",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 17.98
+          },
+          {
+            "name": "Classic Burger",
+            "quantity": 1,
+            "base_price": 15.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Meat Temperature",
+                "modifier_option_name": "Medium Well",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Cheese",
+                "modifier_option_name": "Cheddar",
+                "is_required": false,
+                "price": 1.50
+              },
+              {
+                "modifier_type_name": "Bun Choice",
+                "modifier_option_name": "Gluten Free",
+                "is_required": false,
+                "price": 2.00
+              },
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "Side Salad",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 19.49
+          },
+          {
+            "name": "Grilled Chicken Sandwich",
+            "quantity": 1,
+            "base_price": 14.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Add-ons",
+                "modifier_option_name": "Avocado",
+                "is_required": false,
+                "price": 2.50
+              },
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "Fruit Cup",
+                "is_required": true,
+                "price": 2.00
+              }
+            ],
+            "item_total_price": 19.49
+          }
+        ],
+        "order_total_price": 56.96,
+        "reasoning": "David Thompson ordered for a Friday family dinner, carefully selecting kids' meals with healthy sides, a gluten-free burger option for dietary needs, and grilled chicken for his wife with fruit."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "David Thompson",
+        "order_size": 4,
+        "order_complexity": "complex",
+        "guest_bio": "A father of two who frequently orders for his family with various dietary restrictions. Always asks about allergen information and kids' menu options. Prefers detailed explanations and takes time to ensure everyone's preferences are met."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Kids Mac and Cheese",
+            "quantity": 1,
+            "base_price": 7.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Side",
+                "modifier_option_name": "Applesauce",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Drink",
+                "modifier_option_name": "Chocolate Milk",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 7.99
+          },
+          {
+            "name": "Kids Chicken Tenders",
+            "quantity": 1,
+            "base_price": 8.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Sauce",
+                "modifier_option_name": "Honey Mustard",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Side",
+                "modifier_option_name": "Carrot Sticks",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Drink",
+                "modifier_option_name": "Milk",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 8.99
+          },
+          {
+            "name": "Fish and Chips",
+            "quantity": 1,
+            "base_price": 18.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Fish Choice",
+                "modifier_option_name": "Halibut",
+                "is_required": false,
+                "price": 4.00
+              }
+            ],
+            "item_total_price": 22.99
+          },
+          {
+            "name": "Portobello Mushroom Burger",
+            "quantity": 1,
+            "base_price": 13.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Cheese",
+                "modifier_option_name": "Vegan Cheese",
+                "is_required": false,
+                "price": 2.50
+              },
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "Sweet Potato Fries",
+                "is_required": true,
+                "price": 2.00
+              }
+            ],
+            "item_total_price": 18.49
+          }
+        ],
+        "order_total_price": 58.46,
+        "reasoning": "David Thompson ordered for a Sunday lunch, accommodating different preferences: kids' favorites with healthy sides, halibut for himself, and vegan option for his lactose-intolerant wife."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "David Thompson",
+        "order_size": 4,
+        "order_complexity": "complex",
+        "guest_bio": "A father of two who frequently orders for his family with various dietary restrictions. Always asks about allergen information and kids' menu options. Prefers detailed explanations and takes time to ensure everyone's preferences are met."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Margherita Pizza",
+            "quantity": 1,
+            "base_price": 16.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Size",
+                "modifier_option_name": "Large 18\"",
+                "is_required": true,
+                "price": 8.00
+              },
+              {
+                "modifier_type_name": "Crust Type",
+                "modifier_option_name": "Gluten Free",
+                "is_required": false,
+                "price": 3.00
+              }
+            ],
+            "item_total_price": 27.99
+          },
+          {
+            "name": "Caesar Salad",
+            "quantity": 1,
+            "base_price": 12.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Special Request",
+                "modifier_option_name": "No Croutons",
+                "is_required": false,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 12.99
+          },
+          {
+            "name": "Fresh Orange Juice",
+            "quantity": 2,
+            "base_price": 5.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Size",
+                "modifier_option_name": "Small",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 11.98
+          }
+        ],
+        "order_total_price": 52.96,
+        "reasoning": "David Thompson ordered for a Tuesday dinner, choosing a large gluten-free pizza for sharing, Caesar salad without croutons for allergen concerns, and healthy juice for the kids."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Jessica Martinez",
+        "order_size": 2,
+        "order_complexity": "medium",
+        "guest_bio": "A vegetarian college student on a budget who carefully reviews prices and portion sizes. Often asks about meat-free options and substitutions. Likes to know about daily specials and combo deals."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Vegetable Stir Fry",
+            "quantity": 1,
+            "base_price": 14.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Protein Add-on",
+                "modifier_option_name": "Tofu",
+                "is_required": false,
+                "price": 4.00
+              },
+              {
+                "modifier_type_name": "Spice Level",
+                "modifier_option_name": "Medium",
+                "is_required": false,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 18.99
+          },
+          {
+            "name": "Coca-Cola",
+            "quantity": 1,
+            "base_price": 3.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Size",
+                "modifier_option_name": "Small",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 3.99
+          }
+        ],
+        "order_total_price": 22.98,
+        "reasoning": "Jessica Martinez chose vegetable stir fry with tofu for protein and a small Coke, balancing nutrition and budget for a Monday dinner."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Jessica Martinez",
+        "order_size": 2,
+        "order_complexity": "medium",
+        "guest_bio": "A vegetarian college student on a budget who carefully reviews prices and portion sizes. Often asks about meat-free options and substitutions. Likes to know about daily specials and combo deals."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Portobello Mushroom Burger",
+            "quantity": 1,
+            "base_price": 13.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "French Fries",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 13.99
+          },
+          {
+            "name": "French Onion Soup",
+            "quantity": 1,
+            "base_price": 8.99,
+            "modifiers": [],
+            "item_total_price": 8.99
+          }
+        ],
+        "order_total_price": 22.98,
+        "reasoning": "Jessica Martinez selected an affordable portobello burger with fries and French onion soup for a Thursday lunch, getting filling vegetarian options under budget."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Jessica Martinez",
+        "order_size": 2,
+        "order_complexity": "medium",
+        "guest_bio": "A vegetarian college student on a budget who carefully reviews prices and portion sizes. Often asks about meat-free options and substitutions. Likes to know about daily specials and combo deals."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Margherita Pizza",
+            "quantity": 1,
+            "base_price": 16.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Size",
+                "modifier_option_name": "Small 10\"",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 16.99
+          },
+          {
+            "name": "Apple Pie",
+            "quantity": 1,
+            "base_price": 6.99,
+            "modifiers": [],
+            "item_total_price": 6.99
+          }
+        ],
+        "order_total_price": 23.98,
+        "reasoning": "Jessica Martinez ordered a small Margherita pizza and apple pie for a Saturday treat, choosing the smallest pizza size to manage cost while enjoying comfort food."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Robert Kim",
+        "order_size": 1,
+        "order_complexity": "medium",
+        "guest_bio": "A retired veteran with traditional tastes who orders the same few dishes regularly. Appreciates consistency and gets confused by too many options. Prefers classic preparations and is hesitant about trendy ingredients."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Club Sandwich",
+            "quantity": 1,
+            "base_price": 15.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Bread Choice",
+                "modifier_option_name": "White",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "French Fries",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 15.99
+          }
+        ],
+        "order_total_price": 15.99,
+        "reasoning": "Robert Kim chose his regular Club Sandwich with white bread and fries for a Tuesday lunch, sticking to familiar, traditional choices."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Robert Kim",
+        "order_size": 1,
+        "order_complexity": "medium",
+        "guest_bio": "A retired veteran with traditional tastes who orders the same few dishes regularly. Appreciates consistency and gets confused by too many options. Prefers classic preparations and is hesitant about trendy ingredients."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Classic Burger",
+            "quantity": 1,
+            "base_price": 15.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Meat Temperature",
+                "modifier_option_name": "Medium",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Cheese",
+                "modifier_option_name": "American",
+                "is_required": false,
+                "price": 1.50
+              },
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "French Fries",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 17.49
+          }
+        ],
+        "order_total_price": 17.49,
+        "reasoning": "Robert Kim ordered a Classic Burger with American cheese cooked medium for a Friday dinner, choosing traditional toppings and preparation he trusts."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Robert Kim",
+        "order_size": 1,
+        "order_complexity": "medium",
+        "guest_bio": "A retired veteran with traditional tastes who orders the same few dishes regularly. Appreciates consistency and gets confused by too many options. Prefers classic preparations and is hesitant about trendy ingredients."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Fish and Chips",
+            "quantity": 1,
+            "base_price": 18.99,
+            "modifiers": [],
+            "item_total_price": 18.99
+          }
+        ],
+        "order_total_price": 18.99,
+        "reasoning": "Robert Kim selected Fish and Chips for a Sunday lunch, a classic dish with no modifications needed, exactly how he likes it."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Amanda Foster",
+        "order_size": 5,
+        "order_complexity": "simple",
+        "guest_bio": "An office manager who coordinates team lunch orders. Efficient and organized, she often places large group orders with minimal customizations. Values accuracy and clear communication about delivery times."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Classic Burger",
+            "quantity": 3,
+            "base_price": 15.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Meat Temperature",
+                "modifier_option_name": "Medium",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "French Fries",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 47.97
+          },
+          {
+            "name": "Caesar Salad",
+            "quantity": 2,
+            "base_price": 12.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Protein Add-on",
+                "modifier_option_name": "Grilled Chicken",
+                "is_required": false,
+                "price": 6.00
+              }
+            ],
+            "item_total_price": 37.98
+          }
+        ],
+        "order_total_price": 85.95,
+        "reasoning": "Amanda Foster ordered for a Monday team lunch, choosing 3 classic burgers and 2 Caesar salads with chicken, simple crowd-pleasers with minimal customization for efficiency."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Amanda Foster",
+        "order_size": 5,
+        "order_complexity": "simple",
+        "guest_bio": "An office manager who coordinates team lunch orders. Efficient and organized, she often places large group orders with minimal customizations. Values accuracy and clear communication about delivery times."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Grilled Chicken Sandwich",
+            "quantity": 2,
+            "base_price": 14.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "French Fries",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 29.98
+          },
+          {
+            "name": "Club Sandwich",
+            "quantity": 2,
+            "base_price": 15.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Bread Choice",
+                "modifier_option_name": "Wheat",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "Potato Chips",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 31.98
+          },
+          {
+            "name": "Vegetable Stir Fry",
+            "quantity": 1,
+            "base_price": 14.99,
+            "modifiers": [],
+            "item_total_price": 14.99
+          }
+        ],
+        "order_total_price": 76.95,
+        "reasoning": "Amanda Foster placed a Wednesday office order with 2 grilled chicken sandwiches, 2 club sandwiches, and 1 vegetarian option, covering various dietary preferences efficiently."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Amanda Foster",
+        "order_size": 5,
+        "order_complexity": "simple",
+        "guest_bio": "An office manager who coordinates team lunch orders. Efficient and organized, she often places large group orders with minimal customizations. Values accuracy and clear communication about delivery times."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Margherita Pizza",
+            "quantity": 2,
+            "base_price": 16.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Size",
+                "modifier_option_name": "Large 18\"",
+                "is_required": true,
+                "price": 8.00
+              }
+            ],
+            "item_total_price": 49.98
+          },
+          {
+            "name": "Caesar Salad",
+            "quantity": 3,
+            "base_price": 12.99,
+            "modifiers": [],
+            "item_total_price": 38.97
+          }
+        ],
+        "order_total_price": 88.95,
+        "reasoning": "Amanda Foster ordered for a Friday team meeting, choosing 2 large pizzas for sharing and 3 Caesar salads, simple options that work well for group dining."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Carlos Mendez",
+        "order_size": 2,
+        "order_complexity": "complex",
+        "guest_bio": "A chef who loves analyzing restaurant menus and asking detailed questions about preparation methods. Orders unusual combinations to understand flavor profiles. Often requests modifications based on culinary expertise."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Filet Mignon",
+            "quantity": 1,
+            "base_price": 48.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Temperature",
+                "modifier_option_name": "Rare",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Sauce",
+                "modifier_option_name": "Red Wine Reduction",
+                "is_required": false,
+                "price": 3.00
+              },
+              {
+                "modifier_type_name": "Topping",
+                "modifier_option_name": "Blue Cheese Crust",
+                "is_required": false,
+                "price": 5.00
+              }
+            ],
+            "item_total_price": 56.99
+          },
+          {
+            "name": "Lobster Tail",
+            "quantity": 1,
+            "base_price": 44.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Preparation",
+                "modifier_option_name": "Grilled",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Extra",
+                "modifier_option_name": "Extra Butter",
+                "is_required": false,
+                "price": 2.00
+              }
+            ],
+            "item_total_price": 46.99
+          }
+        ],
+        "order_total_price": 103.98,
+        "reasoning": "Carlos Mendez ordered surf and turf for a Saturday dinner, combining rare filet with blue cheese crust and wine reduction plus grilled lobster to analyze premium preparation techniques."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Carlos Mendez",
+        "order_size": 2,
+        "order_complexity": "complex",
+        "guest_bio": "A chef who loves analyzing restaurant menus and asking detailed questions about preparation methods. Orders unusual combinations to understand flavor profiles. Often requests modifications based on culinary expertise."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Fettuccine Alfredo",
+            "quantity": 1,
+            "base_price": 16.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Protein Add-on",
+                "modifier_option_name": "Lobster",
+                "is_required": false,
+                "price": 12.00
+              },
+              {
+                "modifier_type_name": "Vegetables",
+                "modifier_option_name": "Mushrooms",
+                "is_required": false,
+                "price": 3.00
+              }
+            ],
+            "item_total_price": 31.99
+          },
+          {
+            "name": "Margarita",
+            "quantity": 1,
+            "base_price": 10.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Style",
+                "modifier_option_name": "On the Rocks",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Flavor",
+                "modifier_option_name": "Mango",
+                "is_required": false,
+                "price": 2.00
+              },
+              {
+                "modifier_type_name": "Rim",
+                "modifier_option_name": "Sugar Rim",
+                "is_required": false,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Tequila Upgrade",
+                "modifier_option_name": "Premium Tequila",
+                "is_required": false,
+                "price": 3.00
+              }
+            ],
+            "item_total_price": 15.99
+          }
+        ],
+        "order_total_price": 47.98,
+        "reasoning": "Carlos Mendez chose lobster Alfredo with mushrooms and a mango margarita with premium tequila for a Tuesday dinner, exploring luxury ingredients and unique flavor combinations."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Carlos Mendez",
+        "order_size": 2,
+        "order_complexity": "complex",
+        "guest_bio": "A chef who loves analyzing restaurant menus and asking detailed questions about preparation methods. Orders unusual combinations to understand flavor profiles. Often requests modifications based on culinary expertise."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Atlantic Salmon",
+            "quantity": 1,
+            "base_price": 26.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Preparation",
+                "modifier_option_name": "Blackened",
+                "is_required": false,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Sauce",
+                "modifier_option_name": "Mango Salsa",
+                "is_required": false,
+                "price": 3.00
+              },
+              {
+                "modifier_type_name": "Side Substitute",
+                "modifier_option_name": "Quinoa",
+                "is_required": false,
+                "price": 2.00
+              }
+            ],
+            "item_total_price": 31.99
+          },
+          {
+            "name": "Spinach Artichoke Dip",
+            "quantity": 1,
+            "base_price": 11.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Bread Choice",
+                "modifier_option_name": "Pita Bread",
+                "is_required": false,
+                "price": 2.00
+              }
+            ],
+            "item_total_price": 13.99
+          }
+        ],
+        "order_total_price": 45.98,
+        "reasoning": "Carlos Mendez ordered blackened salmon with mango salsa and quinoa plus spinach dip for a Thursday lunch, testing contrasting preparation methods and flavor profiles."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Linda Walsh",
+        "order_size": 1,
+        "order_complexity": "simple",
+        "guest_bio": "An elderly regular customer who knows exactly what she wants. Orders quickly with no fuss but expects familiar service. Doesn't like new technology or complicated ordering processes."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "French Onion Soup",
+            "quantity": 1,
+            "base_price": 8.99,
+            "modifiers": [],
+            "item_total_price": 8.99
+          }
+        ],
+        "order_total_price": 8.99,
+        "reasoning": "Linda Walsh ordered her usual French Onion Soup for a Monday lunch, a simple, familiar choice she's been ordering for years."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Linda Walsh",
+        "order_size": 1,
+        "order_complexity": "simple",
+        "guest_bio": "An elderly regular customer who knows exactly what she wants. Orders quickly with no fuss but expects familiar service. Doesn't like new technology or complicated ordering processes."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "New England Clam Chowder",
+            "quantity": 1,
+            "base_price": 9.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Size",
+                "modifier_option_name": "Bowl Size",
+                "is_required": false,
+                "price": 3.00
+              }
+            ],
+            "item_total_price": 12.99
+          }
+        ],
+        "order_total_price": 12.99,
+        "reasoning": "Linda Walsh chose a bowl of New England Clam Chowder for a Wednesday dinner, her regular Wednesday order for a filling meal."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Linda Walsh",
+        "order_size": 1,
+        "order_complexity": "simple",
+        "guest_bio": "An elderly regular customer who knows exactly what she wants. Orders quickly with no fuss but expects familiar service. Doesn't like new technology or complicated ordering processes."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Chicken Parmesan",
+            "quantity": 1,
+            "base_price": 22.99,
+            "modifiers": [],
+            "item_total_price": 22.99
+          }
+        ],
+        "order_total_price": 22.99,
+        "reasoning": "Linda Walsh ordered Chicken Parmesan for a Saturday dinner, her weekend treat that she orders exactly the same way every time."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Marcus James",
+        "order_size": 3,
+        "order_complexity": "medium",
+        "guest_bio": "A fitness trainer who counts macros and needs specific nutritional modifications. Asks about protein content, cooking methods, and portion weights. Often requests double protein or no carbs."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Ribeye Steak",
+            "quantity": 1,
+            "base_price": 42.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Temperature",
+                "modifier_option_name": "Medium Rare",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 42.99
+          },
+          {
+            "name": "Caesar Salad",
+            "quantity": 1,
+            "base_price": 12.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Protein Add-on",
+                "modifier_option_name": "Grilled Chicken",
+                "is_required": false,
+                "price": 6.00
+              },
+              {
+                "modifier_type_name": "Special Request",
+                "modifier_option_name": "No Croutons",
+                "is_required": false,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 18.99
+          },
+          {
+            "name": "Cappuccino",
+            "quantity": 1,
+            "base_price": 4.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Size",
+                "modifier_option_name": "Large",
+                "is_required": true,
+                "price": 2.00
+              },
+              {
+                "modifier_type_name": "Milk Choice",
+                "modifier_option_name": "Skim Milk",
+                "is_required": false,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 6.99
+          }
+        ],
+        "order_total_price": 68.97,
+        "reasoning": "Marcus James ordered post-workout meal on Tuesday: ribeye for protein, Caesar salad with chicken (no croutons for low carb), and skim milk cappuccino for controlled macros."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Marcus James",
+        "order_size": 3,
+        "order_complexity": "medium",
+        "guest_bio": "A fitness trainer who counts macros and needs specific nutritional modifications. Asks about protein content, cooking methods, and portion weights. Often requests double protein or no carbs."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Atlantic Salmon",
+            "quantity": 1,
+            "base_price": 26.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Preparation",
+                "modifier_option_name": "Grilled",
+                "is_required": false,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 26.99
+          },
+          {
+            "name": "Grilled Chicken Sandwich",
+            "quantity": 1,
+            "base_price": 14.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "Side Salad",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 14.99
+          },
+          {
+            "name": "Fresh Orange Juice",
+            "quantity": 1,
+            "base_price": 5.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Size",
+                "modifier_option_name": "Large",
+                "is_required": true,
+                "price": 2.00
+              }
+            ],
+            "item_total_price": 7.99
+          }
+        ],
+        "order_total_price": 49.97,
+        "reasoning": "Marcus James chose Thursday meal prep order: grilled salmon for omega-3s, chicken sandwich with salad instead of fries, and large OJ for post-workout vitamins."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Marcus James",
+        "order_size": 3,
+        "order_complexity": "medium",
+        "guest_bio": "A fitness trainer who counts macros and needs specific nutritional modifications. Asks about protein content, cooking methods, and portion weights. Often requests double protein or no carbs."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Classic Burger",
+            "quantity": 2,
+            "base_price": 15.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Meat Temperature",
+                "modifier_option_name": "Medium",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Bun Choice",
+                "modifier_option_name": "Lettuce Wrap",
+                "is_required": false,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "Side Salad",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 31.98
+          },
+          {
+            "name": "Vegetable Stir Fry",
+            "quantity": 1,
+            "base_price": 14.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Rice Choice",
+                "modifier_option_name": "Cauliflower Rice",
+                "is_required": false,
+                "price": 3.00
+              }
+            ],
+            "item_total_price": 17.99
+          }
+        ],
+        "order_total_price": 49.97,
+        "reasoning": "Marcus James ordered Sunday cheat day meal: 2 burgers with lettuce wraps instead of buns, side salads, and vegetable stir fry with cauliflower rice for lower carbs."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Priya Patel",
+        "order_size": 4,
+        "order_complexity": "medium",
+        "guest_bio": "A mom ordering for her kids' soccer team celebration. Needs to accommodate various preferences and mild spice levels. Always confirms total costs and asks about bulk ordering discounts."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Kids Chicken Tenders",
+            "quantity": 3,
+            "base_price": 8.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Sauce",
+                "modifier_option_name": "Honey Mustard",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Side",
+                "modifier_option_name": "French Fries",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Drink",
+                "modifier_option_name": "Apple Juice",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 26.97
+          },
+          {
+            "name": "Margherita Pizza",
+            "quantity": 1,
+            "base_price": 16.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Size",
+                "modifier_option_name": "Large 18\"",
+                "is_required": true,
+                "price": 8.00
+              }
+            ],
+            "item_total_price": 24.99
+          }
+        ],
+        "order_total_price": 51.96,
+        "reasoning": "Priya Patel ordered for Saturday soccer celebration: 3 kids' chicken tender meals and a large pizza for sharing, mild flavors suitable for children."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Priya Patel",
+        "order_size": 4,
+        "order_complexity": "medium",
+        "guest_bio": "A mom ordering for her kids' soccer team celebration. Needs to accommodate various preferences and mild spice levels. Always confirms total costs and asks about bulk ordering discounts."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Kids Mac and Cheese",
+            "quantity": 2,
+            "base_price": 7.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Side",
+                "modifier_option_name": "Fruit Cup",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Drink",
+                "modifier_option_name": "Apple Juice",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 15.98
+          },
+          {
+            "name": "Classic Burger",
+            "quantity": 2,
+            "base_price": 15.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Meat Temperature",
+                "modifier_option_name": "Well Done",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Cheese",
+                "modifier_option_name": "American",
+                "is_required": false,
+                "price": 1.50
+              },
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "French Fries",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 34.98
+          }
+        ],
+        "order_total_price": 50.96,
+        "reasoning": "Priya Patel ordered for Wednesday team dinner: 2 kids' mac and cheese with healthy sides and 2 well-done burgers with cheese for older kids, ensuring safe cooking."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Priya Patel",
+        "order_size": 4,
+        "order_complexity": "medium",
+        "guest_bio": "A mom ordering for her kids' soccer team celebration. Needs to accommodate various preferences and mild spice levels. Always confirms total costs and asks about bulk ordering discounts."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Grilled Chicken Sandwich",
+            "quantity": 2,
+            "base_price": 14.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "Fruit Cup",
+                "is_required": true,
+                "price": 2.00
+              }
+            ],
+            "item_total_price": 33.98
+          },
+          {
+            "name": "Fettuccine Alfredo",
+            "quantity": 2,
+            "base_price": 16.99,
+            "modifiers": [],
+            "item_total_price": 33.98
+          }
+        ],
+        "order_total_price": 67.96,
+        "reasoning": "Priya Patel ordered for Sunday team lunch: 2 grilled chicken sandwiches with fruit cups for healthier option and 2 plain Fettuccine Alfredos, safe crowd-pleasers for kids."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Thomas Wright",
+        "order_size": 1,
+        "order_complexity": "medium",
+        "guest_bio": "A truck driver who orders from the road and needs quick pickup options. Limited by time constraints but likes hearty portions. Often asks about parking availability and speed of service."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "BBQ Bacon Burger",
+            "quantity": 1,
+            "base_price": 18.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Meat Temperature",
+                "modifier_option_name": "Medium Well",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "Onion Rings",
+                "is_required": true,
+                "price": 3.00
+              }
+            ],
+            "item_total_price": 21.99
+          }
+        ],
+        "order_total_price": 21.99,
+        "reasoning": "Thomas Wright chose BBQ Bacon Burger with onion rings for a Monday lunch stop, a hearty and filling meal perfect for long drives ahead."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Thomas Wright",
+        "order_size": 1,
+        "order_complexity": "medium",
+        "guest_bio": "A truck driver who orders from the road and needs quick pickup options. Limited by time constraints but likes hearty portions. Often asks about parking availability and speed of service."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Baby Back Ribs",
+            "quantity": 1,
+            "base_price": 28.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Portion",
+                "modifier_option_name": "Half Rack",
+                "is_required": false,
+                "price": -8.00
+              },
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "French Fries",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 20.99
+          }
+        ],
+        "order_total_price": 20.99,
+        "reasoning": "Thomas Wright ordered half rack of ribs with fries for a Thursday dinner, manageable portion that's filling but won't slow him down on the road."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Thomas Wright",
+        "order_size": 1,
+        "order_complexity": "medium",
+        "guest_bio": "A truck driver who orders from the road and needs quick pickup options. Limited by time constraints but likes hearty portions. Often asks about parking availability and speed of service."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Fish and Chips",
+            "quantity": 1,
+            "base_price": 18.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Extra",
+                "modifier_option_name": "Extra Piece of Fish",
+                "is_required": false,
+                "price": 8.00
+              }
+            ],
+            "item_total_price": 26.99
+          }
+        ],
+        "order_total_price": 26.99,
+        "reasoning": "Thomas Wright selected Fish and Chips with extra fish for a Sunday dinner, a substantial meal with extra protein to keep him satisfied during overnight drives."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Rachel Green",
+        "order_size": 2,
+        "order_complexity": "complex",
+        "guest_bio": "A food blogger who asks extensive questions about ingredients and presentation for her reviews. Takes time exploring unique menu items and seasonal specials. Requests specific plating for photos."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Lobster Tail",
+            "quantity": 1,
+            "base_price": 44.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Preparation",
+                "modifier_option_name": "Broiled",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Add-on",
+                "modifier_option_name": "Third Tail",
+                "is_required": false,
+                "price": 22.00
+              }
+            ],
+            "item_total_price": 66.99
+          },
+          {
+            "name": "Chocolate Lava Cake",
+            "quantity": 1,
+            "base_price": 8.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Ice Cream Flavor",
+                "modifier_option_name": "Chocolate",
+                "is_required": false,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Topping",
+                "modifier_option_name": "Whipped Cream",
+                "is_required": false,
+                "price": 1.00
+              }
+            ],
+            "item_total_price": 9.99
+          }
+        ],
+        "order_total_price": 76.98,
+        "reasoning": "Rachel Green ordered for Tuesday blog review: triple lobster tail for impressive photos and chocolate lava cake with garnishes for dessert photography and taste testing."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Rachel Green",
+        "order_size": 2,
+        "order_complexity": "complex",
+        "guest_bio": "A food blogger who asks extensive questions about ingredients and presentation for her reviews. Takes time exploring unique menu items and seasonal specials. Requests specific plating for photos."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Chicken Parmesan",
+            "quantity": 1,
+            "base_price": 22.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Pasta Choice",
+                "modifier_option_name": "Angel Hair",
+                "is_required": false,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Extra",
+                "modifier_option_name": "Extra Cheese",
+                "is_required": false,
+                "price": 3.00
+              }
+            ],
+            "item_total_price": 25.99
+          },
+          {
+            "name": "House Red Wine",
+            "quantity": 1,
+            "base_price": 8.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Pour Size",
+                "modifier_option_name": "Bottle",
+                "is_required": true,
+                "price": 24.00
+              }
+            ],
+            "item_total_price": 32.99
+          }
+        ],
+        "order_total_price": 58.98,
+        "reasoning": "Rachel Green chose for Friday feature article: Chicken Parmesan with angel hair and extra cheese for visual appeal, plus full bottle of wine to evaluate pairings."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Rachel Green",
+        "order_size": 2,
+        "order_complexity": "complex",
+        "guest_bio": "A food blogger who asks extensive questions about ingredients and presentation for her reviews. Takes time exploring unique menu items and seasonal specials. Requests specific plating for photos."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Filet Mignon",
+            "quantity": 1,
+            "base_price": 48.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Temperature",
+                "modifier_option_name": "Medium Rare",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Sauce",
+                "modifier_option_name": "Hollandaise",
+                "is_required": false,
+                "price": 3.00
+              }
+            ],
+            "item_total_price": 51.99
+          },
+          {
+            "name": "New York Cheesecake",
+            "quantity": 1,
+            "base_price": 7.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Topping",
+                "modifier_option_name": "Strawberry",
+                "is_required": false,
+                "price": 2.00
+              },
+              {
+                "modifier_type_name": "Topping",
+                "modifier_option_name": "Chocolate Sauce",
+                "is_required": false,
+                "price": 1.50
+              }
+            ],
+            "item_total_price": 11.49
+          }
+        ],
+        "order_total_price": 63.48,
+        "reasoning": "Rachel Green ordered for Sunday special feature: Filet mignon with hollandaise for elegant presentation and cheesecake with multiple toppings for dessert photography showcase."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "James O'Brien",
+        "order_size": 6,
+        "order_complexity": "simple",
+        "guest_bio": "A construction foreman ordering for his crew. Needs large quantities of filling, simple foods. Values bulk pricing and reliable portions. Usually orders the same items in large quantities."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Classic Burger",
+            "quantity": 4,
+            "base_price": 15.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Meat Temperature",
+                "modifier_option_name": "Medium",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "French Fries",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 63.96
+          },
+          {
+            "name": "BBQ Bacon Burger",
+            "quantity": 2,
+            "base_price": 18.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Meat Temperature",
+                "modifier_option_name": "Medium",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "French Fries",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 37.98
+          }
+        ],
+        "order_total_price": 101.94,
+        "reasoning": "James O'Brien ordered for Monday crew lunch: 4 classic burgers and 2 BBQ bacon burgers, all with fries, simple and filling for hardworking construction team."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "James O'Brien",
+        "order_size": 6,
+        "order_complexity": "simple",
+        "guest_bio": "A construction foreman ordering for his crew. Needs large quantities of filling, simple foods. Values bulk pricing and reliable portions. Usually orders the same items in large quantities."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Baby Back Ribs",
+            "quantity": 3,
+            "base_price": 28.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "French Fries",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 86.97
+          },
+          {
+            "name": "Grilled Chicken Sandwich",
+            "quantity": 3,
+            "base_price": 14.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "French Fries",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 44.97
+          }
+        ],
+        "order_total_price": 131.94,
+        "reasoning": "James O'Brien ordered for Thursday crew dinner: 3 full racks of ribs and 3 chicken sandwiches, all with fries, hearty portions after a long work day."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "James O'Brien",
+        "order_size": 6,
+        "order_complexity": "simple",
+        "guest_bio": "A construction foreman ordering for his crew. Needs large quantities of filling, simple foods. Values bulk pricing and reliable portions. Usually orders the same items in large quantities."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Margherita Pizza",
+            "quantity": 3,
+            "base_price": 16.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Size",
+                "modifier_option_name": "Large 18\"",
+                "is_required": true,
+                "price": 8.00
+              }
+            ],
+            "item_total_price": 74.97
+          },
+          {
+            "name": "Buffalo Wings",
+            "quantity": 3,
+            "base_price": 13.99,
+            "modifiers": [],
+            "item_total_price": 41.97
+          }
+        ],
+        "order_total_price": 116.94,
+        "reasoning": "James O'Brien ordered for Saturday overtime lunch: 3 large pizzas for sharing and 3 orders of wings, easy to eat on site and feeds the whole crew."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Sofia Russo",
+        "order_size": 2,
+        "order_complexity": "medium",
+        "guest_bio": "A wine enthusiast who asks about pairing recommendations and takes time to consider options. Orders appetizers and entrees based on wine selections. Appreciates knowledgeable suggestions about complementary flavors."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Filet Mignon",
+            "quantity": 1,
+            "base_price": 48.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Temperature",
+                "modifier_option_name": "Medium Rare",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 48.99
+          },
+          {
+            "name": "House Red Wine",
+            "quantity": 1,
+            "base_price": 8.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Pour Size",
+                "modifier_option_name": "9oz Glass",
+                "is_required": true,
+                "price": 4.00
+              }
+            ],
+            "item_total_price": 12.99
+          }
+        ],
+        "order_total_price": 61.98,
+        "reasoning": "Sofia Russo chose filet mignon medium rare with a 9oz red wine for a Tuesday evening, classic pairing of premium beef with bold red wine."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Sofia Russo",
+        "order_size": 2,
+        "order_complexity": "medium",
+        "guest_bio": "A wine enthusiast who asks about pairing recommendations and takes time to consider options. Orders appetizers and entrees based on wine selections. Appreciates knowledgeable suggestions about complementary flavors."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Atlantic Salmon",
+            "quantity": 1,
+            "base_price": 26.99,
+            "modifiers": [],
+            "item_total_price": 26.99
+          },
+          {
+            "name": "Caesar Salad",
+            "quantity": 1,
+            "base_price": 12.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Dressing",
+                "modifier_option_name": "Dressing on Side",
+                "is_required": false,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 12.99
+          }
+        ],
+        "order_total_price": 39.98,
+        "reasoning": "Sofia Russo selected salmon and Caesar salad for a Friday lunch, lighter fare that pairs well with white wine she'll order separately."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Sofia Russo",
+        "order_size": 2,
+        "order_complexity": "medium",
+        "guest_bio": "A wine enthusiast who asks about pairing recommendations and takes time to consider options. Orders appetizers and entrees based on wine selections. Appreciates knowledgeable suggestions about complementary flavors."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Spaghetti Carbonara",
+            "quantity": 1,
+            "base_price": 18.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Extra",
+                "modifier_option_name": "Extra Parmesan",
+                "is_required": false,
+                "price": 2.00
+              }
+            ],
+            "item_total_price": 20.99
+          },
+          {
+            "name": "Spinach Artichoke Dip",
+            "quantity": 1,
+            "base_price": 11.99,
+            "modifiers": [],
+            "item_total_price": 11.99
+          }
+        ],
+        "order_total_price": 32.98,
+        "reasoning": "Sofia Russo ordered carbonara with extra parmesan and spinach dip for a Sunday dinner, rich flavors that complement Italian wines."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Kevin Liu",
+        "order_size": 1,
+        "order_complexity": "simple",
+        "guest_bio": "A late-night shift worker who orders at odd hours. Needs quick, satisfying meals with minimal interaction. Knows the menu well and orders efficiently without questions."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Classic Burger",
+            "quantity": 1,
+            "base_price": 15.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Meat Temperature",
+                "modifier_option_name": "Medium",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "French Fries",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 15.99
+          }
+        ],
+        "order_total_price": 15.99,
+        "reasoning": "Kevin Liu ordered his usual late-night Classic Burger with fries at 2 AM Monday, quick and satisfying for his break."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Kevin Liu",
+        "order_size": 1,
+        "order_complexity": "simple",
+        "guest_bio": "A late-night shift worker who orders at odd hours. Needs quick, satisfying meals with minimal interaction. Knows the menu well and orders efficiently without questions."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Buffalo Wings",
+            "quantity": 1,
+            "base_price": 13.99,
+            "modifiers": [],
+            "item_total_price": 13.99
+          }
+        ],
+        "order_total_price": 13.99,
+        "reasoning": "Kevin Liu grabbed Buffalo Wings at 3 AM Thursday, no modifications needed, quick pickup during his night shift break."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Kevin Liu",
+        "order_size": 1,
+        "order_complexity": "simple",
+        "guest_bio": "A late-night shift worker who orders at odd hours. Needs quick, satisfying meals with minimal interaction. Knows the menu well and orders efficiently without questions."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Chicken Parmesan",
+            "quantity": 1,
+            "base_price": 22.99,
+            "modifiers": [],
+            "item_total_price": 22.99
+          }
+        ],
+        "order_total_price": 22.99,
+        "reasoning": "Kevin Liu ordered Chicken Parmesan at 1 AM Saturday, his go-to substantial meal for weekend night shifts, no changes needed."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Barbara Nelson",
+        "order_size": 3,
+        "order_complexity": "complex",
+        "guest_bio": "A catering coordinator for corporate events who places detailed custom orders. Requires specific timing, presentation requirements, and dietary accommodation lists. Often negotiates prices for large recurring orders."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Caesar Salad",
+            "quantity": 1,
+            "base_price": 12.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Protein Add-on",
+                "modifier_option_name": "Salmon",
+                "is_required": false,
+                "price": 10.00
+              },
+              {
+                "modifier_type_name": "Dressing",
+                "modifier_option_name": "Dressing on Side",
+                "is_required": false,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Special Request",
+                "modifier_option_name": "No Croutons",
+                "is_required": false,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 22.99
+          },
+          {
+            "name": "Vegetable Stir Fry",
+            "quantity": 1,
+            "base_price": 14.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Protein Add-on",
+                "modifier_option_name": "Tofu",
+                "is_required": false,
+                "price": 4.00
+              },
+              {
+                "modifier_type_name": "Rice Choice",
+                "modifier_option_name": "Brown Rice",
+                "is_required": false,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Spice Level",
+                "modifier_option_name": "Mild",
+                "is_required": false,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 18.99
+          },
+          {
+            "name": "Portobello Mushroom Burger",
+            "quantity": 1,
+            "base_price": 13.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Cheese",
+                "modifier_option_name": "Vegan Cheese",
+                "is_required": false,
+                "price": 2.50
+              },
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "Side Salad",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 16.49
+          }
+        ],
+        "order_total_price": 58.47,
+        "reasoning": "Barbara Nelson ordered sample menu for corporate event planning on Tuesday: salmon Caesar (no croutons), mild tofu stir fry, and vegan portobello burger, testing dietary accommodations."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Barbara Nelson",
+        "order_size": 3,
+        "order_complexity": "complex",
+        "guest_bio": "A catering coordinator for corporate events who places detailed custom orders. Requires specific timing, presentation requirements, and dietary accommodation lists. Often negotiates prices for large recurring orders."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Ribeye Steak",
+            "quantity": 1,
+            "base_price": 42.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Temperature",
+                "modifier_option_name": "Medium",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Sauce",
+                "modifier_option_name": "Béarnaise",
+                "is_required": false,
+                "price": 3.00
+              },
+              {
+                "modifier_type_name": "Side Upgrade",
+                "modifier_option_name": "Loaded Baked Potato",
+                "is_required": false,
+                "price": 4.00
+              }
+            ],
+            "item_total_price": 49.99
+          },
+          {
+            "name": "Atlantic Salmon",
+            "quantity": 1,
+            "base_price": 26.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Preparation",
+                "modifier_option_name": "Blackened",
+                "is_required": false,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Side Substitute",
+                "modifier_option_name": "Quinoa",
+                "is_required": false,
+                "price": 2.00
+              }
+            ],
+            "item_total_price": 28.99
+          },
+          {
+            "name": "New York Cheesecake",
+            "quantity": 1,
+            "base_price": 7.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Topping",
+                "modifier_option_name": "Caramel Sauce",
+                "is_required": false,
+                "price": 1.50
+              }
+            ],
+            "item_total_price": 9.49
+          }
+        ],
+        "order_total_price": 88.47,
+        "reasoning": "Barbara Nelson sampled premium options for Friday executive dinner: ribeye with béarnaise and loaded potato, blackened salmon with quinoa, and cheesecake for upscale event planning."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Barbara Nelson",
+        "order_size": 3,
+        "order_complexity": "complex",
+        "guest_bio": "A catering coordinator for corporate events who places detailed custom orders. Requires specific timing, presentation requirements, and dietary accommodation lists. Often negotiates prices for large recurring orders."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Chicken Parmesan",
+            "quantity": 1,
+            "base_price": 22.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Pasta Choice",
+                "modifier_option_name": "Penne",
+                "is_required": false,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Extra",
+                "modifier_option_name": "Extra Sauce",
+                "is_required": false,
+                "price": 2.00
+              }
+            ],
+            "item_total_price": 24.99
+          },
+          {
+            "name": "Fettuccine Alfredo",
+            "quantity": 1,
+            "base_price": 16.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Protein Add-on",
+                "modifier_option_name": "Grilled Chicken",
+                "is_required": false,
+                "price": 6.00
+              },
+              {
+                "modifier_type_name": "Vegetables",
+                "modifier_option_name": "Broccoli",
+                "is_required": false,
+                "price": 3.00
+              }
+            ],
+            "item_total_price": 25.99
+          },
+          {
+            "name": "Cappuccino",
+            "quantity": 1,
+            "base_price": 4.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Size",
+                "modifier_option_name": "Large",
+                "is_required": true,
+                "price": 2.00
+              },
+              {
+                "modifier_type_name": "Caffeine",
+                "modifier_option_name": "Decaf",
+                "is_required": false,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 6.99
+          }
+        ],
+        "order_total_price": 57.97,
+        "reasoning": "Barbara Nelson tested Sunday brunch catering options: Chicken Parmesan with penne, chicken alfredo with broccoli, and decaf cappuccino for daytime corporate events."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Alex Turner",
+        "order_size": 1,
+        "order_complexity": "medium",
+        "guest_bio": "A vegan activist who thoroughly questions ingredients and preparation methods. Ensures no cross-contamination with animal products. Often educates staff about vegan options and suggests menu improvements."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Vegetable Stir Fry",
+            "quantity": 1,
+            "base_price": 14.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Protein Add-on",
+                "modifier_option_name": "Tofu",
+                "is_required": false,
+                "price": 4.00
+              },
+              {
+                "modifier_type_name": "Rice Choice",
+                "modifier_option_name": "Brown Rice",
+                "is_required": false,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Spice Level",
+                "modifier_option_name": "Hot",
+                "is_required": false,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 18.99
+          }
+        ],
+        "order_total_price": 18.99,
+        "reasoning": "Alex Turner chose vegetable stir fry with tofu, brown rice, and hot spice for a Monday dinner, ensuring all ingredients are plant-based and prepared separately."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Alex Turner",
+        "order_size": 1,
+        "order_complexity": "medium",
+        "guest_bio": "A vegan activist who thoroughly questions ingredients and preparation methods. Ensures no cross-contamination with animal products. Often educates staff about vegan options and suggests menu improvements."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Portobello Mushroom Burger",
+            "quantity": 1,
+            "base_price": 13.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Cheese",
+                "modifier_option_name": "Vegan Cheese",
+                "is_required": false,
+                "price": 2.50
+              },
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "Sweet Potato Fries",
+                "is_required": true,
+                "price": 2.00
+              }
+            ],
+            "item_total_price": 18.49
+          }
+        ],
+        "order_total_price": 18.49,
+        "reasoning": "Alex Turner selected portobello burger with vegan cheese and sweet potato fries for a Thursday lunch, fully plant-based meal with no animal products."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Alex Turner",
+        "order_size": 1,
+        "order_complexity": "medium",
+        "guest_bio": "A vegan activist who thoroughly questions ingredients and preparation methods. Ensures no cross-contamination with animal products. Often educates staff about vegan options and suggests menu improvements."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Margherita Pizza",
+            "quantity": 1,
+            "base_price": 16.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Size",
+                "modifier_option_name": "Small 10\"",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Crust Type",
+                "modifier_option_name": "Thin Crust",
+                "is_required": false,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 16.99
+          }
+        ],
+        "order_total_price": 16.99,
+        "reasoning": "Alex Turner ordered small Margherita pizza with thin crust for a Saturday dinner, requesting no cheese to make it vegan, focusing on tomato and basil flavors."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Diana Walsh",
+        "order_size": 2,
+        "order_complexity": "simple",
+        "guest_bio": "A nurse grabbing food between shifts who needs reliable, quick options. Orders familiar items without modifications. Values speed over variety and often orders the daily special without questions."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Grilled Chicken Sandwich",
+            "quantity": 1,
+            "base_price": 14.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "French Fries",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 14.99
+          },
+          {
+            "name": "Coca-Cola",
+            "quantity": 1,
+            "base_price": 3.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Size",
+                "modifier_option_name": "Medium",
+                "is_required": true,
+                "price": 1.00
+              }
+            ],
+            "item_total_price": 4.99
+          }
+        ],
+        "order_total_price": 19.98,
+        "reasoning": "Diana Walsh grabbed grilled chicken sandwich with fries and medium Coke during her Tuesday break, quick and filling between hospital shifts."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Diana Walsh",
+        "order_size": 2,
+        "order_complexity": "simple",
+        "guest_bio": "A nurse grabbing food between shifts who needs reliable, quick options. Orders familiar items without modifications. Values speed over variety and often orders the daily special without questions."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Club Sandwich",
+            "quantity": 1,
+            "base_price": 15.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Bread Choice",
+                "modifier_option_name": "White",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "French Fries",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 15.99
+          },
+          {
+            "name": "Cappuccino",
+            "quantity": 1,
+            "base_price": 4.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Size",
+                "modifier_option_name": "Small",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 4.99
+          }
+        ],
+        "order_total_price": 20.98,
+        "reasoning": "Diana Walsh ordered club sandwich and small cappuccino for a Friday night shift meal, familiar items to keep her energized through long hours."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Diana Walsh",
+        "order_size": 2,
+        "order_complexity": "simple",
+        "guest_bio": "A nurse grabbing food between shifts who needs reliable, quick options. Orders familiar items without modifications. Values speed over variety and often orders the daily special without questions."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Caesar Salad",
+            "quantity": 1,
+            "base_price": 12.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Protein Add-on",
+                "modifier_option_name": "Grilled Chicken",
+                "is_required": false,
+                "price": 6.00
+              }
+            ],
+            "item_total_price": 18.99
+          },
+          {
+            "name": "Fresh Orange Juice",
+            "quantity": 1,
+            "base_price": 5.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Size",
+                "modifier_option_name": "Small",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 5.99
+          }
+        ],
+        "order_total_price": 24.98,
+        "reasoning": "Diana Walsh chose Caesar salad with chicken and orange juice for a Sunday morning, healthy and quick option before her day shift."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Frank Morrison",
+        "order_size": 4,
+        "order_complexity": "medium",
+        "guest_bio": "A grandfather treating his grandchildren who asks about kid-friendly options and portion sizes. Takes time ensuring everyone is happy with their choices. Often asks servers for recommendations based on children's ages."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Kids Chicken Tenders",
+            "quantity": 2,
+            "base_price": 8.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Sauce",
+                "modifier_option_name": "BBQ Sauce",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Side",
+                "modifier_option_name": "Apple Slices",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Drink",
+                "modifier_option_name": "Milk",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 17.98
+          },
+          {
+            "name": "Kids Mac and Cheese",
+            "quantity": 1,
+            "base_price": 7.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Add-on",
+                "modifier_option_name": "Bacon Bits",
+                "is_required": false,
+                "price": 2.00
+              },
+              {
+                "modifier_type_name": "Side",
+                "modifier_option_name": "Fruit Cup",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Drink",
+                "modifier_option_name": "Apple Juice",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 9.99
+          },
+          {
+            "name": "Fish and Chips",
+            "quantity": 1,
+            "base_price": 18.99,
+            "modifiers": [],
+            "item_total_price": 18.99
+          }
+        ],
+        "order_total_price": 46.96,
+        "reasoning": "Frank Morrison ordered for Wednesday lunch with grandkids: 2 chicken tender meals, mac and cheese with bacon for the picky eater, and fish and chips for himself."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Frank Morrison",
+        "order_size": 4,
+        "order_complexity": "medium",
+        "guest_bio": "A grandfather treating his grandchildren who asks about kid-friendly options and portion sizes. Takes time ensuring everyone is happy with their choices. Often asks servers for recommendations based on children's ages."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Margherita Pizza",
+            "quantity": 1,
+            "base_price": 16.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Size",
+                "modifier_option_name": "Medium 14\"",
+                "is_required": true,
+                "price": 4.00
+              }
+            ],
+            "item_total_price": 20.99
+          },
+          {
+            "name": "Spaghetti Carbonara",
+            "quantity": 1,
+            "base_price": 18.99,
+            "modifiers": [],
+            "item_total_price": 18.99
+          },
+          {
+            "name": "Apple Pie",
+            "quantity": 2,
+            "base_price": 6.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Serving Style",
+                "modifier_option_name": "À la mode",
+                "is_required": false,
+                "price": 3.00
+              }
+            ],
+            "item_total_price": 19.98
+          }
+        ],
+        "order_total_price": 59.96,
+        "reasoning": "Frank Morrison treated grandkids on Saturday: medium pizza for sharing, carbonara for older grandchild, and 2 apple pies with ice cream for dessert treats."
+      }
+    },
+    {
+      "guest_persona": {
+        "full_name": "Frank Morrison",
+        "order_size": 4,
+        "order_complexity": "medium",
+        "guest_bio": "A grandfather treating his grandchildren who asks about kid-friendly options and portion sizes. Takes time ensuring everyone is happy with their choices. Often asks servers for recommendations based on children's ages."
+      },
+      "target_order": {
+        "order_items": [
+          {
+            "name": "Classic Burger",
+            "quantity": 1,
+            "base_price": 15.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Meat Temperature",
+                "modifier_option_name": "Well Done",
+                "is_required": true,
+                "price": 0.00
+              },
+              {
+                "modifier_type_name": "Cheese",
+                "modifier_option_name": "American",
+                "is_required": false,
+                "price": 1.50
+              },
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "French Fries",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 17.49
+          },
+          {
+            "name": "Grilled Chicken Sandwich",
+            "quantity": 1,
+            "base_price": 14.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Side Choice",
+                "modifier_option_name": "Fruit Cup",
+                "is_required": true,
+                "price": 2.00
+              }
+            ],
+            "item_total_price": 16.99
+          },
+          {
+            "name": "Fresh Orange Juice",
+            "quantity": 2,
+            "base_price": 5.99,
+            "modifiers": [
+              {
+                "modifier_type_name": "Size",
+                "modifier_option_name": "Small",
+                "is_required": true,
+                "price": 0.00
+              }
+            ],
+            "item_total_price": 11.98
+          }
+        ],
+        "order_total_price": 46.46,
+        "reasoning": "Frank Morrison ordered Sunday brunch with grandkids: well-done burger for teen, chicken sandwich with fruit for health-conscious grandchild, and orange juices for everyone."
+      }
+    }
+  ]
+}

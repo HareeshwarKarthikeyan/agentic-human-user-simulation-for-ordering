@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+03b08dae-ffb8-4276-a08c-6d9eca314927,Hi there! This is Sarah Johnson. I'm looking to place a quick order during my lunch break. Can you please add one Grilled Chicken Sandwich with French Fries as the side to my order? ,2018,7.008819
+10f111e4-bec9-4c27-b291-a9cc2c4972df,"Hey! I'll go with provolone cheese on the Grilled Chicken Sandwich, and yes, French Fries for the side is perfect. Thanks! Could you let me know the total price for that?",2079,1.492392
+ab90ea04-7bff-41f4-9c3f-b0cd7abadf06,"Hi, this is Sarah Johnson. The order looks complete to me, and the total sounds good. I'll be picking it up at 12:30 PM. Thanks!",2158,3.478627
+1e8a9367-4685-40e7-9a2f-9d811cccbec5,"Could you please help clarify my order? I wanted one Grilled Chicken Sandwich with provolone cheese and a side of French Fries, totaling $14.99, but it seems there's only French Fries in the order. Can we correct this to include the sandwich, please? Thanks!",2168,2.760639
+b4957168-5a70-465c-8bc1-a4ea90937c2e,It seems like my order isn't quite right yet. I need a **Grilled Chicken Sandwich** with provolone cheese and a side of **French Fries** for $14.99. Could you please make sure that's added to my order? Thanks!,2170,3.428328
+766a8201-e9a0-4f21-84cb-baf9e1b3a3cd,exit,2168,3.761596

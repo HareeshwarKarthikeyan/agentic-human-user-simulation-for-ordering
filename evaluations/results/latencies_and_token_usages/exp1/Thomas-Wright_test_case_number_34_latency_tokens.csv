@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+2cb60dc3-4124-49cd-bddb-6bc62a65f39a,"Hi there! I’d like to place an order for a BBQ Bacon Burger. Can I get that cooked medium well, please? And I'll have onion rings on the side. ",1116,1.2363650798797607
+61f53955-7233-43cd-b03b-ab72b98199e8,"No, just the burger and onion rings for now. Can you confirm the total for that?",1191,0.8386719226837158
+1ca96710-f6ad-43f6-a048-1f16ccb05c99,It's Thomas Wright.,1275,0.8171162605285645
+0ff12fea-8f29-4a7c-8953-90173e3b1ed1,exit,1354,0.6222593784332275

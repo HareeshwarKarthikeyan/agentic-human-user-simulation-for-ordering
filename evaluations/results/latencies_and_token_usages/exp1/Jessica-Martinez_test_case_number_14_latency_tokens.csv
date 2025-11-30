@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+a8c9e05b-5b9d-4080-ae5f-a6e077e1dea8,"Hi there! I'd like to place an order for a Portobello Mushroom Burger with French Fries and a French Onion Soup, please.",1114,0.9857168197631836
+96fb2aa4-e2a5-4e33-9ae8-8e0a6a912bfa,"Yes, I’d like the Portobello Mushroom Burger with French Fries, and the French Onion Soup, but just the regular size, please. What’s the total for that?",1237,1.3909060955047607
+ca190045-e59d-4dac-8f2a-eb4a7d1e9805,Sure! It's Jessica Martinez.,1355,0.993859052658081
+a7a23d25-6beb-45c1-a517-43451936535d,exit,1458,0.8268051147460938

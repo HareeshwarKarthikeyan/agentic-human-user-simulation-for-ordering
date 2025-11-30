@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+2f9f9d17-98ea-41d2-9cd0-be39a690e880,"Hey there! I'd like to order a BBQ Bacon Burger, please. Can you make it medium well and with onion rings on the side? Thanks!",2260,4.307458
+c2a800aa-c657-44be-b68d-9b537aaae9f3,"No cheese or drink for me today, just sticking with the BBQ Bacon Burger and onion rings. Any idea how quick the pickup is going to be? Also, is there parking available for big trucks?",2406,3.222679
+fc4aa175-cdbe-4089-a8f4-126b347d829c,"Sure thing, you can put it under Thomas Wright. Thanks for confirming the order details and the parking space info. Looking forward to picking it up soon!",3917,7.26386
+ce9f123e-a19c-4870-b816-dfd02d4760e7,exit,2436,3.787274

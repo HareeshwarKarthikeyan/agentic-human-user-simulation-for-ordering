@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+c9f7ad59-a93f-45d8-99e8-4167545665c7,"Hi there! I’d like to place an order for pick-up. I need three Baby Back Ribs with French Fries, and three Grilled Chicken Sandwiches also with French Fries.",1162,0.9767570495605469
+0bf9f39f-b5e3-4c2f-a3f5-d2235befb0d6,"No sauce for the ribs, just the regular ones. And yeah, French Fries are good for the sandwiches too. So that’s three Baby Back Ribs with French Fries and three Grilled Chicken Sandwiches with French Fries. What’s the total on that?",1315,1.1294572353363037
+b6d6ef8d-ab10-4ded-bf77-b76e16d44fac,It's James O'Brien.,1480,0.4934520721435547
+e97834d3-038f-48d1-bf4f-e15e0aa6bce8,exit,1581,0.55556321144104

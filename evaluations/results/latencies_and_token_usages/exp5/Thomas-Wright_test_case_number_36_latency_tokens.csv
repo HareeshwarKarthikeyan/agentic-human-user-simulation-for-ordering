@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+3da8fbd2-6975-41fc-9c46-88496b08367e,"Hey there! I'd like to place an order for Fish and Chips with an extra piece of fish, please. Also, could you let me know the total price and how quick the service is?",2238,3.431699
+bb86e07f-a6bc-4872-a44f-e4ab0ddd9cce,"I'll stick with the fries that come with it, thanks! By the way, could you let me know if there's parking available and how quick the service usually is? Busy day on the road!",2371,5.106455
+a2c3afb0-dfd2-44a3-a46e-2ab7bc9c7cec,"The name for the order is Thomas Wright. Thanks for the quick service, and I'll be by to pick it up in about 20 minutes. Appreciate the parking availability!",3868,5.386551
+635eadde-e7ca-4e62-90db-9b224e10d116,exit,2304,3.109124

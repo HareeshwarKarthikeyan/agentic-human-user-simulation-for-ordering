@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+4b63ee8f-fd60-46f2-8081-07c2c8ef54d1,"Hi! I’d like to place an order for a Vegetable Stir Fry, please. I’d like it with tofu, brown rice, and hot spice level. Could you confirm the price for that?",1154,0.9541001319885254
+7000be89-9ac2-47e4-a5b1-df184bb4cda0,"It's Alex, Alex Turner. So just to confirm, that’s a Vegetable Stir Fry with tofu, brown rice, and hot spice for a total of $18.99, right?",1292,0.900266170501709
+bfbdaa0a-2a81-4bec-baf8-6bf8ee0dbfa2,"No, that's all, thanks! I appreciate it.",1393,0.6898601055145264
+4a781398-e124-4420-b0e8-5984fbc824fd,exit,1445,0.4922468662261963

@@ -1,0 +1,16 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+1a76a83a-7e73-48f6-bdcb-bd16264a7d8d,assistant,Hello! Thank you for calling The Garden Bistro. How can I help you today?,order_taking_llm,2025-08-30T05:25:29.031833+00:00,,,,,,-1.0
+5519bd3b-b83f-4d0f-9613-693ed102b552,agent,"Hi there! I’d like to order a Caesar Salad with grilled chicken, please. How much will that be?",guest_simulation_llm,2025-08-30T05:25:29.954124+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1043, ""num_response_tokens"": 23, ""total_tokens"": 1066}",922.1248626708984
+652a5149-20e6-4e41-a9c1-42b84b058bad,assistant,"Great choice! Just to confirm, that’s a Caesar Salad with grilled chicken. Would you like the dressing on the side or mixed in? And also, do you want any croutons or should I make it without those?",order_taking_llm,2025-08-30T05:25:31.288137+00:00,,,,,,-1.0
+1d410930-46c1-47c5-9b50-7653369f47c5,agent,"I’d like the dressing mixed in, and please keep the croutons in. How much is that total?",guest_simulation_llm,2025-08-30T05:25:32.084106+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1137, ""num_response_tokens"": 23, ""total_tokens"": 1160}",795.7241535186768
+ffefb766-a8de-4a58-a3cc-23a18eca97e6,assistant,"Perfect! So that’s a Caesar Salad with grilled chicken, dressing mixed in, and with croutons. 
+
+The salad is $12.99, and the grilled chicken adds $6.00, making your total $18.99. 
+
+Can I get a name for the order?",order_taking_llm,2025-08-30T05:25:33.900922+00:00,,,,,,-1.0
+6fa0b5d3-e9f3-47d6-94d1-4d241ee7ee64,agent,"Yes, it's under Sarah Johnson.",guest_simulation_llm,2025-08-30T05:25:34.437038+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1244, ""num_response_tokens"": 7, ""total_tokens"": 1251}",535.836935043335
+ea52434f-7013-4857-bda9-8cf58490037b,assistant,"Thank you, Sarah! Your order is a Caesar Salad with grilled chicken, dressing mixed in, and croutons, for a total of $18.99. 
+
+Your order will be ready for pickup in 20 minutes. Thank you for choosing The Garden Bistro!",order_taking_llm,2025-08-30T05:25:35.690476+00:00,,,,,,-1.0
+b3021043-f4f6-405c-9014-621541bc551f,agent,exit,guest_simulation_llm,2025-08-30T05:25:36.306896+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1330, ""num_response_tokens"": 1, ""total_tokens"": 1331}",616.1551475524902
+9dc84208-4c3d-42e3-bb7e-f40005724487,system,"{""guest_persona"": {""full_name"": ""Sarah Johnson"", ""order_size"": 1, ""order_complexity"": ""simple"", ""guest_bio"": ""A busy professional who values quick service and familiar menu items. Prefers straightforward orders without many customizations. Often orders during lunch breaks and appreciates efficiency.""}, ""target_order"": {""order_items"": [{""name"": ""Caesar Salad"", ""quantity"": 1, ""base_price"": 12.99, ""modifiers"": [{""modifier_type_name"": ""Protein Add-on"", ""modifier_option_name"": ""Grilled Chicken"", ""is_required"": false, ""price"": 6.0}], ""item_total_price"": 18.99}], ""order_total_price"": 18.99, ""reasoning"": ""Sarah Johnson selected Caesar Salad with grilled chicken for a Wednesday lunch, a healthy yet filling option that's quick to prepare and eat.""}}",test_case_info,2025-08-30T05:25:36.306968+00:00,,,,,,-1.0

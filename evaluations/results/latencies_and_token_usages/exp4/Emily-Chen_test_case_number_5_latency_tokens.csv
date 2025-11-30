@@ -1,0 +1,9 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+13d5dd7c-47e0-44db-8947-c25fdc97b10d,"Hi, I'd like to order a Caesar Salad with grilled shrimp and have the dressing on the side, please.",2277,3.785822
+cb4017e0-bb9f-460c-8b04-71fd09b4b567,Thanks! I'm also interested in getting a cappuccino. Can you tell me about the different milk options you have?,2354,2.864852
+3bb14473-20d7-495a-8561-ddc5d473a4b5,"I'll go with almond milk, please, and I'd like a small size cappuccino. What’s the price for that?",2462,3.636987
+d9a61602-d299-404c-9f98-aa479b9025fe,"My name is Emily Chen. 
+
+Also, I believe there might be a slight mistake with the total. The Caesar Salad with grilled shrimp should be $20.99, considering the add-ons, and the small cappuccino with almond milk should come to $5.74. Could you please confirm the totals again?",2604,0.924732
+0ffb2b2b-3187-4989-804c-003e6c2695cb,"Thanks for checking that for me! Just to clarify, it looks like the small cappuccino with almond milk should actually be $5.74. So the total should come to $26.73. Could you confirm that, please? ",2951,4.634111
+d0641bec-de82-46c1-bfb6-7fd2b12cb587,exit,3065,2.977474

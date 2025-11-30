@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+7ae2333d-0831-456b-a075-e8440e0455d2,"Hi there! This is Jessica Martinez. I'm looking to place an order and I'm interested in checking out some vegetarian options you have. Could you please help me with that? Also, could you let me know about any daily specials or combo deals you might be offering today?",2066,2.53527
+d80ce7e7-e719-4611-bdc1-ded2beb95a28,"Hey there! Thanks for mentioning those options. I'm definitely interested in the **Portobello Mushroom Burger**. Could I get that with French fries on the side?
+
+And I'm going to pass on the specials for today, but I'd also like to add a **French Onion Soup** to my order. Could you let me know the total price for these and confirm they are meat-free options? Thanks!",2370,1.827643
+97bed780-073e-4bfb-b56b-917bb9820931,"Hey, it's Jessica Martinez. Thanks for confirming the order. I see the Portobello Mushroom Burger with French fries and the French Onion Soup. Just a quick check: could you make sure those fries are added as a side choice for the burger? It's important to me to keep it correct, thanks!",2383,2.968468
+6e4bb4da-8994-4a60-8d02-c9824b2dfe38,exit,2231,3.444126

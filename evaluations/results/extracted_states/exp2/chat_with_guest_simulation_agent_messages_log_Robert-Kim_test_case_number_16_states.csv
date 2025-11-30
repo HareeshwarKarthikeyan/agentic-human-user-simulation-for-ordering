@@ -1,0 +1,6 @@
+message_index,message_id,timestamp,role,content_preview,current_items_in_order,target_items_to_order,is_ordering_complete,menu_exploration_style,mood_tone,ordering_style,has_tool_calls
+1,6e159f5b-a630-4876-82ed-70ac4b529c40,2025-08-31T01:44:01.014586+00:00,agent,Hi! I'd like to place an order for a Club Sandwich. Could I get that with white bread and French fri,[],"[{'name': 'Club Sandwich', 'quantity': 1, 'modifiers': ['White', 'French Fries']}]",no,does_not_explore_menu,casual,all_at_once,True
+3,5a55575a-fa05-447c-8868-ac8870494526,2025-08-31T01:44:03.479769+00:00,agent,"Sure, the name for the order is Robert Kim. 
+
+And just to confirm, that's one Club Sandwich on white",[],"[{'name': 'Club Sandwich', 'quantity': 1, 'modifiers': ['White', 'French Fries']}]",no,does_not_explore_menu,casual,all_at_once,True
+5,5438b986-d075-43c7-8933-78064c25e347,2025-08-31T01:44:07.164056+00:00,agent,"No, I think I'm all set with just the Club Sandwich for today. Thanks for checking! Just wanted to c","[{'name': 'Club Sandwich', 'quantity': 1, 'base_price': 15.99, 'item_total_price': 15.99, 'modifiers': ['White Bread', 'French Fries']}]","[{'name': 'Club Sandwich', 'quantity': 1, 'modifiers': ['White', 'French Fries']}]",yes,does_not_explore_menu,casual,all_at_once,True

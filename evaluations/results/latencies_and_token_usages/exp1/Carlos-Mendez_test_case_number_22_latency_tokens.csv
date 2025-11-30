@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+706f7bf8-3e6a-4d25-90d0-7c8b7bf0003e,"Hi there! I’d like to place an order. Can I get a Filet Mignon cooked rare, please? I’d like that with a red wine reduction sauce and a blue cheese crust on top. ",1256,2.7794108390808105
+3ba177a5-92d9-400b-a629-c17557901a13,"Actually, I’m all set with just the Filet Mignon as I ordered. Can I also get a Lobster Tail, please? I’d like that grilled with some extra butter on the side.",1396,2.4564900398254395
+6a9ada5d-35b1-4540-be5d-64ae1bfe44be,"No drinks, just the order as I've specified. The name's Carlos Mendez. Can you confirm the total includes everything I ordered?",1553,2.0433950424194336
+43ccdf69-f800-4467-8646-c45ec4093e83,Exit.,1655,1.5471208095550537
+ba5b9be0-d4aa-494c-9c24-98a6aea1eb50,exit,1702,1.231292963027954

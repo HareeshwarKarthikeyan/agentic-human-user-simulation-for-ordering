@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+ef04ba3a-1aaa-489d-8adc-fdeec5e86009,"Hey, I’d like to order a Classic Burger, please. I want it medium and with French fries on the side. That's it.",1100,0.8501918315887451
+57379520-e2dd-40eb-ac17-fccba77ef29e,"It's Kevin. And no, just the burger with fries, please.",1188,0.939460277557373
+3484e46f-6d3b-404b-b3a7-012e25ff7db5,exit,1291,0.6996030807495117

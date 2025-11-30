@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+c54f1fb3-4a6e-4230-abca-d631eaa95449,"Hi there, this is Robert Kim. I'd like to order a Club Sandwich, please. Could you make sure it's on white bread and comes with French fries on the side? Thank you!",2043,2.22929
+bf2ed6d5-7827-4767-8f4b-24c8698a8ee0,"No drink needed, thank you. My order's good to go with just the Club Sandwich on white bread and fries. Just let me know the price, and we're set!",2129,4.753698
+defb62d6-ac4b-473d-aae4-d839e5fdff88,The name for the order is Robert Kim. Could you please confirm if the bread choice and side choice are correct as per your system? It should be a Club Sandwich with white bread and French fries.,2139,2.763345
+6d7150ea-72b5-4d5a-bde0-4fc952224a00,exit,2223,4.350268

@@ -1,0 +1,15 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+38e57b26-960b-4904-84fa-742255f10380,Hey there! I'm looking to place an order for my family. Let's start with a Margherita Pizza. Could you tell me about the size options and any crust types you have?,2378,3.503517
+9c3a187d-46b3-4d30-b287-3c9d1d3eae8a,I'll go with the Large Margherita Pizza with Gluten Free crust. Thanks!,2517,2.679697
+6e9c2873-27bb-4677-bca1-03ced6b822d9,"I'm good on the toppings for the Margherita Pizza, thanks. But I'm also looking to add a Caesar Salad to my order. Could you make sure there's no croutons in that?",2527,3.934819
+da7d5fcd-7e05-458e-a679-b2f6c7c9f967,"Thanks for confirming the pizza and salad details! I appreciate the protein options, but I’m all set on those for now.
+
+Could you also add two Small Fresh Orange Juices with my order, please?",2648,4.340027
+278a03a4-7963-441b-bf98-2a3837eba466,The name for the order is David Thompson. ,4044,5.789946
+d9383508-343f-45b6-a6fc-236cf6b2e5e7,"Great, thank you for confirming the order, and I appreciate your help! Have a great day!",3808,6.14444
+9ef0e700-b9c4-45d5-a41e-b8e1a69cceb5,"Hi there, I'd like to start by ordering a Margherita Pizza. Can I get it in a large 18"" size with a gluten-free crust, please?",2421,2.723741
+18b1691c-b313-4887-a441-47d21b75f90c,"Hey, thanks for offering those options! I'm just going to stick with the Large Margherita Pizza with a Gluten Free crust for now. I'll also need a Caesar Salad with no croutons, and two Small Fresh Orange Juices. 
+
+Could you tell me about any allergen information related to these items, especially considering kids' dietary needs? Oh, and can I also get the prices for each of those, please?",2482,2.911941
+eb399143-ab25-48b3-8bca-9a6c2c3d30f5,"The name for the order is David Thompson. It looks like everything is set with the order, and I'm happy with it. Thanks for helping with the details!",2977,5.177767
+c89b23b9-f090-484a-824b-f9662a354f61,exit,2557,5.005256

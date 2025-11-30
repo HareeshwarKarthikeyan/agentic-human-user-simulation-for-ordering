@@ -1,0 +1,9 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+f1f3078b-bb4c-4628-a5d4-725ce0cc67f9,Hi there! I'm thinking of ordering some dinner and I'd love to explore your menu a little first. Could you tell me about your unique dishes or any seasonal specials you have right now?,2253,3.891202
+8530ba25-988f-4ca7-8675-4b7d965df16d,"Oh, those all sound delicious! As a food blogger, I'm always excited to discover how dishes look and taste. Could you tell me more about how your Chicken Parmesan is prepared and served? I'm particularly interested in any unique touches or presentation details.",2669,2.971523
+99a961a7-52a3-424b-98bc-1191f5234695,"The Chicken Parmesan sounds delightful, especially with that fresh marinara sauce and the crispy-yet-juicy chicken! I’d love to place an order for it, but could I have it over angel hair pasta instead? Also, can you add some extra cheese on top? That would be amazing for the photos!",2851,3.05528
+9f2548e3-9bba-49ce-aa49-b04547b414db,"Oh, I'm really excited about the Chicken Parmesan as it is, so I'll pass on the side salad and dessert. But, I would love to add a bottle of your house red wine to pair with the meal. Could you let me know the total price for this order? Thank you!",2814,3.661933
+55fa736d-1ef1-4a07-8b75-6051d6d40b2a,"Hey, sure thing! My name is Rachel Green. And yeah, 20 minutes for pick up sounds perfect.
+
+By the way, just to clarify—I thought the total price of the order was $58.98. Could you confirm that? Thanks!",3143,2.803301
+865b7363-b9d1-4e83-9ba5-ed7514f46c9d,exit,3246,0.941072

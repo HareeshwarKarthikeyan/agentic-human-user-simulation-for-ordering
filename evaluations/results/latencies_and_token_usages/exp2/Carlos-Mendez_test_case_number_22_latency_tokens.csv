@@ -1,0 +1,11 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+3e8d19e4-b3f3-4766-9c10-f4ab7dc53e40,"Hey! I'd like to place an order for a couple of dishes. Can we start with a Filet Mignon, cooked rare, with a red wine reduction and a blue cheese crust on top?",2230,1.19595
+47dd9440-2b0c-4c26-934e-19b164452443,"Yeah, let's stick with the Filet Mignon as is for now. I'm actually also planning to pair it with a Grilled Lobster Tail with some extra butter. Could you add that to the order?",2481,0.736511
+ac868e2b-e1a0-4c80-b6ec-8f1ced4d1eb6,"That would be all for now, just the Filet Mignon and Lobster Tail. Could you let me know the total price, please?",2524,0.752793
+131be406-c572-46e6-8ae9-f57b707a4b1d,"Sure, my name is Carlos Mendez.
+
+By the way, it looks like there's a small issue with the pricing you gave. The Filet Mignon should be with the red wine reduction and blue cheese crust, totaling $56.99, while the Grilled Lobster Tail with extra butter comes to $46.99. So the total should be $103.98.
+
+Could you confirm that change for me, please?",2763,0.716338
+1d175c0c-4972-498e-9b6e-63ffa0fa3043,"Great, everything looks good with the order! I'll be there to pick it up in about 20 minutes. Thanks for your help!",2940,0.82028
+60ada8fa-0c3e-42cd-bc6d-f7433cb6063a,exit,2980,1.232443

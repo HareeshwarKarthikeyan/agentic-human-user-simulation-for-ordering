@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+88823eb3-1943-4a02-b7da-65493f9a75ff,"Hey, I’d like to order some Buffalo Wings, please. Just one order.",1026,0.7272469997406006
+fd0c9175-9575-4eb2-9855-921f2e99574c,"Just one regular order of Buffalo Wings, no sauce changes needed. What's the total?",1114,0.8264248371124268
+4e6f78ba-96d2-4e9f-9c39-cb0a9401b4f2,Kevin Liu.,1208,0.45859193801879883
+cc28472e-024a-4033-b66c-6c7d05ed12cc,exit,1301,0.5130009651184082

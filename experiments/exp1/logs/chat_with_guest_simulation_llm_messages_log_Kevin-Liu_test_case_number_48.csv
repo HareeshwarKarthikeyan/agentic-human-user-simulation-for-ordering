@@ -1,0 +1,20 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+06ba17ec-ce98-4776-a175-28dd4ff166b0,assistant,Hello! Thanks for calling The Garden Bistro! How can I help you today?,order_taking_llm,2025-08-30T05:35:51.109118+00:00,,,,,,-1.0
+11bac8ab-0964-4fb3-8c01-90195fbb9434,agent,"Hi there, I’d like to order a Chicken Parmesan, please.",guest_simulation_llm,2025-08-30T05:35:51.953757+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1009, ""num_response_tokens"": 14, ""total_tokens"": 1023}",844.3820476531982
+8716772c-efdd-40bc-a839-0d935327f0ce,assistant,Great choice with the Chicken Parmesan! Would you like any extra sauce or cheese with that? And what kind of pasta would you like—penne or angel hair?,order_taking_llm,2025-08-30T05:35:53.164995+00:00,,,,,,-1.0
+7b96261c-5497-4696-b16d-e795e5cfed9f,agent,"No extra sauce or cheese, just the regular Chicken Parmesan. I don't need a pasta choice. Just the chicken, please. How much is it?",guest_simulation_llm,2025-08-30T05:35:54.078750+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1081, ""num_response_tokens"": 30, ""total_tokens"": 1111}",913.475751876831
+734f63c4-2311-4feb-8dff-da9edba55cfe,assistant,"Alright, so that's the Chicken Parmesan with no extra sauce or cheese. The base price is $22.99. Let me calculate your total... 
+
+Your total will be $22.99. 
+
+Can I please get your name for the order?",order_taking_llm,2025-08-30T05:35:55.565119+00:00,,,,,,-1.0
+acce0c83-a61f-4af7-b1a2-b8c39706e888,agent,It's Kevin Liu.,guest_simulation_llm,2025-08-30T05:35:56.047829+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1186, ""num_response_tokens"": 4, ""total_tokens"": 1190}",482.3179244995117
+c69e8091-3eef-4f6c-b6f2-0c50bbb18252,assistant,"Thank you, Kevin! So, we have the Chicken Parmesan for $22.99. Your order will be ready for pickup in about 20 minutes. 
+
+Is there anything else you’d like to add to your order today?",order_taking_llm,2025-08-30T05:35:57.378604+00:00,,,,,,-1.0
+a5b40057-dcd2-4fbe-aab0-619689ad05b3,agent,"No, just the Chicken Parmesan, thanks.",guest_simulation_llm,2025-08-30T05:35:58.096092+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1261, ""num_response_tokens"": 9, ""total_tokens"": 1270}",717.1709537506104
+f82f7b83-f585-4e6d-a31c-2adaeec468f1,assistant,"Alright, just to recap, Kevin: you have one Chicken Parmesan for $22.99. Your order will be ready for pickup in 20 minutes. 
+
+Thank you for choosing The Garden Bistro! Have a great day!",order_taking_llm,2025-08-30T05:35:59.425771+00:00,,,,,,-1.0
+c67cb95e-a299-4f50-b2c6-86ca1d4c9af7,agent,exit,guest_simulation_llm,2025-08-30T05:35:59.836761+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1340, ""num_response_tokens"": 1, ""total_tokens"": 1341}",410.45093536376953
+cff5ccc3-f578-48bc-a4ce-4cf6559677a9,system,"{""guest_persona"": {""full_name"": ""Kevin Liu"", ""order_size"": 1, ""order_complexity"": ""simple"", ""guest_bio"": ""A late-night shift worker who orders at odd hours. Needs quick, satisfying meals with minimal interaction. Knows the menu well and orders efficiently without questions.""}, ""target_order"": {""order_items"": [{""name"": ""Chicken Parmesan"", ""quantity"": 1, ""base_price"": 22.99, ""modifiers"": [], ""item_total_price"": 22.99}], ""order_total_price"": 22.99, ""reasoning"": ""Kevin Liu ordered Chicken Parmesan at 1 AM Saturday, his go-to substantial meal for weekend night shifts, no changes needed.""}}",test_case_info,2025-08-30T05:35:59.836877+00:00,,,,,,-1.0

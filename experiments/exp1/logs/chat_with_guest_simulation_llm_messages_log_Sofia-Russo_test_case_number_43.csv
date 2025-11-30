@@ -1,0 +1,24 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+6122a581-9ebb-48fd-86ec-ab6270c6a3ae,assistant,Hello! Thank you for calling The Garden Bistro. How can I help you today?,order_taking_llm,2025-08-30T05:35:09.272029+00:00,,,,,,-1.0
+1ba5503f-d911-48a2-b909-807af4849ac3,agent,"Hi there! I’d like to place an order for a Filet Mignon cooked medium rare, please. And I’d also like a 9oz glass of House Red Wine with that. How much will that be?",guest_simulation_llm,2025-08-30T05:35:10.320210+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1121, ""num_response_tokens"": 45, ""total_tokens"": 1166}",1047.842025756836
+029d8a6f-a661-4735-9cb6-ba4800a40dbe,assistant,"Great choice with the Filet Mignon! So just to confirm, that will be cooked medium rare. 
+
+And for the House Red Wine, would you like me to get you a 9oz glass?
+
+Let me calculate your total for you. 
+
+The Filet Mignon is $48.99, and the 9oz House Red Wine is $12.99 total. That brings your total to $61.98. 
+
+Can I have your name for the order, please?",order_taking_llm,2025-08-30T05:35:12.009620+00:00,,,,,,-1.0
+4fb8be3d-9b4c-4f1f-a7a4-82b9e4ac4a90,agent,"Yes, it's Sofia Russo. Can you please confirm the order details? That’s one Filet Mignon medium rare and one 9oz glass of House Red Wine.",guest_simulation_llm,2025-08-30T05:35:13.040271+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1290, ""num_response_tokens"": 34, ""total_tokens"": 1324}",1029.9410820007324
+1aa93514-052b-492d-adc0-6ac6f70d1cc6,assistant,"Thank you, Sofia! I have your order for one Filet Mignon cooked medium rare, and one 9oz glass of House Red Wine. 
+
+Your total comes to $61.98. 
+
+Could you please let me know if you're ready for pickup in about 20 minutes?",order_taking_llm,2025-08-30T05:35:14.573911+00:00,,,,,,-1.0
+748cfd12-4af2-4fa1-8671-141cc3018fee,agent,"Yes, that sounds perfect. I’ll be there in about 20 minutes. ",guest_simulation_llm,2025-08-30T05:35:15.224942+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1407, ""num_response_tokens"": 17, ""total_tokens"": 1424}",650.446891784668
+065b4209-80d7-45ac-8ff2-beb345fb98e2,assistant,"Thank you, Sofia! Your order will be ready for pickup in 20 minutes. Just to recap, you have one Filet Mignon cooked medium rare and one 9oz glass of House Red Wine for a total of $61.98. 
+
+We appreciate you choosing The Garden Bistro! Have a great day and we'll see you soon!",order_taking_llm,2025-08-30T05:35:16.747846+00:00,,,,,,-1.0
+1c179dbf-19a9-4384-a3a5-6f13152e4c5a,agent,exit,guest_simulation_llm,2025-08-30T05:35:17.215773+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1518, ""num_response_tokens"": 1, ""total_tokens"": 1519}",467.32020378112793
+c26caa05-8646-4127-9dde-2424c89a9c32,system,"{""guest_persona"": {""full_name"": ""Sofia Russo"", ""order_size"": 2, ""order_complexity"": ""medium"", ""guest_bio"": ""A wine enthusiast who asks about pairing recommendations and takes time to consider options. Orders appetizers and entrees based on wine selections. Appreciates knowledgeable suggestions about complementary flavors.""}, ""target_order"": {""order_items"": [{""name"": ""Filet Mignon"", ""quantity"": 1, ""base_price"": 48.99, ""modifiers"": [{""modifier_type_name"": ""Temperature"", ""modifier_option_name"": ""Medium Rare"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 48.99}, {""name"": ""House Red Wine"", ""quantity"": 1, ""base_price"": 8.99, ""modifiers"": [{""modifier_type_name"": ""Pour Size"", ""modifier_option_name"": ""9oz Glass"", ""is_required"": true, ""price"": 4.0}], ""item_total_price"": 12.99}], ""order_total_price"": 61.98, ""reasoning"": ""Sofia Russo chose filet mignon medium rare with a 9oz red wine for a Tuesday evening, classic pairing of premium beef with bold red wine.""}}",test_case_info,2025-08-30T05:35:17.215890+00:00,,,,,,-1.0

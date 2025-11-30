@@ -1,0 +1,22 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+e9f98f08-7923-4262-a4aa-2f3730ddcaa3,assistant,Hello! Welcome to The Garden Bistro! How can I assist you today?,order_taking_llm,2025-08-30T05:25:44.610000+00:00,,,,,,-1.0
+f32170b4-a276-4950-9966-7821ea307dfd,agent,"Hi! I'd like to place an order for a grilled Atlantic Salmon and a small fresh orange juice, please.",guest_simulation_llm,2025-08-30T05:25:45.573830+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1107, ""num_response_tokens"": 22, ""total_tokens"": 1129}",963.2401466369629
+a3cb9df6-1dc4-429c-b30a-0511304a977b,assistant,"Great choice with the grilled Atlantic Salmon! Just to confirm, that will come with rice pilaf and asparagus. Would you like any modifications or sauces with that, like teriyaki glaze or mango salsa? 
+
+And for the fresh orange juice, would you like it small or would you prefer to go with a large?",order_taking_llm,2025-08-30T05:25:47.363294+00:00,,,,,,-1.0
+55eb74a6-c906-4905-9085-05ff13e6f498,agent,"No sauces or modifications for the salmon, just grilled is perfect. And I’d like the orange juice small, please. Can you confirm the total for that?",guest_simulation_llm,2025-08-30T05:25:48.437717+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1217, ""num_response_tokens"": 32, ""total_tokens"": 1249}",1073.9247798919678
+71e2b36e-a3a9-4124-a444-315f209f9ffa,assistant,"Sure! So that’s one grilled Atlantic Salmon with no modifications and a small fresh orange juice. 
+
+Let me calculate that for you:
+- Grilled Atlantic Salmon: $26.99
+- Small Fresh Orange Juice: $5.99 
+
+That brings your total to $32.98. 
+
+Can I please get your name for the order?",order_taking_llm,2025-08-30T05:25:50.048453+00:00,,,,,,-1.0
+46cd7ea3-b7bc-4343-8451-5f4f29a5447e,agent,It's Emily Chen.,guest_simulation_llm,2025-08-30T05:25:50.537742+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1343, ""num_response_tokens"": 4, ""total_tokens"": 1347}",489.0420436859131
+6673a423-da81-4e98-aaea-17bcda3eb85c,assistant,"Thank you, Emily! So just to confirm, we have one grilled Atlantic Salmon with no modifications and a small fresh orange juice, totaling $32.98. Your order will be ready for pickup in 20 minutes. 
+
+Thank you for choosing The Garden Bistro! We look forward to seeing you!",order_taking_llm,2025-08-30T05:25:52.315885+00:00,,,,,,-1.0
+bbdc753d-5c6b-418c-93c9-acacc7565b82,agent,exit,guest_simulation_llm,2025-08-30T05:25:52.832015+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1431, ""num_response_tokens"": 1, ""total_tokens"": 1432}",515.8472061157227
+20db4a95-b071-4b69-8d30-501ca0ff39db,system,"{""guest_persona"": {""full_name"": ""Emily Chen"", ""order_size"": 2, ""order_complexity"": ""simple"", ""guest_bio"": ""A health-conscious diner who prefers lighter options and clear nutritional information. Often orders salads or grilled items. Values fresh ingredients and tends to avoid heavy modifications or fried foods.""}, ""target_order"": {""order_items"": [{""name"": ""Atlantic Salmon"", ""quantity"": 1, ""base_price"": 26.99, ""modifiers"": [{""modifier_type_name"": ""Preparation"", ""modifier_option_name"": ""Grilled"", ""is_required"": false, ""price"": 0.0}], ""item_total_price"": 26.99}, {""name"": ""Fresh Orange Juice"", ""quantity"": 1, ""base_price"": 5.99, ""modifiers"": [{""modifier_type_name"": ""Size"", ""modifier_option_name"": ""Small"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 5.99}], ""order_total_price"": 32.98, ""reasoning"": ""Emily Chen chose grilled Atlantic Salmon with fresh orange juice for a Tuesday dinner, prioritizing lean protein and fresh, nutritious options.""}}",test_case_info,2025-08-30T05:25:52.832083+00:00,,,,,,-1.0

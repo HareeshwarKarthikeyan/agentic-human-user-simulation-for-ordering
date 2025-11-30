@@ -1,0 +1,34 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+6a931cfd-c564-48fc-8d66-c5f693ece3e0,"Hi, this is Amanda Foster. I'm placing an order for my office team. I'd like to order two Large 18"" Margherita Pizzas and three Caesar Salads, please. Could you also let me know the total price?",2060,2.10847
+1677ddcb-07be-40f0-aaa6-daf107684a36,"Hey there! Yep, that's correct, I've got two Large 18"" Margherita Pizzas and three Caesar Salads on my list. Let's go with the thin crust for the pizzas as it comes standard. No need to add any protein to the salads either—keeping it simple!
+
+Could you confirm the total price for me, please?",2309,4.363639
+e60e6a9c-b362-472f-afcd-7cac15702cd1,"Hi, it's Amanda Foster. Thanks for confirming the order details, but I noticed something with the pricing. The Margherita Pizzas should be Large 18"" which should be priced differently because of the size. Can we adjust that, so I am charged correctly for the Large 18"" pizzas with thin crust? Also, I don't need anything else besides the two pizzas and the three salads.",2409,3.106144
+f2ac81c2-8639-4cc7-977a-8150d81657e6,"Alright, thanks for catching that. I’m Amanda Foster, and it looks like there’s a little mix-up with the Margherita Pizzas on the order. Each should be a Large 18"" for $16.99 plus the required size modifier of $8.00 each. That should make it $24.99 per pizza.
+
+So to get it straight, let’s fix the pizza order details:
+- 2 Large 18"" Margherita Pizzas at $24.99 each (including the $8.00 size modifier)
+
+The total should then be:
+- 2 x $24.99 = $49.98 (for the pizzas)
+- Plus $38.97 (for the Caesar salads)
+
+That brings the correct total to **$88.95**.
+
+Please confirm or correct this, thanks!",2502,2.754196
+d3b8f9d5-ba4e-45e2-a149-cb73097b407f,"Hey, it's Amanda Foster. Just to confirm, the order looks correct with 2 Large 18"" Margherita Pizzas and 3 Caesar Salads. The total is $88.95. I'm all set with that, so no need for anything else. Thanks!",2337,3.349884
+fcf8851b-af22-469a-8031-b53d8b20051f,"Hey, it looks like there's a small price discrepancy with the order you mentioned. Could you confirm the base prices for the items once more? ",2071,2.051255
+56e5dded-c792-48e3-bef6-826fb52d261b,"It looks like the current items in the order match the target items. Great, everything is in order! I'll take your word for the pricing confirmation and time. Thanks so much, I'll await the delivery.",3813,6.75208
+cd9a25c5-ab15-405f-b5ef-3e9f6cf405de,"It looks like there are some discrepancies between what I ordered and what's confirmed. Let's get this sorted out.
+
+1. The **Margherita Pizzas** should be priced at **$16.99 each**, plus an additional **$8.00** for the Large 18"" size, totaling **$49.98** for both.
+2. The **Caesar Salads** should cost **$12.99 each**, totaling **$38.97** for all three.
+
+Can you please adjust the order to match these specifications? Thank you!",2311,2.86743
+5b3874ce-3d1f-4b51-88a0-7a2ce162cb66,"Thanks for laying out the details. Just to confirm, the order consists of:
+
+- 2 Large 18"" Margherita Pizzas
+- 3 Caesar Salads
+
+And the total is $88.95. That looks good on my end, please go ahead and finalize this order. Thanks!",2414,3.287487
+3a5a7af3-e5eb-47f3-b1a8-f08775cd7f7f,Error,0,3.287487

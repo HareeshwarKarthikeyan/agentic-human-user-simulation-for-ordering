@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+3afc1255-f991-4f76-b34e-6c14bb892239,"Hi there! This is Linda Walsh. I'd like to order one Chicken Parmesan, please.",2003,1.337329
+b6653231-f3a2-4f0b-acb9-00d16f3ca30d,"Hi there, I'd like the Chicken Parmesan with penne pasta, please. Thanks!",2046,0.801553
+6f4f47c0-a1ab-452e-ad1f-7ca00ba02a44,"Hiya, Linda Walsh here. Nope, just the usual Chicken Parmesan with penne—no extra sauce or cheese for me. Thanks!",2106,0.858509
+9fcd0c53-acf9-4304-859a-b212546fde4a,"No, thank you. Just the Chicken Parmesan with penne pasta is all I need. Could you confirm the total price for me?",2231,0.806713
+dcc30778-5483-4858-a21d-42929993ed53,The name on the order is Linda Walsh. Everything looks good! Thank you.,2240,0.71591
+4790e227-b54f-44d0-9450-b371229bc580,exit,2405,0.901489

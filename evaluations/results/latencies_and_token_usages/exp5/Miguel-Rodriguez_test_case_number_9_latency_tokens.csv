@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+db763f4d-1cd6-452b-9317-8c87bcb3314c,Hey there! I'd love to place an order with you. Can I start with a Spaghetti Carbonara? And could you add shrimp as a protein add-on? I hear it's amazing! 🍝😄,2463,4.280667
+13ab8838-aa7b-465c-b743-20c2281a3e1c,"Hey, thanks for suggesting that! Yeah, let's go ahead and add the extra parmesan and the garlic bread to the Spaghetti Carbonara for sure. Could you also tell me a bit more about any salad options you have, maybe a Caesar Salad if possible? And the name for the order is Miguel Rodriguez.",3904,4.605661
+e8a2a543-e6ee-44bd-8163-826fe82ddf16,"Absolutely! I'll take a Caesar Salad with a salmon add-on, and please make it without croutons. Also, I'd love to add a Chocolate Lava Cake with strawberry ice cream on the side, and if possible, an extra scoop of ice cream. That should complete my order!",2727,3.773808
+ff1adcfe-74ca-4e18-bd89-8b2e6637497f,Great! Everything looks perfect with the order. I'll be there to pick it up in about 20 minutes. Thanks a lot!,3052,5.526843
+b22d8545-9a72-4297-b89a-ab44a06e0bbf,exit,2857,5.014431

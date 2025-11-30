@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+9afaa335-8578-4eb0-a99d-78d91b0fc6fa,"Hey there! I'm Thomas, a truck driver on the road and I've got limited time. I need to pick up a BBQ Bacon Burger. Can I get that medium well with onion rings on the side? Also, how's the parking situation at your place? I need a spot to park my truck.",2089,1.188168
+c5d1c0c2-5569-4396-b63f-692fce33dfc8,"Hey, thanks for confirming my order for the BBQ Bacon Burger, medium well with onion rings—sounds perfect! No drinks or desserts for me today; just keeping it simple. Appreciate the parking info too. Could you confirm the price before you place the order?",2417,0.676053
+60c16f12-7f08-47ca-a7ca-b5c17a422c0f,"Hey, the total of $21.99 sounds right to me, and you can put the order under the name Thomas Wright. Thanks for getting everything sorted so quickly!",2484,0.863814
+0f6ba785-11aa-4503-85be-b29c153c1efe,exit,2554,1.810658

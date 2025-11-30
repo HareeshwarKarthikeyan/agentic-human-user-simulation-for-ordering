@@ -1,0 +1,24 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+76906039-f258-4c8d-886c-1c3b67eb7ade,assistant,Hello! Thank you for calling The Garden Bistro. How can I assist you today?,order_taking_llm,2025-08-30T05:37:41.210364+00:00,,,,,,-1.0
+ef5d03fd-b775-4e50-99f7-eee708588edf,agent,"Hi there! I’d like to place an order, please. Can I get a Caesar Salad with Grilled Chicken and a Small Fresh Orange Juice?",guest_simulation_llm,2025-08-30T05:37:42.357505+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1113, ""num_response_tokens"": 30, ""total_tokens"": 1143}",1147.0460891723633
+61321140-6aff-4abe-b085-f0e5771b7dd7,assistant,"Of course! So that's one Caesar Salad with Grilled Chicken and a Small Fresh Orange Juice. 
+
+Just to confirm, do you want any specific dressing for your salad or should I just keep it as our signature Caesar dressing? And would you like ice in your orange juice?",order_taking_llm,2025-08-30T05:37:43.776443+00:00,,,,,,-1.0
+789e3117-cc81-4de5-913c-fdf08c4a4ebc,agent,"No dressing modifications needed, I’ll take the signature Caesar dressing. And yes, ice in the orange juice, please. Can you confirm the total for that?",guest_simulation_llm,2025-08-30T05:37:44.696433+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1223, ""num_response_tokens"": 32, ""total_tokens"": 1255}",919.903039932251
+8dca5780-440b-4028-a232-f00ac243195d,assistant,"Great! So we have one Caesar Salad with Grilled Chicken, our signature Caesar dressing, and a Small Fresh Orange Juice with ice.
+
+The prices are as follows:
+- Caesar Salad: $12.99 + Grilled Chicken: $6.00
+- Fresh Orange Juice: $5.99
+
+That brings your total to $24.98. 
+
+Can I have your name for the order, please?",order_taking_llm,2025-08-30T05:37:46.516211+00:00,,,,,,-1.0
+7c5d16f8-468a-4cdb-86d8-88f078563a95,agent,It's Diana Walsh.,guest_simulation_llm,2025-08-30T05:37:47.038328+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1363, ""num_response_tokens"": 4, ""total_tokens"": 1367}",520.4777717590332
+9cb6ee29-8f83-4c7a-96a4-9b31fe7d02e9,assistant,"Thank you, Diana! So, that’s one Caesar Salad with Grilled Chicken, a Small Fresh Orange Juice with ice, for a total of $24.98. 
+
+Your order will be ready for pickup in about 20 minutes. 
+
+Thank you for choosing The Garden Bistro!",order_taking_llm,2025-08-30T05:37:48.483951+00:00,,,,,,-1.0
+d6d18d8c-01e3-4b59-9ed6-2db3295415cb,agent,exit,guest_simulation_llm,2025-08-30T05:37:49.041769+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1449, ""num_response_tokens"": 1, ""total_tokens"": 1450}",557.6999187469482
+3ed530e6-1495-464b-a441-5f4e6eb0b8a2,system,"{""guest_persona"": {""full_name"": ""Diana Walsh"", ""order_size"": 2, ""order_complexity"": ""simple"", ""guest_bio"": ""A nurse grabbing food between shifts who needs reliable, quick options. Orders familiar items without modifications. Values speed over variety and often orders the daily special without questions.""}, ""target_order"": {""order_items"": [{""name"": ""Caesar Salad"", ""quantity"": 1, ""base_price"": 12.99, ""modifiers"": [{""modifier_type_name"": ""Protein Add-on"", ""modifier_option_name"": ""Grilled Chicken"", ""is_required"": false, ""price"": 6.0}], ""item_total_price"": 18.99}, {""name"": ""Fresh Orange Juice"", ""quantity"": 1, ""base_price"": 5.99, ""modifiers"": [{""modifier_type_name"": ""Size"", ""modifier_option_name"": ""Small"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 5.99}], ""order_total_price"": 24.98, ""reasoning"": ""Diana Walsh chose Caesar salad with chicken and orange juice for a Sunday morning, healthy and quick option before her day shift.""}}",test_case_info,2025-08-30T05:37:49.041802+00:00,,,,,,-1.0

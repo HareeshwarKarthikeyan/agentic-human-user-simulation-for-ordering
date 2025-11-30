@@ -1,0 +1,45 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+0c2ab46c-f23d-4d11-8ae2-caed9aaa3557,assistant,Hello! Thank you for calling The Garden Bistro. How can I assist you today?,order_taking_llm,2025-08-30T05:29:28.085027+00:00,,,,,,-1.0
+e1beab0f-0686-4ea6-901f-c49cc7cfbaf2,agent,"Hi there! I'd like to place an order for delivery, please. I need two Grilled Chicken Sandwiches with French Fries, two Club Sandwiches on Wheat bread with Potato Chips, and one Vegetable Stir Fry.",guest_simulation_llm,2025-08-30T05:29:31.424059+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1191, ""num_response_tokens"": 43, ""total_tokens"": 1234}",3338.758945465088
+15b0c990-d4dc-41bb-b362-355e3d825926,assistant,"I can help you with that! Just to let you know, we only offer takeout, not delivery. Would you like to proceed with that?
+
+And for your order, can I get a name for the order, please?",order_taking_llm,2025-08-30T05:29:33.367803+00:00,,,,,,-1.0
+8ada35d7-054a-4f73-924b-d6bc68da256f,agent,"That's fine, takeout works for me. The name is Amanda Foster. So, I want two Grilled Chicken Sandwiches with French Fries, two Club Sandwiches on Wheat with Potato Chips, and one Vegetable Stir Fry. Can you confirm that for me?",guest_simulation_llm,2025-08-30T05:29:36.844475+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1304, ""num_response_tokens"": 52, ""total_tokens"": 1356}",3475.178003311157
+2312f72c-f18d-4694-88a0-3ec8cf043d78,assistant,"Thank you, Amanda! Let's go over your order:
+
+- **2 Grilled Chicken Sandwiches** with French Fries
+- **2 Club Sandwiches** on Wheat with Potato Chips
+- **1 Vegetable Stir Fry**
+
+Just to confirm, do you want any cheese or add-ons with the Grilled Chicken Sandwiches? And for the Vegetable Stir Fry, any particular rice choice like Brown Rice or Cauliflower Rice?",order_taking_llm,2025-08-30T05:29:38.901740+00:00,,,,,,-1.0
+bdbe1499-daf8-4f16-8496-7eb7a4d03c68,agent,"No, I don’t need any add-ons for the Grilled Chicken Sandwiches, and just the regular Vegetable Stir Fry is fine. Can you confirm the total price for that?",guest_simulation_llm,2025-08-30T05:29:41.999884+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1463, ""num_response_tokens"": 36, ""total_tokens"": 1499}",3097.7368354797363
+6fab169e-0c17-44bf-b604-4d3c85d5d883,assistant,"Sure thing, Amanda! Here’s the complete order:
+
+- **2 Grilled Chicken Sandwiches** with French Fries: $14.99 each
+- **2 Club Sandwiches** on Wheat with Potato Chips: $15.99 each
+- **1 Vegetable Stir Fry**: $14.99
+
+Let me calculate that for you:
+
+- Grilled Chicken Sandwiches: 2 x $14.99 = $29.98
+- Club Sandwiches: 2 x $15.99 = $31.98
+- Vegetable Stir Fry: 1 x $14.99 = $14.99
+
+Now, adding it all up: 
+$29.98 + $31.98 + $14.99 = $76.95
+
+So, your total is **$76.95**. 
+
+Would you like to add a drink to your order? We have a variety of options available!",order_taking_llm,2025-08-30T05:29:45.144477+00:00,,,,,,-1.0
+435996fb-5e0a-4041-9276-f45563addb26,agent,"No, thank you! I'm good with just the food. Can you go ahead and place the order for me?",guest_simulation_llm,2025-08-30T05:29:48.008436+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1708, ""num_response_tokens"": 23, ""total_tokens"": 1731}",2863.4402751922607
+ce176b74-ece3-48a9-8adb-59c64c7269ed,assistant,"Absolutely, Amanda! So here's what we have for your takeout order:
+
+- **2 Grilled Chicken Sandwiches** with French Fries
+- **2 Club Sandwiches** on Wheat with Potato Chips
+- **1 Vegetable Stir Fry**
+
+Your total is **$76.95**. 
+
+Your order will be ready for pickup in 20 minutes. Thank you for choosing The Garden Bistro! Let me know if there's anything else you need. Have a great day!",order_taking_llm,2025-08-30T05:29:50.062968+00:00,,,,,,-1.0
+65b95a33-5ced-46ae-8d40-b1107f26c3dc,agent,exit,guest_simulation_llm,2025-08-30T05:29:52.074586+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1849, ""num_response_tokens"": 1, ""total_tokens"": 1850}",2011.3449096679688
+1953261f-f475-4216-92fd-146a2749a0a2,system,"{""guest_persona"": {""full_name"": ""Amanda Foster"", ""order_size"": 5, ""order_complexity"": ""simple"", ""guest_bio"": ""An office manager who coordinates team lunch orders. Efficient and organized, she often places large group orders with minimal customizations. Values accuracy and clear communication about delivery times.""}, ""target_order"": {""order_items"": [{""name"": ""Grilled Chicken Sandwich"", ""quantity"": 2, ""base_price"": 14.99, ""modifiers"": [{""modifier_type_name"": ""Side Choice"", ""modifier_option_name"": ""French Fries"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 29.98}, {""name"": ""Club Sandwich"", ""quantity"": 2, ""base_price"": 15.99, ""modifiers"": [{""modifier_type_name"": ""Bread Choice"", ""modifier_option_name"": ""Wheat"", ""is_required"": true, ""price"": 0.0}, {""modifier_type_name"": ""Side Choice"", ""modifier_option_name"": ""Potato Chips"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 31.98}, {""name"": ""Vegetable Stir Fry"", ""quantity"": 1, ""base_price"": 14.99, ""modifiers"": [], ""item_total_price"": 14.99}], ""order_total_price"": 76.95, ""reasoning"": ""Amanda Foster placed a Wednesday office order with 2 grilled chicken sandwiches, 2 club sandwiches, and 1 vegetarian option, covering various dietary preferences efficiently.""}}",test_case_info,2025-08-30T05:29:52.074687+00:00,,,,,,-1.0

@@ -1,0 +1,9 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+373fc0ec-6e04-4549-b3dd-11043b7dc723,"Hi there! I’d like to place an order. First, I’d like one Lobster Tail, broiled, please. And I want to add a Third Tail to that. 
+
+Then, I’ll also take a Chocolate Lava Cake with chocolate ice cream and topped with whipped cream. 
+
+Can you give me the total for that?",1247,1.389375925064087
+38c3369e-bfac-405a-917e-5c4cd8f5dcde,"Yes, it's under Rachel Green. Could you confirm that total again for me?",1407,0.8379793167114258
+c4182348-8e72-4f39-8d39-cd0639e913b5,"No, that's all for me, thank you! Let's go ahead and place that order for $75.98 under Rachel Green.",1544,1.0602407455444336
+140be80b-17f4-43fb-b733-9142cc7f4012,exit,1644,0.7109332084655762

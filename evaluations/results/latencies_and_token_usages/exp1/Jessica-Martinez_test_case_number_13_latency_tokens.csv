@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+341d2ed4-c06c-4c12-8cdb-bc788387a13c,"Hi there! I’d like to place an order please. I want a Vegetable Stir Fry with tofu on medium spice, and a small Coca-Cola.",1174,1.2455308437347412
+ec5553a2-cd09-4bd2-b4d6-16e9dbc747c1,"No, just those two items, please. Can you confirm the price for the Vegetable Stir Fry with tofu and the small Coca-Cola?",1268,1.3993031978607178
+f3ecc626-2bf5-4dcc-bc4d-298ca111ce03,"Yes, it’s Jessica Martinez.",1376,0.7200748920440674
+a8f1879f-9bee-4ec4-9721-c69dbc34e8b4,exit,1481,0.5003190040588379

@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+64e780b7-5a67-4359-8ed1-40595afac27f,"Hi there! I'd like to order the New England Clam Chowder, and I'll have it in the bowl size, please.",2052,1.287752
+db19718d-99f3-4027-bad1-c13f2179a3e6,"Yes, just one bowl size of the New England Clam Chowder, please. And no oyster crackers, thanks!",2075,0.692024
+73254ee2-49f9-4d77-bd41-a5af9a11a2ee,"Sure, my name is Linda Walsh. ",2228,0.738385
+7033e385-b923-428d-a5e8-f51f43c5826b,exit,2383,0.825136

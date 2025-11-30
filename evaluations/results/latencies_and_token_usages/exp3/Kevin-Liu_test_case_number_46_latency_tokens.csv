@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+c9b15c21-0f56-4243-ac47-e5b8874a1a30,"Hi, I'd like to place an order for a Classic Burger cooked medium with French Fries on the side.",2024,2.400599
+4b92a2d8-dec6-483b-b790-cc97b4fb20c2,"No, thanks. I'll just stick with the Classic Burger cooked medium and the side of French Fries. Can you please make sure the order is confirmed and let me know the total price? ",2173,3.277098
+58fb1d01-f146-4edf-98e3-6b87a0733d6b,"My name's Kevin Liu. It looks like I haven't placed the order I intended yet. Could you add a Medium cooked Classic Burger with a side of French Fries to my order, please?",2063,2.835212
+1b97ceea-f80f-4d8b-b2cc-d304e0827494,"Okay, so I have a Classic Burger cooked medium with a side of French Fries. The price for the Classic Burger alone is $15.99, and it doesn't look like I need to add any drinks today. Let's just stick with that. Thanks!",2198,2.881755
+187bf359-41f4-40dd-aa0d-769519d66f0c,exit,2192,3.007551

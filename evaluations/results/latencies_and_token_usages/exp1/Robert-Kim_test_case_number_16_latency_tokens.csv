@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+86c29a72-ac09-45b3-8f1c-3b2c2eb0ee48,"Hi there! I’d like to order a Club Sandwich with white bread and a side of French fries, please.",1099,2.808298110961914
+2598736c-f1e6-49ea-abaf-727f45a4c90b,"The name's Robert. No drink for me, just the Club Sandwich with white bread and French fries. Can you confirm the total for that?",1196,2.1791470050811768
+abf6c102-3445-440a-aeee-0db8cd2b5c3a,exit,1305,2.084338903427124

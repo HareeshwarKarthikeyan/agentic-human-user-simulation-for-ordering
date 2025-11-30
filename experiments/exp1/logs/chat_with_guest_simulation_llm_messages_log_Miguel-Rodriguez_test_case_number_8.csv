@@ -1,0 +1,72 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+76856bcb-2907-4f05-9701-5a83cd2594d5,assistant,Hello! Thank you for calling The Garden Bistro. How can I assist you today?,order_taking_llm,2025-08-30T05:26:24.743173+00:00,,,,,,-1.0
+88c7b956-31c6-4f0e-8346-e7a582405fa8,agent,Hi there! I’d like to place an order for a large Margherita Pizza with thick crust and Italian sausage and mushrooms as extra toppings. I also want a double order of Buffalo Wings with honey garlic sauce and a pitcher of draft beer. Can I get the total on that?,guest_simulation_llm,2025-08-30T05:26:26.073764+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1360, ""num_response_tokens"": 57, ""total_tokens"": 1417}",1330.1048278808594
+c8b9c935-6356-4ee2-8776-462a43fc8a84,assistant,"Great choices! Just to confirm, you would like:
+
+- One large Margherita Pizza with thick crust and Italian sausage and mushrooms as extra toppings.
+- One double order of Buffalo Wings with honey garlic sauce.
+- One pitcher of draft beer.
+
+Now, let’s break down the prices:
+
+- The large Margherita Pizza is $16.99, plus $8.00 for the thick crust and $5.00 for the extra toppings (Italian sausage and mushrooms), so that totals to $29.99.
+- The double order of Buffalo Wings is $23.99 (that's the regular price of $13.99 plus $10.00 for the double portion).
+- The pitcher of draft beer is $12.00.
+
+Now, let’s add those up:
+
+- $29.99 (pizza) + $23.99 (wings) + $12.00 (beer) = $65.98 total.
+
+Can I get your name for the order?",order_taking_llm,2025-08-30T05:26:29.522395+00:00,,,,,,-1.0
+f6945e59-8aea-4a5e-adf0-aad595365d02,agent,"Yes, it's Miguel Rodriguez. Could you please confirm the total again? I think I made some calculations about the pizza that might be off.",guest_simulation_llm,2025-08-30T05:26:30.262101+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1641, ""num_response_tokens"": 28, ""total_tokens"": 1669}",739.581823348999
+469e03f2-ac2e-4212-ac72-c49c3f0054ae,assistant,"Sure thing, Miguel! Let's go through the pricing again for you:
+
+1. The large Margherita Pizza is $16.99. 
+   - The thick crust adds $2.00.
+   - The Italian sausage and mushrooms both are $2.50 each, which totals $5.00 for the two.
+
+So, the pizza will be:
+- $16.99 + $2.00 (thick crust) + $5.00 (extra toppings) = **$23.99** total for the pizza.
+
+2. The double order of Buffalo Wings is $23.99 (that's the regular price of $13.99 plus $10.00 for the double portion).
+
+3. The pitcher of draft beer is $12.00.
+
+Now, let’s add those up:
+- $23.99 (pizza) + $23.99 (wings) + $12.00 (beer) = **$59.98** total.
+
+So, the correct total for your order is **$59.98**. 
+
+Would you like to proceed with this order?",order_taking_llm,2025-08-30T05:26:34.264671+00:00,,,,,,-1.0
+40549be0-c85b-4b54-9375-705026aea45f,agent,"Yes, let’s go ahead with that order! So to recap:
+
+- One large Margherita Pizza with thick crust and Italian sausage and mushrooms.
+- One double order of Buffalo Wings with honey garlic sauce.
+- One pitcher of draft beer.
+
+The total comes to **$59.98**. 
+
+Can I confirm that order for you?",guest_simulation_llm,2025-08-30T05:26:36.000392+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1918, ""num_response_tokens"": 69, ""total_tokens"": 1987}",1735.414981842041
+6c92c2a0-82a3-4aed-867a-d229a94024ed,assistant,"Absolutely, Miguel! Just to recap your order:
+
+- One large Margherita Pizza with thick crust and Italian sausage and mushrooms as extra toppings.
+- One double order of Buffalo Wings with honey garlic sauce.
+- One pitcher of draft beer.
+
+The total for your order comes to **$59.98**. 
+
+Would you like anything else with that? And could you please let me know what time you’ll be picking it up?",order_taking_llm,2025-08-30T05:26:37.797532+00:00,,,,,,-1.0
+aa109cac-4ba9-49b8-a021-e86421d77956,agent,"No, that's everything I need. I’ll be picking it up in about 30 minutes. Thank you!",guest_simulation_llm,2025-08-30T05:26:38.666513+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 2101, ""num_response_tokens"": 22, ""total_tokens"": 2123}",868.6771392822266
+1cad4612-f431-4b4e-89e0-681b62cacba8,assistant,"Perfect! So we have:
+
+- One large Margherita Pizza with thick crust and Italian sausage and mushrooms.
+- One double order of Buffalo Wings with honey garlic sauce.
+- One pitcher of draft beer.
+
+Total: **$59.98**. 
+
+You’ll be picking it up in about 30 minutes. 
+
+Thank you for choosing The Garden Bistro, Miguel! Your order will be ready for pickup shortly. Have a great day!",order_taking_llm,2025-08-30T05:26:40.185637+00:00,,,,,,-1.0
+5b097bd0-a4e1-4f56-92c5-618750805197,agent,exit,guest_simulation_llm,2025-08-30T05:26:40.617517+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 2238, ""num_response_tokens"": 1, ""total_tokens"": 2239}",431.48088455200195
+b37dbcf0-d97f-4026-9b07-3c1680329779,system,"{""guest_persona"": {""full_name"": ""Miguel Rodriguez"", ""order_size"": 3, ""order_complexity"": ""complex"", ""guest_bio"": ""A food enthusiast who loves trying different combinations and customizations. Often orders for family gatherings and enjoys exploring menu options. Has specific dietary preferences and isn't afraid to make special requests.""}, ""target_order"": {""order_items"": [{""name"": ""Margherita Pizza"", ""quantity"": 1, ""base_price"": 16.99, ""modifiers"": [{""modifier_type_name"": ""Size"", ""modifier_option_name"": ""Large 18\"""", ""is_required"": true, ""price"": 8.0}, {""modifier_type_name"": ""Crust Type"", ""modifier_option_name"": ""Thick Crust"", ""is_required"": false, ""price"": 2.0}, {""modifier_type_name"": ""Extra Toppings"", ""modifier_option_name"": ""Italian Sausage"", ""is_required"": false, ""price"": 2.5}, {""modifier_type_name"": ""Extra Toppings"", ""modifier_option_name"": ""Mushrooms"", ""is_required"": false, ""price"": 2.0}], ""item_total_price"": 31.49}, {""name"": ""Buffalo Wings"", ""quantity"": 1, ""base_price"": 13.99, ""modifiers"": [{""modifier_type_name"": ""Sauce Choice"", ""modifier_option_name"": ""Honey Garlic"", ""is_required"": false, ""price"": 0.0}, {""modifier_type_name"": ""Dipping Sauce"", ""modifier_option_name"": ""Blue Cheese"", ""is_required"": false, ""price"": 0.0}, {""modifier_type_name"": ""Portion"", ""modifier_option_name"": ""Double Order"", ""is_required"": false, ""price"": 10.0}], ""item_total_price"": 23.99}, {""name"": ""Draft Beer"", ""quantity"": 1, ""base_price"": 6.99, ""modifiers"": [{""modifier_type_name"": ""Size"", ""modifier_option_name"": ""Pitcher"", ""is_required"": true, ""price"": 12.0}], ""item_total_price"": 18.99}], ""order_total_price"": 74.47, ""reasoning"": ""Miguel Rodriguez ordered for a Wednesday family gathering, customizing a large pizza with multiple toppings, double wings with special sauce, and a pitcher of beer for sharing.""}}",test_case_info,2025-08-30T05:26:40.617672+00:00,,,,,,-1.0

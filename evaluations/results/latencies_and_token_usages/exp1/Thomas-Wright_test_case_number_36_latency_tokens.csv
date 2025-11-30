@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+f17c6dd9-cc4c-48bb-9820-89e245589e0b,"Hi there! I’d like to place an order for Fish and Chips with an extra piece of fish, please.",1071,1.1479971408843994
+c92d5bdf-52c2-48d5-8fc1-3d173ae6f54c,"No dipping sauce needed, just the Fish and Chips with the extra piece of fish. The name’s Thomas. How much is that altogether?",1161,0.7461950778961182
+cf77a756-190d-4cca-8781-1a4a4eb0f50c,"No, just the Fish and Chips with the extra piece of fish for now. Can you confirm the total is still $26.99?",1276,0.8967239856719971
+6bc005ba-ac59-4221-a5e7-19db4febc827,exit,1375,0.6246719360351562

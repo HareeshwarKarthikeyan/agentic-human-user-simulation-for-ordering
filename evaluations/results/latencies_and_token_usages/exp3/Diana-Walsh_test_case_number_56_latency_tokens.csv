@@ -1,0 +1,10 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+de0921ec-bfa1-4e96-8954-19edae4f5647,"Hi, this is Diana Walsh. I'm in a bit of a rush and I know exactly what I need. Could I get a Club Sandwich on white bread with French fries, and a small cappuccino, please? Thanks!",3402,4.699465
+4091442e-d05a-4702-836b-491adc02c1af,"Hi! Yes, that's right. Just the Club Sandwich with white bread and French fries, plus a small cappuccino. I'm all set with those, thanks! Could you let me know the total price, please?",2182,3.226861
+2e572214-589d-493f-a3af-c31ecbf50af5,"Yes, that's everything! The order for Diana Walsh is:
+
+- Club Sandwich on white bread with French fries
+- Small Cappuccino
+
+The total is $20.98. Sounds perfect, thanks!",2350,3.358723
+dfe12d00-34ae-4a4e-bcb4-3e9c344bab76,exit,2237,4.55881

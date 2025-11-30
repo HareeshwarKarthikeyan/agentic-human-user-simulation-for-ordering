@@ -1,0 +1,15 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+74891132-b2a2-4558-be95-6b47f72012f3,"Hi there! I'm Priya, and I'm ordering for my kids' soccer team celebration. I'm curious about some of your menu options. Could you tell me more about the Grilled Chicken Sandwich and the Fettuccine Alfredo? Also, do you offer any discounts for bulk orders?",2216,3.505414
+86ae7911-5ef7-4bc6-8f2c-d402019c56b5,"Hi there! Yes, I'd like to go ahead and place an order. I'll need 2 Grilled Chicken Sandwiches, each with a Fruit Cup as the side. Also, I'd like 2 Fettuccine Alfredos. Could you please confirm the total cost for me?",2869,3.362811
+841a97fa-7713-47a4-b185-643ad2f40de5,"Everything looks great with the order, and I've already included what you need! The Grilled Chicken Sandwiches come with the Fruit Cup, and the Fettuccine Alfredos are plain as you wanted.
+
+The total is slightly off, though. Let me confirm it for you: 
+
+- 2 Grilled Chicken Sandwiches, each with a Fruit Cup: $33.98
+- 2 Fettuccine Alfredos: $33.98
+
+That brings the total to $67.96. 
+
+And no, I’m good on the drinks and desserts for now. Let's stick with the order as is! Could you reconfirm that this is fully placed, and we're all set?",3105,2.84959
+766d6ed2-2f9e-42dc-9859-f940626a1a08,Let's go with the name Priya for the order. And I'll swing by to pick it up in about 20 minutes. Thanks for your help!,3153,3.683685
+33bc878d-6cad-4675-b7fa-3011b8279a0f,exit,3194,3.747643

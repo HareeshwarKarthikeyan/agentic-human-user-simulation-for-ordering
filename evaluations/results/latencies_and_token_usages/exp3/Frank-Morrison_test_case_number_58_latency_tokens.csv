@@ -1,0 +1,41 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+4f545d1f-06cf-475c-adb8-63ada0853404,"Hey there! I'm treating my grandkids to lunch and I’d love to order some kid-friendly options. Let's start with the Kids Chicken Tenders. Can you make that with BBQ Sauce and Apple Slices on the side, along with Milk to drink? And could you also tell me a bit about the portion size for that?",2206,2.008178
+a3582711-cbf6-477c-b5b3-00c0a43d9f92,"My name is Frank Morrison. 
+
+And by the way, can we add a Kids Mac and Cheese with Bacon Bits, a Fruit Cup on the side, and Apple Juice as the drink as well? Additionally, I'd like to get Fish and Chips for the order.",2356,3.724309
+2bfc613f-705b-4a45-869c-a5172ac43970,"Hi, it's Frank here. Looks like there's a little mix-up with the order. 
+
+I need two orders of the **Kids Chicken Tenders** with BBQ sauce, apple slices, and milk to drink. I also have the **Kids Mac and Cheese** with bacon bits, a fruit cup, and apple juice. 
+
+Could you please update the order for two Kids Chicken Tenders instead of one? Also, the regular beer-battered cod for the Fish and Chips is perfect, thank you!
+
+How's everything looking on your end?",2589,3.523873
+6c24c602-1aa5-43ab-87e0-edf40433ef9f,"Could we add the Fish and Chips back to the order? It seems to have been left out. Also, the Kids Mac and Cheese seems to be missing the add-on of bacon bits. Let's make sure these get included before we proceed, please. Thank you!",4447,8.899315
+1e4c2f1a-d488-4cc8-b5fa-464478a97658,"Hi there! I’m Frank Morrison, and I’m here to place an order. It seems like my order isn’t quite complete though. Let's make sure we get everything right. Here's what I need:
+
+1. **Two Kids Chicken Tenders:** with BBQ sauce, apple slices on the side, and milk each.
+2. **Kids Mac and Cheese:** with bacon bits, a fruit cup, and apple juice.
+3. **Fish and Chips**: with beer-battered cod.
+
+Can we add the chicken tenders and the fish and chips to the order, please?",2715,3.790015
+53ddac2f-aea8-43b9-95fb-015bf9122ce3,"Hi there! My name's Frank Morrison. I'm just calling in for my order, and I want to make sure everything is right for the grandkids. 
+
+Alright, let's go over the order:
+
+1. Two kids chicken tenders each with BBQ sauce, apple slices on the side, and milk. 
+2. A kids mac and cheese with bacon bits, a fruit cup, and apple juice. 
+3. Fish and chips with beer-battered cod.
+
+I just want to make sure that everything is correct. Also, could you confirm the pricing for me again? Thank you!",2847,4.652407
+803571cc-e945-47e0-92cd-2883fc71a4ed,"Oh great, it seems like everything's in order the way we wanted. I appreciate you confirming it!
+
+Just to double-check, could you tell me if there are any recommendations for a dessert option that's kid-friendly? I'd love to know just in case my grandkids are still a bit peckish afterward. But as it stands, the current order looks perfect!
+
+Thank you so much!",2783,3.95071
+6fe639fa-8f06-4912-90c5-422caf75ec22,"Oh, both the Chocolate Lava Cake and the Apple Pie sound delightful! But right now, I need to focus on ensuring the main meals are set up correctly for the grandkids. Currently, I have two orders of Kids Chicken Tenders and a Fish and Chips lined up. 
+
+Could we make sure that the Kids Chicken Tenders are correctly set with the BBQ Sauce, Apple Slices, and Milk? Also, please confirm if the Kids Mac and Cheese includes Bacon Bits as an add-on with a Fruit Cup and Apple Juice. We'll think about dessert after that. Thanks for your patience!",2678,1.941809
+177aca45-8c5a-43b1-94fd-f9e93442c063,"It looks like there was a little mix-up with my order. Let's sort this out. I still need to add the Two Kids Chicken Tenders to my order, each with BBQ sauce, apple slices, and milk. The current order looks good for the Fish and Chips and the Kids Mac and Cheese. Could you please add the Chicken Tenders and confirm the full details once that's done? And no dessert for now, thank you!",2649,3.547707
+0a632e44-2f36-4eeb-b10e-06662e09f4b3,That sounds just perfect! Please go ahead and finalize it. I'll make sure to pick it up in about 20 minutes. Thanks a lot!,2662,4.691151
+56e58935-15f9-4ade-b0a4-2dafead1522d,It looks like the order details do match what we need. Could you please confirm that everything's all set for my order? Just want to make sure before wrapping it up.,2667,3.896051
+f83dd782-f99e-4ffc-a8d8-7fa212da5451,exit,2594,4.501841

@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+5519bd3b-b83f-4d0f-9613-693ed102b552,"Hi there! I’d like to order a Caesar Salad with grilled chicken, please. How much will that be?",1066,0.9221248626708984
+1d410930-46c1-47c5-9b50-7653369f47c5,"I’d like the dressing mixed in, and please keep the croutons in. How much is that total?",1160,0.7957241535186768
+6fa0b5d3-e9f3-47d6-94d1-4d241ee7ee64,"Yes, it's under Sarah Johnson.",1251,0.535836935043335
+b3021043-f4f6-405c-9014-621541bc551f,exit,1331,0.6161551475524902

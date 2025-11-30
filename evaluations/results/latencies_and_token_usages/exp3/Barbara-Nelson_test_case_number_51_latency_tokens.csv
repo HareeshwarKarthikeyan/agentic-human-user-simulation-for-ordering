@@ -1,0 +1,121 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+8bef8154-abce-449d-8556-510cf2e0d05e,"Hi there! This is Barbara Nelson. I’d like to place an order, please. Let's start with Chicken Parmesan. Could you make it with Penne pasta and add some extra sauce?",2207,3.151079
+9a4f8183-ef22-4089-b4e7-e0051f649c5f,"Hey there! Actually, I’d like to add a couple more things to my order. Could you please add a Fettuccine Alfredo with grilled chicken and broccoli, as well as a large decaf Cappuccino? Thanks!",2305,3.611042
+3dc57ad0-5602-4b37-900c-937c9c970e07,"Hey there! I'd like to have the Cappuccino with skim milk, please. Also, I just want to make sure everything's as planned. It seems I'm missing broccoli for the Fettuccine Alfredo, and forget the price of $16.99 plus the extras, I expected it and appreciate if you can add that for a total with grilled chicken and broccoli. Could you also confirm the total prices for the Chicken Parmesan, with Penne pasta and extra sauce is $24.99, and the Cappuccino, with a large size and decaf options, is $6.99? Thanks!",2564,3.74137
+6000aa88-f9b5-427d-8c7c-0e04705128d2,"It seems there are a few modifications needed for my order:
+
+1. **Chicken Parmesan**: Could you please add Penne pasta and extra sauce to it?
+
+2. **Fettuccine Alfredo**: Make sure it's with grilled chicken and broccoli. 
+
+3. Everything else is fine!
+
+Could you adjust those for me? Thanks!",2448,3.394974
+843b4960-f2b3-4c49-bddf-656d5f7dada4,"Thanks for getting that sorted out! It looks like there are still a few differences in the price and details of some items:
+
+1. **Chicken Parmesan**: Needs extra sauce at an additional price of $2.00, bringing it to **$24.99**.
+   
+2. **Fettuccine Alfredo**: The base price is $16.99, with an additional $6.00 for the grilled chicken and $3.00 for the broccoli, which totals to **$25.99**.
+
+3. **Cappuccino**: The correct base price with the large size modifier should be **$6.99**.
+
+Can we adjust these, please, so everything matches up with what I've got on my side? Let's get that finalized and confirm the total.",2853,4.775735
+b26c67e7-b2a8-4d74-a6fd-b1ee4bdaafc5,"It looks like I need to make sure these order details and prices match exactly. Let's adjust the prices to align with the target and current items again:
+
+- **Chicken Parmesan** with **Penne pasta** and **Extra Sauce** should be **$24.99**, and that's correct in the current order.
+- **Fettuccine Alfredo** with **Grilled Chicken** and **Broccoli** should be **$25.99**, and that's also correct.
+- **Large Decaf Cappuccino** with **Skim Milk** should be priced at **$6.99**, which is correct.
+
+Now, to verify the final total, let's add that up:
+- Chicken Parmesan: **$24.99**
+- Fettuccine Alfredo: **$25.99**
+- Large decaf Cappuccino: **$6.99**
+
+Total should be **$57.97**, and everything matches. Could you please confirm the order is set with these details? Then, we can proceed.",2877,4.438469
+3ac897b3-d7ce-448a-a181-d39ac536c4ac,"Hey, it's Barbara Nelson here. Hmm, I guess there's a slight mismatch in the Chicken Parmesan and Cappuccino details. The Chicken Parmesan should be with ""Penne"" and an ""Extra Sauce"" priced at an extra $2 for a total of $24.99, and the Cappuccino should be a ""Large"" with a decaf option priced at $6.99.
+
+Can we make sure those details align? I didn't spot any issues with the Fettuccine Alfredo; it looks perfect. I appreciate your help in getting this right! Also, once everything is correct, let's talk about the pickup time.",2662,3.561106
+7b730991-f050-44d0-89df-aca91c7e6ba0,"Looks like there are a few details that need adjusting on the order:
+
+1. For the **Chicken Parmesan**, please make sure it comes with **Penne pasta** and **extra sauce**.
+
+2. For the **Fettuccine Alfredo**, it should include **grilled chicken** and **broccoli** as add-ons.
+
+3. For the **Cappuccino**, it should be specified as a **Large decaf** with **skim milk**.
+
+Could you please confirm these modifications and update the order total for me? Once that's set, I'll give you a time for pick-up.",2546,3.241157
+b6cd1bd3-8509-4d63-b4d0-445ac67cd204,"Hi there! This is Barbara Nelson. It looks like there's a small discrepancy with the Chicken Parmesan base price and modifiers, and the Cappuccino name and base price. The order should be:
+
+1. Chicken Parmesan with Penne pasta and Extra Sauce priced at **$24.99**.  
+2. Fettuccine Alfredo with grilled chicken and broccoli priced at **$25.99**.  
+3. Cappuccino as a large decaf with skim milk priced at **$6.99**.
+
+Could you please update the order to reflect those item names and prices? Also, once that's set, I'll let you know the pick-up time. Thank you!",2710,3.536019
+ea261ab9-9550-4bc0-9395-61871868765d,"Everything looks perfectly in order! I have the Chicken Parmesan with Penne and extra sauce, the Fettuccine Alfredo with grilled chicken and broccoli, and the large decaf Cappuccino with skim milk. 
+
+As for the pickup time, I'd like to pick it up at 6:00 PM, please.",2658,4.65667
+2a1090b6-fe37-46fa-b621-c6f1f8e9fe25,"Hi there! It looks like there's a bit of confusion. I actually need to confirm a specific order with you, focusing on some target items I have in mind. Let me go through the details:
+
+1. **Chicken Parmesan** with Penne pasta and extra sauce.
+2. **Fettuccine Alfredo** with grilled chicken and broccoli.
+3. **Large decaf Cappuccino.**
+
+Let's make sure these are all set. Could you help confirm these for me, please?",2472,3.344456
+2cc3976a-e6ce-4362-a7a8-6f1d58fb82d8,"Hi, thanks for confirming! However, it seems my order hasn't been fully placed yet. Can you please go ahead and add the following to my order:
+
+1. Chicken Parmesan with Penne pasta and extra sauce.
+2. Fettuccine Alfredo with grilled chicken and broccoli.
+3. A large decaf Cappuccino with skim milk.
+
+I'll need the price breakdown and the total for this order. Could you also please confirm the pickup time?
+
+Thanks for your help!",2455,4.502669
+fcaf0fbc-1c72-4dd0-a568-68639252e898,"Hi! I'd like to place an order, please.
+
+Here’s what I need:
+
+1. Chicken Parmesan with Penne pasta and extra sauce.
+2. Fettuccine Alfredo with grilled chicken and broccoli.
+3. A large decaf Cappuccino with skim milk.
+
+Could you confirm these for me and let me know the total price? Thanks!",2560,3.947903
+6aa4d38c-a67e-42a5-8a39-0b79e0ab72d5,"Hey there! I'm looking to place an order for pick-up. Here's what I need:
+
+1. **Chicken Parmesan** with Penne pasta and extra sauce.
+2. **Fettuccine Alfredo** with grilled chicken and broccoli.
+3. A **large decaf Cappuccino** with skim milk.
+
+Could you confirm these items for me, please?",2551,4.372821
+01a6ccf7-cda4-43c4-8d4d-8fe1fc72e693,"Oh, it looks like there might be a small misunderstanding with my order details. Let me clarify:
+
+1. For the **Chicken Parmesan**, I would like it with **Penne pasta** and **extra sauce**.
+2. The **Fettuccine Alfredo** should have **grilled chicken** and **broccoli**.
+3. A **large decaf Cappuccino** but with **skim milk** please.
+
+Could you update these details to match exactly this for me?",2659,3.30517
+76ba7a77-7cf5-40a2-a01b-15ba3a077d7b,"It seems there's been a bit of a mix-up with my order. I need to add a Chicken Parmesan with Penne pasta and extra sauce, and a Large decaf Cappuccino with skim milk. Could we get those included as well? Also, what’s the price for the Chicken Parmesan?
+
+Once that’s sorted, I’ll let you know when I’ll swing by to pick it up. Thanks!",2372,3.93132
+4f05f432-e1ca-4b9d-a982-ce47d40f1a73,"Hi there! It looks like we still need to add a couple of items to match the order. Here's what I'd like:
+
+1. **Chicken Parmesan** with **Penne pasta** and **extra sauce**
+2. **Large decaf Cappuccino** with **skim milk**
+
+It seems like the Fettuccine Alfredo with grilled chicken and broccoli is already noted, which is great! Could you please add the other two items for me?",2534,3.997427
+359013c7-dea2-4892-944e-617737a2ee54,That sounds perfect! I'll pick up the order at 6:30 PM. Thank you!,2481,4.134447
+7d2db3a9-e072-4112-b9d9-136ebf02c3b3,"It seems there's a bit of a mix-up with our prices and item details. Let's go through this again to ensure everything aligns with what I need:
+
+1. Chicken Parmesan with Penne pasta and extra sauce should be $24.99.
+2. Fettuccine Alfredo with grilled chicken and broccoli should come to $25.99.
+3. The large decaf Cappuccino with skim milk should be $6.99.
+
+Let's make sure these are correct, then we can finalize. Could you help me adjust these, please?",3769,4.155217
+fc36e818-4a7e-4f3e-82cf-7b41b5d60a6f,"Hello there! It's Barbara here. I appreciate you confirming the order, but I noticed there's a price mismatch with the Chicken Parmesan and Fettuccine Alfredo. Could you please update the prices for those items to match what I have in the target order?
+
+For the Chicken Parmesan, it should be **$22.99** with the pasta choice as **Penne** and **Extra Sauce** for **$2.00** making it total **$24.99**.
+
+The Fettuccine Alfredo should feature **Grilled Chicken** for **$6.00** and **Broccoli** for **$3.00**, making it the total of **$25.99**.
+
+Let's also verify the Cappuccino details. I see that it's supposed to be just a Cappuccino with a required size at **$2.00** with Decaf at no extra charge. 
+
+Could you please adjust these details and confirm the total? Once that's set, I'll give you the pickup time.",2782,3.703226

@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+ec04a27a-0b19-4021-b730-7fdc7b9706f2,"Could you confirm the BBQ Bacon Burger order for me? I want to make sure it's just right: medium well with onion rings. And let me know about the parking situation, please. Thanks!",3382,6.34923
+8d367c10-9289-4bfc-bd1b-d01e735936f4,"Thanks for confirming. The order sounds perfect as it is, so I won't be adding a drink at this time. Appreciate the info on the parking and quick service—just what I need for a smooth pickup! What's the total on that order? ",2226,3.478868
+a1429845-e0c2-4cd8-9148-fe8fb7a4e4ac,The name for the order is Thomas Wright. It looks like everything is all set and matches what I wanted. Thanks!,2155,3.668421
+f40916b6-19fc-4edd-b994-e81473c40292,"It looks like there are a couple of things in the order that need to be updated. The BBQ Bacon Burger should be cooked medium well, and I noticed the price for everything should be $21.99, including onion rings as a side. Could you confirm these details and update the order if needed? Also, do you have any parking availability for truck drivers like me?",2214,3.183391
+67fd217c-a792-446f-9768-464a95cd68d5,"Thanks for confirming everything! It's Thomas Wright, and the order for the BBQ Bacon Burger with onion rings is all set at $21.99. Appreciate the parking info too. Have a good one!",3334,4.251419
+f2b6ec39-8e90-487c-bb2d-ae4bfc4a9923,exit,2178,3.588082

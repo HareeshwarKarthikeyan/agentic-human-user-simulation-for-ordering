@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+a5fde4e6-96a9-471b-8fdc-ddc90880cf44,"Hi there! I'd like to order a Portobello Mushroom Burger, please. Can I get that with vegan cheese and a side of sweet potato fries?",1114,1.0331330299377441
+f1bc112b-0715-41f1-8831-33172ebddd59,"It's Alex, Alex Turner. And yes, that's correct! Vegan cheese and sweet potato fries with the burger. What's the total going to be?",1206,0.9217910766601562
+05a93ce6-250c-4740-8e9e-e7984e1c40ef,"No, just that order is perfect. So it's $17.99 for the Portobello Mushroom Burger with vegan cheese and the sweet potato fries, right? Can you confirm that for me?",1369,0.9282100200653076
+54117fcb-637c-47b5-b412-fd968704b1f5,"No, I’m all set with just that order. So, it’s $17.99 for the burger with vegan cheese and sweet potato fries, right? Can you confirm and place the order?",1499,1.0359790325164795
+9ea0bb76-b618-4fe4-b816-ee907f74fbe0,exit,1597,0.5422968864440918

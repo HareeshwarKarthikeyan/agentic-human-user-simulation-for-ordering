@@ -1,0 +1,9 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+18247d04-4969-4d46-b026-869ff8c7e897,"Hi there! I'd like to place an order for delivery. I'll need:
+
+- 2 Grilled Chicken Sandwiches, both with French Fries
+- 2 Club Sandwiches on Wheat Bread, both with Potato Chips
+- 1 Vegetable Stir Fry
+
+Could you let me know the total cost and confirm the order details?",2326,3.686544
+09085b7e-832e-4e95-8187-afde674a2363,exit,2582,3.000594

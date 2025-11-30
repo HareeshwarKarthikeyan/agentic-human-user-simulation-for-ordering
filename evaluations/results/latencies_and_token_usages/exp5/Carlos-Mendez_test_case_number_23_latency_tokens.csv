@@ -1,0 +1,12 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+e9dcec5c-965e-4f42-9805-445ce04111ea,Hi there! I've got a few questions about the menu. Could you tell me a bit about your Fettuccine Alfredo? I'm curious about how it's prepared.,2387,5.629058
+9a5aea01-84cc-452d-bdd2-4b67d43d65c7,"The Fettuccine Alfredo with the lovely twist of lobster sounds amazing! Can you tell me a little more about how the lobster is prepared for the Fettuccine Alfredo? Does it come as a whole piece, or is it cut up?",2480,2.558102
+3771d427-fc1d-4925-b406-177fd721a694,"Oh, adding lobster sounds amazing! Can I get the Fettuccine Alfredo with that lobster option, please? And are there any specific seasonings or sauces it’s cooked with?",2496,2.655116
+e10218d2-7d59-48fa-8f44-7f8c794f3cad,"Actually, could we add mushrooms as a vegetable add-on to the Fettuccine Alfredo? I'd love that extra flavor with the sauce. 
+
+And let's move on to the drink part of my order after that. Could you tell me more about your margaritas, like any special flavors and preparation styles? I’m interested in something unique!",2597,3.778364
+90932e77-16b1-404e-9ec1-eaccebe5e2eb,"Oh, by the way, could you add mushrooms to the Fettuccine Alfredo, please? As for the margarita, I'm keen on exploring some flavor options. The mango twist sounds intriguing! Could I get it ""On the Rocks"" with a sugar rim? And would it be possible to upgrade to a premium tequila? Thanks!",2612,3.643557
+433ae732-0933-48a2-b39f-04311d9ea33b,"Sure! The name for the order is Carlos Mendez. Everything sounds perfect and I’m all set with the Fettuccine Alfredo with lobster and mushrooms, along with the Mango Margarita “On the Rocks” with a sugar rim and a premium tequila upgrade.
+
+Total comes to $42.98. I’m ready to move forward with pickup. Thank you!",4102,8.023832
+774e0068-d4c1-4c2b-a3a5-3e686373812a,exit,2485,4.912592

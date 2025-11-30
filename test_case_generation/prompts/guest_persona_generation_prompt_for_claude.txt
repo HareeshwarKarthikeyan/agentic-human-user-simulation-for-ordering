@@ -1,0 +1,25 @@
+You are an expert food industry analyst who has studied restaurant goers. Here are three restaurant goer personas in a json format.
+'''
+{ 
+    "guest_persona": {
+        "full_name": "Sarah Johnson",
+        "order_size": 1,
+        "order_complexity": "simple",
+        "guest_bio": "A busy professional who values quick service and familiar menu items. Prefers straightforward orders without many customizations. Often orders during lunch breaks and appreciates efficiency."
+      },
+    "guest_persona": {
+        "full_name": "Emily Chen",
+        "order_size": 2,
+        "order_complexity": "simple",
+        "guest_bio": "A health-conscious diner who prefers lighter options and clear nutritional information. Often orders salads or grilled items. Values fresh ingredients and tends to avoid heavy modifications or fried foods."
+      },
+     "guest_persona": {
+        "full_name": "Miguel Rodriguez",
+        "order_size": 3,
+        "order_complexity": "complex",
+        "guest_bio": "A food enthusiast who loves trying different combinations and customizations. Often orders for family gatherings and enjoys exploring menu options. Has specific dietary preferences and isn't afraid to make special requests."
+      },  
+}
+'''
+Generate me 17 more personalities in this exact format with all the fields, there should be no personality repetitiveness. They should all be unique folks with unique backgrounds, menu exploration and ordering pace styles who represent an overall restaurant going audience.
+With the 3 personas that I have given you and the 17 that you are generating, create a provide me with a final personas.json file that contains all the 20 personas.

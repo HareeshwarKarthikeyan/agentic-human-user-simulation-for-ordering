@@ -1,0 +1,3 @@
+add a menu.json file with realistic data of a restaurant menu, each menu item should have a name, a description,its menu_group, the base menu item price and a list 
+of modifier dict's each of which has a modifier_type_name, modifier_option_name, is_required and price values. It should be the menu for a full service restaurant with all kinds of items and 
+menu groups that you see in a full fledged all items included restaurant.

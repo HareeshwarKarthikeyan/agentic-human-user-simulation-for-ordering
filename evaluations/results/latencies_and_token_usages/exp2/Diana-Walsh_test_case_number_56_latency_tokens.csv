@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+eb16bada-7639-4492-aa9a-d113522da8b7,"Hi, I'd like to place an order for a Club Sandwich on white bread with French fries on the side, and a small Cappuccino, please.",2148,1.234678
+61b162d8-64f7-4188-875f-1e5aa53d90dd,"Hi, this is Diana Walsh. You've got my order correct: it's a Club Sandwich on white bread with French fries, and a small Cappuccino. That's all for me, thanks! Can you let me know the total price and confirm the order?",2291,0.649358
+0f8a7f53-1b25-4161-bc71-203dbd075996,exit,2557,0.717053

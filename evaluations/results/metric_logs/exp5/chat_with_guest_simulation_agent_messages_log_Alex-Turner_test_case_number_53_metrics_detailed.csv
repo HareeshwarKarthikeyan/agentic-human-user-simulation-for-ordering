@@ -1,0 +1,9 @@
+Metric,Value,Description
+PAS,0.6667,Persona Adherence Score - How well the guest maintains their persona
+BVS,0.7639,Behavioral Variance Score - Realistic fluctuations in behavior
+ORA,1.0000,Order Restriction Adherence - Sticking to target order items
+DEI,1.0000,Decision Explainability Index - Traceability of decisions
+CRRS,0.8694,Composite Realism & Reliability Score - Overall quality
+experiment_level,5,Ablation experiment level (1-5)
+timestamp,2025-09-01T22:34:35.892709,Analysis timestamp
+conversation_id,chat_with_guest_simulation_agent_messages_log_Alex-Turner_test_case_number_53,Unique conversation identifier

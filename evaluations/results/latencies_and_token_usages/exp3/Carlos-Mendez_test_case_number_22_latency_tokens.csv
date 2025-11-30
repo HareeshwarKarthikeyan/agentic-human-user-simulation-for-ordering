@@ -1,0 +1,14 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+61c4ef0d-2265-4e28-a2a8-e50e447c04c7,"Hi there! This is Carlos Mendez. I'm interested in placing an order with you. Could you help me out with getting a Filet Mignon cooked rare with a red wine reduction and a blue cheese crust? Also, I'd like a grilled Lobster Tail with some extra butter. Thanks!",2172,1.986927
+7cd98aec-83b9-45d0-bbb6-2675411fe0a9,"Hey, that's correct! I want the Filet Mignon cooked rare with the red wine reduction sauce and a blue cheese crust. For the Lobster Tail, it should be grilled with extra butter. 
+
+No need to add anything else, though. Can you confirm that everything's been placed correctly and let me know the total? Thanks!",2508,4.417557
+b96ce12c-f538-499f-ae1d-fd4ae7a3b81b,"Hey, the name for the order is Carlos Mendez. 
+
+It looks like there are some adjustments needed on the order to match what I actually want. The Filet Mignon should include a red wine reduction priced at $3.00 and a blue cheese crust for $5.00, making its total $56.99. 
+
+And the Lobster Tail should have the extra butter for $2.00, totaling $46.99.
+
+Could you update that for me, please?",2506,3.375103
+7891a268-df85-4244-9297-48a8f6c37be8,"Thanks for that breakdown. That's exactly what I wanted, with the Filet Mignon cooked rare, red wine reduction, and blue cheese crust, plus the Grilled Lobster Tail with extra butter. The total of $103.98 sounds about right to me. Let's go ahead and proceed with that order.",2671,4.530884
+ed3a92aa-6916-4954-8d17-dba76707574e,exit,2451,4.590794

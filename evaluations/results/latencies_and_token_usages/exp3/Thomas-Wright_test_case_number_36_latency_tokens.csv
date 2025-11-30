@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+8bc6a5bc-8de9-4380-999a-ff25ce1ad712,"Hey there! This is Thomas Wright. I'm on the road and was hoping to place a quick order for pickup. Do you have Fish and Chips on your menu? If so, I'd like to add an extra piece of fish with it. Also, how's the parking situation there?",3009,2.41045
+c0380b2d-9a2a-451d-8c51-86c3390ad09d,"Great, thanks for confirming! That's all I need. Looks like everything's set for that order. I'll skip the drink. I'll head over to pick it up. Thanks again!",3307,3.893069
+a0b6cb56-fb6b-4c8a-a986-8a42c952a649,exit,3185,4.201577

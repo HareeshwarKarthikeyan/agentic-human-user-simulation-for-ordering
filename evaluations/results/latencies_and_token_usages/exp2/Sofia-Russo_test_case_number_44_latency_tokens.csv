@@ -1,0 +1,17 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+6f5d4779-30a5-4824-9e0d-908ef5a79083,"Hi there! I'm Sofia. I'm looking to order an Atlantic Salmon and a Caesar Salad. Could you tell me if you have a wine recommendation that pairs well with salmon? I usually like my salad dressing on the side, if that's possible.",2104,1.189123
+b772ed69-a05f-4b29-bed7-62ea979bcb27,"Hi! I'd like to have the Atlantic Salmon grilled, please. As for the Caesar Salad, I'm keeping it simple without any added protein for today. That House White Wine sounds perfect to pair with the salmon. Let's go ahead with that. Thanks!",2446,0.691774
+e0d05584-9eb3-4b75-95a1-78e8c3b80f85,"It seems the total price calculated earlier is a little different from my initial target order pricing. Just to be sure we're good on everything, let's run through it again. The name should still be Sofia Russo. I'm ready for pickup in about 20 minutes. Thanks!",2634,1.012482
+3cfd2d7b-156a-46f3-9136-5a80cacd28e9,It looks like there was a misunderstanding with the initial target order on the total price for the items. Could we go over the individual prices again to ensure everything's good? My target order originally comes to a total of $39.98. Can we double-check and match it to that total? Thank you!,2715,0.686642
+af320789-8213-4ad7-a212-860f68e24884,"Hi there! It seems like the target order includes the Atlantic Salmon and Caesar Salad, and the total for those should actually be $39.98. However, if we're including the House White Wine, the calculated total does indeed come to $48.97. If we're sticking to the original, it should just be the salmon, salad with dressing on the side, and no wine. 
+
+Could you confirm if the wine is to be included, or if you'd prefer the target total? Thanks!",3133,0.88452
+12d2a4f9-66a1-4852-a525-d1e3878b974e,"Yes, that's correct. The order should include:
+
+- 1 Atlantic Salmon
+- 1 Caesar Salad with dressing on the side
+
+Total: $39.98
+
+The name for the order is Sofia Russo. Thanks!",2219,0.572755
+5c066ac2-1f65-4098-b2ab-c7b61207aa90,exit,3239,0.835864

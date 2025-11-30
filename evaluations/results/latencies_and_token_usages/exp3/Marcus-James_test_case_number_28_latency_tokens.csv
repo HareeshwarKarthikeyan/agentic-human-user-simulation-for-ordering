@@ -1,0 +1,36 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+27c8fc46-8f43-4510-a791-e5ed8c4a32f0,"Hi there! This is Marcus James. I'm looking to place an order. Could you start with a ribeye steak, cooked medium rare? Thanks!",2175,2.244933
+04b6c8b1-cdac-454c-98a8-6b873dd8d735,"Hey, could I also add a Caesar Salad with grilled chicken and no croutons, and a large cappuccino with skim milk to my order? And I'll pass on the sauce for the ribeye. Thanks!",3919,9.833462
+c4916083-632a-45ab-9ac4-4f898637912a,"Hi, Marcus here, the fitness trainer. Just to confirm, I see the ribeye steak was added, but it needs to be cooked medium rare. And for the cappuccino, please note I requested skim milk without an extra charge.
+
+So, can we make those small adjustments? As for the drink, I’m good with what I have. Thanks!",2610,4.352569
+b70aac2c-909b-4290-bcaa-d4b808e7d9f1,"Hey, thanks for checking. I noticed we need a couple of adjustments:
+
+1. For the Ribeye Steak, can you make sure it's cooked medium rare?
+2. The Caesar Salad should have grilled chicken as an add-on, and please make sure there are no croutons.
+3. Can you double-check that the Cappuccino is a large with skim milk?
+
+Let's make sure that total stays at $68.97. Appreciate your help!",4075,7.281029
+1bb71dc4-dfb3-47de-9b9a-aaf2abbc9729,My name is Marcus James.,1933,0.481893
+0d2cda76-5ed2-4e97-80d4-723a34566b95,"It looks like there's been a slight mix-up with my order details! Can we make sure these items align perfectly with what I intended?
+
+- **Ribeye Steak** cooked medium rare (no sauce)
+- **Caesar Salad** with grilled chicken and no croutons 
+- **Large Cappuccino** with skim milk
+
+Can we confirm the protein add-on for the salad is noted correctly, and the cappuccino is priced right, as per your menu? Let me know the revised total. Thanks!",2604,4.563278
+f7cf6b5a-ccd1-4e32-8f41-26a942680079,"Hey! It looks like there is a little issue with the order details. Can you please confirm the following adjustments?
+
+1. **Ribeye Steak** should be cooked medium rare.
+2. **Caesar Salad** should have grilled chicken added as a protein add-on. 
+3. **Cappuccino** is correct as a large with skim milk.
+
+The total should come out to $68.97 when everything is adjusted correctly. Could you please make these changes? Thanks!",2611,3.186601
+31086b3a-7cd1-45bf-90ee-9eb8b4bfb6e0,"Hey, there's a slight discrepancy here I need fixed real quick:
+
+- The **Ribeye Steak** needs to be cooked medium rare.
+- The **Caesar Salad** should have added grilled chicken as a protein add-on.
+- The **Cappuccino** should be a large with skim milk.
+
+And can you confirm that all modifiers, especially the protein add-on on the Caesar Salad and the size of the Cappuccino, are updated accurately? Thanks!",2633,3.935368
+0730e785-83aa-4685-9804-ab0bba154bca,exit,2585,4.592649

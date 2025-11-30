@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+fdb88048-0c94-4a18-bac6-033a6b99cdff,Hi there! I'd like to order a Club Sandwich with white bread and a side of French fries. Could you confirm that for me and let me know the price?,2258,4.440162
+dd11c445-6073-425f-ba11-10f16eba9de9,"No drinks or additional items for me, thank you. Just the Club Sandwich with white bread and a side of French fries. Could you confirm the final price for me, please?",2367,3.546012
+f4e3b96e-772b-4851-a925-5e87b65748cf,Robert Kim. Thanks for your help with the order!,3649,11.104243
+57f91f5b-953e-4fd7-83d0-f41c2e0f759f,exit,2389,3.371086

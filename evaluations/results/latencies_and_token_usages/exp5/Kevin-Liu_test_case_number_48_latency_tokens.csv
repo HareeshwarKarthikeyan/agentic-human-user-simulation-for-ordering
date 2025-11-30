@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+23f2841d-6a13-4a29-aebb-2da851f6dafe,"Hi there, I'd like to place an order for Chicken Parmesan, please. What's the price for that?",2188,4.823303
+98ec2ee8-9880-4463-b032-6e81a2c040cf,"I'd like to go with the Chicken Parmesan, please. I'll pass on the extras, and I'll have it with penne. Thanks!",2257,2.708872
+1e8a510a-b444-4eaa-b1d4-4c4817ed4ec3,Kevin Liu.,3354,5.429009
+6f1d06ee-c094-4c94-830e-86efab6ba3a3,"No, that's all for now, thanks.",2250,3.367721
+1643bb05-4a7f-4e86-91bc-640d41d47807,"It looks like there's a small issue with the order item description. I meant to order ""Chicken Parmesan"" without the ""with penne"" part. Could you please confirm or adjust this if needed?",2342,3.593
+69641013-e5f6-40cc-a287-cd3392fe9145,exit,2313,3.94844

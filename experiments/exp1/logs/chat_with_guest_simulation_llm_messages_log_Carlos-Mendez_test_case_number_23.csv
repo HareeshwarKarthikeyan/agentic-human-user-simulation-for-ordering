@@ -1,0 +1,65 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+9e448522-67f8-483f-aded-aa7337f11674,assistant,Hi there! Thank you for calling The Garden Bistro. How can I help you today?,order_taking_llm,2025-08-30T05:30:52.524348+00:00,,,,,,-1.0
+ba70a967-d48f-44f7-8722-4c4cee87e54e,agent,"Hi! I’d like to place an order for delivery, please. I’ll have one Fettuccine Alfredo with lobster and mushrooms, and one Margarita on the rocks with mango flavor and premium tequila.",guest_simulation_llm,2025-08-30T05:30:54.192310+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1251, ""num_response_tokens"": 41, ""total_tokens"": 1292}",1667.766809463501
+28f4b892-cd60-454d-9b64-3bec9acdf8fa,assistant,"Oh, I'm sorry, but we only do takeout here at The Garden Bistro. Would you like to proceed with your order for pickup? 
+
+Just to confirm, you want one Fettuccine Alfredo with lobster and mushrooms, and one Margarita on the rocks with mango flavor and premium tequila. Is that correct? 
+
+Also, could I get your name for the order?",order_taking_llm,2025-08-30T05:30:55.810322+00:00,,,,,,-1.0
+90728863-0ddc-4e85-9516-f55c9bf3d69c,agent,"Yes, that’s correct! My name is Carlos Mendez. And yes, I'm good for pickup. What's the total?",guest_simulation_llm,2025-08-30T05:30:56.929341+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1391, ""num_response_tokens"": 25, ""total_tokens"": 1416}",1118.6957359313965
+81746ddb-e528-4fea-9cf2-53439cce8a95,assistant,"Thank you, Carlos! Let me calculate your total real quick.
+
+- Fettuccine Alfredo with lobster ($16.99 + $12.00) = $28.99
+- Fettuccine Alfredo with mushrooms ($16.99 + $3.00) = $19.99
+- Margarita on the rocks with mango and premium tequila ($10.99 + $3.00) = $13.99
+
+So, your total comes to $28.99 + $13.99 = $42.98.
+
+When would you like to pick this up? Your order will be ready in about 20 minutes.",order_taking_llm,2025-08-30T05:30:59.589346+00:00,,,,,,-1.0
+9af9ce5e-dee3-4e57-92af-7d619eb82318,agent,"Actually, that total doesn't look right. The Fettuccine Alfredo with lobster is $31.99 total, and the Margarita is $15.99 total, making it $47.98 altogether. Can you confirm that?",guest_simulation_llm,2025-08-30T05:31:00.780090+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1568, ""num_response_tokens"": 46, ""total_tokens"": 1614}",1190.476894378662
+52360b78-5872-456f-91e0-82650d2f2610,assistant,"Let me check that for you, Carlos. The Fettuccine Alfredo with lobster is indeed $18.99 base price plus $12.00 for the lobster, making it $30.99 total. The Fettuccine Alfredo with mushrooms is $16.99 plus $3.00 for the mushrooms, which is $19.99 total. So that part is accurate.
+
+As for the Margarita, it starts at $10.99, and with the premium tequila add-on, that's an additional $3.00, making it $13.99 total.
+
+So here's the breakdown again:
+- Fettuccine Alfredo with lobster: $30.99
+- Fettuccine Alfredo with mushrooms: $19.99
+- Margarita: $13.99
+
+That totals to $30.99 + $19.99 + $13.99 = $64.97.
+
+Would you like to confirm that total now? Thank you for your patience! When would you like to pick up your order?",order_taking_llm,2025-08-30T05:31:05.218748+00:00,,,,,,-1.0
+8b0a711b-b5da-4cce-b66a-756c0724f9e7,agent,"It looks like there’s been a misunderstanding with the prices. The way we confirmed the Fettuccine Alfredo with lobster was $31.99 total, and the Margarita was $15.99. That gives us a total of $47.98, which matches my original calculation. 
+
+Can we confirm that? I’d like to go ahead with the order at that total.",guest_simulation_llm,2025-08-30T05:31:07.373190+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1843, ""num_response_tokens"": 76, ""total_tokens"": 1919}",2153.687000274658
+135506ae-07b9-4526-8f31-f7c83799d997,assistant,"I apologize for the confusion, Carlos! Let me clarify the prices for you: 
+
+- **Fettuccine Alfredo with lobster:** Base price $18.99 + $12.00 for the lobster, which totals $30.99.
+- **Fettuccine Alfredo with mushrooms:** Base price $16.99 + $3.00 for mushrooms, totaling $19.99.
+- **Margarita:** Base price $10.99 + $3.00 for premium tequila, which totals $13.99.
+
+So, your total should actually be $30.99 (lobster) + $19.99 (mushrooms) + $13.99 (margarita) = **$64.97**.
+
+If you’re set on the $47.98 total, perhaps there’s something else we can adjust? Let me know how you’d like to proceed! When would you like to pick up your order?",order_taking_llm,2025-08-30T05:31:11.060532+00:00,,,,,,-1.0
+9a956676-4025-46a1-aaa6-aed7584e4a03,agent,"No, I want to confirm the order exactly as we discussed before. One Fettuccine Alfredo with lobster and mushrooms for a total of $31.99, and one Margarita for $15.99, making a total of $47.98. 
+
+Can we go ahead and finalize that order?",guest_simulation_llm,2025-08-30T05:31:13.103350+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 2134, ""num_response_tokens"": 61, ""total_tokens"": 2195}",2042.475938796997
+b35f234a-ef4c-42de-ae31-a7aaba2a1947,assistant,"Thank you for your clarification, Carlos! I’ll go ahead and get that order processed for you:
+
+- **Fettuccine Alfredo with lobster and mushrooms:** $31.99
+- **Margarita on the rocks with mango and premium tequila:** $15.99
+
+So, your total comes to **$47.98**.
+
+When would you like to pick this up? Your order will be ready in about 20 minutes.",order_taking_llm,2025-08-30T05:31:14.947653+00:00,,,,,,-1.0
+3ad98a89-9d79-40be-9ed5-9afd71d16a2c,agent,"I’d like to proceed with picking up the order in 20 minutes, please.",guest_simulation_llm,2025-08-30T05:31:16.191467+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 2308, ""num_response_tokens"": 17, ""total_tokens"": 2325}",1243.267297744751
+408488db-34a8-4e74-83fc-72796de8e8e7,assistant,"Awesome! So just to confirm, we have your order of:
+
+- Fettuccine Alfredo with lobster and mushrooms for $31.99
+- Margarita on the rocks with mango and premium tequila for $15.99
+
+Total: **$47.98**. 
+
+Your order will be ready for pickup in **20 minutes**. Thank you so much for choosing The Garden Bistro, Carlos! We look forward to seeing you soon!",order_taking_llm,2025-08-30T05:31:18.694717+00:00,,,,,,-1.0
+0b039564-27ac-4d4a-8206-a8d959c0d8a9,agent,exit,guest_simulation_llm,2025-08-30T05:31:19.564021+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 2437, ""num_response_tokens"": 1, ""total_tokens"": 2438}",868.6709403991699
+91e9845b-e9c8-45ac-847b-3c255d24b676,system,"{""guest_persona"": {""full_name"": ""Carlos Mendez"", ""order_size"": 2, ""order_complexity"": ""complex"", ""guest_bio"": ""A chef who loves analyzing restaurant menus and asking detailed questions about preparation methods. Orders unusual combinations to understand flavor profiles. Often requests modifications based on culinary expertise.""}, ""target_order"": {""order_items"": [{""name"": ""Fettuccine Alfredo"", ""quantity"": 1, ""base_price"": 16.99, ""modifiers"": [{""modifier_type_name"": ""Protein Add-on"", ""modifier_option_name"": ""Lobster"", ""is_required"": false, ""price"": 12.0}, {""modifier_type_name"": ""Vegetables"", ""modifier_option_name"": ""Mushrooms"", ""is_required"": false, ""price"": 3.0}], ""item_total_price"": 31.99}, {""name"": ""Margarita"", ""quantity"": 1, ""base_price"": 10.99, ""modifiers"": [{""modifier_type_name"": ""Style"", ""modifier_option_name"": ""On the Rocks"", ""is_required"": true, ""price"": 0.0}, {""modifier_type_name"": ""Flavor"", ""modifier_option_name"": ""Mango"", ""is_required"": false, ""price"": 2.0}, {""modifier_type_name"": ""Rim"", ""modifier_option_name"": ""Sugar Rim"", ""is_required"": false, ""price"": 0.0}, {""modifier_type_name"": ""Tequila Upgrade"", ""modifier_option_name"": ""Premium Tequila"", ""is_required"": false, ""price"": 3.0}], ""item_total_price"": 15.99}], ""order_total_price"": 47.98, ""reasoning"": ""Carlos Mendez chose lobster Alfredo with mushrooms and a mango margarita with premium tequila for a Tuesday dinner, exploring luxury ingredients and unique flavor combinations.""}}",test_case_info,2025-08-30T05:31:19.564271+00:00,,,,,,-1.0

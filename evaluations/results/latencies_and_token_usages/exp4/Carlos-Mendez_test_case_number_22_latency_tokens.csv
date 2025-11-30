@@ -1,0 +1,8 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+d0a95a1d-ab34-4f59-a806-cb9e4e7605c9,"Hi there! I'm really excited to explore your menu. I'm planning to order something special today. Could you tell me a bit about your Filet Mignon options? Specifically, I'm curious about different sauces or toppings you might offer.",2331,3.35573
+35ba8e37-23f5-4730-968d-af6e995a1049,"Hey there! Thanks for the detailed options. I’d like to go with the Filet Mignon, cooked Rare. I’d love to add the Red Wine Reduction sauce and top it off with a Blue Cheese Crust, please. And my name's Carlos Mendez. What a fantastic combination, right? What's the magic price on this deliciousness?",2727,3.378006
+c33a08d9-a54b-4640-a305-3b38f225ffff,"Thanks for the offer, but I'll pass on the sides this time. By the way, I'm also interested in ordering a Lobster Tail. Could you tell me if you offer a grilled option with extra butter?",4348,3.664062
+ff4e64b0-f2c3-44cd-a6ca-230523c4dcde,"Yes, please add the grilled Lobster Tail with extra butter to my order too. That sounds delightful! I'm really keen on seeing how that extra butter enhances the flavor when grilled. 
+
+I’ve got the filet and the lobster, so that's a nice surf and turf combo. Can you confirm the price with both items included, please? And I'm good without any sides, thanks!",4816,3.523241
+d104caa6-23ae-4b43-8f00-3668cc3a4b5c,exit,3375,3.353969

@@ -1,0 +1,15 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+9d389ff1-97c9-409b-8d11-2fbbab42e1c6,"Hi! I'd like to place an order for my grandkids and me. Could I start with a Classic Burger, please? I want it well done, with American cheese, and I'll have French fries on the side.",1298,1.1230919361114502
+93d7f27d-f631-4634-9f75-f09100a6b548,"That's right! Just the Classic Burger as I mentioned. The order is under Frank. I'd like to add a Grilled Chicken Sandwich next, please. Can I get that with a fruit cup on the side?",1416,0.9999618530273438
+811afc32-f1b6-400d-9b00-7a5f872c299b,"No cheese on the chicken sandwich, please. I'd like to get two small Fresh Orange Juices as well. How's that total looking so far?",1540,0.8542768955230713
+7276609b-9f13-417e-be6a-fda66104b593,"That all sounds great, but I think you missed the correct total. I believe it should be $46.46. 
+
+So just to confirm, I'm good to go with the following order:
+
+- One Classic Burger well done with American cheese and French fries
+- One Grilled Chicken Sandwich with a fruit cup on the side (no cheese)
+- Two small Fresh Orange Juices
+
+Please let me know if that's correct!",1798,1.5254871845245361
+716c8842-258f-4317-a853-a82b10d66dc9,"Yes, let's go ahead with that total of $44.96. I'll be picking it up shortly. Thank you for your help!",2042,0.7986109256744385
+e4f13ff6-b85f-4e78-9fcd-334a26e367e7,exit,2163,0.6657099723815918

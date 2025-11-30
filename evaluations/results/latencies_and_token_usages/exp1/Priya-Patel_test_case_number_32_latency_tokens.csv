@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+5773817e-4ecf-401d-a4c4-d81b86be80be,"Hi there! I’d like to place an order for a celebration for my kids' soccer team. Can I get two Kids Mac and Cheese with a Fruit Cup and an Apple Juice each, please? And also, two Classic Burgers, well done with American cheese and French fries on the side.",1278,1.6479847431182861
+f1dcf1f7-2d7b-4296-9f24-35c16cdde307,"No, that’s everything I need for now. Can you confirm the total for that order?",1394,1.0726158618927002
+81d27e81-2317-409f-86b1-ce01497b6b87,"Yes, please put the order under Priya Patel. That sounds great! Just to double-check, that total is $50.96, right?",1597,1.4416358470916748
+a12ad1aa-dfc2-4037-a7b0-0ae1818f5b8c,exit,1709,1.1250109672546387

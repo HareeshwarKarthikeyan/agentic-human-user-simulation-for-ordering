@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+74e388f9-61e3-4483-b5f1-135bf8184e1e,"Hey there! I'd like to place an order for a small Margherita Pizza and an Apple Pie. Could you let me know the price for those, please?",2099,1.129633
+df6529ff-d9d6-4d8f-afdf-378e1ee6a5e8,"Thanks for confirming that! The small Margherita Pizza and Apple Pie sound perfect, and the total price seems right at $23.98. I'm all set—no drinks for me today, but thanks for asking! That's everything I need.",2290,0.700526
+d5d3bf89-eb4e-4b61-82de-abbdffe4958c,The name for the order is Jessica Martinez.,2295,1.277002
+79c5b741-de0d-495c-b1ab-2c5cbe0c0733,exit,2416,0.709509

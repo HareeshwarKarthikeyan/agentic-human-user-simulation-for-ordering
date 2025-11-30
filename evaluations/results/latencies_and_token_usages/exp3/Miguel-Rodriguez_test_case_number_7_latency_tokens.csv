@@ -1,0 +1,18 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+0aba7188-56f0-4baa-97eb-7a89a02c2fee,"Hi there! This is Miguel Rodriguez. I'm excited to place an order today. Could you please help me with the following items?
+
+Let's start with the Ribeye Steak. I'd like it cooked Medium Rare, with Chimichurri sauce, and I'd love a side of Truffle Mac and Cheese with that.
+
+I'm also interested in ordering the Spinach Artichoke Dip, with Pita Bread and an extra serving of chips.
+
+And finally, I'd like a 9oz glass of House Red Wine.
+
+Could you help me with these? Thanks!",2291,1.987875
+bb147c0b-2c0a-468a-873f-fce67c6934ee,"No, thanks! The House Red Wine is just perfect for me. Could you confirm the price for everything before finalizing it?",4557,10.396776
+da888942-c992-4e19-bea6-23e5c5c76f2f,"Hey there! I'm Miguel Rodriguez, and I'm super into trying out new food combos and customizations. Looks like the order you're saying matches up pretty well! Just wanted to confirm that the Ribeye Steak should be cooked Medium Rare, with that tasty Chimichurri Sauce. Also, the Truffle Mac and Cheese should be upgraded on the steak's side.
+
+Would you mind checking that the House Red Wine is the 9oz pour size? And let's ensure everything's all set up right for the family gathering! Can we also make sure that the extra details align perfectly with the total—just a double-check to get everything perfect.
+
+Once that’s sorted, I’m all set!",2960,4.589047
+a2a88991-7d9d-4118-a789-490da5271ad6,"Yes, that's correct. The name for the order is Miguel Rodriguez. Everything looks good, so let's go ahead and finalize that order. Thanks!",2603,5.521372
+45cf9a50-3c56-4340-803c-3ee60ea01a98,exit,2582,5.62056

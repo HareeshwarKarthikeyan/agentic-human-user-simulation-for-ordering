@@ -1,0 +1,186 @@
+================================================================================
+COST ANALYSIS REPORT - ABLATION STUDY
+================================================================================
+
+SUMMARY OF COMPUTATIONAL COSTS
+--------------------------------------------------------------------------------
+Experiment                               Avg Tokens      Avg Latency(s)  Avg Cost($)    
+--------------------------------------------------------------------------------
+Exp1: LLM Baseline (no agents/tools)             6618.3           5.08         0.0993
+Exp2: Guest Agent with Basic Tools              13504.8           4.56         0.2026
+Exp3: Guest Agent + Order Tracking Agent        24579.8          36.30         0.3687
+Exp4: Guest Agent + Message Attributes Agent        15762.6          16.88         0.2364
+Exp5: Full System (all agents)                  14788.5          23.16         0.2218
+
+DETAILED ANALYSIS BY EXPERIMENT
+================================================================================
+
+Experiment 1: LLM Baseline (no agents/tools)
+----------------------------------------
+Token Usage:
+  Mean: 6618.3 tokens per conversation
+  Std:  2934.8
+  Range: 3579 - 18407
+  Total: 397099 tokens across all conversations
+
+Latency:
+  Mean: 5.08 seconds per conversation
+  Std:  3.02
+  Range: 2.49 - 17.74
+
+Messages:
+  Mean: 3.5 guest messages per conversation
+  Range: 2 - 9
+
+Efficiency:
+  Tokens per message: 1882.0
+  Latency per message: 1.44 seconds
+
+Estimated Cost:
+  Mean cost per conversation: $0.0993
+  Total cost for experiment: $5.96
+
+Experiment 2: Guest Agent with Basic Tools
+----------------------------------------
+Token Usage:
+  Mean: 13504.8 tokens per conversation
+  Std:  5224.9
+  Range: 6568 - 31700
+  Total: 810285 tokens across all conversations
+
+Latency:
+  Mean: 4.56 seconds per conversation
+  Std:  1.22
+  Range: 2.60 - 8.36
+
+Messages:
+  Mean: 4.2 guest messages per conversation
+  Range: 2 - 8
+
+Efficiency:
+  Tokens per message: 3254.2
+  Latency per message: 1.10 seconds
+
+Estimated Cost:
+  Mean cost per conversation: $0.2026
+  Total cost for experiment: $12.15
+
+Relative to Baseline (Exp1):
+  Token increase: +104.1%
+  Latency increase: -10.3%
+  Cost increase: +104.1%
+
+Experiment 3: Guest Agent + Order Tracking Agent
+----------------------------------------
+Token Usage:
+  Mean: 24579.8 tokens per conversation
+  Std:  16101.7
+  Range: 8372 - 66998
+  Total: 1474789 tokens across all conversations
+
+Latency:
+  Mean: 36.30 seconds per conversation
+  Std:  24.25
+  Range: 10.51 - 105.06
+
+Messages:
+  Mean: 8.2 guest messages per conversation
+  Range: 2 - 20
+
+Efficiency:
+  Tokens per message: 2991.5
+  Latency per message: 4.42 seconds
+
+Estimated Cost:
+  Mean cost per conversation: $0.3687
+  Total cost for experiment: $22.12
+
+Relative to Baseline (Exp1):
+  Token increase: +271.4%
+  Latency increase: +614.8%
+  Cost increase: +271.4%
+
+Experiment 4: Guest Agent + Message Attributes Agent
+----------------------------------------
+Token Usage:
+  Mean: 15762.6 tokens per conversation
+  Std:  7780.9
+  Range: 4908 - 37648
+  Total: 945754 tokens across all conversations
+
+Latency:
+  Mean: 16.88 seconds per conversation
+  Std:  6.59
+  Range: 6.58 - 36.69
+
+Messages:
+  Mean: 4.4 guest messages per conversation
+  Range: 1 - 9
+
+Efficiency:
+  Tokens per message: 3596.0
+  Latency per message: 3.85 seconds
+
+Estimated Cost:
+  Mean cost per conversation: $0.2364
+  Total cost for experiment: $14.19
+
+Relative to Baseline (Exp1):
+  Token increase: +138.2%
+  Latency increase: +232.3%
+  Cost increase: +138.2%
+
+Experiment 5: Full System (all agents)
+----------------------------------------
+Token Usage:
+  Mean: 14788.5 tokens per conversation
+  Std:  7722.6
+  Range: 6845 - 58075
+  Total: 887313 tokens across all conversations
+
+Latency:
+  Mean: 23.16 seconds per conversation
+  Std:  11.12
+  Range: 9.84 - 84.56
+
+Messages:
+  Mean: 4.4 guest messages per conversation
+  Range: 2 - 19
+
+Efficiency:
+  Tokens per message: 3386.7
+  Latency per message: 5.30 seconds
+
+Estimated Cost:
+  Mean cost per conversation: $0.2218
+  Total cost for experiment: $13.31
+
+Relative to Baseline (Exp1):
+  Token increase: +123.4%
+  Latency increase: +355.9%
+  Cost increase: +123.4%
+
+================================================================================
+KEY INSIGHTS
+================================================================================
+
+1. OVERALL COST-BENEFIT ANALYSIS:
+   - Full system (Exp5) uses +123.4% more tokens than baseline
+   - Full system has +355.9% different latency
+   - Estimated cost increase: +123.4%
+
+2. EFFICIENCY ANALYSIS:
+   - Most token-efficient: exp1 (1882.0 tokens/message)
+   - Fastest average response: exp2 (4.56 seconds/conversation)
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+
+Based on the cost-performance analysis:
+
+- Full system (Exp5) has significant cost overhead - use for high-value scenarios
+
+================================================================================
+Report generated using token cost assumption: $0.015 per 1000 tokens
+================================================================================

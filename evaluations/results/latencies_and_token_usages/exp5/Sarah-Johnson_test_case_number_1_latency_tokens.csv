@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+ac5aa84e-b2b5-4e25-9e42-4bed0c344b49,"Hey there! I'd like to order a Grilled Chicken Sandwich with French Fries as the side. Can you add that to my order, please?",2222,3.165419
+cba4b0ca-d141-45a6-9c34-984edcb55b05,"No cheese or add-ons for the Grilled Chicken Sandwich, just as it comes. And the fries are perfect as they are.",2266,2.94196
+d87b7fcc-d8c4-439a-80b0-179de8b2e975,"My name is Sarah Johnson, and everything in my order looks good—just the Grilled Chicken Sandwich with French Fries. Could you confirm the price for me, please?",3539,6.273796
+dd666ca9-6677-44b5-8a09-8a0eea54e537,"Nope, that's all for today. Thanks for your help!",2351,2.879107
+255bcb99-c0ae-48e2-92b9-2bb0e0551e7e,exit,2318,2.899595

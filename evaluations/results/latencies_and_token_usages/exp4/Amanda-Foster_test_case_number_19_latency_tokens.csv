@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+1153c15a-b4d2-48b0-b7d4-8c1e0c5d3819,"Hi there! I'd like to place an order for three Classic Burgers. Can I get those cooked medium with French fries on the side? And I'll also have two Caesar Salads, each with grilled chicken added. Please let me know the total price for this order. Thank you!",2280,3.392994
+0e4cc023-6aff-4038-87fa-b4bf25d3cc2a,My name is Amanda Foster. Thanks for confirming the order details!,2780,2.914403
+a881a92f-4ee7-4b63-9416-73e2f50affe1,exit,2640,3.591347

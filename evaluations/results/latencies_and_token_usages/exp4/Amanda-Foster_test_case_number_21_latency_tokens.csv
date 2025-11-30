@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+ebbcf067-a45b-403b-b680-824a589c92ea,"Hi, I'm Amanda Foster, and I would like to place an order for two Large 18"" Margherita Pizzas and three Caesar Salads. Could you let me know the total cost and confirm the order details, please?",2206,4.333997
+f1b7a50c-5933-44b6-ac21-2d639b4cf097,Hi there! It looks like everything is correct with the order. No drinks for us today. We'll pick up the order. Thanks a bunch!,2699,3.17858
+92550796-cce4-4932-83b8-48b19527dad9,exit,5148,4.926662

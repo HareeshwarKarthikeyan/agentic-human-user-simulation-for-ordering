@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+54d1e389-3a66-42f1-9922-d9128ee60507,"Hi there! I’d like to place an order for my crew. I need four Classic Burgers, all medium, with French fries. And I also need two BBQ Bacon Burgers, also medium, with French fries.",1230,1.5619370937347412
+8130b1b4-d917-4f58-8fc5-d06e824caadd,"No cheese, just keep it simple. So that's four Classic Burgers, medium, with fries, and two BBQ Bacon Burgers, medium, with fries. Can you give me the total for that?",1400,1.3234269618988037
+3b568a77-3137-4de5-a0e6-8309f737178f,"It's James O'Brien. I’ll need this for pickup around noon, please.",1571,0.8099241256713867
+b2b34ae6-d564-4c2b-ab82-73b172e30223,exit,1681,0.5703868865966797

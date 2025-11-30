@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+6555d8dc-f6ec-4c29-9357-6a14d95fde36,"Hi! I’d like to order a Club Sandwich, please. I’d like it on white bread with a side of potato chips.",1096,0.891016960144043
+4ecc409b-08f5-4236-bf5e-c2d8ef8bcf42,"It’s Sarah for the order. And no drink, just the sandwich and chips, please. Can you confirm the total for me?",1193,1.2006199359893799
+1b801839-701a-4e9c-a38e-aa7cb807b5de,exit,1310,0.6795368194580078

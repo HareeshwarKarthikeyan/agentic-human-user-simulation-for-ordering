@@ -1,0 +1,11 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+52682cec-9d22-4d8d-8042-2c253af24fb6,Hey there! I'm Jessica. Could you tell me about any vegetarian burger options you might have?,2170,3.857119
+88f09aa3-7c44-4d65-a385-4a2e47ef4189,"That Portobello Mushroom Burger sounds tasty! I'll go with that. Could I have it with French fries, please? 
+
+And what other vegetarian options do you have? I'm also curious about any specials or combo deals you might offer. ",2420,3.220378
+7f5ef5b3-d241-4659-b5fd-ad2294ce5d28,"That sounds awesome, but I'm set with just the burger and fries. Could you also add a French Onion Soup for me? That's all I need for now, thanks! What's the price for everything?",3972,3.497277
+961a01e4-1071-430e-88a9-9d99e80e7b98,"I noticed a slight discrepancy in the total here. Based on the target order, the Portobello Mushroom Burger with French fries is $13.99, and a French Onion Soup is $8.99, bringing the total to $22.98, not $24.98.
+
+Could you please confirm that for me?",2149,0.91556
+27c93b4b-c6d4-414c-9b25-bd3a6e96e8ea,"Yes, my name is Jessica Martinez. The Portobello Mushroom Burger with French fries and the French Onion Soup will be all for today, thanks! Could you please confirm and finalize the order for me?",2728,1.025394
+86a93b88-747a-4e70-864e-1194fede1b85,exit,2075,0.955365

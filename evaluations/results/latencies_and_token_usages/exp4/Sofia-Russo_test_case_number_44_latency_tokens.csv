@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+56b36d44-c4d0-4c5d-830f-79c764600f35,Hi there! This is Sofia Russo. I'm planning to order lunch and I was thinking about the Atlantic Salmon. Can you tell me a bit more about how it's prepared?,2182,4.400922
+fd1d3ea9-43b6-40ff-bec9-a5176008a6c4,"Hi, it's Sofia Russo here. Thanks for the info on the Atlantic Salmon. Could you tell me how the grilled version would taste, and maybe a suggestion on a wine pairing for that choice?",2454,2.997261
+3c74e660-12ec-4c38-bbba-0c168793a424,"I’d love to try the Atlantic Salmon grilled. As for the wine, thanks for the suggestion, but I'll pass on the wine this time. Also, could I add a Caesar Salad with the dressing on the side? Just making sure we're on the same page with the order.",2628,3.041215
+324e218f-57ed-48b2-8949-9b1098f202a1,"I'll pass on adding any extra protein to the Caesar Salad, thank you. For the drink, I'll keep it simple and just have a glass of water. Could you confirm the total cost for me, please?",2692,3.139529
+d5c01dd0-0434-43d5-80f4-1cf6431d8705,"Everything looks great with my order, and I'll stick to my selection without adding anything extra. I'll be picking it up at 12:30 PM. Thanks for your help!",2990,3.524465
+8ac09abb-f34c-455e-b722-8683ab580214,exit,3050,2.943661

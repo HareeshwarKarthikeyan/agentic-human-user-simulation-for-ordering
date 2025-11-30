@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+30c7c759-63ab-4c9e-81b3-cf15a3d70b07,"Hey there! I'd like to place an order for Fish and Chips with an extra piece of fish, please. How quickly could that be ready for pickup? Also, is there decent parking available?",2156,3.900589
+d454655f-a722-472d-ab01-98be6665dc6f,I'll stick with the standard beer-battered cod. Thanks for letting me know about the parking!,2399,2.97047
+ada1f5a2-174a-43f6-b5d9-a0f4948b52e5,"My name is Thomas Wright. Could you confirm the total price for that Fish and Chips with the extra piece of fish, please?",2388,3.08933
+9317652a-5ff2-4a0b-8e11-76709f856c2b,"Sounds good, I’m ready to complete my order with just the Fish and Chips and the extra piece of fish. Thanks for confirming the total price for me.",2560,2.971786
+b7ca57fe-23ca-47ec-bb62-dd9c47f93dd9,exit,2662,2.967781

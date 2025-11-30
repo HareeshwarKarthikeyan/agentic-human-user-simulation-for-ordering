@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+a01e111d-0e64-482c-8f5e-c107088db43b,Hi there! I'd like to place a quick order for a Grilled Chicken Sandwich with French Fries. Thanks!,2046,0.826824
+3131d44f-e441-4896-8079-b736ed1eb1a3,"No, I'll just stick with the Grilled Chicken Sandwich with French Fries, please. No extra toppings needed. Also, my name is Sarah Johnson. Could you confirm the total for me?",2133,0.644747
+26def841-656a-4bc3-8db6-68cf01630a4c,"Yep, that sounds perfect. Thanks for confirming.",2339,0.711108
+34ec3511-4e33-42fe-998f-09a0d936cf1b,exit,2329,1.00214

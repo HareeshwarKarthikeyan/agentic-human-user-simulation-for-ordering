@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+66d1bd26-4a20-4c4f-bd70-f3e2d6eb4b8b,"Hi there! I'd like to place an order for our crew today. Can I get 4 Classic Burgers with medium meat temperature and French fries, and 2 BBQ Bacon Burgers also medium with French fries?",2298,4.430735
+80059036-ede8-403b-89de-3eba86f338ad,"Thanks for confirming the order! We're good with the BBQ Bacon Burgers, no changes needed there. For the Classic Burgers, let's keep it simple without any cheese this time. 
+
+Could you also let me know the total price for this order?",2537,3.498996
+945d5fd8-cb49-437f-a139-50d490bf1d8d,"The order's under the name James O'Brien. We're all set for the food, no drinks or desserts needed. Thanks for confirming everything!",4291,3.932648
+f73592c8-7b72-43dc-a28f-043636da283a,exit,2837,2.959454

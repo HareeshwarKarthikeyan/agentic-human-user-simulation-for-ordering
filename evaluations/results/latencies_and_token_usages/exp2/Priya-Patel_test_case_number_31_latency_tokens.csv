@@ -1,0 +1,49 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+13508ee3-8de5-4e5a-9659-834a3141ad5e,"Hi there! I'm looking to place an order for a kids' soccer team celebration. Here's what I need: 
+
+- Three Kids Chicken Tenders meals with Honey Mustard sauce, French Fries on the side, and Apple Juice.
+- A Large Margherita Pizza.
+
+Also, could you let me know the total cost, and if there are any bulk ordering discounts available? Thank you!",2238,1.242753
+e68602c2-aa70-4a5b-91c2-7711afb1eeb7,"Hi, this is Priya Patel. Yes, the order looks perfect! I just wanted to confirm the following again:
+
+-  Three Kids Chicken Tenders meals with Honey Mustard sauce, French Fries on the side, and Apple Juice.
+-  One Large Margherita Pizza.
+
+You've got everything right on your end. I see the total is $51.96 instead of $43.96 as you mentioned. Can you confirm this updated total for me? Thanks!",2911,0.803799
+2dcf3265-b625-4627-ad30-19681e08b1fa,"Thanks for the clarification! Let's go with the order as it is:
+
+- Three Kids Chicken Tenders meals with Honey Mustard sauce, French Fries, and Apple Juice.
+- One Large Margherita Pizza.
+
+I see there's been a small price difference you mentioned. Can you confirm the adjusted total is indeed $51.96 before finalizing? Once confirmed, we can wrap things up. Thank you!",2952,1.023968
+e7f185d5-5c06-4e33-8551-6964e49d3579,"Thanks for confirming the details! No, that's all I need. Please go ahead and finalize the order:
+
+- Three Kids Chicken Tenders meals with Honey Mustard sauce, French Fries, and Apple Juice.
+- One Large Margherita Pizza.
+
+And the total should be $51.96 as initially expected. Thanks for your help!",3104,0.763213
+9225f9e1-2eeb-4f51-a63c-fc67f729c396,"It seems like there was a bit of misunderstanding earlier. The total for the order with all the specified items should be **$51.96**. Let me confirm the revised order for you:
+
+- **Three Kids Chicken Tenders** meals with Honey Mustard sauce, French Fries, and Apple Juice.
+- **One Large Margherita Pizza.**
+
+The total comes to **$51.96**. Could you confirm if this price works for you before finalizing the order? Thank you!",3267,0.647192
+4efcf675-5273-42f2-9893-9c7277d91c03,"There seems to have been some confusion with the totals. Let's clarify:
+
+- **Your target order was:**  
+  - Three Kids Chicken Tenders meals with Honey Mustard sauce, French Fries, and Apple Juice.
+  - One Large Margherita Pizza.
+
+The total based on your specified target order should indeed be **$51.96**, as calculated with the individual item prices and modifiers, not $43.96. The items listed in your request were correct.
+
+- **Understood Name for the Order:** Priya Patel
+
+Could you please confirm that you would like to proceed with the correct total before finalizing everything? Thank you once again for your patience!",3548,0.794786
+ca3e3d9c-6d1a-4fea-8d29-3957d1e0a20d,"Absolutely, that's correct! The order and total look good to me:
+
+- Three Kids Chicken Tenders meals with Honey Mustard sauce, French Fries, and Apple Juice.
+- One Large Margherita Pizza.
+
+The total is $51.96, and the name for the order is Priya Patel. Looking forward to picking it up in about 20 minutes. Thank you!",3760,0.664258
+2588f852-4354-4382-b5db-3a6a81526b3b,exit,3920,0.664423

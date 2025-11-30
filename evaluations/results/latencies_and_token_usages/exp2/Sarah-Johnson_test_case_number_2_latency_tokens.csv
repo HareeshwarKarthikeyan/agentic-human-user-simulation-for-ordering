@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+8b4672bb-1884-4990-9bc3-3f41b0ec5857,"Hi there! I'd like to place an order for a Caesar Salad with grilled chicken, please.",2040,2.003644
+bb6d0f82-f065-417c-ba14-936e5c4ba2f8,"I'll have the dressing mixed in, please! And no additional modifications are needed. Thanks!",2094,0.778173
+d69e807e-3345-4094-b3b0-2362b59b5873,"No, thank you. I'll just stick with the Caesar Salad with grilled chicken for now. Could you confirm the total price for me before finalizing the order?",2218,0.606303
+94463f1f-7407-4ce3-aca1-844a7affb538,"Sure, it's Sarah Johnson. Could you also confirm if my order has been placed successfully?",2304,0.872709
+ded5c24a-01eb-4db6-bdda-df69e1e5d29d,exit,2451,0.856692

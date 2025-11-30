@@ -1,0 +1,10 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+d40beb0a-f3ba-4777-b0be-2dc1a6b4b64c,"Hi there! I'd like to place an order. Could I please get a Vegetable Stir Fry with tofu as a protein add-on and medium spice level? And along with that, I'd like a small Coca-Cola. Can you let me know the total price for that?",3427,3.235338
+6ea13139-2b2d-4871-a5ab-c9c3fb3695a2,The name for the order is Jessica Martinez. Thank you for confirming the details of my order. It looks like everything matches what I wanted. I'll stick with that and won't add anything else. Thanks!,2347,3.482642
+3e4fd26a-1fa9-437a-acc3-9606bb7300ed,"It looks like there might be a slight mix-up with the Vegetable Stir Fry. The price seems off due to the tofu being under Protein Add-on for an extra $4, totaling $18.99. Could you please adjust that on your end? 
+
+And just to confirm, it should be a **Small Coca-Cola** as well.
+
+Thanks for your help!",2388,3.482074
+691a02f5-181b-4efd-a639-16e4dc400b30,"Yeah, that sounds perfect! I'll go ahead and proceed with that order for pickup. Thanks so much for confirming everything.",2402,4.703419
+e66ffb5d-3db0-459d-97f4-1670941a9db2,exit,2327,4.551937

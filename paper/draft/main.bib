@@ -1,0 +1,605 @@
+@inproceedings{Zhuge2024AgentAsAJudge,
+  title     = {{Agent-as-a-Judge: Evaluate Agents with Agents}},
+  author    = {Mingchen Zhuge and Changsheng Zhao and Dylan R. Ashley and Wenyi Wang and Dmitrii Khizbullin and Yunyang Xiong and Zechun Liu and Ernie Chang and Raghuraman Krishnamoorthi and Yuandong Tian and Yangyang Shi and Vikas Chandra and Jürgen Schmidhuber},
+  booktitle = {arXiv preprint arXiv:2410.10934},
+  year      = {2024}
+}
+
+Content referenced from this paper:
+Shows how traditional evaluation methods are not adequate for agentic systems
+Human evaluation, while somewhat reliable, is "prohibitively expensive", a "painstaking process", and inherently unreliable due to significant disagreement and potential errors caused by missed information or differing perspectives among evaluators
+Firstly, Agent-as-a-Judge dramatically outperforms LLM-as-a-Judge and is as reliable as human evaluation, aligning more closely with human consensus (90%) compared to LLM-as-a-Judge (70%). Secondly, it offers substantial cost and time savings, reducing evaluation time by 97.72% and cost by 97.64% compared to human judges.
+Finally, the framework provides rich intermediate feedback, which is essential for the dynamic and scalable self-improvement of agentic systems, enabling them to identify and fix issues in complex, multi-stage problems on the fly.
+
+@techreport{Park2025SimulatingHumanBehavior,
+  title        = {Simulating Human Behavior with AI Agents},
+  author       = {Joon Sung Park and Carolyn Q. Zou and Aaron Shaw and Benjamin Mako Hill and Carrie J. Cai and Meredith Ringel Morris and Robb Willer and Percy Liang and Michael S. Bernstein},
+  institution  = {Stanford Institute for Human-Centered Artificial Intelligence (HAI)},
+  year         = {2025},
+  month        = may,
+  type         = {Policy Brief},
+  url          = {https://hai.stanford.edu/assets/files/hai-policy-brief-simulating-human-behavior-with-ai-agents.pdf},
+}
+
+Content referenced from this paper:
+key finding of this paper is that an AI agent architecture can simulate human attitudes and behaviors in ways more complex than traditional methods
+Their generative agents, which combine LLMs with in-depth interview transcripts, successfully replicated real participants’ responses 85% as accurately as the individuals replicated their own answers two weeks later on the General Social Survey
+The paper points out several significant risks of simulating humans with AI agents
+A major risk is overreliance on generative agents when simulation accuracy is low, meaning policymakers and others might trust inaccurate simulation
+Another critical concern is privacy, as the in-depth interview data used to build these agents is often sensitive,
+Risks also include the co-option of individuals' likenesses and potential reputational harm if agent responses are manipulated to falsely attribute defamatory statements
+broader ethical and legal questions, such as the implications of simulating deceased persons and how human consent should be managed
+
+@inproceedings{Sutcliffe2023SurveyPersonalityPersonaProfile,
+  title     = {{A Survey of Personality, Persona, and Profile in Conversational Agents and Chatbots}},
+  author    = {Richard Sutcliffe},
+  booktitle = {arXiv preprint arXiv:2401.00609},
+  year      = {2023}
+}
+Content referenced from this paper:
+According to this paper, the most influential and dominant method for defining a persona for a conversational agent is the use of Descriptive Sentences - sets of sentences that concisely define a personality
+This method can be integrated into dialogue models in various ways, such as by prefixing content sentences with persona sentences or by conditioning on a vector created from the persona sentences
+
+@inproceedings{WangChiu2023HumanoidAgents,
+  title     = {{Humanoid Agents: Platform for Simulating Human-like Generative Agents}},
+  author    = {Zhilin Wang and Yu Ying Chiu and Yu Cheung Chiu},
+  booktitle = {Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: System Demonstrations},
+  year      = {2023},
+  pages     = {167--176},
+  address   = {Singapore},
+  publisher = {Association for Computational Linguistics}
+}
+Content referenced from this paper:
+Setup info
+-For Agent Initialization, they introduced specific settings for five basic needs (fullness, fun, health, social, energy), seven emotions (default neutral), and social relationship closeness (0-30 scale).
+In Activity Planning, Humanoid Agents are empowered to update their plans in response to changes in their internal states (emotion not neutral, or any basic need at 3 or below out of 10). This allows agents to dynamically adjust their behavior, such as having a snack if very hungry, even if a full meal is planned later. Basic needs also have a set likelihood to decrease over time, simulating natural human processes.
+-For Dialogue Generation, agents consider their emotion, basic needs status, and relationship closeness with the other agent to decide whether and how to engage in conversation. Post-dialogue, closeness can increase or decrease based on conversation enjoyment, and emotions can also be affected, reflecting human social dynamics
+Key points that are applicable
+-For persona enforcement and task-state grounding, the system's agent initialization process (name, age, description, personality traits, example day plan) can be directly applied to define a guest's individual preferences, dining goals, and initial state.
+-The "internal subagent generating the emotional and exploratory attributes" is precisely what Humanoid Agents' System 1 processing aims to do. A guest's basic needs (e.g., "fullness" decreasing over time, "fun" if they are bored waiting, "social" if they are with companions, "energy" if tired) will dynamically drive their actions and dialogue. If "fullness" is low, they order; if "fun" is low, they might browse their phone or complain
+The system's mechanism for updating plans based on internal states means the guest agent wouldn't just follow a static script but would dynamically decide whether to order dessert, leave early, or ask for the check based on their current internal satisfaction levels
+
+@inproceedings{Bernard2024FormalCharacterizationUserSimulation,
+  title     = {{Towards a Formal Characterization of User Simulation Objectives in Conversational Information Access}},
+  author    = {Nolwenn Bernard and Krisztian Balog},
+  booktitle = {arXiv preprint arXiv:2406.19007v1},
+  year      = {2024}
+}
+Content referenced from this paper:
+For "persona enforced," the paper's user model, which incorporates patience and inclination as adjustable personality traits, is directly applicable
+the paper's definition of dialogue state space (S) and action space (A) provides a blueprint for modeling the specific states and actions involved in restaurant booking
+the paper's core finding that training and evaluation objectives are not always aligned helps in making informed design choices: should the simulator prioritize perfectly mimicking guest behavior for learning purposes, or accurately anticipating flaws in the order taking entity's performance for evaluation?
+the ability of user simulation to generate large-scale synthetic dialogues helps overcome the scarcity of real restaurant guest dialogue data for training and evaluation
+
+@inproceedings{Balog2025UserSimulationEraGenerativeAI,
+  title     = {{User Simulation in the Era of Generative AI: User Modeling, Synthetic Data Generation, and System Evaluation}},
+  author    = {Krisztian Balog and ChengXiang Zhai},
+  booktitle = {arXiv preprint arXiv:2501.04410v1},
+  year      = {2025}
+}
+Content referenced from this paper:
+The paper also highlights LLMs as foundational building blocks for agents, which is directly applicable to your subagent. However, it critically warns about LLMs' limitations in modeling human cognitive processes and emotional dynamics, suggesting that your subagent will need components beyond a pure LLM (e.g., neurosymbolic approaches) to realistically capture human-like emotions, biases, and deliberate decision-making
+paper highlights the significant use of user simulation agents to generate synthetic interaction data, which is then used for various purposes, including evaluating other agentic systems,
+user simulation can augment existing datasets for offline model training or facilitate human-in-the-loop training scenario
+The data generated allows for repeatable and reproducible evaluations at a low cost, without needing invaluable real user time
+This approach provides insights into system performance under various conditions and user behaviors, effectively answering "what-if" questions about the ordering system's design and functionality
+
+@inproceedings{Wang2025SurveyLLMAgents,
+  title     = {{A Survey on Large Language Model based Autonomous Agents}},
+  author    = {Lei Wang and Chen Ma and Xueyang Feng and Zeyu Zhang and Hao Yang and Jingsen Zhang and Zhi-Yuan Chen and Jiakai Tang and Xu Chen and Yankai Lin and Wayne Xin Zhao and Zhewei Wei and Ji-Rong Wen},
+  booktitle = {arXiv preprint arXiv:2308.11432},
+  year      = {2025}
+}
+Content referenced from this paper:
+The key findings highlight that Large Language Models (LLMs) have demonstrated significant potential for human-level intelligence due to their vast web knowledge, leading to a surge in research on LLM-based autonomous agents. Unlike traditional reinforcement learning, LLM-based agents possess more extensive internal world knowledge, allowing for informed actions even without specific domain training, and offer flexible, explainable natural language interfaces for human interaction
+Challenges pointed out:
+Role-playing Capability: LLMs may struggle to accurately simulate roles that are rarely discussed online or are newly emerging, and may lack self-awareness due to insufficient modeling of human cognitive psychology. Finding optimal prompts and architectures for diverse role-playing is difficult due to the vast design space.
+Generalized Human Alignment: For realistic simulations, agents ideally need to embody diverse human values, including "negative aspects," to effectively discover and solve problems. Current powerful LLMs are often aligned with unified human values, making "realigning" them for varied purposes a challenge.
+Prompt Robustness: The complex prompts required for autonomous agents (which integrate multiple modules) lack robustness, meaning small changes can drastically alter outcomes. Developing a unified and resilient prompt framework across different LLMs remains an unsolved problem.
+Knowledge Boundary: For believable simulations, agents should operate within realistic human knowledge limits. However, LLMs possess vast web knowledge that often exceeds an average person's, potentially leading to unrealistic decisions in simulations if not properly constrained.
+Efficiency: The autoregressive architecture of LLMs results in slow inference speeds, which can significantly impact the efficiency of agents that require multiple queries per action.
+
+@inproceedings{Li2025LLMGeneratedPersona,
+  title     = {{LLM Generated Persona is a Promise with a Catch}},
+  author    = {Ang Li and Haozhe Chen and Hongseok Namkoong and Tianyi Peng},
+  booktitle = {arXiv preprint arXiv:2503.16527v1},
+  year      = {2025}
+}
+Content referenced from this paper:
+Key finding on bias in LLM Generated Personas:
+The key findings of this paper include the revelation that while LLMs offer a scalable and cost-effective method for generating synthetic personas, current ad-hoc techniques introduce systematic biases that lead to significant deviations from real-world outcomes in downstream tasks. Specifically, the research found that increasing the amount of LLM-generated content within a persona exacerbates these biases, resulting in a progressive or left-leaning political skew in simulations like U.S. presidential election forecasts, even when models are trained on historical data
+It serves as a critical warning about the systematic biases inherent in LLM-generated persona content, especially when more free-form or subjective attributes are generated by the LLM, as would be the case for an emotional and exploratory subagent
+The paper demonstrates that LLM-generated personas tend to exhibit increased positive sentiment and subjectivity, potentially leading to simulated guests who are unrealistically optimistic or consistently pleasant, failing to reflect the full range of human emotions and experiences, including potential frustrations or complaints in a restaurant setting. This means your subagent might produce guests who are overly agreeable or express generic positive sentiments unless specifically calibrated.
+
+@inproceedings{Zhu2025EvolutionaryEvaluationLLMAgents,
+  title     = {{Evolutionary Perspectives on the Evaluation of LLM-Based AI Agents: A Comprehensive Survey}},
+  author    = {Jiachen Zhu and Menghui Zhu and Renting Rui and Rong Shan and Congmin Zheng and Bo Chen and Yunjia Xi and Jianghao Lin and Weiwen Liu and Ruiming Tang and Yong Yu and Weinan Zhang},
+  booktitle = {arXiv preprint arXiv:2506.11102v1},
+  year      = {2025}
+}
+Content referenced from this paper:
+Need to have a different evaluation level for agents compared to LLMs:
+A primary finding is the necessity to clearly differentiate AI agents from traditional LLM 
+chatbots for evaluation, as existing frameworks often blur this distinction
+In multi-agent systems, current benchmarks are predominantly game-based or virtual and lack scenarios reflective of real-world collaborative activities, often focusing on homogeneous systems while neglecting the essential role of heterogeneous agents and hierarchical structures
+This paper talks about key categories in evaluating the realistic aspects of an agent - planning, memory, self reflection and interaction - which are the components used in designing this framework of guest user simulation.
+
+@inproceedings{Zhu2025AgenticBenchmarks,
+  title     = {{Establishing Best Practices for Building Rigorous Agentic Benchmarks}},
+  author    = {Yuxuan Zhu and Tengjun Jin and Yada Pruksachatkun and Andy Zhang and Shu Liu and Sasha Cui and Sayash Kapoor and Shayne Longpre and Kevin Meng and Rebecca Weiss and Fazl Barez and Rahul Gupta and Jwala Dhamala and Jacob Merizian and Mario Giulianelli and Harry Coppock and Cozmin Ududec and Jasjeet Sekhon and Jacob Steinhardt and Antony Kellerman and Sarah Schwettmann and Matei Zaharia and Ion Stoica and Percy Liang and Daniel Kang},
+  booktitle = {arXiv preprint arXiv:2507.02825v2},
+  year      = {2025}
+}
+Content referenced from this paper:
+You must ensure that your simulation accurately measures the agent's ability to embody the persona and navigate the task state, preventing shortcuts where the agent could bypass the intended complexities.
+For instance, the paper's warning about a "trivial agent" achieving high scores (as in τ-bench) is a critical reminder to design tasks and environments that genuinely require the agent to leverage its persona and state understanding, rather than defaulting to generic or empty responses.
+You need to ensure the agent cannot "cheat" by accessing ground truth knowledge about the "correct" guest behavior (T.5).
+The benchmark reporting guidelines (R.8-13) are essential. When performing ablations (e.g., comparing your full agent with and without the emotional subagent), you should quantitatively analyze the impact of any unavoidable flaws or complexities inherent in simulating human emotions
+Reporting statistical significance metrics, such as confidence intervals (R.10), will lend credibility to your comparative results
+Finally, always report results of trivial agents (R.13) and potentially non-AI baselines (R.12) to provide context and demonstrate the true value added by your agent's sophisticated design, including its emotional and exploratory components.
+
+@inproceedings{Mohammadi2025EvaluationBenchmarking,
+  title     = {{Evaluation and Benchmarking of LLM Agents: A Survey}},
+  author    = {Mahmoud Mohammadi and Yipeng Li and Jane Lo and Wendy Yip},
+  booktitle = {arXiv preprint arXiv:2507.21504v1},
+  year      = {2025}
+}
+Content referenced from this paper:
+You must assess task completion (e.g., successfully ordering food, paying the bill, following restaurant flow) and
+output quality (e.g., realistic conversational style, appropriate tone, coherence in dialogue).
+Latency and Cost might also be relevant for simulation efficiency
+Given the "realistic" and "persona-enforced" aspects, consistency (does the agent behave similarly given similar situations and its persona?) is paramount. You can measure this using pass^k.
+Robustness is also important: how does the agent react to unexpected situations (e.g., menu changes, slow service, miscommunication)?
+Metrics Computation Methods: You will likely need a blend: Code-based for clear task steps (e.g., item_ordered = True), LLM-as-a-Judge for subjective qualities like "emotional and exploratory attributes" and "persona enforcement", and potentially Human-in-the-loop for the ultimate validation of realism and user experience, especially during initial development or for critical ablations
+Evaluation Tooling: It points to existing frameworks (e.g., OpenAI Evals, DeepEval, InspectAI) that can aid in automating and scaling your evaluation workflows, which is crucial for running ablations efficiently
+
+@inproceedings{Lee2024OrchestraLLM,
+  title     = {{OrchestraLLM: Efficient Orchestration of Language Models for Dialogue State Tracking}},
+  author    = {Chia-Hsuan Lee and Hao Cheng and Mari Ostendorf},
+  booktitle = {arXiv preprint arXiv:2311.09758},
+  year      = {2024}
+}
+Content referenced from this paper:
+The paper presents a novel routing framework that strategically selects between Small Language Models (SLMs) and Large Language Models (LLMs) for dialogue state tracking, achieving substantial performance improvements while reducing computational costs by over 50%.
+This approach directly supports the multi-agent orchestration methodology by demonstrating how specialized models can be efficiently coordinated based on context similarity.
+The framework creates exemplar pools representing contexts where each model performs best and uses k-nearest neighbor retrieval with majority voting for model selection, providing a blueprint for efficient agent routing in multi-agent systems.
+
+@inproceedings{Park2024GenerativeAgentSimulations,
+  title     = {{Generative Agent Simulations of 1,000 People}},
+  author    = {Joon Sung Park and Carolyn Q. Zou and Aaron Shaw and Benjamin Mako Hill and Carrie Cai and Meredith Ringel Morris and Robb Willer and Percy Liang and Michael S. Bernstein},
+  booktitle = {arXiv preprint arXiv:2411.10109},
+  year      = {2024}
+}
+Content referenced from this paper:
+Demonstrates that generative agents created from qualitative interviews can replicate General Social Survey responses 85% as accurately as participants replicate their own answers two weeks later.
+This validates the approach of using LLM-based agents for realistic human simulation, supporting the paper's claims about achieving human-like behavioral consistency.
+The methodology of reducing accuracy biases across racial and ideological groups provides evidence for the importance of persona diversity in simulation frameworks.
+
+@inproceedings{Suresh2024DiaSynth,
+  title     = {{DiaSynth: Synthetic Dialogue Generation Framework for Low Resource Dialogue Applications}},
+  author    = {Sathya Krishnan Suresh and Wu Mengjun and Tushar Pranav and Eng Siong Chng},
+  booktitle = {Proceedings of NAACL 2025},
+  year      = {2025}
+}
+Content referenced from this paper:
+Uses Chain of Thought (CoT) reasoning with LLMs to generate high-quality, contextually rich dialogues across multiple domains, achieving 90.48% of in-domain data performance.
+This supports the paper's synthetic data generation approach for testing, showing that LLM-generated dialogues can effectively substitute for real data in evaluation scenarios.
+The framework's ability to create dialogues with simulated personas and diverse conversational features directly validates the persona-based simulation methodology.
+
+@inproceedings{Levi2025IntellAgent,
+  title     = {{IntellAgent: A Multi-Agent Framework for Evaluating Conversational AI Systems}},
+  author    = {Elad Levi and Ilan Kadar},
+  booktitle = {arXiv preprint arXiv:2501.11067},
+  year      = {2025}
+}
+Content referenced from this paper:
+Presents an open-source multi-agent framework that automates creation of diverse synthetic benchmarks and provides fine-grained diagnostics for evaluating conversational AI systems navigating multi-turn dialogues with strict policy constraints.
+The framework's graph-based modeling of relationships and complexities supports the paper's structured approach to task state management and protocol design.
+The modular design enabling seamless integration of new domains and APIs validates the extensibility of multi-agent architectures for diverse interactive scenarios.
+
+@inproceedings{Sumers2024CoALA,
+  title     = {{Cognitive Architectures for Language Agents}},
+  author    = {Theodore R. Sumers and Shunyu Yao and Karthik Narasimhan and Thomas L. Griffiths},
+  booktitle = {arXiv preprint arXiv:2309.02427},
+  year      = {2024}
+}
+Content referenced from this paper:
+Proposes CoALA framework drawing from cognitive science and symbolic AI to systematically organize language agents with modular memory components, structured action spaces, and generalized decision-making processes.
+This provides theoretical foundation for the paper's cognitive modeling approach, supporting claims about mirroring human cognitive processes through specialized agent components.
+The framework's emphasis on memory, action selection, and control flow directly validates the hierarchical agent architecture with state tracking and behavioral attribute generation.
+
+@inproceedings{Dang2025MultiAgentCollaboration,
+  title     = {{Multi-Agent Collaboration via Evolving Orchestration}},
+  author    = {Yufan Dang and Chen Qian and Xueheng Luo and others},
+  booktitle = {arXiv preprint arXiv:2505.19591},
+  year      = {2025}
+}
+Content referenced from this paper:
+Introduces dynamic orchestration where a centralized orchestrator trained via reinforcement learning adaptively sequences and prioritizes agents, achieving superior performance with reduced computational costs.
+This validates the paper's hierarchical architecture with a primary User Agent orchestrating specialized sub-agents, demonstrating the effectiveness of dynamic agent coordination.
+The evolution from static to dynamic organizational structures supports the need for flexible, adaptive multi-agent systems in complex interactive scenarios.
+
+@inproceedings{Hu2025UnifiedMindModel,
+  title     = {{Unified Mind Model: Reimagining Autonomous Agents in the LLM Era}},
+  author    = {Pengbo Hu and Xiang Ying},
+  booktitle = {arXiv preprint arXiv:2503.03459},
+  year      = {2025}
+}
+Content referenced from this paper:
+Proposes cognitive architecture based on Global Workspace Theory incorporating multi-modal perception, planning, reasoning, tool use, learning, memory, reflection, and motivation components.
+This supports the paper's design of specialized agents with distinct cognitive functions, particularly the separation of state tracking (working memory) and behavioral attributes (motivation system).
+The MindOS engine allowing rapid creation of domain-specific agents without programming validates the framework's applicability across diverse interactive domains.
+
+@inproceedings{Xie2024HumanSimulacra,
+  title     = {{Human Simulacra: Benchmarking the Personification of Large Language Models}},
+  author    = {Qiuejie Xie and Qiming Feng and Tianqi Zhang and others},
+  booktitle = {Proceedings of ICLR 2025},
+  year      = {2025}
+}
+Content referenced from this paper:
+Demonstrates that constructed simulacra with multi-agent cognitive mechanisms can produce personified responses aligning with target characters, validating the approach of using specialized agents for human simulation.
+The psychology-guided evaluation methods and strategy for constructing virtual characters' life stories supports the paper's persona control and behavioral attribute generation approach.
+Shows potential for using LLMs to replace human participants in experiments, reducing costs and complexity while maintaining behavioral realism.
+
+@inproceedings{Raza2024TRiSM,
+  title     = {{TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems}},
+  author    = {Shaina Raza and Ranjan Sapkota and Manoj Karkee and Christos Emmanouilidis},
+  booktitle = {arXiv preprint arXiv:2506.04133},
+  year      = {2024}
+}
+Content referenced from this paper:
+Introduces Component Synergy Score (CSS) and Tool Utilization Efficacy (TUE) metrics for quantifying inter-agent collaboration quality and tool use efficiency, supporting the paper's tool-mediated coordination approach.
+The framework's emphasis on explainability, ModelOps, security, privacy, and governance validates the importance of structured protocols and critical constraints in multi-agent systems.
+The risk taxonomy for coordination failures and prompt-based manipulation highlights challenges addressed by the paper's strict behavioral rules and exit gating mechanisms.
+
+@inproceedings{Niu2024EnhancingDST,
+  title     = {{Enhancing Dialogue State Tracking Models through LLM-backed User-Agents Simulation}},
+  author    = {Cheng Niu and Xingguang Wang and Xuxin Cheng and Juntong Song and Tong Zhang},
+  booktitle = {arXiv preprint arXiv:2405.13037},
+  year      = {2024}
+}
+Content referenced from this paper:
+Uses GPT-4 to simulate user and agent interactions, generating thousands of dialogues annotated with DST labels, demonstrating the effectiveness of LLM-backed agents for dialogue simulation.
+The two-stage fine-tuning approach using both generated and real data supports the paper's methodology of using synthetic data for testing and evaluation.
+Shows performance comparable to models trained on real data, validating the claim that synthetic simulations can effectively substitute for real user interactions in testing scenarios.
+
+@inproceedings{Park2023GenerativeAgents,
+  title     = {{Generative Agents: Interactive Simulacra of Human Behavior}},
+  author    = {Joon Sung Park and Joseph C. O'Brien and Carrie J. Cai and Meredith Ringel Morris and Percy Liang and Michael S. Bernstein},
+  booktitle = {arXiv preprint arXiv:2304.03442},
+  year      = {2023}
+}
+Content referenced from this paper:
+Introduces agent architecture with memory storage, reflection synthesis, and dynamic planning that enables believable simulations of human behavior, including emergent social behaviors like party planning.
+This foundational work validates the approach of using memory and planning mechanisms for realistic human simulation, supporting the paper's state tracking and behavioral planning components.
+Demonstrates how combining LLMs with computational agents creates complex, realistic social interactions through sophisticated cognitive architectures.
+
+@inproceedings{Castricato2024PERSONA,
+  title     = {{PERSONA: A Reproducible Testbed for Pluralistic Alignment}},
+  author    = {Louis Castricato and Nathan Lile and Rafael Rafailov and Jan-Philipp Fränken and Chelsea Finn},
+  booktitle = {arXiv preprint arXiv:2407.17387},
+  year      = {2024}
+}
+Content referenced from this paper:
+Procedurally generates 1,586 diverse synthetic personas from US census data with varied demographic and idiosyncratic attributes, addressing the challenge of capturing plurality in user opinions.
+This supports the paper's emphasis on persona diversity and reproducibility in simulation, providing a methodology for creating comprehensive test datasets.
+The systematic evaluation of language models' ability to role-play diverse users validates the importance of persona adherence metrics in evaluating simulation quality.
+
+@inproceedings{Devanathan2025WhySynthetic,
+  title     = {{Why Synthetic Isn't Real Yet: A Diagnostic Framework for Contact Center Dialogue Generation}},
+  author    = {Rishikesh Devanathan and Varun Nathan and Ayush Kumar},
+  booktitle = {arXiv preprint arXiv:2508.18210},
+  year      = {2025}
+}
+Content referenced from this paper:
+Introduces 18 linguistically and behaviorally grounded metrics for evaluating synthetic dialogues, finding notable deficits in disfluency, sentiment, and behavioral realism.
+This validates the paper's multi-dimensional evaluation approach with specialized metrics for persona adherence, behavioral variance, and task restriction adherence.
+The supervision-driven generation pipeline using derived call attributes supports the importance of structured protocols and task state management in dialogue generation.
+
+@inproceedings{Molchanova2025ExploringPersonality,
+  title     = {{Exploring the Potential of Large Language Models to Simulate Personality}},
+  author    = {Maria Molchanova and Anna Mikhailova and Anna Korzanova and Lidiia Ostyakova and Alexandra Dolidze},
+  booktitle = {Workshop on Customizable NLP (CustomNLP4U) at EMNLP 2024},
+  year      = {2025}
+}
+Content referenced from this paper:
+Explores simulation of Big Five personality traits in LLMs to enhance user engagement through chatbots that mimic human behavior within defined emotional spectrums.
+This supports the paper's Message Attributes Generation Agent that determines behavioral characteristics including mood tone and exploration style based on persona traits.
+Highlights that generating personality-related texts remains challenging for models, validating the need for specialized agents dedicated to behavioral attribute generation rather than relying on single LLMs.
+
+@inproceedings{Ahmad2025SimulatingUserDiversity,
+  title     = {{Simulating User Diversity in Task-Oriented Dialogue Systems using Large Language Models}},
+  author    = {Adnan Ahmad and Stefan Hillmann and Sebastian Möller},
+  booktitle = {arXiv preprint arXiv:2502.12813},
+  year      = {2025}
+}
+Content referenced from this paper:
+Demonstrates that task-oriented dialogue systems are constrained by limited initial user data required for training, evaluation, and system improvement, supporting the need for synthetic user simulation.
+Uses LLMs to generate diverse synthetic user profiles with varying demographics, interests, personality types, and conversational styles, achieving 82.46% goal success rate across multi-turn conversations.
+This validates the paper's approach of using persona-driven simulation to address data scarcity and testing challenges in conversational AI systems.
+
+@inproceedings{Chu2024CohesiveConversations,
+  title     = {{Cohesive Conversations: Enhancing Authenticity in Multi-Agent Simulated Dialogues}},
+  author    = {KuanChao Chu and Yi-Pei Chen and Hideki Nakayama},
+  booktitle = {arXiv preprint arXiv:2407.09897},
+  year      = {2024}
+}
+Content referenced from this paper:
+Identifies critical issues in multi-agent dialogue simulations including repetition, inconsistent statements, and hallucination, demonstrating error propagation challenges in current approaches.
+Proposes a Screening, Diagnosis, and Regeneration (SDR) framework to detect and revise problematic utterances, supporting the need for specialized components to maintain conversation quality.
+This validates the paper's multi-agent decomposition approach with specialized agents preventing error cascades and maintaining behavioral consistency across multi-turn interactions.
+
+@inproceedings{Sun2022MetaphoricalUserSimulators,
+  title     = {{Metaphorical User Simulators for Evaluating Task-oriented Dialogue Systems}},
+  author    = {Weiwei Sun and Shuyu Guo and Shuo Zhang and Pengjie Ren and Zhumin Chen and Maarten de Rijke and Zhaochun Ren},
+  booktitle = {arXiv preprint arXiv:2204.00763},
+  year      = {2022}
+}
+Content referenced from this paper:
+Highlights that current dialogue system evaluations are limited to single-turn or very time-intensive approaches with existing simulators having limited evaluation capabilities.
+Introduces metaphorical user models that simulate analogical thinking by referring to prior knowledge, supporting the cognitive modeling approach in the paper's framework.
+Demonstrates applications in conversational recommendation and e-commerce, validating the framework's applicability across diverse interactive domains beyond restaurant ordering.
+
+@inproceedings{Mehri2025GoalAlignment,
+  title     = {{Goal Alignment in LLM-Based User Simulators for Conversational AI}},
+  author    = {Shuhaib Mehri and Xiaocheng Yang and Takyoung Kim and Gokhan Tur and Shikib Mehri and Dilek Hakkani-Tür},
+  booktitle = {arXiv preprint arXiv:2507.20152},
+  year      = {2025}
+}
+Content referenced from this paper:
+Demonstrates that current LLMs struggle with goal-oriented behavior across multi-turn conversations, compromising reliability in downstream applications.
+Introduces User Goal State Tracking (UGST) framework to improve goal alignment by helping simulators autonomously track goal progression, directly supporting the paper's State Tracking Agent design.
+Establishes comprehensive evaluation metrics for measuring goal alignment, validating the importance of systematic evaluation methodologies in user simulation frameworks.
+
+@inproceedings{Davidson2023UserSimulationLLM,
+  title     = {{User Simulation with Large Language Models for Evaluating Task-Oriented Dialogue}},
+  author    = {Sam Davidson and Salvatore Romeo and Raphael Shu and James Gung and Arshit Gupta and Saab Mansour and Yi Zhang},
+  booktitle = {arXiv preprint arXiv:2309.13233},
+  year      = {2023}
+}
+Content referenced from this paper:
+Identifies human evaluation as a major impediment in conversational AI development, requiring extensive manual testing at multiple stages that is expensive and difficult to scale.
+Uses in-context learning instead of fine-tuning to generate robust and linguistically diverse simulated interactions, supporting the paper's emphasis on behavioral diversity.
+Demonstrates effectiveness for single-intent conversational goals with goal success rates similar to human interactions, validating synthetic simulation as viable alternative to human testing.
+
+@inproceedings{Rastogi2019SchemaGuidedDialogue,
+  title     = {{Towards Scalable Multi-domain Conversational Agents: The Schema-Guided Dialogue Dataset}},
+  author    = {Abhinav Rastogi and Xiaoxue Zang and Srinivas Sunkara and Raghav Gupta and Pranav Khaitan},
+  booktitle = {Proceedings of AAAI 2020},
+  year      = {2020}
+}
+Content referenced from this paper:
+Demonstrates that virtual assistants must support an ever-increasing number of services with overlapping functionality, many having little to no training data available.
+Introduces schema-guided paradigm enabling predictions over dynamic sets of intents and slots with zero-shot generalization to new APIs, supporting the framework's adaptability claims.
+Provides comprehensive testbed for dialogue state tracking and response generation across 16 domains, validating the importance of multi-domain evaluation in conversational AI systems.
+
+@inproceedings{Zhang2025AgentOrchestra,
+  title     = {{AgentOrchestra: A Hierarchical Multi-Agent Framework for General-Purpose Task Solving}},
+  author    = {Wentao Zhang and Liang Zeng and Yuzhen Xiao and others},
+  booktitle = {arXiv preprint arXiv:2506.12508},
+  year      = {2025}
+}
+Content referenced from this paper:
+Introduces hierarchical orchestration where a central Planning Agent decomposes complex objectives and delegates sub-tasks to specialized agents, achieving 83.39% on GAIA benchmark.
+Demonstrates sequential coordination of sub-agents with explicit termination conditions (20 steps for Planning Agent, 3 for Deep Researcher, 5 for Browser Use Agent), supporting the paper's exit gating approach.
+Validates multi-agent decomposition superiority over flat-agent and monolithic baselines through hierarchical organization and role specialization, directly supporting the paper's orchestration methodology.
+
+@inproceedings{Xu2024ChainOfThoughtDST,
+  title     = {{Chain of Thought Explanation for Dialogue State Tracking}},
+  author    = {Lin Xu and Ningxin Peng and Daquan Zhou and See-Kiong Ng and Jinlan Fu},
+  booktitle = {arXiv preprint arXiv:2403.04656},
+  year      = {2024}
+}
+Content referenced from this paper:
+Proposes structured dialogue state tracking that creates detailed explanations step by step after determining slot values, mimicking human reasoning processes.
+Shows significant performance improvements for dialogues with longer turns and complex reasoning, supporting the paper's structured state representation approach.
+Demonstrates the value of transparent state tracking mechanisms that collect information from relevant dialogue turns, validating the State Tracking Agent's design.
+
+@inproceedings{Tran2025MultiAgentCollaboration,
+  title     = {{Multi-Agent Collaboration Mechanisms: A Survey of LLMs}},
+  author    = {Khanh-Tung Tran and Dung Dao and Minh-Duong Nguyen and Quoc-Viet Pham and Barry O'Sullivan and Hoang D. Nguyen},
+  booktitle = {arXiv preprint arXiv:2501.06322},
+  year      = {2025}
+}
+Content referenced from this paper:
+Identifies coordination patterns including peer-to-peer, centralized, and distributed structures, with sequential chaining as a common strategy for complex tasks.
+Emphasizes that coordination extends beyond individual channels to relationships among multiple channels, supporting the paper's tool-mediated coordination approach.
+Provides framework for static and dynamic coordination architectures, validating the protocol design of sequential agent invocation (State Tracking → Message Attributes Generation).
+
+@inproceedings{Feng2025EmotionallyIntelligent,
+  title     = {{Emotionally Intelligent Task-oriented Dialogue Systems: Architecture, Representation, and Optimisation}},
+  author    = {Shutong Feng and Hsien-chin Lin and Nurul Lubis and Carel van Niekerk and Michael Heck and Benjamin Ruppik and Renato Vukovic and Milica Gašić},
+  booktitle = {arXiv preprint arXiv:2507.01594},
+  year      = {2025}
+}
+Content referenced from this paper:
+Introduces LUSTER framework incorporating short-term (user sentiment) and long-term (task success) rewards, supporting the choice of mood tone as a behavioral attribute.
+Demonstrates that emotionally responsive dialogue systems achieve better resilience in noisy conversational environments, validating emotional attributes in message generation.
+Shows that combining LLM capability with structured reward modeling improves task-oriented dialogue, supporting the Message Attributes Generation Agent's design rationale.
+
+@inproceedings{Saggar2025ScoreBeforeSpeak,
+  title     = {{Score Before You Speak: Improving Persona Consistency in Dialogue Generation using Response Quality Scores}},
+  author    = {Arpita Saggar and Jonathan C. Darling and Vania Dimitrova and Duygu Sarikaya and David C. Hogg},
+  booktitle = {Proceedings of ECAI 2025},
+  year      = {2025}
+}
+Content referenced from this paper:
+Proposes semantic similarity-based scores as proxy for response quality, directly supporting the paper's persona adherence scoring methodology.
+Demonstrates that score-conditioned training allows models to better capture persona-consistent dialogues, validating the PAS metric design.
+Shows improvements for both million and billion-parameter models through unified learning of responses and quality scores, supporting the weighted scoring approach in MS_i calculation.
+
+@inproceedings{Phy2020USLH,
+  title     = {{Deconstruct to Reconstruct a Configurable Evaluation Metric for Open-Domain Dialogue Systems}},
+  author    = {Vitou Phy and Yang Zhao and Akiko Aizawa},
+  booktitle = {Proceedings of COLING 2020},
+  year      = {2020}
+}
+Content referenced from this paper:
+Introduces USL-H (Understandability, Sensibleness, Likability in Hierarchy) as a composite metric with configurable weights, directly supporting the CRRS weighted composite scoring approach.
+Groups dialogue qualities into three categories with task-dependent importance, validating the paper's use of weighted components (w_j = 0.25) in evaluation metrics.
+Achieves good correlations with human judgment while maintaining configurability, supporting the paper's multi-dimensional evaluation framework with PAS, BVS, TRA, and DEI components.
+
+@inproceedings{Wakaki2024ComperDial,
+  title     = {{ComperDial: Commonsense Persona-grounded Dialogue Dataset and Benchmark}},
+  author    = {Hiromi Wakaki and Yuki Mitsufuji and Yoshinori Maeda and Yukiko Nishimura and Silin Gao and Mengjie Zhao and Keiichi Yamada and Antoine Bosselut},
+  booktitle = {arXiv preprint arXiv:2406.11228},
+  year      = {2024}
+}
+Content referenced from this paper:
+Provides human-scored responses for 10,395 dialogue turns from 99 agents, establishing precedent for comprehensive persona-grounded evaluation at scale.
+Introduces CPDScore for automatic evaluation of persona consistency, supporting the paper's automated PAS metric calculation approach.
+Enables joint assessment of multi-turn model responses with dialogue-level annotations, validating the paper's conversation-level evaluation methodology.
+
+@inproceedings{Jia2024LeveragingLLMs,
+  title     = {{Leveraging LLMs for Dialogue Quality Measurement}},
+  author    = {Jinghan Jia and Abi Komma and Timothy Leffel and Xujun Peng and Ajay Nagesh and Tamer Soliman and Aram Galstyan and Anoop Kumar},
+  booktitle = {arXiv preprint arXiv:2406.17304},
+  year      = {2024}
+}
+Content referenced from this paper:
+Demonstrates that fine-tuned LLMs outperform out-of-the-box models for dialogue quality evaluation, supporting the paper's use of specialized agents for evaluation.
+Shows chain-of-thought reasoning improves evaluation performance, validating the paper's transparent decision-making approach in DEI metric.
+Addresses limitations of unsupervised methods that poorly correlate with human judgments, supporting the need for structured evaluation metrics like TRA using F1-score.
+
+@inproceedings{Wang2020KddRES,
+  title     = {{KddRES: A Multi-level Knowledge-driven Dialogue Dataset for Restaurant Towards Customized Dialogue System}},
+  author    = {Hongru Wang and Min Li and Zimo Zhou and Gabriel Pui Cheong Fung and Kam-Fai Wong},
+  booktitle = {arXiv preprint arXiv:2011.08772},
+  year      = {2020}
+}
+Content referenced from this paper:
+Establishes restaurant domain as ideal for dialogue system evaluation with fine-grained slots and intents capturing complex semantic information.
+Demonstrates multi-turn conversation complexity in restaurant contexts with 0.8k conversations requiring sophisticated state tracking.
+Validates the need for customized dialogue systems in restaurant domain due to varied establishment styles and customer interaction patterns.
+
+@inproceedings{Yi2024MultiTurnDialogueSurvey,
+  title     = {{A Survey on Recent Advances in LLM-Based Multi-turn Dialogue Systems}},
+  author    = {Zihao Yi and Jiarui Ouyang and Zhe Xu and Yuwen Liu and Tianhao Liao and Haohao Luo and Ying Shen},
+  booktitle = {arXiv preprint arXiv:2402.18013},
+  year      = {2024}
+}
+Content referenced from this paper:
+Comprehensive review establishing challenges of context maintenance across multiple dialogue turns, supporting the paper's focus on multi-turn conversations.
+Identifies task-oriented dialogue complexity requiring sophisticated state tracking and evaluation approaches.
+Validates restaurant ordering as representative domain for testing dialogue systems due to inherent conversational complexity.
+
+@inproceedings{Mo2024HierTOD,
+  title     = {{HierTOD: A Task-Oriented Dialogue System Driven by Hierarchical Goals}},
+  author    = {Lingbo Mo and Shun Jiang and Akash Maharaj and Bernard Hishamunda and Yunyao Li},
+  booktitle = {arXiv preprint arXiv:2411.07152},
+  year      = {2024}
+}
+Content referenced from this paper:
+Demonstrates hierarchical goal structures necessary for handling composite workflows in task-oriented dialogue, supporting the paper's complex ordering scenarios.
+Unifies slot-filling for information collection with step-by-step guidance, validating the dual nature of restaurant ordering interactions.
+Shows enterprise environments benefit from hierarchical approaches due to rich domain-specific knowledge, supporting restaurant domain complexity.
+
+@inproceedings{Ge2024PersonaHub,
+  title     = {{Scaling Synthetic Data Creation with 1,000,000,000 Personas}},
+  author    = {Tao Ge and Xin Chan and Xiaoyang Wang and Dian Yu and Haitao Mi and Dong Yu},
+  booktitle = {arXiv preprint arXiv:2406.20094},
+  year      = {2024}
+}
+Content referenced from this paper:
+Demonstrates importance of diverse personas for creating realistic synthetic data, supporting the paper's use of 20 diverse restaurant guest personas.
+Shows how persona diversity facilitates testing across multiple perspectives, validating the behavioral diversity aspect of restaurant ordering simulation.
+Establishes synthetic personas as effective testing ground for complex interactions before real-world deployment, supporting the experimental validation approach.
+
+@inproceedings{Cheng2024AutoPal,
+  title     = {{AutoPal: Autonomous Adaptation to Users for Personal AI Companionship}},
+  author    = {Yi Cheng and Wenge Liu and Kaishuai Xu and Wenjun Hou and Yi Ouyang and Chak Tou Leong and Wenjie Li and Xian Wu and Yefeng Zheng},
+  booktitle = {arXiv preprint arXiv:2406.13960},
+  year      = {2024}
+}
+Content referenced from this paper:
+Introduces autonomous persona adaptation during conversation progression through hierarchical framework enabling controllable and authentic adjustments.
+Demonstrates potential for adaptive persona evolution where agents evolve in response to users' changing needs, supporting future work on dynamic behavioral characteristics.
+Validates the concept of AI providing constant emotional support through real-time persona adaptation, extending the framework's application potential.
+
+@inproceedings{Chu2024MultimodalEmotional,
+  title     = {{Towards Multimodal Emotional Support Conversation Systems}},
+  author    = {Yuqi Chu and Lizi Liao and Zhiyuan Zhou and Chong-Wah Ngo and Richang Hong},
+  booktitle = {arXiv preprint arXiv:2408.03650},
+  year      = {2024}
+}
+Content referenced from this paper:
+Proposes Sequential Multimodal Emotional Support framework integrating text, audio, and video modalities for comprehensive emotional understanding.
+Introduces first-of-its-kind MESC dataset with annotations across modalities, supporting future multi-modal integration with prosodic features and visual interfaces.
+Demonstrates how multi-modal systems closely emulate depth and nuance of human conversations, validating extension to voice-based and gesture recognition systems.
+
+@inproceedings{Yu2024AIPatient,
+  title     = {{Simulated patient systems are intelligent when powered by large language model-based AI agents}},
+  author    = {Huizi Yu and Jiayan Zhou and Lingyao Li and others},
+  booktitle = {arXiv preprint arXiv:2409.18924},
+  year      = {2024}
+}
+Content referenced from this paper:
+Achieves 94.15% question answering accuracy using RAG framework with LLM-based agents, demonstrating effectiveness in healthcare consultation domain.
+Shows simulated patients perform comparably or better than human-simulated patients with high readability scores, supporting healthcare as viable application domain.
+Validates potential for medical education and clinical training through intelligent patient simulation, extending framework's cross-domain applicability.
+
+@inproceedings{Maity2024GenerativeAI_ITS,
+  title     = {{Generative AI and Its Impact on Personalized Intelligent Tutoring Systems}},
+  author    = {Subhankar Maity and Aniket Deroy},
+  booktitle = {arXiv preprint arXiv:2410.10650},
+  year      = {2024}
+}
+Content referenced from this paper:
+Demonstrates how generative AI enables highly personalized and adaptive learning environments through dynamic content generation and real-time feedback.
+Shows integration of LLMs like GPT-4 in creating effective educational experiences responding to individual learner needs, supporting educational tutoring applications.
+Identifies future directions in multimodal AI and emotional intelligence for tutoring systems, aligning with framework's potential multi-modal extensions.
+
+@inproceedings{Xiang2024TransformerEcommerce,
+  title     = {{Text Understanding and Generation Using Transformer Models for Intelligent E-commerce Recommendations}},
+  author    = {Yafei Xiang and Hanyi Yu and Yulu Gong and Shuning Huo and Mengran Zhu},
+  booktitle = {arXiv preprint arXiv:2402.16035},
+  year      = {2024}
+}
+Content referenced from this paper:
+Demonstrates transformer models' capability in understanding complex user intentions and generating personalized recommendations in e-commerce domain.
+Shows application in automated customer service conversations and sentiment analysis, supporting cross-domain validation in e-commerce ordering scenarios.
+Validates framework's potential for optimizing service processes through text understanding and generation, extending to financial advisory and travel booking applications.
+
+@inproceedings{Hurst2024GPT4oSystemCard,
+  title     = {{GPT-4o System Card}},
+  author    = {Aaron Hurst and Adam Lerer and Adam P. Goucher and Adam Perelman and Aditya Ramesh and Aidan Clark and AJ Ostrow and Akila Welihinda and Alan Hayes and Alec Radford and Aleksander Mądry and Alex Baker-Whitcomb and Alex Beutel and Alex Borzunov and Alex Carney and Alex Chow and Alex Kirillov and Alex Nichol and Alex Paino and Alex Renzin and Alex Tachard Passos and Alexander Kirillov and Alexi Christakis and Alexis Conneau and Ali Kamali and others},
+  booktitle = {arXiv preprint arXiv:2410.21276},
+  year      = {2024}
+}
+
+@inproceedings{Liu2023AgentBench,
+  title     = {{AgentBench: Evaluating LLMs as Agents}},
+  author    = {Xiao Liu and Hao Yu and Hanchen Zhang and Yifan Xu and Xuanyu Lei and Hanyu Lai and Yu Gu and Hangliang Ding and Kaiwen Men and Kejuan Yang and Shudan Zhang and Xiang Deng and Aohan Zeng and Zhengxiao Du and Chenhui Zhang and Sheng Shen and Tianjun Zhang and Yu Su and Huan Sun and Minlie Huang and Yuxiao Dong and Jie Tang},
+  booktitle = {arXiv preprint arXiv:2308.03688},
+  year      = {2023}
+}
+Content referenced from this paper:
+Establishes GPT-4's superiority as an agent through comprehensive evaluation across 8 distinct environments testing reasoning and decision-making abilities.
+Demonstrates significant performance disparity between GPT-4 and open-source competitors, validating GPT-4 as optimal choice for complex agentic tasks.
+Identifies that training on code and high-quality multi-turn alignment data improves agent performance, supporting GPT-4's architectural advantages.
+
+@inproceedings{Shu2024EffectiveMultiAgent,
+  title     = {{Towards Effective GenAI Multi-Agent Collaboration: Design and Evaluation for Enterprise Applications}},
+  author    = {Raphael Shu and Nilaksh Das and Michelle Yuan and Monica Sunkara and Yi Zhang},
+  booktitle = {arXiv preprint arXiv:2412.05449},
+  year      = {2024}
+}
+Content referenced from this paper:
+Demonstrates multi-agent collaboration with GPT-4 achieves 90% goal success rates, improving performance by up to 70% over single-agent approaches.
+Shows GPT-4o's effectiveness in enterprise multi-agent settings with 23% improvement on code-intensive tasks through payload referencing.
+Validates GPT-4's suitability for orchestrated agent systems through superior inter-agent communication and coordination capabilities.
+
+@misc{pydanticai_docs,
+  title        = {PydanticAI Documentation},
+  howpublished = {\url{https://ai.pydantic.dev/}},
+  note         = {Accessed: 2025-09-01},
+  year         = {2024}
+}
+
+@misc{pydanticai,
+  title        = {PydanticAI: A Python Agent Framework for LLMs},
+  author       = {{Pydantic Team}},
+  howpublished = {\url{https://github.com/pydantic/pydantic-ai}},
+  note         = {Accessed: 2025-09-01},
+  year         = {2024}
+}

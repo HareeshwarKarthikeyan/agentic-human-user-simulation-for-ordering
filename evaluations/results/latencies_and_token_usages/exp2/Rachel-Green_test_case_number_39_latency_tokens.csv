@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+8b5d8649-a6cd-4910-8608-1f9c2a138977,"Hi there! I'm Rachel, and I'm excited to place an order for some of your delicious dishes today. I'll be ordering the Filet Mignon cooked medium rare with Hollandaise sauce, and for dessert, the New York Cheesecake with both strawberry and chocolate sauce toppings. Could you tell me a bit more about how these dishes are plated? I'm quite keen on presentation for my blog!",2239,1.233995
+10cb5e40-0f9f-4322-89f2-f0d10b0d08e4,"Sure thing! The name for the order is Rachel Green. As for the drinks, I've got everything I need this time. Thanks for the offer! Could you confirm the total price for my order?",2638,0.657073
+7a1f0177-2508-4a5f-8e2a-388b65536d0d,"It looks like my order should actually include the New York Cheesecake with both strawberry and chocolate sauce toppings, which might not be reflected in your calculation. Could you please confirm that for me? Once everything is correct, I’d be happy to confirm for pickup!",2799,0.693357
+b86971b2-73f7-4342-9337-748affec863f,"Yes, that's perfect. Let's go ahead and confirm that for pickup. Thanks so much!",3047,0.603323
+6466b836-910c-4372-94ce-5d9fa904bc1c,exit,2948,0.596695

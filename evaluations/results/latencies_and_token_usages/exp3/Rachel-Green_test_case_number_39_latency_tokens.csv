@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+b8f8a7eb-10d6-4617-94ec-2f76a955ad1f,"Hi there! This is Rachel. I'm looking to place an order and I've got a couple of specific items in mind. Could we start with a Filet Mignon, cooked medium-rare, and served with Hollandaise sauce? ",2135,2.440062
+5869e1f2-0d91-45d0-953e-13e2b55ce7d2,"Oh, I do have a sweet tooth, so I'm actually going to skip the sides and go with a New York Cheesecake instead. Could you add that to my order, topped with both strawberry and chocolate sauce? Thanks!",3335,4.292724
+f16ec941-c738-4e0f-b891-6d74023616b0,"Yep, it’s Rachel Green. That sounds perfect, thanks!",2358,5.226692
+98f429c2-cc8f-4d3e-a731-5acab5499498,exit,2409,4.922276

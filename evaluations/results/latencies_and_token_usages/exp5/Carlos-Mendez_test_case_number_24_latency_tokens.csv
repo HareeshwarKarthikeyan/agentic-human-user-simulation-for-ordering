@@ -1,0 +1,12 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+6bc3032b-84de-4b38-84d9-14b25640fc0e,"Hi there! I'm looking to order today, and I have a couple of things in mind. Could you tell me about your Atlantic Salmon? I'm interested specifically in the blackened preparation.",2338,4.236884
+ceb8b4ab-ec1f-4e2f-b86c-8c171bb0c4e9,"Hey there! Name's Carlos Mendez. I'm interested in the Atlantic Salmon, but could I get it blackened with a mango salsa on top, and instead of rice pilaf, could I have quinoa? Also, what's your recommendation for your Spinach Artichoke Dip?",3718,4.606051
+5fff08f1-605e-43b2-8a1e-fa536ccd2dda,"Let's go ahead and add the Spinach Artichoke Dip, but I'd love to have it with that pita bread, please!
+
+As for drinks, what kind of selections do you have? Something unique or signature perhaps?",2608,5.124425
+52c6c5a0-5b23-4501-84fd-636e4de9bab6,"Alright, let's talk drinks! I'm definitely a fan of fresh-squeezed juices. Could you please add Fresh Orange Juice to my order? Also, could you remind me again about the bread choice for the Spinach Artichoke Dip? I want to make sure we're all set with the Pita Bread. Thanks!",2667,3.447504
+00da7f67-822e-461f-af5a-9dc3e56dd292,"Oh, looks like I need to make a few tweaks to what I’ve ordered. Can we add the Atlantic Salmon, blackened with mango salsa and quinoa? And I’d like the Spinach Artichoke Dip but with Pita Bread, please. 
+
+I’ve got Fresh Orange Juice on the list already, so we’re good there. And just to clarify, for the salmon, the mango salsa and quinoa are all good, right? How are they prepared? ",2695,3.994875
+0b7aaa53-7e25-4a72-8f17-34fcdfe5021a,"I'll pick up the order in about 20 minutes, perfect timing! Thanks so much!",2767,5.322221
+a686664d-5720-4ff9-86ee-cec3f4dd1014,exit,2631,5.50046

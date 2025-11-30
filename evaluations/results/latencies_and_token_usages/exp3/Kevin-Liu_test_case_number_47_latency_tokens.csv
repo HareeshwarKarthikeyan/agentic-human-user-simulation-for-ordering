@@ -1,0 +1,11 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+8d0d63b0-b29c-426e-b893-5d09639c9eb3,"Hi, this is Kevin Liu. Could I get an order of Buffalo Wings? Thanks!",1970,2.378487
+f0b891e4-9e2c-4de6-8fbf-a0cdca295826,"Could I get a single order of Buffalo Wings with Extra Hot sauce, please? ",2028,1.830626
+5cb7830d-56d1-4d1f-807f-4c39027e7932,"No, just the Buffalo Wings with Extra Hot sauce is perfect. Thanks!",2025,3.315387
+8faab5a1-4cb5-4c9e-99d0-a768388d7d32,"Hey, looks like there's been a little mix-up. The Buffalo Wings should just be regular, without the Extra Hot sauce. Can you update that for me, please?",3202,5.189729
+9a4d50a8-8ab5-4cb2-a5fa-428de44f6dd0,My name is Kevin Liu. Could you please add a single order of Buffalo Wings with no sauce for $13.99 to my order?,2000,2.51666
+c4ddcd9d-2d3b-409d-bee5-b060886560dd,"Hey, could you please add a single order of Buffalo Wings with no sauce for $13.99 to my order? That's all I need. Thanks!",3176,5.146988
+cf53f205-dc16-4cc6-944a-ce182bcd4bf5,"It seems like there's a little mismatch with the order details. Could we remove that ""no sauce"" detail from the Buffalo Wings, please? I just need it plain.",2159,2.867223
+d75e71e3-08cc-470d-858a-d58eee877233,"Can you please add an order of Buffalo Wings for me? I'm looking for just a single order, and I'd like it without any sauce. Thanks!",4004,3.040671
+97ae5089-136a-499d-abf2-560aaac6f084,"Yes, that's correct. The name for the order is Kevin Liu.",2012,1.863546
+bb0f88d9-1359-4785-b3d5-a11302e7a51d,exit,3202,5.195067

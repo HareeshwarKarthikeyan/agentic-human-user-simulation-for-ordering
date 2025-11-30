@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+05637fa4-8517-49ff-a482-bbb8500faa79,"Hi there! I'd like to place an order for a Club Sandwich with white bread and potato chips, please.",2069,1.718536
+11744faf-dbfb-4b02-b9ad-1c36092a03e5,"Sure, my name is Sarah Johnson. And yes, the Club Sandwich on white bread with potato chips sounds perfect. Can you also confirm the price for me?",2130,0.709621
+d748b717-9a02-4604-baff-ce67f72f2e0b,exit,2369,0.785198

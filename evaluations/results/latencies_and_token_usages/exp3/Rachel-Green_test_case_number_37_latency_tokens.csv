@@ -1,0 +1,31 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+97142217-386c-4c93-8907-8ce3d7351628,"Hi there! I'm Rachel, and I'm a food blogger, so I usually have a few questions about the menu before ordering. I really enjoy learning about the ingredients and presentation, especially when it comes to unique or seasonal specials. 
+
+I'd like to order a Lobster Tail, but can you tell me if it's broiled and if I can add a third tail as an add-on? Also, how is it usually plated? 
+
+After that, I'll be interested in your Chocolate Lava Cake. What ice cream flavors are available to pair with it, and can I get whipped cream as a topping?
+
+Let's start with those, and I'll be sure to ask more as we go!",2221,2.149626
+5fc60961-395f-418d-b85b-b08dc07efe28,"Hi, yes, this is Rachel Green. Thanks for confirming the details of my order! I’m excited about the Lobster Tail—make sure it's beautifully plated since I’ll be featuring it in a blog post. For the Chocolate Lava Cake, I’d opt for the chocolate ice cream along with some whipped cream; it’s an excellent contrast for photos.
+
+Could you confirm the total price for me? And also, how is each dish typically presented for takeaway or delivery?",2646,4.994071
+61d6b0af-ed27-4a78-92c2-532955381c9a,"It looks like there was a bit of a mix-up with the Lobster Tail order. Could you please add a Broiled Lobster Tail with the Third Tail as an add-on? Also, for the Chocolate Lava Cake, just ensure it has chocolate ice cream and whipped cream on top. Could you confirm the total price for me once that's adjusted? Thanks!",2498,4.085327
+1009a6e3-3ad7-430d-8947-b3643700c9b3,"Hey, just checking in to make sure we've got this right. I know I've got a keen eye for detail, being a food blogger and all! 
+
+I wanted to order exactly these:
+
+- **1 Broiled Lobster Tail** with a **third tail add-on**.
+- **Chocolate Lava Cake** with **chocolate ice cream** and topped with **whipped cream**. 
+
+It seems we need to add those modifiers to reach the correct total. Could you make sure the lobster add-on and the whipped cream are included? 
+
+The total should be **$75.98**. Let's get that sorted out before settling the pickup time! Thanks!",2505,3.168592
+1d3c56f1-9479-4671-a5c8-6705002e2a85,"Hi, this is Rachel. It looks like there are a couple of things missing from the order. Could you please update it to include:
+
+- The **Lobster Tail** with the **Broiled** preparation and adding the **Third Tail** option.
+- Also, the **Chocolate Lava Cake** should have **chocolate ice cream** and **whipped cream**.
+
+Could you make these changes for me? Thanks!",2423,3.77102
+3d327c4b-4df9-4813-b375-389241792772,Looks like everything is set perfectly! Can I confirm the exact time you want to come in for pickup?,3974,8.332969
+758a39c6-eb0a-4677-8abf-f28da1133c63,"Hey there! Yeah, I'm Rachel Green, the food blogger. Looks like I've got exactly what I aimed for in the order with the Chocolate Lava Cake and Lobster Tail. I'll swing by in about 20 minutes to pick up. Sound good? Could you just confirm that all items are set and ready to go? Thanks!",2353,1.578908
+61a95b75-99e8-42e5-9e13-641963e43472,exit,3479,4.683647

@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+f282ae09-ad5a-46cd-a956-8e3acab0038b,"Hey there! Can I get a BBQ Bacon Burger, done medium well? And for the side, I'd like onion rings. ",2175,3.637689
+1eafb677-c5b5-43ed-916c-4eb70b1dc3ba,My name is Thomas Wright. Can you confirm the total price for the order?,2274,3.415835
+4beda24c-1d99-412e-bcad-72a9237da296,exit,2448,4.705682

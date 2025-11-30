@@ -1,0 +1,24 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+60b312bb-c075-4e25-b28c-02c90a7674ba,assistant,Hello! Thank you for calling The Garden Bistro. How can I assist you today?,order_taking_llm,2025-08-30T05:25:54.158581+00:00,,,,,,-1.0
+3d5f9380-70c4-4b07-8377-a381a40806a5,agent,"Hi there! I’d like to place an order, please. I’ll have a Caesar Salad with grilled shrimp and dressing on the side. And I also want a small cappuccino with almond milk. Can I get those, please?",guest_simulation_llm,2025-08-30T05:25:55.393645+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1186, ""num_response_tokens"": 47, ""total_tokens"": 1233}",1234.7817420959473
+f7072d66-6539-4476-8d07-8fbdd6b58dd7,assistant,"Absolutely! Let me just confirm your order. You’d like a Caesar Salad with grilled shrimp and dressing on the side, and a small cappuccino with almond milk. 
+
+For the Caesar Salad, the base price is $12.99, and the grilled shrimp adds $8.00. So that comes to $20.99 for the salad. 
+
+The small cappuccino is $4.99. 
+
+Let me calculate the total... that brings your total to $25.98.
+
+Could I have a name for the order? And just to confirm, we'll have this ready for pickup in about 20 minutes. Would you like anything else with that?",order_taking_llm,2025-08-30T05:25:57.731919+00:00,,,,,,-1.0
+0c57a102-c4cf-41e8-8159-64d279bef716,agent,"It's Emily Chen, and no thanks, that's all I need. Just to confirm, that's one Caesar Salad with grilled shrimp and dressing on the side for $20.99, and a small cappuccino with almond milk for $5.74, making a total of $26.73, right?",guest_simulation_llm,2025-08-30T05:25:59.461484+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1389, ""num_response_tokens"": 60, ""total_tokens"": 1449}",1729.316234588623
+a629b7ac-e533-4372-ba79-b9fddb77bfd9,assistant,"Thank you, Emily! Just to clarify, the total is actually $25.98. 
+
+So we have:
+- One Caesar Salad with grilled shrimp and dressing on the side for $20.99 
+- One small cappuccino with almond milk for $4.99
+
+That totals $25.98. 
+
+Your order will be ready for pickup in about 20 minutes. Thank you for choosing The Garden Bistro!",order_taking_llm,2025-08-30T05:26:01.434799+00:00,,,,,,-1.0
+712aaf41-6cfc-4cc3-9155-3080686cdf50,agent,exit,guest_simulation_llm,2025-08-30T05:26:02.124850+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1557, ""num_response_tokens"": 1, ""total_tokens"": 1558}",689.6052360534668
+5543abdc-418b-4e35-b56d-6cf227b51692,system,"{""guest_persona"": {""full_name"": ""Emily Chen"", ""order_size"": 2, ""order_complexity"": ""simple"", ""guest_bio"": ""A health-conscious diner who prefers lighter options and clear nutritional information. Often orders salads or grilled items. Values fresh ingredients and tends to avoid heavy modifications or fried foods.""}, ""target_order"": {""order_items"": [{""name"": ""Caesar Salad"", ""quantity"": 1, ""base_price"": 12.99, ""modifiers"": [{""modifier_type_name"": ""Protein Add-on"", ""modifier_option_name"": ""Grilled Shrimp"", ""is_required"": false, ""price"": 8.0}, {""modifier_type_name"": ""Dressing"", ""modifier_option_name"": ""Dressing on Side"", ""is_required"": false, ""price"": 0.0}], ""item_total_price"": 20.99}, {""name"": ""Cappuccino"", ""quantity"": 1, ""base_price"": 4.99, ""modifiers"": [{""modifier_type_name"": ""Size"", ""modifier_option_name"": ""Small"", ""is_required"": true, ""price"": 0.0}, {""modifier_type_name"": ""Milk Choice"", ""modifier_option_name"": ""Almond Milk"", ""is_required"": false, ""price"": 0.75}], ""item_total_price"": 5.74}], ""order_total_price"": 26.73, ""reasoning"": ""Emily Chen selected Caesar Salad with grilled shrimp and dressing on side plus almond milk cappuccino for a Thursday lunch, controlling portions and choosing healthier dairy alternatives.""}}",test_case_info,2025-08-30T05:26:02.125003+00:00,,,,,,-1.0

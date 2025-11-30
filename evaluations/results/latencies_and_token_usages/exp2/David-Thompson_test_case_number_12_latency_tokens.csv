@@ -1,0 +1,18 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+315474b1-3f68-4b30-baaf-37fd7211d628,"Hi there! This is David. I'm calling to place an order for my family, and I need to make sure all our dietary preferences are covered. Could I start by ordering a large Margherita Pizza with a gluten free crust?",2260,1.10715
+6a2ac445-0c53-4187-9e52-ddb345941f9a,"No, thanks, I'll stick with the Margherita as is. I also need to add a Caesar Salad to that order, but could you make sure to leave off the croutons? And, could you include two small Fresh Orange Juices as well?",2449,0.819366
+1734d7ad-09e7-4447-9a86-f7065e2ab9d5,"Hey there! Thanks for asking. No protein on the Caesar Salad, please. Just keeping it simple for today. Could we also go over the total cost for this order?",2537,0.766542
+840a8b9e-113c-4b06-a50a-fa1f84b920b2,"Hi there. I noticed there seems to be a bit of confusion with the pricing you provided. Could you clarify the final price again for me? My order should have been a large Margherita Pizza with gluten-free crust, a Caesar Salad without croutons, and two small Fresh Orange Juices. I want to ensure that the total aligns with your calculation. Thanks!",2849,0.717094
+26630dbc-6d06-442e-b4dd-e30f5bb80230,"Hi, thanks for detailing that. I realized that there seems to be a discrepancy because the price I had for the pizza was a bit higher. Let me clarify what I was expecting:
+
+- For the Large Margherita Pizza with gluten-free crust, my understanding was:  
+  - Base Price: **$16.99**  
+  - Size Modifier (Large 18""): **$8.00**  
+  - Gluten-Free Crust Modifier: **$3.00**  
+  - Which totals up to **$27.99**.
+
+- The rest looks good with the Caesar Salad at **$12.99** and the Orange Juices at **$11.98** for two. 
+
+Given the pizza's pricing I was expecting, the total should be **$52.96**. If that's all good, I'd love to proceed with that order for pickup. Could you confirm this? Thanks so much!",3271,0.920076
+ce3e8630-5b48-42b8-b216-4263a1abfd1c,"Yes, that's perfect! My last name is Thompson, and I'm ready to confirm the order for pickup. Thanks for your help with this!",3556,0.855344
+080fbce1-a5bd-404e-8193-932c9d93568f,exit,3534,0.635303

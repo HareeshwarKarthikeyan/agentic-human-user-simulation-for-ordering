@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+52aeb504-c047-430f-9189-4cd7cc8e5590,"Hi there! I’d like to place an order for a Grilled Chicken Sandwich with French Fries and a Medium Coca-Cola, please. Could you confirm that for me?",2123,1.444353
+853e1dc1-8cfa-4577-aa73-c80ca8fd693c,"Hi! Thanks for checking. No additional cheese or add-ons on the Grilled Chicken Sandwich for me, just the lettuce, tomato, and garlic aioli is perfect. And I'll go with a medium Coca-Cola, please. Thanks!",2322,0.721604
+77b8ae58-4c0f-4c1e-bfab-a9eec5364b69,"Sure, the name for the order is Diana Walsh.",1829,0.476094
+941420de-4481-4993-9e08-e6f15d7fe63a,"I noticed there seems to be a small discrepancy—my target order includes a Grilled Chicken Sandwich with French Fries, which wasn't mentioned in the confirmation. Could you please correct that and confirm all the items in the order along with the price? It should be a total of $19.98 from my side. Thank you!",2523,0.819589
+da1c9f49-a6ed-476f-a55f-c38d3509f73e,"Yes, that looks perfect! Thank you for correcting that. The Grilled Chicken Sandwich with French Fries and a Medium Coca-Cola is exactly what I wanted. I'll be by to pick it up soon. Thanks again!",2789,0.694984
+ffbeaa57-2284-45f9-92ec-048871c97014,exit,2778,0.664839

@@ -1,0 +1,63 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+5fd12a9c-2857-4198-8425-c7c1f55a8443,assistant,Hi there! Thank you for calling The Garden Bistro! How can I assist you today?,order_taking_llm,2025-08-30T05:38:12.665171+00:00,,,,,,-1.0
+9d389ff1-97c9-409b-8d11-2fbbab42e1c6,agent,"Hi! I'd like to place an order for my grandkids and me. Could I start with a Classic Burger, please? I want it well done, with American cheese, and I'll have French fries on the side.",guest_simulation_llm,2025-08-30T05:38:13.788393+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1254, ""num_response_tokens"": 44, ""total_tokens"": 1298}",1123.0919361114502
+b99b4d7b-d8e9-4aa8-8f2a-fce3bb6bf23f,assistant,"Great choice with the Classic Burger! Just to confirm, you want it well done, with American cheese, and French fries as the side. 
+
+Is there a name for the order? And would you like to add a drink or anything else with that?",order_taking_llm,2025-08-30T05:38:15.639567+00:00,,,,,,-1.0
+93d7f27d-f631-4634-9f75-f09100a6b548,agent,"That's right! Just the Classic Burger as I mentioned. The order is under Frank. I'd like to add a Grilled Chicken Sandwich next, please. Can I get that with a fruit cup on the side?",guest_simulation_llm,2025-08-30T05:38:16.640092+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1374, ""num_response_tokens"": 42, ""total_tokens"": 1416}",999.9618530273438
+49388f97-5194-46d8-a3bf-18f419331086,assistant,"Alright, Frank! So I have one Classic Burger well done with American cheese and French fries, and one Grilled Chicken Sandwich with a fruit cup on the side. 
+
+Would you like to add any cheese to the Grilled Chicken Sandwich, or are you good with it just as is? Also, would you like a drink with your order?",order_taking_llm,2025-08-30T05:38:18.143507+00:00,,,,,,-1.0
+811afc32-f1b6-400d-9b00-7a5f872c299b,agent,"No cheese on the chicken sandwich, please. I'd like to get two small Fresh Orange Juices as well. How's that total looking so far?",guest_simulation_llm,2025-08-30T05:38:18.998075+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1510, ""num_response_tokens"": 30, ""total_tokens"": 1540}",854.2768955230713
+97811e0c-0651-49e5-b34e-caf308ab13c6,assistant,"Okay, so just to recap, we have:
+
+- One Classic Burger well done with American cheese and French fries
+- One Grilled Chicken Sandwich with a fruit cup on the side (no cheese)
+- Two small Fresh Orange Juices
+
+Now, let me calculate that for you:
+
+- Classic Burger: $15.99
+- French Fries: $0.00
+- Grilled Chicken Sandwich: $14.99
+- Fruit Cup: $2.00
+- Fresh Orange Juices (2): $5.99 each, so $11.98
+
+Your total comes to $44.96. 
+
+Does that sound good? And when would you like to pick this up, or will you be coming in shortly?",order_taking_llm,2025-08-30T05:38:21.568658+00:00,,,,,,-1.0
+7276609b-9f13-417e-be6a-fda66104b593,agent,"That all sounds great, but I think you missed the correct total. I believe it should be $46.46. 
+
+So just to confirm, I'm good to go with the following order:
+
+- One Classic Burger well done with American cheese and French fries
+- One Grilled Chicken Sandwich with a fruit cup on the side (no cheese)
+- Two small Fresh Orange Juices
+
+Please let me know if that's correct!",guest_simulation_llm,2025-08-30T05:38:23.094360+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1713, ""num_response_tokens"": 85, ""total_tokens"": 1798}",1525.4871845245361
+c5353112-287e-4d80-946d-0ad450478a05,assistant,"Apologies for the confusion, Frank! Let's quickly recheck that total together:
+
+- Classic Burger: $15.99
+- French Fries: $0.00
+- Grilled Chicken Sandwich: $14.99
+- Fruit Cup: $2.00
+- Fresh Orange Juices (2): $5.99 each, so that’s $11.98
+
+Adding it all up again: 
+$15.99 (burger) + $0.00 (fries) + $14.99 (chicken sandwich) + $2.00 (fruit cup) + $11.98 (juices) equals a total of **$44.96.**
+
+I see how you might have thought it was $46.46 because of the two juices adding up, but it's actually $44.96. 
+
+Would you like to proceed with that total of $44.96? And when would you like to pick this up?",order_taking_llm,2025-08-30T05:38:26.580991+00:00,,,,,,-1.0
+716c8842-258f-4317-a853-a82b10d66dc9,agent,"Yes, let's go ahead with that total of $44.96. I'll be picking it up shortly. Thank you for your help!",guest_simulation_llm,2025-08-30T05:38:27.379718+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 2015, ""num_response_tokens"": 27, ""total_tokens"": 2042}",798.6109256744385
+818b87b0-881c-4472-810b-63259e23b841,assistant,"You're welcome, Frank! Just to confirm, here’s your order:
+
+- One Classic Burger well done with American cheese and French fries
+- One Grilled Chicken Sandwich with a fruit cup on the side (no cheese)
+- Two small Fresh Orange Juices
+
+Your total is $44.96, and it will be ready for pickup shortly. 
+
+Thank you for choosing The Garden Bistro! Your order will be ready for pickup in 20 minutes. Have a great day!",order_taking_llm,2025-08-30T05:38:29.088337+00:00,,,,,,-1.0
+e4f13ff6-b85f-4e78-9fcd-334a26e367e7,agent,exit,guest_simulation_llm,2025-08-30T05:38:29.754312+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 2162, ""num_response_tokens"": 1, ""total_tokens"": 2163}",665.7099723815918
+66222e09-ea08-436c-8fbc-94c04b09ee5d,system,"{""guest_persona"": {""full_name"": ""Frank Morrison"", ""order_size"": 4, ""order_complexity"": ""medium"", ""guest_bio"": ""A grandfather treating his grandchildren who asks about kid-friendly options and portion sizes. Takes time ensuring everyone is happy with their choices. Often asks servers for recommendations based on children's ages.""}, ""target_order"": {""order_items"": [{""name"": ""Classic Burger"", ""quantity"": 1, ""base_price"": 15.99, ""modifiers"": [{""modifier_type_name"": ""Meat Temperature"", ""modifier_option_name"": ""Well Done"", ""is_required"": true, ""price"": 0.0}, {""modifier_type_name"": ""Cheese"", ""modifier_option_name"": ""American"", ""is_required"": false, ""price"": 1.5}, {""modifier_type_name"": ""Side Choice"", ""modifier_option_name"": ""French Fries"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 17.49}, {""name"": ""Grilled Chicken Sandwich"", ""quantity"": 1, ""base_price"": 14.99, ""modifiers"": [{""modifier_type_name"": ""Side Choice"", ""modifier_option_name"": ""Fruit Cup"", ""is_required"": true, ""price"": 2.0}], ""item_total_price"": 16.99}, {""name"": ""Fresh Orange Juice"", ""quantity"": 2, ""base_price"": 5.99, ""modifiers"": [{""modifier_type_name"": ""Size"", ""modifier_option_name"": ""Small"", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 11.98}], ""order_total_price"": 46.46, ""reasoning"": ""Frank Morrison ordered Sunday brunch with grandkids: well-done burger for teen, chicken sandwich with fruit for health-conscious grandchild, and orange juices for everyone.""}}",test_case_info,2025-08-30T05:38:29.754424+00:00,,,,,,-1.0

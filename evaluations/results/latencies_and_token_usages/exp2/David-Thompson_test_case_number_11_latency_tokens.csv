@@ -1,0 +1,14 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+6665c941-7f6a-45e7-8e62-f7328e9ae05a,"Hi, this is David Thompson. I'm calling to place an order for my family. Could you help me with that, please? I'll also need to make sure I understand any allergens, especially for the kids' menu.",2426,1.477801
+1073a40c-9a11-4d13-9de8-87dec1c9a5c9,"Hey there, I'm David Thompson. I'm looking to order for my family today. I’d like to start with the Kids Mac and Cheese with applesauce on the side and a chocolate milk. Could you please make sure it’s all allergen-free for my kids?",2553,0.795212
+41f57532-30c8-48e0-8c58-48e2cc044ab6,"Nope, no bacon bits for the Kids Mac and Cheese, please! Just stick to the applesauce and chocolate milk as sides. And could you make sure to note any allergen information for me? Thanks!",2691,0.719997
+484ca9be-90dc-4f20-b736-412e769555eb,"Thanks, I'm just looking to add a few more things for my family. I'd like to order one ""Kids Chicken Tenders"" with honey mustard sauce, a side of carrot sticks, and milk. Let's also add a ""Fish and Chips"" with halibut, and a ""Portobello Mushroom Burger"" with vegan cheese and sweet potato fries. Could you also make sure there are notes for any allergens as usual?",2867,0.741045
+f47eaf0b-d107-4ec7-8563-ff36ada73743,"Hey, thanks for confirming the order details! It looks like everything I wanted was included, just want to clarify the Fish and Chips pricing quickly. I chose halibut, which should be a bit more expensive. Could you double-check that part for me?
+
+And for drinks, we're good with what we've ordered already. Thanks for making sure all the allergen notes are there for the kids!",3417,0.734956
+35921f70-13c5-48d3-bbca-f3f9dd29640c,"It looks like there's a little mix-up in the total because the Fish and Chips with halibut should actually be $22.99, and the Portobello Mushroom Burger should be $18.49 with the vegan cheese and sweet potato fries.
+
+So the correct total should be **$58.46**.
+
+Could we update that, and I'd like to pick up the order around 1:00 PM if that works!",3464,0.823025
+b79623cf-5607-48bc-9fb2-d7985be3bf19,exit,3642,0.597994

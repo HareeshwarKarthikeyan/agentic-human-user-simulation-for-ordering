@@ -1,0 +1,20 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+fff7ef23-1107-4b87-ae35-fcc489c6f8e5,"Hi there! I’m placing an order for my kids' soccer team celebration, and I'm hoping you can help me. Let's start with two Kids Mac and Cheese, each with a Fruit Cup on the side and Apple Juice to drink. Can you add those to my order, please?",3141,2.908058
+4e7ab0a2-965f-4cd1-b25b-672b32f96a51,"Hi there! Actually, I need a couple of things. Could I get two Kids Mac and Cheese, each with a side of Fruit Cup and Apple Juice to drink? Also, I'd like two Classic Burgers, cooked to well done, with American cheese, and a side of French Fries. That should be it for now. How much will that be in total?",3692,3.584077
+741d883f-694b-43bc-8c18-9b966341e9d9,"Hmm, it looks like there's a little difference in the cheese price for the Classic Burgers. The American cheese should actually be $1.50 extra for each burger. Can we update that for the order, please? 
+
+My name's Priya Patel.",2538,4.775184
+0187048c-7bd9-47f6-8b43-577e044c36c1,"Hi, it's Priya Patel here. Thanks for recalculating the order. It looks all good to me. The total of $50.96 is noted, and I'm happy with the items selected. No need to add anything else right now, and I appreciate you checking.
+
+Can you go ahead and confirm this order?",2568,5.154346
+41efe6fa-fb1c-4cce-b66d-bbd2fef52d12,"Thanks for confirming the order! That sounds perfect for the kids' soccer team celebration. I appreciate it. And thanks for letting me know about the total cost and pickup time. If there's ever a bulk discount option for future orders, do let me know. Have a great day!",2516,4.311307
+267ea61f-fd01-41b6-850a-82e53470a8fe,"Hi there, it's Priya Patel calling. I'm looking to place an order. Could I please confirm the details of my order? I have:
+
+- Two Kids Mac and Cheese, both with a side of Fruit Cup and Apple Juice.
+- Two Classic Burgers, well done, with American cheese and a side of French Fries.
+
+Can you confirm if these items are included and let me know the total cost? Also, are there any bulk ordering discounts available for this order?",2458,1.677621
+6be98500-144d-40f7-824c-9e1e145ff65b,"Hi there! It's Priya Patel. Thanks for confirming the order. It looks like everything is in order with the two Kids Mac and Cheese with Fruit Cup and Apple Juice, and the two Classic Burgers well done with American cheese and French Fries. 
+
+The total sounds good at $50.96. If there's no bulk discount now, I'll keep an eye out for any future offers. No changes to the order, so we're all set. Thanks again!",2615,3.782356
+efb8a20c-19ef-449e-8c11-c0286788df5e,exit,2475,3.993505

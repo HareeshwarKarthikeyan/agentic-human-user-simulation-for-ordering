@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+55ff8434-88fc-4745-b15b-d3f135d21b2e,Hey there! I'm in the mood to explore your menu a bit before placing my order. Could you tell me about the portion sizes for your pizzas and if any deals are available for today? I'm particularly interested in vegetarian options.,2269,4.303323
+202acfde-0fa8-4b97-a7a1-330cb81b014d,"The Margherita Pizza sounds great! Could I please get that in a small size, 10 inches? And could you tell me the price for that? ",2419,2.872658
+a4f39853-ca16-4875-98d5-fbffaf056ff1,"I'm all set on the toppings for the Margherita Pizza, but can I add an Apple Pie to my order? How much is it, by the way?",2324,3.3322
+757b6dfd-f864-400f-8703-1fb9608ef61d,"Great, please put the order under Jessica Martinez. No drinks for now, thanks. Could you confirm if there are any vegetarian specials or combos for future reference?",3808,3.275103
+9a8d36d0-80fa-44bf-90d6-a7f649fa19cc,exit,2397,3.165808

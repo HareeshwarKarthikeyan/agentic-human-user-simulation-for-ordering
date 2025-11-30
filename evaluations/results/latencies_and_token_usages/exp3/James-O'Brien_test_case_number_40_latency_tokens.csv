@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+fdf18739-5d89-4d2f-a2c6-12bf933315c0,"Hi there! This is James. I'm looking to place an order for my crew. Let's start with 4 Classic Burgers, all cooked medium, and I'll take French Fries on the side with each. Can you add that to my order and let me know once it's done?",2143,2.152425
+9a296154-9611-48ed-a00d-72df5eed8b02,"Thanks for catching that! I'm James O'Brien. Could you please also add 2 BBQ Bacon Burgers, cooked medium, with French Fries on the side? I think we're fine on cheese and drinks for now, just sticking to the burgers and fries.",2326,4.324918
+6ced1666-10b1-4723-ac82-0cde0995f2c8,"Hey, thanks for the calculation. Just to clarify, can you make sure both the Classic Burgers and the BBQ Bacon Burgers are cooked medium? Looks like the cooking preference might not have been added yet. And no need for drinks or appetizers, mate, the order should be good with what I've got. Thanks!",4271,6.405165
+2aef915e-2207-4aef-9ca8-971ae5757bb8,exit,2442,3.925683

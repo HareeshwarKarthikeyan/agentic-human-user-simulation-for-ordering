@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+6da8b663-7ffa-4c8d-afc1-f29ddb61f11b,"Hi there! I’d like to place an order, please. I want a Chicken Parmesan with angel hair and extra cheese. And I also need a bottle of your house red wine. Can I get the total for that?",1190,1.079422950744629
+abc032ba-7864-4fef-8a9c-1978236713e7,"It's Rachel Green. Also, just to clarify, what’s the price with the extra cheese added for the Chicken Parmesan?",1328,1.0290141105651855
+8d4eedc4-492b-4011-bf4d-7aeb7dc445b3,"No, that's everything I need. So just to confirm, I have a Chicken Parmesan with angel hair pasta and extra cheese, plus a bottle of house red wine, for a total of $49.99. Can you confirm that for me?",1486,1.4058659076690674
+65bef60b-4dde-496a-92d5-fa91ef62869f,exit,1587,0.4544849395751953

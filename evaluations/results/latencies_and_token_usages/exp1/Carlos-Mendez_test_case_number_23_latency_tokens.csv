@@ -1,0 +1,12 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+ba70a967-d48f-44f7-8722-4c4cee87e54e,"Hi! I’d like to place an order for delivery, please. I’ll have one Fettuccine Alfredo with lobster and mushrooms, and one Margarita on the rocks with mango flavor and premium tequila.",1292,1.667766809463501
+90728863-0ddc-4e85-9516-f55c9bf3d69c,"Yes, that’s correct! My name is Carlos Mendez. And yes, I'm good for pickup. What's the total?",1416,1.1186957359313965
+9af9ce5e-dee3-4e57-92af-7d619eb82318,"Actually, that total doesn't look right. The Fettuccine Alfredo with lobster is $31.99 total, and the Margarita is $15.99 total, making it $47.98 altogether. Can you confirm that?",1614,1.190476894378662
+8b0a711b-b5da-4cce-b66a-756c0724f9e7,"It looks like there’s been a misunderstanding with the prices. The way we confirmed the Fettuccine Alfredo with lobster was $31.99 total, and the Margarita was $15.99. That gives us a total of $47.98, which matches my original calculation. 
+
+Can we confirm that? I’d like to go ahead with the order at that total.",1919,2.153687000274658
+9a956676-4025-46a1-aaa6-aed7584e4a03,"No, I want to confirm the order exactly as we discussed before. One Fettuccine Alfredo with lobster and mushrooms for a total of $31.99, and one Margarita for $15.99, making a total of $47.98. 
+
+Can we go ahead and finalize that order?",2195,2.042475938796997
+3ad98a89-9d79-40be-9ed5-9afd71d16a2c,"I’d like to proceed with picking up the order in 20 minutes, please.",2325,1.243267297744751
+0b039564-27ac-4d4a-8206-a8d959c0d8a9,exit,2438,0.8686709403991699

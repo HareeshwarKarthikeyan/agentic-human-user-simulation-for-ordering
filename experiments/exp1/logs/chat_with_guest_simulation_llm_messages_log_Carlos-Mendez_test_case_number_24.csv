@@ -1,0 +1,45 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+26b34e12-dd09-4458-9d24-086bcac4cf61,assistant,Hello! Thank you for calling The Garden Bistro. How can I assist you today?,order_taking_llm,2025-08-30T05:31:20.585809+00:00,,,,,,-1.0
+213af97e-357d-479f-adb3-97f6193492d4,agent,"Hi there! I’d like to place an order. I want one Atlantic Salmon, prepared blackened with mango salsa and quinoa as the side. Also, I need one Spinach Artichoke Dip with pita bread. Can I get the total on that?",guest_simulation_llm,2025-08-30T05:31:22.430384+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1182, ""num_response_tokens"": 52, ""total_tokens"": 1234}",1844.1009521484375
+aa734d5d-e442-4296-8e45-491cb8d34504,assistant,"Great choice with the Atlantic Salmon! Just to confirm, you’d like it blackened with mango salsa and quinoa as the side. And one Spinach Artichoke Dip with pita bread. 
+
+Let me calculate the total for you. 
+
+1. **Atlantic Salmon:** $26.99
+    - **Preparation:** Blackened ($0.00)
+    - **Sauce:** Mango Salsa ($3.00)
+    - **Side Substitute:** Quinoa ($2.00)
+    
+   That brings the salmon to $31.99.
+
+2. **Spinach Artichoke Dip:** $11.99
+    - **Bread Choice:** Pita Bread ($2.00)
+
+   So, the total for the dip comes to $13.99.
+
+Now adding everything up:  
+$31.99 (salmon) + $13.99 (dip) = **$45.98.**
+
+Can I get your name for the order?",order_taking_llm,2025-08-30T05:31:30.088973+00:00,,,,,,-1.0
+f9aef964-2d56-4c53-9eeb-b9f747237edd,agent,"It's Carlos Mendez. Can you confirm that my order includes the Atlantic Salmon blackened with mango salsa and quinoa, along with the Spinach Artichoke Dip with pita bread?",guest_simulation_llm,2025-08-30T05:31:31.847394+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1450, ""num_response_tokens"": 36, ""total_tokens"": 1486}",1757.8611373901367
+ad220f2e-fabe-4187-a0c1-9daa08995354,assistant,"Sure, Carlos! Here's a recap of your order:
+
+1. **Atlantic Salmon:** Blackened with mango salsa and quinoa as the side - $31.99
+2. **Spinach Artichoke Dip:** With pita bread - $13.99
+
+Total: **$45.98**
+
+Your order will be under the name **Carlos Mendez**. 
+
+Would you like to add anything else, or are you all set for pickup?",order_taking_llm,2025-08-30T05:31:34.122814+00:00,,,,,,-1.0
+d619e27a-5a90-463f-9fc1-63544aaf40ec,agent,"No, that's everything. Just to confirm, I have the Atlantic Salmon blackened with mango salsa and quinoa, and the Spinach Artichoke Dip with pita bread for a total of $45.98, right?",guest_simulation_llm,2025-08-30T05:31:35.328623+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1600, ""num_response_tokens"": 44, ""total_tokens"": 1644}",1205.2640914916992
+dc2f2d44-c651-4a9c-be90-83e3c44420cf,assistant,"Yes, that's absolutely correct, Carlos! So you have:
+
+1. **Atlantic Salmon** - blackened with mango salsa and quinoa  
+2. **Spinach Artichoke Dip** with pita bread  
+
+Total is **$45.98**. 
+
+Your order will be ready for pickup in about 20 minutes. Thank you for choosing The Garden Bistro! Enjoy your meal!",order_taking_llm,2025-08-30T05:31:38.761488+00:00,,,,,,-1.0
+d10521b1-eee9-4675-a3f0-a9434fd11389,agent,exit,guest_simulation_llm,2025-08-30T05:31:39.610408+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1744, ""num_response_tokens"": 1, ""total_tokens"": 1745}",848.5009670257568
+b7ca0dd5-f16e-4fee-8f4b-0d007dc41295,system,"{""guest_persona"": {""full_name"": ""Carlos Mendez"", ""order_size"": 2, ""order_complexity"": ""complex"", ""guest_bio"": ""A chef who loves analyzing restaurant menus and asking detailed questions about preparation methods. Orders unusual combinations to understand flavor profiles. Often requests modifications based on culinary expertise.""}, ""target_order"": {""order_items"": [{""name"": ""Atlantic Salmon"", ""quantity"": 1, ""base_price"": 26.99, ""modifiers"": [{""modifier_type_name"": ""Preparation"", ""modifier_option_name"": ""Blackened"", ""is_required"": false, ""price"": 0.0}, {""modifier_type_name"": ""Sauce"", ""modifier_option_name"": ""Mango Salsa"", ""is_required"": false, ""price"": 3.0}, {""modifier_type_name"": ""Side Substitute"", ""modifier_option_name"": ""Quinoa"", ""is_required"": false, ""price"": 2.0}], ""item_total_price"": 31.99}, {""name"": ""Spinach Artichoke Dip"", ""quantity"": 1, ""base_price"": 11.99, ""modifiers"": [{""modifier_type_name"": ""Bread Choice"", ""modifier_option_name"": ""Pita Bread"", ""is_required"": false, ""price"": 2.0}], ""item_total_price"": 13.99}], ""order_total_price"": 45.98, ""reasoning"": ""Carlos Mendez ordered blackened salmon with mango salsa and quinoa plus spinach dip for a Thursday lunch, testing contrasting preparation methods and flavor profiles.""}}",test_case_info,2025-08-30T05:31:39.610562+00:00,,,,,,-1.0

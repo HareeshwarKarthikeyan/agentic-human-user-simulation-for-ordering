@@ -1,0 +1,192 @@
+{
+  "exp1": {
+    "experiment": 1,
+    "num_conversations": 60,
+    "total_tokens": {
+      "mean": 6618.316666666667,
+      "std": 2934.829180103825,
+      "min": 3579,
+      "max": 18407,
+      "sum": 397099
+    },
+    "total_latency": {
+      "mean": 5.078531980514526,
+      "std": 3.0162588936628536,
+      "min": 2.48925518989563,
+      "max": 17.73919129371643,
+      "sum": 304.7119188308716
+    },
+    "num_messages": {
+      "mean": 3.5166666666666666,
+      "std": 1.3227706612342982,
+      "min": 2,
+      "max": 9
+    },
+    "token_cost": {
+      "mean": 0.09927475,
+      "std": 0.04402243770155737,
+      "total": 5.956485
+    },
+    "efficiency": {
+      "tokens_per_message": 1881.9857819905212,
+      "latency_per_message": 1.4441323167339886
+    },
+    "relative_metrics": {
+      "token_increase": 0.0,
+      "latency_increase": 0.0,
+      "cost_increase": 0.0
+    }
+  },
+  "exp2": {
+    "experiment": 2,
+    "num_conversations": 60,
+    "total_tokens": {
+      "mean": 13504.75,
+      "std": 5224.852781418822,
+      "min": 6568,
+      "max": 31700,
+      "sum": 810285
+    },
+    "total_latency": {
+      "mean": 4.556372100000002,
+      "std": 1.2168602883034094,
+      "min": 2.601089,
+      "max": 8.358362,
+      "sum": 273.3823260000001
+    },
+    "num_messages": {
+      "mean": 4.15,
+      "std": 1.4121496615680176,
+      "min": 2,
+      "max": 8
+    },
+    "token_cost": {
+      "mean": 0.20257125,
+      "std": 0.07837279172128232,
+      "total": 12.154275
+    },
+    "efficiency": {
+      "tokens_per_message": 3254.156626506024,
+      "latency_per_message": 1.0979209879518077
+    },
+    "relative_metrics": {
+      "token_increase": 104.05113082631787,
+      "latency_increase": -10.281709015872389,
+      "cost_increase": 104.05113082631789
+    }
+  },
+  "exp3": {
+    "experiment": 3,
+    "num_conversations": 60,
+    "total_tokens": {
+      "mean": 24579.816666666666,
+      "std": 16101.682089657244,
+      "min": 8372,
+      "max": 66998,
+      "sum": 1474789
+    },
+    "total_latency": {
+      "mean": 36.299117216666666,
+      "std": 24.253753039657855,
+      "min": 10.505096,
+      "max": 105.056202,
+      "sum": 2177.947033
+    },
+    "num_messages": {
+      "mean": 8.216666666666667,
+      "std": 5.765100943512515,
+      "min": 2,
+      "max": 20
+    },
+    "token_cost": {
+      "mean": 0.36869725000000003,
+      "std": 0.24152523134485865,
+      "total": 22.121835
+    },
+    "efficiency": {
+      "tokens_per_message": 2991.4584178498985,
+      "latency_per_message": 4.417742460446247
+    },
+    "relative_metrics": {
+      "token_increase": 271.3907614977625,
+      "latency_increase": 614.7561018802339,
+      "cost_increase": 271.3907614977626
+    }
+  },
+  "exp4": {
+    "experiment": 4,
+    "num_conversations": 60,
+    "total_tokens": {
+      "mean": 15762.566666666668,
+      "std": 7780.856181180978,
+      "min": 4908,
+      "max": 37648,
+      "sum": 945754
+    },
+    "total_latency": {
+      "mean": 16.876738966666665,
+      "std": 6.58774613221587,
+      "min": 6.580634,
+      "max": 36.688193,
+      "sum": 1012.6043379999999
+    },
+    "num_messages": {
+      "mean": 4.383333333333334,
+      "std": 1.8627190400654154,
+      "min": 1,
+      "max": 9
+    },
+    "token_cost": {
+      "mean": 0.23643850000000002,
+      "std": 0.11671284271771465,
+      "total": 14.18631
+    },
+    "efficiency": {
+      "tokens_per_message": 3596.022813688213,
+      "latency_per_message": 3.8502066083650184
+    },
+    "relative_metrics": {
+      "token_increase": 138.16579744597695,
+      "latency_increase": 232.31530354480142,
+      "cost_increase": 138.16579744597698
+    }
+  },
+  "exp5": {
+    "experiment": 5,
+    "num_conversations": 60,
+    "total_tokens": {
+      "mean": 14788.55,
+      "std": 7722.553391258187,
+      "min": 6845,
+      "max": 58075,
+      "sum": 887313
+    },
+    "total_latency": {
+      "mean": 23.155298550000005,
+      "std": 11.124992843446948,
+      "min": 9.838028,
+      "max": 84.555923,
+      "sum": 1389.3179130000003
+    },
+    "num_messages": {
+      "mean": 4.366666666666666,
+      "std": 2.6392338955756753,
+      "min": 2,
+      "max": 19
+    },
+    "token_cost": {
+      "mean": 0.22182825000000003,
+      "std": 0.11583830086887283,
+      "total": 13.309695000000001
+    },
+    "efficiency": {
+      "tokens_per_message": 3386.6908396946565,
+      "latency_per_message": 5.3027401259542
+    },
+    "relative_metrics": {
+      "token_increase": 123.4488125127487,
+      "latency_increase": 355.9447225860346,
+      "cost_increase": 123.44881251274875
+    }
+  }
+}

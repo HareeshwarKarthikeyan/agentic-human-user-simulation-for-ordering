@@ -1,0 +1,24 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+7b45dc7b-a03b-401d-ba76-d054fa91f4ba,assistant,Hello! Thank you for calling The Garden Bistro. How can I help you today?,order_taking_llm,2025-08-30T05:35:26.552979+00:00,,,,,,-1.0
+7e8df53f-f2bf-4948-be3a-1e1543a2fc6a,agent,"Hi there! I’d like to place an order for a Spaghetti Carbonara with extra Parmesan, and also one Spinach Artichoke Dip, please. ",guest_simulation_llm,2025-08-30T05:35:27.583368+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1085, ""num_response_tokens"": 33, ""total_tokens"": 1118}",1030.0910472869873
+01a131e9-f634-4801-9477-ea0e6664da4e,assistant,"Great choices! For the Spaghetti Carbonara, just to confirm, do you want to add any protein like grilled chicken or shrimp, or just the extra Parmesan? And for the Spinach Artichoke Dip, would you like to add pita bread for an extra $2?",order_taking_llm,2025-08-30T05:35:29.013493+00:00,,,,,,-1.0
+cc2c13e3-2b22-4116-9d91-eba826787272,agent,"No, just the Carbonara with extra Parmesan and the Spinach Artichoke Dip as it is, please. That's all I need. Can you give me the total?",guest_simulation_llm,2025-08-30T05:35:29.784923+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1199, ""num_response_tokens"": 35, ""total_tokens"": 1234}",771.064043045044
+09b7264a-ba7a-4e59-91fb-e2b320d0648d,assistant,"Sure thing! Just to recap your order: 
+
+- One Spaghetti Carbonara with extra Parmesan: $18.99 + $2.00 (extra Parmesan) = $20.99
+- One Spinach Artichoke Dip: $11.99
+
+That brings your total to $32.98. 
+
+Can I get your name for the order?",order_taking_llm,2025-08-30T05:35:31.368495+00:00,,,,,,-1.0
+c8f97133-5d49-4e0e-b781-983167291c5a,agent,It's Sofia Russo. ,guest_simulation_llm,2025-08-30T05:35:31.796138+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1332, ""num_response_tokens"": 5, ""total_tokens"": 1337}",427.25300788879395
+d6974e90-5f18-4c4d-93fa-ab4c95757641,assistant,"Thank you, Sofia! So, your order is:
+
+- One Spaghetti Carbonara with extra Parmesan
+- One Spinach Artichoke Dip
+
+Total: $32.98. 
+
+Your order will be ready for pickup in about 20 minutes. Thank you for choosing The Garden Bistro! If you need anything else, just let us know.",order_taking_llm,2025-08-30T05:35:34.019071+00:00,,,,,,-1.0
+c4bf8514-de2a-4ce5-919f-868a5b08c596,agent,exit,guest_simulation_llm,2025-08-30T05:35:34.601914+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1432, ""num_response_tokens"": 1, ""total_tokens"": 1433}",582.5271606445312
+023ab12d-2959-4f6e-843f-5866db93d4ad,system,"{""guest_persona"": {""full_name"": ""Sofia Russo"", ""order_size"": 2, ""order_complexity"": ""medium"", ""guest_bio"": ""A wine enthusiast who asks about pairing recommendations and takes time to consider options. Orders appetizers and entrees based on wine selections. Appreciates knowledgeable suggestions about complementary flavors.""}, ""target_order"": {""order_items"": [{""name"": ""Spaghetti Carbonara"", ""quantity"": 1, ""base_price"": 18.99, ""modifiers"": [{""modifier_type_name"": ""Extra"", ""modifier_option_name"": ""Extra Parmesan"", ""is_required"": false, ""price"": 2.0}], ""item_total_price"": 20.99}, {""name"": ""Spinach Artichoke Dip"", ""quantity"": 1, ""base_price"": 11.99, ""modifiers"": [], ""item_total_price"": 11.99}], ""order_total_price"": 32.98, ""reasoning"": ""Sofia Russo ordered carbonara with extra parmesan and spinach dip for a Sunday dinner, rich flavors that complement Italian wines.""}}",test_case_info,2025-08-30T05:35:34.602024+00:00,,,,,,-1.0

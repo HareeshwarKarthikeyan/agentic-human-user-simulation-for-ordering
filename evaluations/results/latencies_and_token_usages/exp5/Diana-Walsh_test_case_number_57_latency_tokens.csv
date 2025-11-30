@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+5ef13023-cc61-4d60-9f35-ce2b0e73c8ff,Hi! I need to place an order for a Caesar Salad with Grilled Chicken and a small Fresh Orange Juice. Could you help me with that?,2282,4.263957
+088201cb-c762-4144-94bd-beb09a505444,"Could I please have the dressing mixed in for the salad? And just to confirm, could you let me know the price for the salad and juice? Thanks!",2448,3.771204
+2d817008-dda5-48e7-b74d-924853790c0c,My name is Diana Walsh. Thanks for confirming the order.,3824,6.245747
+83cc700c-d9b8-49b5-bc7c-96970c027997,exit,2393,4.062757

@@ -1,0 +1,26 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+5987508a-cf53-45ec-9dc4-47d2244638dd,"Hey there! I'm David, and I'm ordering for my family. Could we start with the Kids Mac and Cheese? I'd like it with applesauce on the side and chocolate milk as the drink, please.",2510,6.625561
+3001796c-db0e-4398-b26e-faebb74ab943,"Hey, actually yes, could I add the Kids Chicken Tenders with honey mustard sauce, carrot sticks on the side, and a milk to drink? Also, do you guys have any allergen information for the chicken tenders? Just want to make sure they're good for the little ones.",4218,4.461455
+1572d05d-4ad4-445e-9cc6-30d395d18f78,"Thanks for the allergen info! Next, could I get the Fish and Chips? I'd like the Halibut option for that one, please.",2940,3.20192
+8641f23d-504c-474a-86cd-3ea87b5a542c,"Hey, could I also add a Portobello Mushroom Burger? I’d like it with vegan cheese and sweet potato fries on the side. And as for the Fish and Chips, I’m all set; no extra sauce or sides needed, thanks! Could you let me know the total price?",2986,3.125009
+bfe99e1c-ab3c-45f0-a86b-cfa7ede814d7,"It seems like there's a small discrepancy in the price I was quoted. The total should actually be $58.46, accounting for all the options requested. Can you confirm if this is correct on your side? The name on the order is David Thompson. Thanks!",3299,0.847053
+a458b688-b2b6-4fb9-bcd6-65746da72c5e,"Hey, so I'm a bit confused since I'm pretty sure the total should include some extra charges for the choices we made. Could we just go over each item one more time, breaking down every add-on or extra to confirm? I just want to make sure everything's correct for my family's order, especially with those options like vegan cheese and halibut. Thank you!",3772,3.410694
+a57322d5-5607-418b-843d-332d7be18a47,"Hey there! Just to clarify, it seems there might still be a small issue. Let's go through it one more time:
+
+1. **Kids Mac and Cheese** - $7.99, with applesauce and chocolate milk included.
+2. **Kids Chicken Tenders** - $8.99, with honey mustard sauce, carrot sticks, and milk.
+3. **Fish and Chips (Halibut)** - Typically, Halibut options add $4.00 to the base $18.99, making it $22.99.
+4. **Portobello Mushroom Burger** - $13.99, with vegan cheese for $2.50.
+5. **Sweet Potato Fries** as a side with the burger - $2.00.
+
+When we add all those together: 
+- Kids Mac and Cheese: $7.99
+- Kids Chicken Tenders: $8.99
+- Fish and Chips (Halibut): $22.99 
+- Portobello Mushroom Burger with Vegan Cheese: $16.49
+- Sweet Potato Fries: $2.00
+
+That gives us a total of $58.46. 
+
+Does this break down align with what you have? If it's correct, should we proceed with placing the order under David Thompson?",4659,3.12237
+8da06226-da58-4c22-a868-0142a7806d77,exit,4549,2.997915

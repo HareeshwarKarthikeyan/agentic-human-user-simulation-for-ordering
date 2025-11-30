@@ -1,0 +1,10 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+04379951-03af-4599-83cb-1fdbafa30b45,Hi there! I'm looking to place an order and would love to ask a few questions about your menu. Could you tell me about your Chicken Parmesan? I’d like to know the pasta options and if there are any unique ingredients or presentation styles.,2319,3.962801
+d25c9fe7-3ec0-485b-a1d5-7dc97d59c15c,"That sounds delicious! I'm interested in ordering the Chicken Parmesan. I see you have a choice of Penne or Angel Hair pasta. Can you tell me which would go best with the marinara sauce? And, just exploring here, do you have any recommendations or seasonal specials that pair well with the Chicken Parmesan?",2426,3.318909
+ddf3a4f1-747c-4102-be96-4e3bd20c2a9a,"Hey! My name is Rachel Green. I think I'll go with the Chicken Parmesan, but could I have it with Angel Hair pasta instead of Penne? Also, I would love to ask about your wine options. Would you happen to have a nice house red wine by the bottle? I'm exploring unique pairings for my food blog.",3956,3.691484
+77e9671e-0f9c-4f15-837f-b219764fed7d,"Actually, can we make a quick adjustment? I’d love if the Chicken Parmesan could come with extra cheese. Also, I believe the wine by the bottle is actually $32.99 instead of $24.00, right? If that's all set, I’m good with that.
+
+Also, do you have any seasonal specials or unique dishes I bet would pair well with this order? 
+
+And yes, pickup in about 20 minutes works perfectly!",2809,5.324088
+6720c232-3925-49cb-a24d-d267cb810b8e,exit,2683,5.46484

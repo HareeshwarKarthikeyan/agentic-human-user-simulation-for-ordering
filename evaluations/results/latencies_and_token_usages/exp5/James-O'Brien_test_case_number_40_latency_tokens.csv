@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+0c011b11-ea47-42e8-a95a-7c73ead7f29d,"Hey there! I need to place an order for my crew. I’d like to get 4 Classic Burgers, all cooked medium, with French Fries on the side. Also, add 2 BBQ Bacon Burgers, cooked medium as well, with French Fries. Could you confirm the total cost for these?",2367,4.090741
+0bdc86f3-d286-46fd-be09-7cc9e2e1bc39,"The name for the order is James O'Brien. And nope, I don't need anything else. Thanks!",4179,4.237768
+8e802596-4586-41d7-a0b8-998f7beff50b,exit,3722,6.248214

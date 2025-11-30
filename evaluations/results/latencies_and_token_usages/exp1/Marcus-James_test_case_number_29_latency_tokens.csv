@@ -1,0 +1,9 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+9dc8d920-9e23-4ad5-97df-3c102ab6ac61,"Hi there! I’d like to place an order for pick-up. 
+
+I want one Atlantic Salmon, grilled, please. Then I’d like one Grilled Chicken Sandwich with a side salad instead of fries. And for a drink, I’ll take a large Fresh Orange Juice. 
+
+Can you confirm that for me?",1252,1.32942795753479
+1404434c-4f54-45a7-ba8d-167384995a8d,"No, just the sandwich as is with the side salad, please. Can you confirm the total price for that order?",1366,0.9026589393615723
+5ddde899-2b82-40bd-bb6c-a66ec89c7d04,"Yes, it's Marcus James. Can you confirm my order for me?",1503,0.8205361366271973
+d8883cc5-e107-44bd-80eb-abf0cbbc7b15,exit,1621,0.5396568775177002

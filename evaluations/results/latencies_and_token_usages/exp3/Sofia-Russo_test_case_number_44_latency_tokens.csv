@@ -1,0 +1,15 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+45ef8c9b-11f2-4fdd-945b-d46cc446f28f,"Hi there! This is Sofia Russo. I'd love to place an order today. Could you help me out with an Atlantic Salmon and a Caesar Salad, with the dressing on the side? Also, could you recommend a wine that pairs well with the Salmon? I'd love to hear your suggestions!",3279,3.048675
+7338ee4c-f4c5-49f6-8710-85b2b6b4d3c9,"Hi there! I'm Sofia Russo. For the Atlantic Salmon, I'll go with it grilled, please. As for wine, I appreciate your suggestion, but I'll pass on that today. I’m just focusing on the meal.
+
+I’ll keep the Caesar Salad as it is, but could you please have the dressing on the side? Thanks a bunch! Could you confirm the total for just those items, please?",2257,1.69199
+91fab4dd-e20b-48d1-958b-63dc9250e6d0,"Hi, yes, the order should include the Grilled Atlantic Salmon and the Caesar Salad with dressing on the side. And the name for the order is Sofia Russo. Thanks!",2261,2.701782
+a75274e4-306e-4bbc-b785-dd006f2ead79,"Hi there, I think there might have been a mistake. I don't see my order placed yet. I need to order:
+
+- Atlantic Salmon
+- Caesar Salad with dressing on the side
+
+Could you please add these to my order? Thanks!",3470,5.397572
+408af201-1158-4e02-8b3f-66e2ed524543,"That sounds perfect! Could you please go ahead and add the Atlantic Salmon, grilled, and the Caesar Salad with dressing on the side to my order? Thanks!",1995,3.575218
+9939727b-bef6-4a24-aca0-dab72e2a6ac7,"Yes, my name is Sofia Russo. The order looks perfect with the Grilled Atlantic Salmon and Caesar Salad with the dressing on the side. Please go ahead and place it for me.",2232,3.997591
+a9f65b5f-416b-47cc-8469-c87ba40bb2c5,exit,2235,3.500757

@@ -1,0 +1,6 @@
+message_index,message_id,timestamp,role,content_preview,current_items_in_order,target_items_to_order,is_ordering_complete,menu_exploration_style,mood_tone,ordering_style,has_tool_calls
+1,29bcee43-ae9e-4658-a1dc-531d4491fbd4,2025-08-31T02:32:53.911586+00:00,agent,"Hi there! I'd like to place an order for a Chicken Parmesan, please.",[],"[{'name': 'Chicken Parmesan', 'quantity': 1, 'modifiers': []}]",no,does_not_explore_menu,casual,all_at_once,True
+3,b337c3c6-eeed-4ae0-ad38-fdcb52ade1d6,2025-08-31T02:32:58.720798+00:00,agent,"I'd like the Chicken Parmesan with angel hair pasta, please. No need for extra sauce or cheese. Than",[],"[{'name': 'Chicken Parmesan', 'quantity': 1, 'modifiers': []}]",no,does_not_explore_menu,casual,all_at_once,True
+5,03d2d081-649a-437e-ab17-532ed2349bd2,2025-08-31T02:33:01.593749+00:00,agent,"Sure, you can put the name as Linda Walsh for the order. 
+
+Oh, and what's the total price for that?","[{'name': 'Chicken Parmesan', 'quantity': 1, 'base_price': 22.99, 'item_total_price': 22.99, 'modifiers': [{'name': 'angel hair pasta', 'quantity': 1}, {'name': 'no extra sauce', 'quantity': 1}, {'name': 'no extra cheese', 'quantity': 1}]}]","[{'name': 'Chicken Parmesan', 'quantity': 1, 'modifiers': []}]",,,,,True

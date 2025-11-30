@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+88c1e9bc-c402-498b-b7e0-2f1830f4672c,"Hi! I’d like to place an order for a family dinner. Can I get one Ribeye Steak cooked Medium Rare with Chimichurri sauce and a side upgrade to Truffle Mac and Cheese? Also, I’d like one Spinach Artichoke Dip with Pita Bread, and finally, a House Red Wine in a 9oz glass.",1378,1.944045066833496
+842cf9f2-941a-4d1c-b7c7-b9dba59ee319,It's Miguel Rodriguez. ,1593,1.0904912948608398
+7678df81-90bf-42d6-96c1-468a89debe32,exit,1730,0.6585800647735596

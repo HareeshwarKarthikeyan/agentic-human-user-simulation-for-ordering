@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+10d99ed0-addc-4f9d-ae37-b4b401e1883d,"Hi there! I'd like to place an order for a Classic Burger, cooked medium, with American cheese and a side of French fries. Could you help me with that?",2285,4.602478
+9747d6ee-18fc-47ac-a717-d0cb86ee469b,"Yes, that's right! I'd like a Classic Burger cooked medium with American cheese and a side of French fries. No drink or anything else, just that, please. Can you confirm the total price for me?",2341,2.831749
+c697bca4-bb4f-41a3-93f1-e81ee695d30b,"Sure thing, it's Robert Kim. Sounds good to go!",2535,3.604776
+88e9eefc-2be2-411e-bd1d-24b0283184b4,exit,2340,2.968363

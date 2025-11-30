@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+6e159f5b-a630-4876-82ed-70ac4b529c40,Hi! I'd like to place an order for a Club Sandwich. Could I get that with white bread and French fries on the side?,2081,1.326291
+5a55575a-fa05-447c-8868-ac8870494526,"Sure, the name for the order is Robert Kim. 
+
+And just to confirm, that's one Club Sandwich on white bread with French fries, right? I'd love to know the total price before we wrap up as well.",2128,0.715716
+5438b986-d075-43c7-8933-78064c25e347,"No, I think I'm all set with just the Club Sandwich for today. Thanks for checking! Just wanted to confirm, the total is $15.99, right?",2356,0.780663
+b3f1ee85-7182-408c-974c-4a50c5679d91,exit,2405,0.862765

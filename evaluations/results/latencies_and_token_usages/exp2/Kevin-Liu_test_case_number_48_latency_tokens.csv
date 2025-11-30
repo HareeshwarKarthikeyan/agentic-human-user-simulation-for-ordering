@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+3d57838a-663f-441e-9dc2-6ee16ebb0d8f,"Hi there! I'd like to order the Chicken Parmesan, please.",1998,1.256712
+0680df51-9154-4cd5-8336-79382e70e945,"I'll go with Penne for the Chicken Parmesan, please. Thanks!",2073,1.606539
+f3d8ebb4-9af0-481e-9e92-17bd168c813b,"No extra sauce or cheese needed, thank you. Could you just confirm the price for me?",2092,0.747935
+142d2378-ca7e-4704-b2db-614cc6b6212f,Sure! My name is Kevin Liu.,2188,0.720213
+8123b31d-a5b1-444d-b771-a7c0f75acb31,exit,2248,0.916992

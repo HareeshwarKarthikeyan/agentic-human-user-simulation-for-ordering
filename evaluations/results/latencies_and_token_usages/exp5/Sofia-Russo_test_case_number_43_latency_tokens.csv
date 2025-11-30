@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+40b3872c-8f4a-4040-a101-dcc9303100e3,"Hi there! I'm looking to order a Filet Mignon. Could you help me with that, please?",2271,4.859826
+72b56e34-04b1-4eb3-997c-6cfbc5bc2a56,"I'd like the Filet Mignon cooked Medium Rare, please.",2354,2.894644
+d5da5534-8468-43a1-9a24-32113fca3790,"Oh, the sauce options sound tempting! But I think I'll pass on those for now. Instead, could you go ahead and add a Filet Mignon cooked Medium Rare to my order? And what's your recommendation for a wine pairing with that?",2361,2.871908
+e1fb9cab-25a2-471a-8413-e2fad2f052a8,"Oh, that sounds divine! Could I get the Filet Mignon cooked medium rare, please? And let's go for that 9oz glass of House Red Wine. It sounds like a perfect pairing!",2389,2.520869
+2b32898f-fd11-4b55-9288-bb9e09385a5a,"Sure, the name for the order is Sofia Russo. Thanks for confirming everything!",3901,4.506913
+91b88f1c-4353-4272-8c41-bf2d8361ccb3,exit,2475,4.43002

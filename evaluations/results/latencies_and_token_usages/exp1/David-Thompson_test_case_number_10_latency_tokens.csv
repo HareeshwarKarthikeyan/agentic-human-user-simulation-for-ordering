@@ -1,0 +1,14 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+6103d8b2-097b-4be7-b07e-7ec8d3cd7b3f,"Hi! I’d like to place an order for pickup, please. I need two Kids Chicken Tenders with ketchup, apple slices, and apple juice. Then I want a Classic Burger cooked medium well, with a cheddar cheese option, on a gluten-free bun, and a side salad. Lastly, I’d like a Grilled Chicken Sandwich with a fruit cup. Can you get that for me?",1476,1.490495204925537
+bac9188e-20c6-4991-91f1-5783eb82c5aa,"No, that’s all I need for now. Can you just confirm the total price for that order?",1635,1.0450549125671387
+f72112ca-2921-4267-956f-45d2c4f68f1b,"Actually, I think you have the total a bit off. The price I had for the Classic Burger maintenance is $19.49, and I think you may have missed that the Grilled Chicken Sandwich also adds up to $19.49. 
+
+So, the corrected totals are:
+
+- Kids Chicken Tenders: $17.98
+- Classic Burger: $19.49
+- Grilled Chicken Sandwich: $19.49
+
+The total should be $56.96. Can you confirm that for me?",1922,2.435483694076538
+ba11e442-eecd-4603-a9b6-ec0aeb9c71cd,I can pick it up in about 20 minutes. Thanks for taking my order!,2080,0.6831080913543701
+3b371b0d-7f85-493c-8b5d-6d62498afd16,exit,2206,0.5222561359405518

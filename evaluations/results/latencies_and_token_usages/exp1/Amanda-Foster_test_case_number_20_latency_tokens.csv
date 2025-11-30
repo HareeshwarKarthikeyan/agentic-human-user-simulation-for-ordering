@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+e1beab0f-0686-4ea6-901f-c49cc7cfbaf2,"Hi there! I'd like to place an order for delivery, please. I need two Grilled Chicken Sandwiches with French Fries, two Club Sandwiches on Wheat bread with Potato Chips, and one Vegetable Stir Fry.",1234,3.338758945465088
+8ada35d7-054a-4f73-924b-d6bc68da256f,"That's fine, takeout works for me. The name is Amanda Foster. So, I want two Grilled Chicken Sandwiches with French Fries, two Club Sandwiches on Wheat with Potato Chips, and one Vegetable Stir Fry. Can you confirm that for me?",1356,3.4751780033111572
+bdbe1499-daf8-4f16-8496-7eb7a4d03c68,"No, I don’t need any add-ons for the Grilled Chicken Sandwiches, and just the regular Vegetable Stir Fry is fine. Can you confirm the total price for that?",1499,3.0977368354797363
+435996fb-5e0a-4041-9276-f45563addb26,"No, thank you! I'm good with just the food. Can you go ahead and place the order for me?",1731,2.8634402751922607
+65b95a33-5ced-46ae-8d40-b1107f26c3dc,exit,1850,2.0113449096679688

@@ -1,0 +1,11 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+86ef4aa6-9d6e-41ae-9272-48975a427e15,"Hi! I’d like to place an order for a team lunch, please. Can I get two large Margherita Pizzas and three Caesar Salads?",1122,2.2825019359588623
+6381a246-0b06-46c1-b413-125683defc99,"No add-ons for the salads, just plain Caesar, please. The name for the order is Amanda Foster. Can you confirm the size for the pizzas too?",1235,1.318458080291748
+c3da82fa-a695-4585-86b7-89cbd0eaab94,"No, just the pizzas and salads, please. Can you confirm the total again?",1396,0.9664382934570312
+c25fcce7-187e-4903-957e-34858d1a8d51,It sounds like there was a mistake with the pricing. The total should actually be $88.95 for two large Margherita Pizzas and three Caesar Salads. Can you confirm that amount?,1527,1.175565242767334
+2d26d0b5-231e-46c7-ada7-4426a5608a25,"Actually, I'm sorry, but the total should be $88.95 with that order. It includes the two large pizzas and three salads. Can you please check that again?",1701,1.1542408466339111
+4d0aa066-7d34-4f3b-bbca-2ee550391249,"Actually, it looks like the total might be miscalculated. Based on the order of two large pizzas and three salads, the correct total should be $88.95. Can we go with that amount for the order?",1899,1.737915277481079
+e8982cab-76b5-4dd7-9722-962f30cb3ae4,"I believe the total was confirmed as $88.95 for your order of two large Margherita Pizzas and three Caesar Salads, given the pricing adjustments. Can I confirm that total for your order now?",2123,2.01311993598938
+2a9a342c-4ddd-48ed-9947-5503034579b5,"I apologize if I'm not getting this right, but I need to confirm your order details again to ensure everything is correct. You want two large Margherita Pizzas and three Caesar Salads, which should come to a total of $88.95. Is that right? If so, I'd like to confirm that order.",2292,2.483408212661743
+e9b26bd8-788a-4155-8504-3dbd13f260f2,"I think there’s been a misunderstanding here. I’d like to confirm that my order includes two large Margherita Pizzas and three Caesar Salads, which should indeed total $88.95. Can we go ahead and confirm that order at that total?",2499,2.698735237121582
+06176127-4683-4ddc-9861-9b1caaf742e4,exit,2613,1.9088082313537598

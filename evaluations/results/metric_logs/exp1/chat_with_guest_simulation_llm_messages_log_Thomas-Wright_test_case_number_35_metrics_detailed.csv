@@ -1,0 +1,9 @@
+Metric,Value,Description
+PAS,0.9167,Persona Adherence Score - How well the guest maintains their persona
+BVS,0.0000,Behavioral Variance Score - Realistic fluctuations in behavior
+ORA,0.4000,Order Restriction Adherence - Sticking to target order items
+DEI,0.0000,Decision Explainability Index - Traceability of decisions
+CRRS,0.3692,Composite Realism & Reliability Score - Overall quality
+experiment_level,1,Ablation experiment level (1-5)
+timestamp,2025-09-01T22:34:35.324402,Analysis timestamp
+conversation_id,chat_with_guest_simulation_llm_messages_log_Thomas-Wright_test_case_number_35,Unique conversation identifier

@@ -1,0 +1,20 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+82af9f7c-d830-4e78-9cb9-ff211e988870,"Hi there! I'd like to place an order for a Vegetable Stir Fry with tofu and brown rice, please. Oh, and could I add a small Coca-Cola with light ice as well? Thanks!",2126,2.959439
+00ea7ec3-f5d6-42be-9ce5-d279c02646f7,"Yes, that's all correct! The name for the order is Emily Chen. Thanks a lot!",2384,4.932841
+c677afae-53ca-43ea-96ad-c1b395f23b1c,"Hi, it's Emily Chen placing the order. I see there's a bit of a mix-up. My Vegetable Stir Fry should have Tofu as a Protein Add-on, and there should be a pricing difference. Also, the Coca-Cola should be a small size. Could we get those corrected, please? I really appreciate your help with this!",2379,3.997769
+6a96a09d-09de-4c73-9275-af7e9f093c67,"Yes, that sounds perfect! The Vegetable Stir Fry with tofu and a small Coca-Cola with light ice is exactly what I wanted. Thanks for confirming the total.",2446,4.302801
+8522ebc9-35cf-42eb-8a2d-a353c7e24209,"Nope, that sounds perfect! Thanks for the recap. I'll be by in about 20 minutes to pick it up. Have a great day!",2377,4.510883
+c9cdc2e1-69c5-45de-8658-9933cc475fe7,It seems like my order is already confirmed and ready for pickup. Thanks! Looking forward to picking it up.,2313,1.881977
+673aba4f-a5e1-46bc-8dfc-3d8b8cbb8cc2,"Hey! I just had a quick question about the order I placed. I see there's a Vegetable Stir Fry with tofu and brown rice, as well as a small Coca-Cola with light ice. Could you confirm that for me and let me know the total price? Thanks!",2347,1.651079
+e3a5a5d3-f1a1-4fc0-8c18-a5a9ac47a1af,"That sounds perfect! I'm Emily Chen, and I love keeping things light and healthy. The Vegetable Stir Fry with tofu and brown rice sounds great along with the Coca-Cola. The total of $22.98 is exactly what I expected. Thanks for confirming!",2471,5.409742
+fb062141-bad5-4b90-bb16-e1ca8e054e55,"Hey, I think there might be a mix-up with my order. I wanted to include the Vegetable Stir Fry with tofu and brown rice along with the small Coca-Cola. Could you please add that to the order? Thanks! ",2363,4.09613
+4c0f177d-a30c-4dc9-aa8c-e7d10b6e297c,"Hi there! It seems like the Vegetable Stir Fry with tofu and brown rice isn't added to the order yet. Could you please add that for me? The current order only has the Small Coca-Cola.
+
+Here's what I need:
+
+- Vegetable Stir Fry with tofu and brown rice: $18.99
+- Small Coca-Cola: $3.99
+
+Thank you!",2401,1.982322
+3c001f2b-2de2-499f-a153-a46ae1581f0e,"Hi there, it's Emily Chen. Actually, can you please adjust the Coca-Cola to have light ice? Everything else sounds perfect. Thank you!",2430,5.348352
+4fb85969-de4c-496f-b9e4-a7d9e7c653cd,exit,3416,4.70865

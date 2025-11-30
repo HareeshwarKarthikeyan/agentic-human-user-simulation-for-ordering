@@ -1,0 +1,18 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+aae8106d-bb35-4d0d-b4d8-7d4bb01b569f,"Hey there! I'd like to place an order for 3 Large Margherita Pizzas and 3 orders of Buffalo Wings, please. Can you let me know the total price for that?",2268,4.253061
+f0468a3d-8952-4b6c-b59b-d2353a3596ab,No need for any extra sides or sauces with the Buffalo Wings. My name is [Your Name]. Could you just confirm that my order is placed? Thanks.,2574,3.070016
+1db3b61f-f7a2-4716-9210-b1864dae1f80,"It looks like there was a mistake, and nothing has been placed for my order yet. Let me make sure we get that right.
+
+I need to order:
+
+1. One Large Margherita Pizza.
+   
+Could you please add that first? Thank you.",2437,3.826827
+c5f25424-3c40-4605-8eeb-3dbc1939f1f1,"Hey, looks like there was a bit of a mix-up. I actually need three Large Margherita Pizzas, not just one. So, it should be:
+
+- 3 Large Margherita Pizzas
+- 3 orders of Buffalo Wings
+
+Can you update that for me? And by the way, can you confirm the total price after this update?",2492,3.073087
+1767c7b2-b07a-498e-9aa1-e8de3b2a27f7,"Yeah, that looks about right. You can put it under the name James O'Brien. That's everything — thanks!",3865,3.378447
+55017d7f-7426-4fda-a3dc-e30682cec3bc,exit,2439,3.944404

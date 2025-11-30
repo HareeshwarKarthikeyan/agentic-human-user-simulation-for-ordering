@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+b7e9aa3e-19d2-43df-951a-77f750ef9a5f,"Hi there! I’d like to order a French Onion Soup, please. Just one. ",1028,1.4215829372406006
+4f0414f7-aec3-4d56-aabc-1b460ffb7c5d,"Just the regular serving is fine, thank you. How much is that?",1089,1.080948829650879
+59c6e5f3-394b-49db-bfba-c00b576bfa0f,"No, just the soup is all I need. So that's one French Onion Soup for $8.99, right?",1166,1.152034044265747
+03d43de9-c110-4856-95f5-4b3016674ea4,It's Linda Walsh.,1226,0.7420840263366699
+8361f626-3533-48d8-8d20-ebf5ded53290,exit,1318,0.6281580924987793

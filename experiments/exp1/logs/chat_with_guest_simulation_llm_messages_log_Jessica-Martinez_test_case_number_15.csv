@@ -1,0 +1,19 @@
+message_id,role,content,name,timestamp,tool_calls,logs,trace_id,parent_id,usage,latency_ms
+13465a6a-d644-4457-ab9c-98b9b264fe3c,assistant,Hello! Thank you for calling The Garden Bistro. How can I assist you today?,order_taking_llm,2025-08-30T05:28:22.142811+00:00,,,,,,-1.0
+549bc743-7c86-401c-b110-dd4bf2d046c5,agent,"Hi there! I’d like to order a small Margherita pizza and an apple pie, please.",guest_simulation_llm,2025-08-30T05:28:23.234577+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1088, ""num_response_tokens"": 21, ""total_tokens"": 1109}",1091.536045074463
+08977373-e1bd-4e58-838c-bbe07c3b500b,assistant,"Great choices! Let me just confirm a couple of things for your Margherita pizza. Would you like a thin crust, or do you prefer thick or gluten-free? 
+
+And for your apple pie, would you like it à la mode with a scoop of ice cream, or just the pie?",order_taking_llm,2025-08-30T05:28:24.554400+00:00,,,,,,-1.0
+01f8d6a4-48ed-4259-95a1-ee0bc0d3d09b,agent,"Actually, I'm just looking for the small Margherita pizza, no need for any crust options. Just a small pizza and the apple pie, please. Can you confirm the price for those?",guest_simulation_llm,2025-08-30T05:28:25.891116+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1194, ""num_response_tokens"": 39, ""total_tokens"": 1233}",1336.5402221679688
+d04cbcea-58df-4d70-91c1-58108a4d8f9b,assistant,"Sure thing! Here’s the breakdown:
+
+- Small Margherita Pizza: $16.99
+- Apple Pie: $6.99
+
+Your total comes to $23.98. Can I please have a name for the order?",order_taking_llm,2025-08-30T05:28:27.058614+00:00,,,,,,-1.0
+67702466-6573-44ca-837e-cee473695b06,agent,"Yes, it's Jessica Martinez.",guest_simulation_llm,2025-08-30T05:28:27.781048+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1306, ""num_response_tokens"": 6, ""total_tokens"": 1312}",722.2061157226562
+bc51c343-95cd-4efd-9c1c-f6210deb7e97,assistant,"Thank you, Jessica! Just to confirm, you have a small Margherita pizza and an apple pie for a total of $23.98. Your order will be ready for pickup in 20 minutes.
+
+Thank you for choosing The Garden Bistro!",order_taking_llm,2025-08-30T05:28:29.340726+00:00,,,,,,-1.0
+a8e6e6f1-ebb8-4536-8195-dd2cad0909ae,agent,exit,guest_simulation_llm,2025-08-30T05:28:30.329192+00:00,,,,,"{""num_requests"": 1, ""num_request_tokens"": 1387, ""num_response_tokens"": 1, ""total_tokens"": 1388}",988.3098602294922
+fb772700-e2c3-4832-8240-7f7039b583b9,system,"{""guest_persona"": {""full_name"": ""Jessica Martinez"", ""order_size"": 2, ""order_complexity"": ""medium"", ""guest_bio"": ""A vegetarian college student on a budget who carefully reviews prices and portion sizes. Often asks about meat-free options and substitutions. Likes to know about daily specials and combo deals.""}, ""target_order"": {""order_items"": [{""name"": ""Margherita Pizza"", ""quantity"": 1, ""base_price"": 16.99, ""modifiers"": [{""modifier_type_name"": ""Size"", ""modifier_option_name"": ""Small 10\"""", ""is_required"": true, ""price"": 0.0}], ""item_total_price"": 16.99}, {""name"": ""Apple Pie"", ""quantity"": 1, ""base_price"": 6.99, ""modifiers"": [], ""item_total_price"": 6.99}], ""order_total_price"": 23.98, ""reasoning"": ""Jessica Martinez ordered a small Margherita pizza and apple pie for a Saturday treat, choosing the smallest pizza size to manage cost while enjoying comfort food.""}}",test_case_info,2025-08-30T05:28:30.329230+00:00,,,,,,-1.0

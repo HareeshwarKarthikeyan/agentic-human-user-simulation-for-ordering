@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+8bd6518b-9c7a-4923-86f0-ed5b59c51b41,"Hi there! I'd like to place an order, please. Could I get a Club Sandwich on white bread with French Fries and a small Cappuccino? Thanks!",2306,4.606602
+fbee2ddd-b159-4fb7-99c7-a08452541243,"That's exactly right! I'll have one Club Sandwich on white bread with French Fries, and a small Cappuccino. No modifications needed for the Cappuccino. How much will that be in total?",2378,3.138723
+7c5a7275-2524-42af-8a7c-f41a1a36418f,The name is Diana Walsh. ,3882,3.992918
+94b95601-6a3b-4c12-b83f-bf946fee8e16,exit,2475,4.689638

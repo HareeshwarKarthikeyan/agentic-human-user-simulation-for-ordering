@@ -1,0 +1,4 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+4a6bceda-cdf1-45e6-b351-e4b6a250a719,"Hey there! I'd like to place an order for a Vegetable Stir Fry with Tofu and Brown Rice, and a small Coca-Cola with light ice. Could you let me know the price for these items? Thanks!",2347,4.197378
+65e4f438-4368-453b-9959-c50a6bee5e6b,"My name is Emily Chen. The order sounds perfect, thank you!",3832,6.369484
+49091719-977c-4c0a-850a-b7595d344e18,exit,2538,3.068008

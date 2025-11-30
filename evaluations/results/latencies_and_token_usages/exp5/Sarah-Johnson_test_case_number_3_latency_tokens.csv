@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+5d366289-e920-48b2-a13f-0a3a9517ed81,Hey there! I'd like to place an order for a Club Sandwich on white bread with potato chips on the side. Can you also tell me the price?,2251,4.017316
+f744ed8d-bd5a-4787-821a-1d203af3bb69,"No, that's it for me. Just the Club Sandwich with white bread and potato chips. Could you please confirm that the order has been placed and let me know the total?",2486,4.681061
+37ea49b4-02cd-4eaa-b66b-cfeab6b715d1,"My name is Sarah Johnson. 
+
+Just to clarify, can you ensure that my Club Sandwich includes the potato chips as a side, at a total price of $15.99?",3655,5.550115
+aa152ef9-f90d-47d6-bd15-ad4a466c4787,exit,2319,3.762629

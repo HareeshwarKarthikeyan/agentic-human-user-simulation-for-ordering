@@ -1,0 +1,11 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+493da286-8944-4539-acbb-7b36d01ae4d7,"Hey there! I'm Marcus, and I'm looking to place an order. Can you tell me about your Atlantic Salmon and how it's prepared?",2280,3.583649
+e46894a9-0329-4e1b-a2ad-12268ecb0306,"Hey, thanks for the info! I'd like to go with the Atlantic Salmon, but could I get it grilled instead? ",2500,5.251026
+b7581845-a502-4fdb-ac99-cc256e98a050,"Hey, it's Marcus James. For now, I'm good on the drink and dessert, but could you add a Grilled Chicken Sandwich with a side salad to my order? Thank you! ",2557,2.996168
+9584457e-f44c-466f-8fa3-7cb9d57c7413,"Hey, for the grilled chicken, I don't have any specific temperature in mind, just cooked through is fine. Also, the sandwich is good with the side salad. Oh, and I also want to add a large Fresh Orange Juice to my order. Thanks!",2736,2.893176
+2060409f-e2d6-4c36-be63-4c7b4cb19fda,"It sounds like there's a bit of a mix-up. From the detailed summary, the total should be **$49.97** with the large Fresh Orange Juice included. Could you double-check that for me? Thanks!",2998,4.4051
+918063f3-9945-4395-85ac-4cc69c6d78f5,"Hey, I'm a bit confused here. It seems like there might still be an issue with the total price. The price I calculated for the items I ordered should come to $49.97. Could you please double-check that for me? Thanks!",4691,4.935501
+2b1dfaae-2b49-4965-8144-cffbe9f7c6de,"Hey, I think there might still be a misunderstanding. The total for the Atlantic Salmon, Grilled Chicken Sandwich, and the Large Fresh Orange Juice, including the extra for upgrading the juice to a large size, should really be **$49.97**. Could you double-check the prices, especially for the juice? Thanks for your patience!",5666,3.919788
+6402b954-32ad-4984-9fc5-374be0d92438,"Yeah, let's go ahead and finalize that order. Can you just confirm the whole order one more time and tell me about the protein content for the salmon and chicken, if that's possible? Thanks!",3692,3.002983
+3fe40299-60d8-4f8f-927a-60e969e2bfcd,Everything looks spot on now—perfectly capturing what I wanted! You can go ahead and place the order. Thanks!,3628,0.848112
+ea8893ca-2808-463e-b2db-326828fe1ff3,exit,5625,2.050269

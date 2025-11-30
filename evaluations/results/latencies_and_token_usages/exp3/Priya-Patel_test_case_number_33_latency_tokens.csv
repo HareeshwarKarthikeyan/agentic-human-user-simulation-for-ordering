@@ -1,0 +1,26 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+ae1d69d2-e991-43e1-a4ef-52de6f6144a0,"Hey there! I'm placing an order for my kids' soccer team celebration and need to accommodate some different preferences. Can you help me get this order sorted?
+
+I'd like to start with two Grilled Chicken Sandwiches. Can I have those both with a side of Fruit Cup, please?",3042,2.658879
+4518b4cf-59c7-4cb1-b234-f1c142391ea9,"Hi, it's Priya Patel here. Thanks for confirming the Grilled Chicken Sandwiches with the Fruit Cups. Besides that, I'd also like to add two Fettuccine Alfredo to the order. 
+
+Also, could you provide the total cost for the order? And do you have any bulk ordering discounts?",3484,7.955625
+48b3a654-f09e-432f-bbd8-bf65af1898b2,"Looks like the Grilled Chicken Sandwiches still need to include the Fruit Cups as a side choice. Could you make sure they're added, please? Everything else looks perfect. 
+
+And thank you for pricing it all out—it really helps me plan for the team. Once that adjustment is made, let me know if there's anything else to confirm.",2577,3.630382
+d87e4378-fb93-444d-8910-dde08b2c5d6b,"Great, that sounds perfect. Everything in the order matches exactly what I wanted. I'll go ahead and pay with a card when I come to pick it up. Could you let me know if you offer any bulk ordering discounts, by the way? I'll be there for pickup around 6:30 PM. Thanks a lot!",2323,3.729285
+13c3c930-7492-4201-9a0e-5e019e69b70f,"I think there's been a mix-up. It looks like only two Fettuccine Alfredo have been added to my order so far. Could you please add two Grilled Chicken Sandwiches with Fruit Cups as sides to my order? I'm ordering for my kids' soccer team celebration, so I need to make sure we have everything set. Thank you! ",2319,3.081829
+07274247-9c34-4e18-9f9f-a096cae1dec5,"Thanks for confirming those details! The order is looking perfect with:
+
+- Two Grilled Chicken Sandwiches with Fruit Cups
+- Two Fettuccine Alfredo
+
+The total comes out to $67.96, and yes, I'll be paying with a card for pickup at 6:30 PM.
+
+I'm really looking forward to this celebration for the kids! If everything is good on your end, we're all set. Thank you for your help!",2552,3.869261
+00f71af1-14a2-4b05-b00f-3083a055a939,"It looks like the Grilled Chicken Sandwiches in my order are missing the Fruit Cups as a side. Could you please update the order accordingly? And also, can you confirm the total cost and the exact pickup time once it's sorted? Thanks so much!",2310,4.908909
+0b076829-f401-4d61-9b92-ca15a2df891d,"Hey there, it's Priya Patel. Thanks for going through the order details again. I noticed something's missing from the order—that's the **Two Grilled Chicken Sandwiches with Fruit Cups** as a side. Can you please add those to my order? 
+
+Once that's updated, could you confirm the total again for me? Thanks!",2473,12.237775
+ff84e2fd-264c-438f-a5ae-b6596b376b05,"Everything looks perfect with the order: the two Grilled Chicken Sandwiches with the Fruit Cups, and the two Fettuccine Alfredo. The total is correct at $67.96. We'll pick it up at 6:30 PM and pay with a card. Thanks so much for getting everything sorted. Appreciate your help!",2496,4.790341
+62eff8ff-a67b-438a-83f8-6c37586d32d8,exit,2255,4.431671

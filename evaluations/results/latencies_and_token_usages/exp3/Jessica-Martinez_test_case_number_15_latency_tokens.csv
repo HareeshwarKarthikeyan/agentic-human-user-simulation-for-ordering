@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+eafe3dab-6140-48b5-8447-064f7d0e3272,"Hi there! I'm Jessica Martinez. I'm hoping to order some takeout today. I'm looking to get a small Margherita Pizza and an Apple Pie. Can you help me with that? Also, could you let me know the total price for these items?",2061,2.156464
+10829e42-6bd7-4c88-8643-8f661a911c7f,"Hey there! I'd like to go with a thin crust for the small Margherita Pizza. And as for the Apple Pie, I'll have it plain, thanks—no need for à la mode or whipped cream. Could you let me know the total after these options?",3448,3.594493
+48fc0bf2-3438-49e8-ae6b-3736989d7e5c,"Hi, it's Jessica Martinez. I'll pass on the drinks, thanks! Could you also make sure the Margherita Pizza is a small size with a thin crust? That should be it for now! ",2239,3.380928
+59c656fd-2784-43fd-b4a6-1c19d8662d97,exit,2196,3.449544

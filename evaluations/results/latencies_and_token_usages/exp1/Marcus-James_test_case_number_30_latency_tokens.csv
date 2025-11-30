@@ -1,0 +1,6 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+3931ece2-9501-4e05-bd08-60b7399900a7,"Hi there! I’d like to place an order, please. I want two Classic Burgers, cooked medium with lettuce wraps instead of buns and a side salad with each. Also, I’d like one Vegetable Stir Fry, but with cauliflower rice. Can you confirm that for me?",1244,1.734712839126587
+341bc70c-b46b-471e-ad27-e21010e5338e,"No, just those items will be fine. Can you confirm the price for that?",1343,0.9239368438720703
+d0139e26-87a0-4cb9-83d0-600f185f14de,"Actually, I believe the total should be $49.97. It includes the two Classic Burgers with side salads and the Vegetable Stir Fry with cauliflower rice. Can you confirm that price?",1504,1.22825288772583
+15e93806-c413-4a55-9f5c-fb7b0c75f57e,"Yes, the name for the order is Marcus James.",1694,0.7395992279052734
+563ce07f-213e-4642-8233-42fd8ee8b9a6,exit,1811,0.5534329414367676

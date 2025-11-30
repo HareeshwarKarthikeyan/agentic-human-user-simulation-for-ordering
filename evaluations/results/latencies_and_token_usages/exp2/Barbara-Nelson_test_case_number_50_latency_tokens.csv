@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+586003ad-e90c-4136-9ea0-b5cf9f5bf87f,"Hi there! I'm calling to place an order for a Ribeye Steak cooked medium, with Bérnaise sauce and a Loaded Baked Potato. I'd also like an Atlantic Salmon, blackened, with a side of Quinoa, and a New York Cheesecake topped with Caramel Sauce. Can you confirm if these items are available?",2342,1.075301
+dcb46aae-e69b-44a5-ba64-873c1d0bb4be,"Hi, this is Barbara Nelson. Thanks for confirming the order details and the total. I appreciate it! I don't need to add any drinks or extra items at this moment. Can we finalize the order at $88.47, please?",3118,1.165007
+47655530-66a4-4619-9fc2-b761f337f02e,"Yes, my name is Barbara Nelson. The order sounds perfect! Thank you for confirming, and I'll see you for pickup in 20 minutes. Have a great day!",3034,0.84598
+67bc7413-6b8d-4ca7-a5fd-6cce4e9383d6,exit,3084,0.709734

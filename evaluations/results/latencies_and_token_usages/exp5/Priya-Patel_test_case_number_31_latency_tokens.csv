@@ -1,0 +1,11 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+f1a058db-502f-4931-a963-e1ed5d64202f,"Hi there! I'm planning a little celebration for my kids' soccer team and looking to place an order. Could you help me with that? I'm thinking of ordering three Kids Chicken Tenders with honey mustard, French fries, and apple juice for each. Plus, I’d like a large Margherita Pizza. And by the way, do you offer any bulk ordering discounts?",2377,4.134331
+f00f151a-4480-44cc-9209-73cf3aa091de,"Great! It's Priya Patel ordering the three Kids Chicken Tenders with honey mustard, all with French fries and apple juice, and one large Margherita Pizza. Could you confirm the total cost for me, please?",4115,6.959706
+dcf6f76e-eee2-42e9-bdb5-83db1edc90ae,"Looks like we missed a few details on the order. Could you please add Honey Mustard Sauce, French Fries, and Apple Juice as modifiers for each of the Kids Chicken Tenders? Also, can you confirm that the Margherita Pizza is a Large 18""? That should complete the order perfectly!",2616,3.676608
+6bf9763a-45e3-4dc8-b28f-9473e4f8d69c,"Hey, thanks for confirming those two items! Just a quick correction, though — it looks like the Margherita Pizza should actually be a large 18-inch one, which brings it to $24.99. Could you update that to match?
+
+And while we're at it, could you let me know if there are any bulk discounts? Just checking since I'm ordering for a kids' soccer team celebration. Thanks!",2813,3.911811
+e7ff1f93-b172-4ee3-909a-5b2699ca5ad6,"Great, thanks for updating the total! That sounds perfect, and I appreciate the clarification on the discount too. The name for the order is Priya Patel.
+
+I'll stick to what I have, so no additional drinks or desserts needed. Thanks so much for your help!",4123,5.643511
+cb26f4fa-f0ba-4982-8892-3d371faaa62b,exit,4002,8.204838

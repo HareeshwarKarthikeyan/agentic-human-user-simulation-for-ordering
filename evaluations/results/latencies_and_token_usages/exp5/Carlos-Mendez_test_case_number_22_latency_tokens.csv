@@ -1,0 +1,12 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+9a790b46-632f-4ba6-99c5-0685b19a44c4,"Hey there! I'm looking to order a Filet Mignon. Could you tell me a bit more about how it's prepared, and if there are any modifications or sauces available?",2363,4.087904
+cd112e49-f39d-436c-9557-fff2c64976c6,"Great, I’d love to go with the Filet Mignon, please. I'd like it cooked to **Rare** and with the **Red Wine Reduction** sauce. Could you also tell me about any interesting add-ons for this dish?",2552,2.792239
+5ea04c74-8fe8-40ec-9ad9-e365eb38715a,"Oh, I think I'd like to add the Blue Cheese Crust to the Filet Mignon. That should bring out a rich contrast with the Red Wine Reduction. 
+
+And can you also add a Lobster Tail, prepared grilled with a bit of extra butter? I'm curious how the flavors mingle!
+
+What's the price for this so far?",2697,4.741878
+86633226-5602-43ff-8af6-6d74cab00509,"Hey there! The order sounds just perfect, thanks for going through it. Oh, and my name's Carlos Mendez. 
+
+As for adding anything else, nah, I think I'm good with what I have right now. Could you just confirm that everything is set for my current order?",4472,6.449258
+009a574d-3ecf-4113-9c92-0f1ee275c537,exit,3763,5.018324

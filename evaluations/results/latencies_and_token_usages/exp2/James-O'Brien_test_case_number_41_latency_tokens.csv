@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+f9619564-e761-46b7-b7e4-b05ad960df50,"Hey there! I'm James. I'm calling to place an order for my crew. We need some large quantities to keep everyone fed after a long day. Let me order three full racks of Baby Back Ribs and three Grilled Chicken Sandwiches, both coming with French Fries. Can you confirm that and provide the pricing for these?",2138,1.012249
+66011b0d-ac02-462b-90ba-f48a5a571594,Thanks for breaking it down for me! The total looks good at $131.94. I think we'll just stick with what we've got—no drinks or desserts today. Can you confirm that the order is good to go?,2653,0.681119
+16a86d81-b237-463f-8641-e896fc0bd160,"Sure thing, my name is James O'Brien. And thanks for confirming the order. Looking forward to picking it up in about 20 minutes!",2601,0.611924
+f14f64ac-15cd-4937-8d98-22ae4bb1f3cb,exit,2681,0.7596

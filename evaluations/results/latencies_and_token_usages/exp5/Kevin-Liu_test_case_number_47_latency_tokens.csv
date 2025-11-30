@@ -1,0 +1,7 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+35848189-8ce2-4e96-ae5c-1078e1a32763,"Hey there! I'd like to order some Buffalo Wings, please. Could you let me know the price and confirm the order? Thanks!",2197,4.485547
+be80b4e3-3ab3-4914-b2da-d419a431bfd3,"I'll take the Buffalo Wings with Honey Garlic sauce. Just the regular portion, please.",2252,2.99294
+6da53ed3-9d5c-4302-9981-df7cf36acf3c,My name is Kevin Liu. Thanks for confirming!,3543,3.992854
+55b4c051-0071-4761-96f2-d1ec2596fcbe,It looks like there's a small mistake in the order. The Buffalo Wings should not have the Honey Garlic sauce modifier. Could you make sure it's just the Buffalo Wings with no sauce? Thanks!,2335,4.048504
+19e13774-2967-4fef-882e-f4f55fe52f99,"Actually, could you make that order of Buffalo Wings with the regular sauce as originally planned? And yes, picking up in 20 minutes sounds perfect.",2339,2.899926
+aafe905a-3f57-45b7-bc9a-2cffb2a06338,exit,2344,3.377458

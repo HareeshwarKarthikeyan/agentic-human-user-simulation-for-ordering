@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+0cd015e0-f6ca-49a9-916f-399fc14f1593,"Hi there! I'd like to order the Fish and Chips, please. Just one order. ",1035,2.4798779487609863
+280e3c49-cf77-44ec-9090-1caf20442d64,"No, just the regular Fish and Chips is fine for me, thanks. Just one order. What’s the price on that?",1123,2.4430389404296875
+4744394d-2bf2-4b74-baa9-58cfad13f854,It's Robert Kim.,1189,2.0806870460510254
+01e9731b-ccea-4b8a-9239-7e5d2523a196,exit,1280,1.8108232021331787

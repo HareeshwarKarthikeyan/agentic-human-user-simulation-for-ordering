@@ -1,0 +1,5 @@
+message_id,guest_message,total_tokens,total_latency_seconds
+6a6b0da8-a45a-4d4a-b15f-2299e6b43829,"Hi there! This is Amanda Foster. I'm looking to place an order for my team lunch. Can I get three Classic Burgers cooked medium, each with French fries? Also, I'd like to order two Caesar Salads with grilled chicken. Could you help with that?",2186,1.389397
+aaef6179-a4ce-4dd2-a9e5-75d5d3b5cd35,"No, drinks or desserts won't be necessary for today. Just the burgers and salads, thanks! Can you confirm the total price and delivery time, please?",2366,0.64048
+79a00057-8f03-4d7a-9c28-eb9315489429,"Yes, that all sounds perfect! My contact number is 123-456-7890. Thanks so much for taking care of this. Looking forward to picking it up in about 20 minutes!",2778,0.734916
+175d9e06-e7fa-488c-b197-393787b008ec,exit,2742,0.819053
