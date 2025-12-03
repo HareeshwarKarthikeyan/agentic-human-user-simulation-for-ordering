@@ -153,10 +153,11 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @inproceedings{agentic-persona-2025,
-  title={Agentic Persona Control and Task State Tracking for Realistic User Simulation in Interactive Scenarios},
-  author={[Authors]},
-  booktitle={Workshop on Scaling Environments for Agents},
-  year={2025}
+  title     = {Agentic Persona Control and Task State Tracking for Realistic User Simulation in Interactive Scenarios},
+  author    = {Hareeshwar Karthikeyan},
+  booktitle = {Proceedings of the Workshop on Scaling Environments for Agents (SEA) at NeurIPS 2025},
+  year      = {2025},
+  url       = {https://openreview.net/forum?id=WRfrk9o5k1}
 }
 ```
 
