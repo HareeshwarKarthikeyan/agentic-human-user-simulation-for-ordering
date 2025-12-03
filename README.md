@@ -155,7 +155,7 @@ If you use this code in your research, please cite:
 @inproceedings{agentic-persona-2025,
   title     = {Agentic Persona Control and Task State Tracking for Realistic User Simulation in Interactive Scenarios},
   author    = {Hareeshwar Karthikeyan},
-  booktitle = {Proceedings of 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Scaling Environments},
+  booktitle = {Proceedings of 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Scaling Environments for Agents (SEA)},
   year      = {2025},
   url       = {https://openreview.net/forum?id=WRfrk9o5k1}
 }
